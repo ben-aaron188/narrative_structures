@@ -1,0 +1,652 @@
+1
+00:00:00,000 --> 00:00:01,650
+good morning John<font color="#CCCCCC"> President</font><font color="#E5E5E5"> Trump</font>
+
+2
+00:00:01,650 --> 00:00:03,030
+suggested<font color="#E5E5E5"> a budget to the American</font>
+
+3
+00:00:03,030 --> 00:00:04,560
+people yesterday<font color="#E5E5E5"> let's try and</font>
+
+4
+00:00:04,560 --> 00:00:05,970
+understand<font color="#E5E5E5"> that budget quickly and</font>
+
+5
+00:00:05,970 --> 00:00:08,220
+<font color="#CCCCCC">simply first there are a bunch of</font>
+
+6
+00:00:08,220 --> 00:00:09,870
+<font color="#E5E5E5">programs like Medicare Medicaid</font>
+
+7
+00:00:09,870 --> 00:00:11,550
+unemployment in Social<font color="#CCCCCC"> Security that</font>
+
+8
+00:00:11,550 --> 00:00:13,469
+<font color="#E5E5E5">would require much</font><font color="#CCCCCC"> more work</font><font color="#E5E5E5"> to change</font>
+
+9
+00:00:13,469 --> 00:00:15,599
+and those are left untouched<font color="#CCCCCC"> those</font>
+
+10
+00:00:15,599 --> 00:00:16,859
+things and<font color="#E5E5E5"> some other stuff called</font>
+
+11
+00:00:16,859 --> 00:00:19,380
+<font color="#E5E5E5">mandatory spending takes up</font><font color="#CCCCCC"> 73% of</font><font color="#E5E5E5"> the</font>
+
+12
+00:00:19,380 --> 00:00:21,750
+<font color="#E5E5E5">US budget these clocks here represent</font>
+
+13
+00:00:21,750 --> 00:00:23,340
+the 1 trillion<font color="#CCCCCC"> sixty four billion</font>
+
+14
+00:00:23,340 --> 00:00:25,350
+<font color="#E5E5E5">dollars that is discretionary spending</font>
+
+15
+00:00:25,350 --> 00:00:27,090
+in the<font color="#CCCCCC"> US</font><font color="#E5E5E5"> every block</font><font color="#CCCCCC"> is a</font><font color="#E5E5E5"> billion</font>
+
+16
+00:00:27,090 --> 00:00:29,039
+dollars so there's<font color="#E5E5E5"> one thousand sixty</font>
+
+17
+00:00:29,039 --> 00:00:30,960
+<font color="#E5E5E5">four blocks on this page</font><font color="#CCCCCC"> let's</font><font color="#E5E5E5"> look at</font>
+
+18
+00:00:30,960 --> 00:00:32,668
+how things stand<font color="#CCCCCC"> today keeping</font><font color="#E5E5E5"> in mind</font>
+
+19
+00:00:32,668 --> 00:00:34,410
+that<font color="#E5E5E5"> this is</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> 27 percent</font><font color="#E5E5E5"> of the</font>
+
+20
+00:00:34,410 --> 00:00:36,510
+budget<font color="#CCCCCC"> that</font><font color="#E5E5E5"> is discretionary about five</font>
+
+21
+00:00:36,510 --> 00:00:38,190
+<font color="#E5E5E5">hundred</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> ninety blocks are the</font>
+
+22
+00:00:38,190 --> 00:00:40,350
+<font color="#E5E5E5">military more than half the total Health</font>
+
+23
+00:00:40,350 --> 00:00:42,480
+and Human Services<font color="#E5E5E5"> is</font><font color="#CCCCCC"> 84 blocks</font>
+
+24
+00:00:42,480 --> 00:00:45,390
+Veterans Affairs<font color="#E5E5E5"> is another 75 education</font>
+
+25
+00:00:45,390 --> 00:00:46,920
+<font color="#CCCCCC">sixty-eight blocks Housing and Urban</font>
+
+26
+00:00:46,920 --> 00:00:49,140
+Development 47<font color="#E5E5E5"> homeland security 41</font>
+
+27
+00:00:49,140 --> 00:00:50,640
+<font color="#E5E5E5">State Department of</font><font color="#CCCCCC"> International</font><font color="#E5E5E5"> AIDS</font>
+
+28
+00:00:50,640 --> 00:00:54,329
+<font color="#E5E5E5">38 energy 30 agriculture 23 blocks NASA</font>
+
+29
+00:00:54,329 --> 00:00:57,899
+<font color="#E5E5E5">20 transportation 18 labor 12 Treasury</font>
+
+30
+00:00:57,899 --> 00:00:59,430
+which is like the IRS<font color="#E5E5E5"> and some other</font>
+
+31
+00:00:59,430 --> 00:01:02,129
+stuff 12 blocks<font color="#E5E5E5"> commerce</font><font color="#CCCCCC"> 9 blocks the</font>
+
+32
+00:01:02,129 --> 00:01:04,290
+<font color="#CCCCCC">EPA is 8</font><font color="#E5E5E5"> blocks the Corporation for</font>
+
+33
+00:01:04,290 --> 00:01:06,510
+<font color="#CCCCCC">Public</font><font color="#E5E5E5"> Broadcasting</font><font color="#CCCCCC"> half a block and a</font>
+
+34
+00:01:06,510 --> 00:01:08,130
+bunch of other tiny stuff that adds<font color="#E5E5E5"> up a</font>
+
+35
+00:01:08,130 --> 00:01:09,840
+little bit<font color="#E5E5E5"> so keeping in mind that this</font>
+
+36
+00:01:09,840 --> 00:01:11,340
+<font color="#E5E5E5">is a suggested budget</font><font color="#CCCCCC"> that will change a</font>
+
+37
+00:01:11,340 --> 00:01:12,840
+great deal<font color="#CCCCCC"> as</font><font color="#E5E5E5"> it is turned into law by</font>
+
+38
+00:01:12,840 --> 00:01:14,790
+Congress<font color="#E5E5E5"> what do we see changing the</font>
+
+39
+00:01:14,790 --> 00:01:16,500
+Trump budget increases<font color="#E5E5E5"> the military by</font>
+
+40
+00:01:16,500 --> 00:01:19,380
+52 blocks a<font color="#CCCCCC"> 10 percent increase</font><font color="#E5E5E5"> enough</font>
+
+41
+00:01:19,380 --> 00:01:21,360
+to pay<font color="#CCCCCC"> for</font><font color="#E5E5E5"> the entire current budgets of</font>
+
+42
+00:01:21,360 --> 00:01:22,770
+the EPA the Corporation<font color="#CCCCCC"> for Public</font>
+
+43
+00:01:22,770 --> 00:01:24,390
+Broadcasting<font color="#E5E5E5"> the Transportation</font>
+
+44
+00:01:24,390 --> 00:01:26,700
+Department<font color="#E5E5E5"> and NASA</font><font color="#CCCCCC"> with some leftover</font>
+
+45
+00:01:26,700 --> 00:01:28,350
+<font color="#E5E5E5">that money is slated</font><font color="#CCCCCC"> to increase the</font>
+
+46
+00:01:28,350 --> 00:01:29,579
+number of<font color="#E5E5E5"> people serving in the Army and</font>
+
+47
+00:01:29,579 --> 00:01:30,930
+<font color="#E5E5E5">the Marines and increase the number of</font>
+
+48
+00:01:30,930 --> 00:01:33,119
+jet<font color="#E5E5E5"> fighters and warships we have and</font>
+
+49
+00:01:33,119 --> 00:01:35,220
+broadly to quote accelerate the war
+
+50
+00:01:35,220 --> 00:01:37,500
+against Isis<font color="#E5E5E5"> four and a half blocks go</font>
+
+51
+00:01:37,500 --> 00:01:39,240
+to Veterans Affairs<font color="#CCCCCC"> earmarks</font><font color="#E5E5E5"> for health</font>
+
+52
+00:01:39,240 --> 00:01:41,250
+care programs<font color="#CCCCCC"> also increasing by about</font>
+
+53
+00:01:41,250 --> 00:01:42,990
+<font color="#E5E5E5">three blocks as Homeland Security which</font>
+
+54
+00:01:42,990 --> 00:01:44,610
+will be<font color="#E5E5E5"> dedicated largely to border</font>
+
+55
+00:01:44,610 --> 00:01:46,770
+control a full block and a<font color="#CCCCCC"> half going</font><font color="#E5E5E5"> to</font>
+
+56
+00:01:46,770 --> 00:01:48,299
+detention<font color="#E5E5E5"> and removal of undocumented</font>
+
+57
+00:01:48,299 --> 00:01:50,700
+immigrants<font color="#CCCCCC"> 2 and a</font><font color="#E5E5E5"> half blocks</font><font color="#CCCCCC"> going</font><font color="#E5E5E5"> to</font>
+
+58
+00:01:50,700 --> 00:01:51,990
+the down payment to build a big
+
+59
+00:01:51,990 --> 00:01:53,369
+<font color="#E5E5E5">beautiful wall</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> might have noticed</font>
+
+60
+00:01:53,369 --> 00:01:54,750
+that<font color="#E5E5E5"> that added up to more</font><font color="#CCCCCC"> than 3</font><font color="#E5E5E5"> blocks</font>
+
+61
+00:01:54,750 --> 00:01:56,640
+there are also some cuts within<font color="#E5E5E5"> Homeland</font>
+
+62
+00:01:56,640 --> 00:01:57,299
+<font color="#E5E5E5">Security</font>
+
+63
+00:01:57,299 --> 00:01:59,369
+mostly counterterrorism stuff and that's
+
+64
+00:01:59,369 --> 00:02:00,960
+it pretty increases<font color="#CCCCCC"> now let's go through</font>
+
+65
+00:02:00,960 --> 00:02:02,939
+<font color="#CCCCCC">how those things are paid for without</font>
+
+66
+00:02:02,939 --> 00:02:04,979
+dramatically increasing the budget<font color="#CCCCCC"> 13</font>
+
+67
+00:02:04,979 --> 00:02:06,570
+blocks<font color="#E5E5E5"> are going</font><font color="#CCCCCC"> to come</font><font color="#E5E5E5"> out</font><font color="#CCCCCC"> of Health</font>
+
+68
+00:02:06,570 --> 00:02:08,128
+and Human Services including<font color="#E5E5E5"> the</font>
+
+69
+00:02:08,128 --> 00:02:09,628
+low-income Home Energy Assistance
+
+70
+00:02:09,628 --> 00:02:11,819
+<font color="#E5E5E5">Program which basically helps poor</font>
+
+71
+00:02:11,819 --> 00:02:13,099
+people stay warm<font color="#E5E5E5"> in</font><font color="#CCCCCC"> the winter</font>
+
+72
+00:02:13,099 --> 00:02:14,870
+but it also includes cutting<font color="#E5E5E5"> six blocks</font>
+
+73
+00:02:14,870 --> 00:02:16,340
+out of<font color="#CCCCCC"> the National Institutes of Health</font>
+
+74
+00:02:16,340 --> 00:02:18,200
+<font color="#CCCCCC">for biomedical research one of</font><font color="#E5E5E5"> the</font>
+
+75
+00:02:18,200 --> 00:02:20,150
+largest sources<font color="#E5E5E5"> of research</font><font color="#CCCCCC"> funding in</font>
+
+76
+00:02:20,150 --> 00:02:22,159
+the world<font color="#CCCCCC"> eleven blocks are to be</font>
+
+77
+00:02:22,159 --> 00:02:23,719
+<font color="#E5E5E5">eliminated from the State Department</font>
+
+78
+00:02:23,719 --> 00:02:25,370
+international aid would<font color="#E5E5E5"> be largely gone</font>
+
+79
+00:02:25,370 --> 00:02:27,109
+climate change initiatives at<font color="#CCCCCC"> the UN</font>
+
+80
+00:02:27,109 --> 00:02:28,760
+would lose all<font color="#E5E5E5"> their funding and</font><font color="#CCCCCC"> u.s.</font>
+
+81
+00:02:28,760 --> 00:02:30,500
+contributions to UN peacekeeping<font color="#CCCCCC"> would</font>
+
+82
+00:02:30,500 --> 00:02:32,120
+be reduced<font color="#E5E5E5"> the Department of Education</font>
+
+83
+00:02:32,120 --> 00:02:33,560
+loses more<font color="#CCCCCC"> than nine blocks which will</font>
+
+84
+00:02:33,560 --> 00:02:35,180
+eliminate college scholarship programs
+
+85
+00:02:35,180 --> 00:02:37,040
+for the poor<font color="#CCCCCC"> federal work-study programs</font>
+
+86
+00:02:37,040 --> 00:02:38,840
+and before<font color="#CCCCCC"> and after school programs</font><font color="#E5E5E5"> for</font>
+
+87
+00:02:38,840 --> 00:02:41,269
+<font color="#E5E5E5">low-income</font><font color="#CCCCCC"> kids</font><font color="#E5E5E5"> an increase of 1.5</font>
+
+88
+00:02:41,269 --> 00:02:42,889
+billion dollars<font color="#E5E5E5"> within education would</font>
+
+89
+00:02:42,889 --> 00:02:44,450
+go to a private<font color="#CCCCCC"> school voucher program</font>
+
+90
+00:02:44,450 --> 00:02:46,549
+<font color="#E5E5E5">almost</font><font color="#CCCCCC"> 5</font><font color="#E5E5E5"> lakhs come out of a bunch of</font>
+
+91
+00:02:46,549 --> 00:02:47,810
+<font color="#E5E5E5">different</font><font color="#CCCCCC"> programs</font><font color="#E5E5E5"> into the Department</font>
+
+92
+00:02:47,810 --> 00:02:49,459
+of<font color="#E5E5E5"> Agriculture including</font><font color="#CCCCCC"> international</font>
+
+93
+00:02:49,459 --> 00:02:51,019
+food aid rural development<font color="#CCCCCC"> and</font>
+
+94
+00:02:51,019 --> 00:02:52,639
+conservation<font color="#E5E5E5"> funding more than four</font>
+
+95
+00:02:52,639 --> 00:02:54,349
+blocks are eliminated<font color="#CCCCCC"> from</font><font color="#E5E5E5"> Housing and</font>
+
+96
+00:02:54,349 --> 00:02:55,879
+<font color="#E5E5E5">Urban Development which includes funding</font>
+
+97
+00:02:55,879 --> 00:02:57,439
+for meals<font color="#E5E5E5"> on wheels affordable housing</font>
+
+98
+00:02:57,439 --> 00:03:00,109
+and anti-poverty programs 2.5<font color="#CCCCCC"> locks come</font>
+
+99
+00:03:00,109 --> 00:03:02,540
+out of the<font color="#E5E5E5"> EPA a total of 30</font><font color="#CCCCCC"> percent of</font>
+
+100
+00:03:02,540 --> 00:03:04,909
+<font color="#E5E5E5">its budget the hardest hit</font><font color="#CCCCCC"> of any agency</font>
+
+101
+00:03:04,909 --> 00:03:07,609
+by percent<font color="#E5E5E5"> 3,200 jobs and 50 agencies</font>
+
+102
+00:03:07,609 --> 00:03:09,199
+would go as<font color="#E5E5E5"> well as funding for the</font>
+
+103
+00:03:09,199 --> 00:03:11,150
+clean power plan<font color="#E5E5E5"> regulations designed</font><font color="#CCCCCC"> to</font>
+
+104
+00:03:11,150 --> 00:03:12,739
+curb greenhouse gas emissions<font color="#CCCCCC"> two and a</font>
+
+105
+00:03:12,739 --> 00:03:13,969
+<font color="#CCCCCC">half blocks</font><font color="#E5E5E5"> come out of the Labor</font>
+
+106
+00:03:13,969 --> 00:03:15,859
+<font color="#E5E5E5">Department mostly by eliminating job</font>
+
+107
+00:03:15,859 --> 00:03:17,959
+programs for seniors poor young<font color="#E5E5E5"> people</font>
+
+108
+00:03:17,959 --> 00:03:20,269
+and the unemployed<font color="#CCCCCC"> 1.7 billion is taken</font>
+
+109
+00:03:20,269 --> 00:03:22,340
+out of the Department<font color="#CCCCCC"> of</font><font color="#E5E5E5"> Energy the 1.4</font>
+
+110
+00:03:22,340 --> 00:03:23,840
+billion dollars of do a funding will
+
+111
+00:03:23,840 --> 00:03:26,060
+also<font color="#CCCCCC"> be moved</font><font color="#E5E5E5"> internally and put toward</font>
+
+112
+00:03:26,060 --> 00:03:27,620
+increasing management of our nuclear
+
+113
+00:03:27,620 --> 00:03:29,780
+weapons<font color="#CCCCCC"> arsenal</font><font color="#E5E5E5"> decreases come out of</font>
+
+114
+00:03:29,780 --> 00:03:31,220
+programs<font color="#E5E5E5"> supporting development of</font>
+
+115
+00:03:31,220 --> 00:03:32,509
+advanced and future clean<font color="#CCCCCC"> energy</font>
+
+116
+00:03:32,509 --> 00:03:33,829
+technology<font color="#CCCCCC"> the Department of</font><font color="#E5E5E5"> the</font>
+
+117
+00:03:33,829 --> 00:03:35,120
+Interior<font color="#CCCCCC"> loses a block</font><font color="#E5E5E5"> and a half</font>
+
+118
+00:03:35,120 --> 00:03:37,189
+<font color="#E5E5E5">funding that supports wildlife refuges</font>
+
+119
+00:03:37,189 --> 00:03:38,900
+and<font color="#E5E5E5"> national heritage areas and the</font>
+
+120
+00:03:38,900 --> 00:03:40,579
+<font color="#E5E5E5">acquisition of new federally protected</font>
+
+121
+00:03:40,579 --> 00:03:42,500
+land<font color="#E5E5E5"> one block comes out of a</font><font color="#CCCCCC"> Department</font>
+
+122
+00:03:42,500 --> 00:03:44,419
+of<font color="#CCCCCC"> Justice mostly because of</font><font color="#E5E5E5"> decreasing</font>
+
+123
+00:03:44,419 --> 00:03:45,949
+prison populations which is actually
+
+124
+00:03:45,949 --> 00:03:47,930
+good news<font color="#CCCCCC"> all around and NASA gets a</font>
+
+125
+00:03:47,930 --> 00:03:49,669
+small cut which<font color="#E5E5E5"> comes almost entirely</font>
+
+126
+00:03:49,669 --> 00:03:51,290
+out<font color="#CCCCCC"> of</font><font color="#E5E5E5"> the parts</font><font color="#CCCCCC"> that study the Earth's</font>
+
+127
+00:03:51,290 --> 00:03:54,199
+climate<font color="#CCCCCC"> oh what's</font><font color="#E5E5E5"> that little block over</font>
+
+128
+00:03:54,199 --> 00:03:55,250
+there<font color="#E5E5E5"> that's</font><font color="#CCCCCC"> probably not important</font>
+
+129
+00:03:55,250 --> 00:03:56,959
+right<font color="#E5E5E5"> just one block that contains oh</font>
+
+130
+00:03:56,959 --> 00:03:58,519
+yeah the<font color="#E5E5E5"> entire National Endowment for</font>
+
+131
+00:03:58,519 --> 00:03:59,930
+the Arts the<font color="#E5E5E5"> National Endowment</font><font color="#CCCCCC"> for the</font>
+
+132
+00:03:59,930 --> 00:04:01,699
+Humanities<font color="#CCCCCC"> the Institute of</font><font color="#E5E5E5"> Museum</font><font color="#CCCCCC"> and</font>
+
+133
+00:04:01,699 --> 00:04:03,590
+Library Services and the entire budget
+
+134
+00:04:03,590 --> 00:04:04,669
+<font color="#E5E5E5">for</font><font color="#CCCCCC"> the Corporation for Public</font>
+
+135
+00:04:04,669 --> 00:04:06,680
+Broadcasting<font color="#CCCCCC"> which supports public TV</font>
+
+136
+00:04:06,680 --> 00:04:08,629
+<font color="#E5E5E5">and radio</font><font color="#CCCCCC"> all those things</font><font color="#E5E5E5"> all</font><font color="#CCCCCC"> together</font>
+
+137
+00:04:08,629 --> 00:04:10,699
+one block under Trump's budget they
+
+138
+00:04:10,699 --> 00:04:13,039
+don't<font color="#E5E5E5"> exist anymore</font><font color="#CCCCCC"> that is basically</font>
+
+139
+00:04:13,039 --> 00:04:14,599
+very<font color="#E5E5E5"> basically because there are</font>
+
+140
+00:04:14,599 --> 00:04:16,159
+thousands of programs within<font color="#E5E5E5"> these</font>
+
+141
+00:04:16,159 --> 00:04:17,870
+departments<font color="#E5E5E5"> and knowing which ones do</font>
+
+142
+00:04:17,870 --> 00:04:19,639
+what is not<font color="#E5E5E5"> going to fit into a fun</font>
+
+143
+00:04:19,639 --> 00:04:21,978
+little<font color="#E5E5E5"> youtube video but</font><font color="#CCCCCC"> basically</font><font color="#E5E5E5"> what</font>
+
+144
+00:04:21,978 --> 00:04:24,560
+<font color="#E5E5E5">this budget asks for and now it goes off</font>
+
+145
+00:04:24,560 --> 00:04:26,360
+to<font color="#CCCCCC"> the</font><font color="#E5E5E5"> House and Senate</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> get argued</font>
+
+146
+00:04:26,360 --> 00:04:26,700
+about
+
+147
+00:04:26,700 --> 00:04:29,250
+tirelessly<font color="#E5E5E5"> there is a lot in here</font><font color="#CCCCCC"> that</font>
+
+148
+00:04:29,250 --> 00:04:31,590
+many or<font color="#E5E5E5"> even most think is worth</font>
+
+149
+00:04:31,590 --> 00:04:33,510
+fighting<font color="#CCCCCC"> for</font><font color="#E5E5E5"> an enormous amount</font><font color="#CCCCCC"> of lost</font>
+
+150
+00:04:33,510 --> 00:04:35,310
+<font color="#E5E5E5">funding for scientific research both in</font>
+
+151
+00:04:35,310 --> 00:04:37,770
+clean<font color="#CCCCCC"> energy</font><font color="#E5E5E5"> and medicine a lot of lost</font>
+
+152
+00:04:37,770 --> 00:04:39,570
+funding for resources<font color="#E5E5E5"> for</font><font color="#CCCCCC"> the elderly</font>
+
+153
+00:04:39,570 --> 00:04:41,640
+and<font color="#E5E5E5"> disadvantaged populations</font><font color="#CCCCCC"> an almost</font>
+
+154
+00:04:41,640 --> 00:04:43,860
+wholesale elimination of international
+
+155
+00:04:43,860 --> 00:04:45,720
+aid<font color="#CCCCCC"> and pretty much anything to do with</font>
+
+156
+00:04:45,720 --> 00:04:48,120
+<font color="#CCCCCC">climate science is just gone in reality</font>
+
+157
+00:04:48,120 --> 00:04:49,890
+<font color="#CCCCCC">Congress is going to have huge problems</font>
+
+158
+00:04:49,890 --> 00:04:52,170
+<font color="#E5E5E5">with this budget and if Trump's tax cuts</font>
+
+159
+00:04:52,170 --> 00:04:54,030
+are taken<font color="#E5E5E5"> seriously even with these</font>
+
+160
+00:04:54,030 --> 00:04:56,040
+budget<font color="#CCCCCC"> cuts it will be an</font><font color="#E5E5E5"> extremely</font>
+
+161
+00:04:56,040 --> 00:04:58,380
+unbalanced budget<font color="#CCCCCC"> that's all I got I</font>
+
+162
+00:04:58,380 --> 00:05:00,900
+counted to a thousand a lot<font color="#E5E5E5"> today John</font>
+
+163
+00:05:00,900 --> 00:00:00,000
+I'll see you<font color="#E5E5E5"> on</font><font color="#CCCCCC"> Tuesday</font>
+
