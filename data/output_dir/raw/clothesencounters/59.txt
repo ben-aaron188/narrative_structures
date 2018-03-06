@@ -1,0 +1,652 @@
+1
+00:00:01,330 --> 00:00:04,640
+[Music]
+
+2
+00:00:04,640 --> 00:00:07,020
+what's up everyone it's your girl<font color="#E5E5E5"> Jen</font>
+
+3
+00:00:07,020 --> 00:00:09,450
+and today I'll be showing<font color="#CCCCCC"> you</font><font color="#E5E5E5"> how I edit</font>
+
+4
+00:00:09,450 --> 00:00:12,059
+<font color="#CCCCCC">my YouTube videos I've been creating</font>
+
+5
+00:00:12,059 --> 00:00:14,340
+videos<font color="#E5E5E5"> for</font><font color="#CCCCCC"> a number</font><font color="#E5E5E5"> of years now</font><font color="#CCCCCC"> and I</font>
+
+6
+00:00:14,340 --> 00:00:16,350
+thought that today<font color="#CCCCCC"> I</font><font color="#E5E5E5"> would just kind of</font>
+
+7
+00:00:16,350 --> 00:00:18,510
+guide<font color="#E5E5E5"> you on what</font><font color="#CCCCCC"> goes</font><font color="#E5E5E5"> on in my head</font><font color="#CCCCCC"> as</font>
+
+8
+00:00:18,510 --> 00:00:20,939
+I'm<font color="#CCCCCC"> editing and I know I do like a wide</font>
+
+9
+00:00:20,939 --> 00:00:22,949
+range of videos<font color="#E5E5E5"> but today</font><font color="#CCCCCC"> I thought I</font>
+
+10
+00:00:22,949 --> 00:00:24,960
+<font color="#E5E5E5">would just show you how I do</font><font color="#CCCCCC"> it basic</font>
+
+11
+00:00:24,960 --> 00:00:26,820
+vlogs<font color="#CCCCCC"> that I keep it simple and</font>
+
+12
+00:00:26,820 --> 00:00:28,710
+informational also if you<font color="#E5E5E5"> are not</font>
+
+13
+00:00:28,710 --> 00:00:31,019
+subscribed by now please do button is
+
+14
+00:00:31,019 --> 00:00:32,969
+down below<font color="#CCCCCC"> hit that and become a gem</font>
+
+15
+00:00:32,969 --> 00:00:35,399
+today<font color="#CCCCCC"> alright so with that</font><font color="#E5E5E5"> said let's</font>
+
+16
+00:00:35,399 --> 00:00:36,030
+get<font color="#E5E5E5"> started</font>
+
+17
+00:00:36,030 --> 00:00:39,120
+<font color="#E5E5E5">alrighty</font><font color="#CCCCCC"> so here is my desktop</font><font color="#E5E5E5"> I'm going</font>
+
+18
+00:00:39,120 --> 00:00:41,219
+to open<font color="#E5E5E5"> up Final Cut</font><font color="#CCCCCC"> Pro 10 this is what</font>
+
+19
+00:00:41,219 --> 00:00:42,989
+I've<font color="#CCCCCC"> been</font><font color="#E5E5E5"> using for</font><font color="#CCCCCC"> years now and it's</font>
+
+20
+00:00:42,989 --> 00:00:43,620
+what I like
+
+21
+00:00:43,620 --> 00:00:46,800
+I have already<font color="#CCCCCC"> imported my files and</font><font color="#E5E5E5"> now</font>
+
+22
+00:00:46,800 --> 00:00:49,350
+I'm<font color="#E5E5E5"> going to create a new project</font><font color="#CCCCCC"> this</font>
+
+23
+00:00:49,350 --> 00:00:52,320
+one is called<font color="#CCCCCC"> Jun blog 2017 for now and</font>
+
+24
+00:00:52,320 --> 00:00:53,940
+all my clips are in there and ready to
+
+25
+00:00:53,940 --> 00:00:57,629
+<font color="#E5E5E5">go so my first step is to create a rough</font>
+
+26
+00:00:57,629 --> 00:00:59,820
+cut<font color="#CCCCCC"> I like to make sure</font><font color="#E5E5E5"> that I have all</font>
+
+27
+00:00:59,820 --> 00:01:02,129
+the right<font color="#E5E5E5"> clips in order and have them</font>
+
+28
+00:01:02,129 --> 00:01:04,830
+chronological so I just<font color="#E5E5E5"> drag each clip</font>
+
+29
+00:01:04,830 --> 00:01:06,810
+and bring it<font color="#CCCCCC"> down</font><font color="#E5E5E5"> and I'll start piling</font>
+
+30
+00:01:06,810 --> 00:01:08,640
+them all down where they belong<font color="#E5E5E5"> it just</font>
+
+31
+00:01:08,640 --> 00:01:11,189
+helps me<font color="#E5E5E5"> keep organized and keeps me</font>
+
+32
+00:01:11,189 --> 00:01:12,990
+<font color="#CCCCCC">sane I know some people just</font><font color="#E5E5E5"> like to</font>
+
+33
+00:01:12,990 --> 00:01:15,869
+work<font color="#E5E5E5"> it like little by little I just</font>
+
+34
+00:01:15,869 --> 00:01:18,030
+like to dump it all at once<font color="#E5E5E5"> and trim as</font>
+
+35
+00:01:18,030 --> 00:01:20,009
+I go<font color="#E5E5E5"> once you have established the</font>
+
+36
+00:01:20,009 --> 00:01:21,840
+positioning<font color="#E5E5E5"> I just kind</font><font color="#CCCCCC"> of scrub through</font>
+
+37
+00:01:21,840 --> 00:01:23,520
+the footage<font color="#E5E5E5"> and I try my</font><font color="#CCCCCC"> best</font><font color="#E5E5E5"> to get rid</font>
+
+38
+00:01:23,520 --> 00:01:26,490
+<font color="#CCCCCC">of any</font><font color="#E5E5E5"> lumps or gaps like in this clip</font>
+
+39
+00:01:26,490 --> 00:01:28,200
+I'm just rambling so I'm just<font color="#E5E5E5"> using the</font>
+
+40
+00:01:28,200 --> 00:01:29,430
+<font color="#E5E5E5">blade tool and I'm just</font><font color="#CCCCCC"> going to cut</font>
+
+41
+00:01:29,430 --> 00:01:31,140
+<font color="#E5E5E5">that out no one needed to hear me</font>
+
+42
+00:01:31,140 --> 00:01:32,310
+remember if it<font color="#CCCCCC"> was Tuesday or Wednesday</font>
+
+43
+00:01:32,310 --> 00:01:34,770
+I just have found it best to<font color="#E5E5E5"> keep your</font>
+
+44
+00:01:34,770 --> 00:01:37,020
+<font color="#E5E5E5">dialogue as effective as you can all</font>
+
+45
+00:01:37,020 --> 00:01:39,119
+<font color="#CCCCCC">right so let's talk about</font><font color="#E5E5E5"> transition now</font>
+
+46
+00:01:39,119 --> 00:01:40,799
+when I'm<font color="#CCCCCC"> jumping to one scene to another</font>
+
+47
+00:01:40,799 --> 00:01:43,170
+I'll go into transitions and<font color="#E5E5E5"> then I'll</font>
+
+48
+00:01:43,170 --> 00:01:45,420
+<font color="#E5E5E5">use</font><font color="#CCCCCC"> slide I like to use slide when I'm</font>
+
+49
+00:01:45,420 --> 00:01:47,579
+transitioning<font color="#CCCCCC"> in the same day</font><font color="#E5E5E5"> but when</font>
+
+50
+00:01:47,579 --> 00:01:49,740
+it's a new day<font color="#E5E5E5"> I'll go in with flash</font>
+
+51
+00:01:49,740 --> 00:01:52,470
+which<font color="#E5E5E5"> is in the light section and it</font>
+
+52
+00:01:52,470 --> 00:01:53,880
+<font color="#E5E5E5">will just kind of burst and I'll</font>
+
+53
+00:01:53,880 --> 00:01:55,409
+<font color="#CCCCCC">indicate that it's a new day</font>
+
+54
+00:01:55,409 --> 00:01:57,299
+once all the clips are in place and<font color="#CCCCCC"> I'm</font>
+
+55
+00:01:57,299 --> 00:01:58,979
+happy<font color="#E5E5E5"> with the rough cut I'll just match</font>
+
+56
+00:01:58,979 --> 00:02:00,960
+the clips to<font color="#CCCCCC"> the beat of a song</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> can</font>
+
+57
+00:02:00,960 --> 00:02:02,640
+develop a relationship<font color="#CCCCCC"> with a music</font>
+
+58
+00:02:02,640 --> 00:02:04,469
+artist<font color="#E5E5E5"> and agree to</font><font color="#CCCCCC"> have their music on</font>
+
+59
+00:02:04,469 --> 00:02:06,390
+<font color="#E5E5E5">your channel I'm really lucky that I've</font>
+
+60
+00:02:06,390 --> 00:02:08,369
+<font color="#E5E5E5">made friends it's go</font><font color="#CCCCCC"> Yama</font><font color="#E5E5E5"> and DJ grumble</font>
+
+61
+00:02:08,369 --> 00:02:09,750
+and we have an<font color="#E5E5E5"> agreement with the usage</font>
+
+62
+00:02:09,750 --> 00:02:12,120
+another way is to<font color="#E5E5E5"> get songs from a</font>
+
+63
+00:02:12,120 --> 00:02:13,830
+royalty-free library
+
+64
+00:02:13,830 --> 00:02:16,440
+there is a lot<font color="#CCCCCC"> out there but my</font><font color="#E5E5E5"> favorite</font>
+
+65
+00:02:16,440 --> 00:02:18,810
+<font color="#CCCCCC">it's epidemic sound</font><font color="#E5E5E5"> believe me I've gone</font>
+
+66
+00:02:18,810 --> 00:02:20,820
+through<font color="#E5E5E5"> a lot</font><font color="#CCCCCC"> the quality</font><font color="#E5E5E5"> of their music</font>
+
+67
+00:02:20,820 --> 00:02:23,400
+library is bomb<font color="#CCCCCC"> I've summed through so</font>
+
+68
+00:02:23,400 --> 00:02:25,500
+many music libraries where everything
+
+69
+00:02:25,500 --> 00:02:27,480
+just<font color="#CCCCCC"> sounds like crap</font><font color="#E5E5E5"> but</font><font color="#CCCCCC"> I find</font>
+
+70
+00:02:27,480 --> 00:02:29,340
+epidemic<font color="#E5E5E5"> sounds library to have such a</font>
+
+71
+00:02:29,340 --> 00:02:32,100
+wide<font color="#CCCCCC"> range of genres and artists one of</font>
+
+72
+00:02:32,100 --> 00:02:34,560
+my favorite artists there<font color="#CCCCCC"> is Epsilon</font>
+
+73
+00:02:34,560 --> 00:02:36,240
+probably<font color="#E5E5E5"> saying that</font><font color="#CCCCCC"> wrong</font><font color="#E5E5E5"> but I love</font>
+
+74
+00:02:36,240 --> 00:02:38,220
+what<font color="#E5E5E5"> he</font><font color="#CCCCCC"> produces it really goes</font><font color="#E5E5E5"> well</font>
+
+75
+00:02:38,220 --> 00:02:39,810
+<font color="#CCCCCC">with</font><font color="#E5E5E5"> my channel and creates a great vibe</font>
+
+76
+00:02:39,810 --> 00:02:41,580
+<font color="#CCCCCC">it just feels good knowing that</font><font color="#E5E5E5"> these</font>
+
+77
+00:02:41,580 --> 00:02:43,320
+<font color="#E5E5E5">songs are a hundred percent safe you</font>
+
+78
+00:02:43,320 --> 00:02:44,310
+<font color="#E5E5E5">don't have to worry about copyright</font>
+
+79
+00:02:44,310 --> 00:02:46,620
+<font color="#E5E5E5">claims there's a</font><font color="#CCCCCC"> 30 day free trial for</font>
+
+80
+00:02:46,620 --> 00:02:48,300
+<font color="#E5E5E5">all new users to</font><font color="#CCCCCC"> sign up and start</font>
+
+81
+00:02:48,300 --> 00:02:50,760
+browsing<font color="#E5E5E5"> the music so now that I got my</font>
+
+82
+00:02:50,760 --> 00:02:53,130
+song I'm<font color="#E5E5E5"> going to work on the intro</font><font color="#CCCCCC"> I'm</font>
+
+83
+00:02:53,130 --> 00:02:55,440
+going to go to<font color="#E5E5E5"> library</font><font color="#CCCCCC"> drag this song in</font>
+
+84
+00:02:55,440 --> 00:02:57,480
+and this<font color="#E5E5E5"> is</font><font color="#CCCCCC"> where you can add cool text</font>
+
+85
+00:02:57,480 --> 00:03:00,120
+effects with fonts personally I have a
+
+86
+00:03:00,120 --> 00:03:01,680
+graphic designer that<font color="#E5E5E5"> I work with and</font>
+
+87
+00:03:01,680 --> 00:03:03,510
+she creates these awesome images for me
+
+88
+00:03:03,510 --> 00:03:05,430
+that I can overlay with this is not
+
+89
+00:03:05,430 --> 00:03:07,410
+necessary by any means though<font color="#E5E5E5"> you can</font>
+
+90
+00:03:07,410 --> 00:03:09,720
+find a cool font on a ton of<font color="#CCCCCC"> websites</font>
+
+91
+00:03:09,720 --> 00:03:13,260
+my favorite is dafont.com and here's a
+
+92
+00:03:13,260 --> 00:03:15,180
+few<font color="#E5E5E5"> of</font><font color="#CCCCCC"> my favorite fonts</font><font color="#E5E5E5"> to you know</font>
+
+93
+00:03:15,180 --> 00:03:17,700
+help<font color="#E5E5E5"> you start out</font><font color="#CCCCCC"> also there</font><font color="#E5E5E5"> is always</font>
+
+94
+00:03:17,700 --> 00:03:19,769
+pixel film studios<font color="#CCCCCC"> I feel like this is</font>
+
+95
+00:03:19,769 --> 00:03:21,480
+like<font color="#CCCCCC"> a well-known</font><font color="#E5E5E5"> YouTube secret but you</font>
+
+96
+00:03:21,480 --> 00:03:23,489
+<font color="#CCCCCC">can just buy plug-ins here</font><font color="#E5E5E5"> that just</font>
+
+97
+00:03:23,489 --> 00:03:25,800
+jazz up your<font color="#E5E5E5"> videos with minimal editing</font>
+
+98
+00:03:25,800 --> 00:03:28,050
+<font color="#E5E5E5">now back to the intro I'm just going</font><font color="#CCCCCC"> to</font>
+
+99
+00:03:28,050 --> 00:03:29,730
+throw in some fun stuff I'm going<font color="#E5E5E5"> to put</font>
+
+100
+00:03:29,730 --> 00:03:31,500
+a little TV static to make it seem like
+
+101
+00:03:31,500 --> 00:03:34,470
+<font color="#E5E5E5">you're like</font><font color="#CCCCCC"> tiling</font><font color="#E5E5E5"> into a new episode</font><font color="#CCCCCC"> so</font>
+
+102
+00:03:34,470 --> 00:03:36,720
+now that my intro is looking good<font color="#E5E5E5"> I'm</font>
+
+103
+00:03:36,720 --> 00:03:38,400
+going<font color="#E5E5E5"> to start adding music</font><font color="#CCCCCC"> to all the</font>
+
+104
+00:03:38,400 --> 00:03:40,860
+montages<font color="#E5E5E5"> in my videos I'll try and make</font>
+
+105
+00:03:40,860 --> 00:03:42,870
+the clips<font color="#E5E5E5"> change every time when it hits</font>
+
+106
+00:03:42,870 --> 00:03:44,820
+a beat it just makes the viewing
+
+107
+00:03:44,820 --> 00:03:47,190
+<font color="#CCCCCC">experience a little cooler</font><font color="#E5E5E5"> more artsy I</font>
+
+108
+00:03:47,190 --> 00:03:49,140
+<font color="#E5E5E5">know some people</font><font color="#CCCCCC"> won't notice but at</font>
+
+109
+00:03:49,140 --> 00:03:50,970
+least you'll know<font color="#E5E5E5"> that it's there now</font>
+
+110
+00:03:50,970 --> 00:03:52,110
+<font color="#CCCCCC">that the music</font><font color="#E5E5E5"> is done I'm</font><font color="#CCCCCC"> going to</font><font color="#E5E5E5"> go</font>
+
+111
+00:03:52,110 --> 00:03:54,060
+ahead and add the<font color="#CCCCCC"> dates</font><font color="#E5E5E5"> I always make</font>
+
+112
+00:03:54,060 --> 00:03:56,400
+sure I put my<font color="#E5E5E5"> snapping option on because</font>
+
+113
+00:03:56,400 --> 00:03:58,739
+this always<font color="#E5E5E5"> make</font><font color="#CCCCCC"> sure</font><font color="#E5E5E5"> that the graphics</font>
+
+114
+00:03:58,739 --> 00:04:01,110
+on top<font color="#CCCCCC"> synchronized with the</font><font color="#E5E5E5"> clip on the</font>
+
+115
+00:04:01,110 --> 00:04:03,360
+bottom<font color="#CCCCCC"> so</font><font color="#E5E5E5"> you see that yellow line it</font>
+
+116
+00:04:03,360 --> 00:04:05,400
+snaps<font color="#E5E5E5"> back in that indicates that it's</font>
+
+117
+00:04:05,400 --> 00:04:08,250
+like perfectly aligned now I'll go back
+
+118
+00:04:08,250 --> 00:04:10,080
+<font color="#E5E5E5">to the blog and I'll stop at every clip</font>
+
+119
+00:04:10,080 --> 00:04:12,180
+where a new<font color="#E5E5E5"> location is established for</font>
+
+120
+00:04:12,180 --> 00:04:14,040
+example here's a<font color="#CCCCCC"> clip</font><font color="#E5E5E5"> of VidCon</font><font color="#CCCCCC"> I'm</font>
+
+121
+00:04:14,040 --> 00:04:16,620
+going to put a basic text<font color="#E5E5E5"> on</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> I'm</font>
+
+122
+00:04:16,620 --> 00:04:19,200
+going to<font color="#E5E5E5"> write VidCon</font><font color="#CCCCCC"> because this was</font>
+
+123
+00:04:19,200 --> 00:04:21,779
+at VidCon<font color="#CCCCCC"> and I'm going to change</font><font color="#E5E5E5"> the</font>
+
+124
+00:04:21,779 --> 00:04:24,810
+<font color="#E5E5E5">font to my favorite Brandon I'm going to</font>
+
+125
+00:04:24,810 --> 00:04:26,820
+make it<font color="#E5E5E5"> bold</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> I'm going to just space</font>
+
+126
+00:04:26,820 --> 00:04:27,310
+out
+
+127
+00:04:27,310 --> 00:04:29,500
+text a little bit to make<font color="#CCCCCC"> it</font><font color="#E5E5E5"> look cooler</font>
+
+128
+00:04:29,500 --> 00:04:31,330
+<font color="#CCCCCC">I know it's like obvious that</font><font color="#E5E5E5"> it's</font>
+
+129
+00:04:31,330 --> 00:04:33,310
+VidCon but it's little details<font color="#CCCCCC"> like</font><font color="#E5E5E5"> this</font>
+
+130
+00:04:33,310 --> 00:04:35,590
+that make the<font color="#CCCCCC"> vlog more fun and just</font>
+
+131
+00:04:35,590 --> 00:04:37,660
+keep the viewer stimulated<font color="#E5E5E5"> the last</font>
+
+132
+00:04:37,660 --> 00:04:40,060
+thing I'll do is add an end slate<font color="#CCCCCC"> this</font>
+
+133
+00:04:40,060 --> 00:04:41,770
+<font color="#E5E5E5">is a landing page for</font><font color="#CCCCCC"> you to</font><font color="#E5E5E5"> write any</font>
+
+134
+00:04:41,770 --> 00:04:43,419
+of<font color="#E5E5E5"> your socials or where your viewers</font>
+
+135
+00:04:43,419 --> 00:04:45,669
+can<font color="#E5E5E5"> find you this also isn't necessary</font>
+
+136
+00:04:45,669 --> 00:04:48,220
+but I just find that it adds a nice
+
+137
+00:04:48,220 --> 00:04:50,680
+professional<font color="#E5E5E5"> touch make sure it's at</font>
+
+138
+00:04:50,680 --> 00:04:52,630
+<font color="#CCCCCC">least</font><font color="#E5E5E5"> 20 seconds long because that's</font>
+
+139
+00:04:52,630 --> 00:04:55,419
+what YouTube recommends<font color="#CCCCCC"> alright guys</font>
+
+140
+00:04:55,419 --> 00:04:57,940
+that<font color="#E5E5E5"> is just a brief outline of what</font>
+
+141
+00:04:57,940 --> 00:04:59,820
+goes on in<font color="#CCCCCC"> my head as I'm editing</font>
+
+142
+00:04:59,820 --> 00:05:02,320
+obviously finding<font color="#E5E5E5"> your own video and</font>
+
+143
+00:05:02,320 --> 00:05:04,240
+editing style<font color="#E5E5E5"> comes with time and</font>
+
+144
+00:05:04,240 --> 00:05:05,980
+<font color="#CCCCCC">experience and you</font><font color="#E5E5E5"> just got to</font><font color="#CCCCCC"> be</font>
+
+145
+00:05:05,980 --> 00:05:07,480
+<font color="#E5E5E5">consistent and things will just kind of</font>
+
+146
+00:05:07,480 --> 00:05:10,000
+<font color="#CCCCCC">fall into place</font><font color="#E5E5E5"> it took me a very long</font>
+
+147
+00:05:10,000 --> 00:05:11,950
+time to<font color="#E5E5E5"> get</font><font color="#CCCCCC"> to where I</font><font color="#E5E5E5"> am now</font><font color="#CCCCCC"> and</font>
+
+148
+00:05:11,950 --> 00:05:14,290
+there's still so many things<font color="#E5E5E5"> like I need</font>
+
+149
+00:05:14,290 --> 00:05:17,169
+<font color="#CCCCCC">to learn but regardless</font><font color="#E5E5E5"> creating videos</font>
+
+150
+00:05:17,169 --> 00:05:20,560
+is such a fun and<font color="#E5E5E5"> just good outlet</font>
+
+151
+00:05:20,560 --> 00:05:22,419
+especially if<font color="#E5E5E5"> you're</font><font color="#CCCCCC"> the type of</font><font color="#E5E5E5"> person</font>
+
+152
+00:05:22,419 --> 00:05:24,550
+that likes a document and<font color="#CCCCCC"> just remember</font>
+
+153
+00:05:24,550 --> 00:05:26,290
+<font color="#CCCCCC">memories if you enjoyed the video please</font>
+
+154
+00:05:26,290 --> 00:05:28,720
+<font color="#E5E5E5">hit the like button and</font><font color="#CCCCCC"> also</font><font color="#E5E5E5"> open the</font>
+
+155
+00:05:28,720 --> 00:05:30,370
+description<font color="#E5E5E5"> box the link</font><font color="#CCCCCC"> for the</font>
+
+156
+00:05:30,370 --> 00:05:32,560
+<font color="#CCCCCC">epidemic</font><font color="#E5E5E5"> sound deal is there music is</font>
+
+157
+00:05:32,560 --> 00:05:35,290
+such a key factor in YouTube<font color="#CCCCCC"> videos and</font>
+
+158
+00:05:35,290 --> 00:05:37,510
+it's just good to<font color="#CCCCCC"> be safe so please</font><font color="#E5E5E5"> open</font>
+
+159
+00:05:37,510 --> 00:05:39,729
+<font color="#E5E5E5">that check it out and thank you so much</font>
+
+160
+00:05:39,729 --> 00:05:41,320
+for<font color="#E5E5E5"> watching I'll see you guys in the</font>
+
+161
+00:05:41,320 --> 00:05:43,890
+next<font color="#CCCCCC"> one bye</font>
+
+162
+00:05:45,030 --> 00:05:54,120
+[Music]
+
+163
+00:06:01,820 --> 00:00:00,000
+you
+

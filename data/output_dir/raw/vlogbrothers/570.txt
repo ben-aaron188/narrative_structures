@@ -1,0 +1,452 @@
+1
+00:00:00,000 --> 00:00:02,190
+good morning John right now I'm on<font color="#E5E5E5"> a</font>
+
+2
+00:00:02,190 --> 00:00:04,110
+plane to<font color="#CCCCCC"> England so three</font><font color="#E5E5E5"> weeks ago I</font>
+
+3
+00:00:04,110 --> 00:00:06,120
+decided<font color="#E5E5E5"> to film this</font><font color="#CCCCCC"> video with the full</font>
+
+4
+00:00:06,120 --> 00:00:07,830
+knowledge<font color="#CCCCCC"> that America would be</font><font color="#E5E5E5"> in a</font>
+
+5
+00:00:07,830 --> 00:00:09,750
+frenzy<font color="#CCCCCC"> over</font><font color="#E5E5E5"> the football football</font>
+
+6
+00:00:09,750 --> 00:00:11,910
+football<font color="#E5E5E5"> of the Super Bowl season</font><font color="#CCCCCC"> while</font>
+
+7
+00:00:11,910 --> 00:00:13,410
+in the<font color="#E5E5E5"> United Kingdom where I'm headed</font>
+
+8
+00:00:13,410 --> 00:00:15,120
+they care about<font color="#E5E5E5"> as much</font><font color="#CCCCCC"> about handegg as</font>
+
+9
+00:00:15,120 --> 00:00:17,220
+they do<font color="#CCCCCC"> about spices other than salt</font><font color="#E5E5E5"> so</font>
+
+10
+00:00:17,220 --> 00:00:18,510
+let's be honest<font color="#E5E5E5"> the portion of people</font>
+
+11
+00:00:18,510 --> 00:00:19,650
+watching<font color="#CCCCCC"> this video who care a lot about</font>
+
+12
+00:00:19,650 --> 00:00:21,660
+<font color="#E5E5E5">football probably pretty small</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> that</font>
+
+13
+00:00:21,660 --> 00:00:22,170
+doesn't<font color="#CCCCCC"> mean that</font><font color="#E5E5E5"> there aren't</font>
+
+14
+00:00:22,170 --> 00:00:24,930
+<font color="#E5E5E5">interesting things to learn so welcome</font>
+
+15
+00:00:24,930 --> 00:00:27,750
+<font color="#E5E5E5">to a nerds guide to football since one</font>
+
+16
+00:00:27,750 --> 00:00:29,310
+out of<font color="#CCCCCC"> every three people in America we</font>
+
+17
+00:00:29,310 --> 00:00:30,539
+spending time watching football<font color="#E5E5E5"> this</font>
+
+18
+00:00:30,539 --> 00:00:31,920
+<font color="#CCCCCC">year the most important and interesting</font>
+
+19
+00:00:31,920 --> 00:00:35,160
+question to<font color="#E5E5E5"> me is why why is this sport</font>
+
+20
+00:00:35,160 --> 00:00:37,590
+so successful why will we be<font color="#E5E5E5"> spending a</font>
+
+21
+00:00:37,590 --> 00:00:40,079
+collective 300 million<font color="#CCCCCC"> man hours of time</font>
+
+22
+00:00:40,079 --> 00:00:41,550
+watching<font color="#E5E5E5"> the Super Bowl this year when</font>
+
+23
+00:00:41,550 --> 00:00:43,410
+and this is a shocking<font color="#CCCCCC"> statistic that</font><font color="#E5E5E5"> is</font>
+
+24
+00:00:43,410 --> 00:00:44,940
+<font color="#CCCCCC">the amount</font><font color="#E5E5E5"> of time that</font><font color="#CCCCCC"> it took to</font>
+
+25
+00:00:44,940 --> 00:00:47,010
+<font color="#CCCCCC">create Wikipedia a recent study</font><font color="#E5E5E5"> found</font>
+
+26
+00:00:47,010 --> 00:00:49,620
+that<font color="#CCCCCC"> in the average to hour</font><font color="#E5E5E5"> and 54</font>
+
+27
+00:00:49,620 --> 00:00:52,110
+minute long football televised broadcast
+
+28
+00:00:52,110 --> 00:00:54,780
+<font color="#E5E5E5">a full hour was advertisements 75</font>
+
+29
+00:00:54,780 --> 00:00:56,610
+<font color="#E5E5E5">minutes was football players milling</font>
+
+30
+00:00:56,610 --> 00:00:59,039
+around<font color="#E5E5E5"> or setting up for play 17 minutes</font>
+
+31
+00:00:59,039 --> 00:01:00,629
+was replays of stuff that had already
+
+32
+00:01:00,629 --> 00:01:02,670
+happened<font color="#E5E5E5"> and the actual gameplay the</font>
+
+33
+00:01:02,670 --> 00:01:04,739
+amount of time<font color="#CCCCCC"> that the ball was</font><font color="#E5E5E5"> in play</font>
+
+34
+00:01:04,739 --> 00:01:08,369
+<font color="#E5E5E5">in the players were playing</font><font color="#CCCCCC"> in a three</font>
+
+35
+00:01:08,369 --> 00:01:12,540
+<font color="#E5E5E5">hour long broadcast</font><font color="#CCCCCC"> of football</font><font color="#E5E5E5"> was 11</font>
+
+36
+00:01:12,540 --> 00:01:15,240
+<font color="#E5E5E5">minutes</font><font color="#CCCCCC"> that other</font><font color="#E5E5E5"> 15 minutes</font><font color="#CCCCCC"> that time</font>
+
+37
+00:01:15,240 --> 00:01:17,369
+was taken<font color="#E5E5E5"> up by station promos and</font>
+
+38
+00:01:17,369 --> 00:01:19,110
+coaches<font color="#E5E5E5"> and injured players and</font>
+
+39
+00:01:19,110 --> 00:01:21,090
+celebrations and cheerleaders<font color="#E5E5E5"> and stuff</font>
+
+40
+00:01:21,090 --> 00:01:22,890
+so it's easy to<font color="#E5E5E5"> see why people</font><font color="#CCCCCC"> and the</font>
+
+41
+00:01:22,890 --> 00:01:24,119
+<font color="#E5E5E5">rest of the world might be</font><font color="#CCCCCC"> a little</font><font color="#E5E5E5"> bit</font>
+
+42
+00:01:24,119 --> 00:01:25,830
+puzzled by our<font color="#E5E5E5"> fascination with this</font>
+
+43
+00:01:25,830 --> 00:01:27,299
+sport<font color="#E5E5E5"> in which</font><font color="#CCCCCC"> apparently nothing</font>
+
+44
+00:01:27,299 --> 00:01:29,340
+happens but<font color="#E5E5E5"> as is so often the case the</font>
+
+45
+00:01:29,340 --> 00:01:31,259
+<font color="#E5E5E5">numbers the numbers</font><font color="#CCCCCC"> hold</font><font color="#E5E5E5"> the answers</font>
+
+46
+00:01:31,259 --> 00:01:33,780
+football is a game of anticipation<font color="#E5E5E5"> small</font>
+
+47
+00:01:33,780 --> 00:01:36,479
+bursts of action<font color="#E5E5E5"> followed by</font><font color="#CCCCCC"> build-up</font>
+
+48
+00:01:36,479 --> 00:01:39,000
+every play a<font color="#E5E5E5"> small victory for one team</font>
+
+49
+00:01:39,000 --> 00:01:41,520
+or another keeping you engaged<font color="#CCCCCC"> another</font>
+
+50
+00:01:41,520 --> 00:01:42,990
+reason<font color="#CCCCCC"> for football success is that</font><font color="#E5E5E5"> the</font>
+
+51
+00:01:42,990 --> 00:01:45,720
+games are<font color="#CCCCCC"> very often closed more than 50</font>
+
+52
+00:01:45,720 --> 00:01:47,970
+<font color="#E5E5E5">percent are decided by single digits</font><font color="#CCCCCC"> and</font>
+
+53
+00:01:47,970 --> 00:01:50,100
+more than 40 percent<font color="#E5E5E5"> are decided by one</font>
+
+54
+00:01:50,100 --> 00:01:52,350
+scoring opportunity indeed statistically
+
+55
+00:01:52,350 --> 00:01:54,360
+the most<font color="#E5E5E5"> common spread for a football</font>
+
+56
+00:01:54,360 --> 00:01:56,579
+<font color="#E5E5E5">game is three points</font><font color="#CCCCCC"> often decided</font><font color="#E5E5E5"> by a</font>
+
+57
+00:01:56,579 --> 00:01:59,100
+<font color="#E5E5E5">single</font><font color="#CCCCCC"> last minute field goal because of</font>
+
+58
+00:01:59,100 --> 00:02:00,930
+its ability<font color="#CCCCCC"> to attract and</font><font color="#E5E5E5"> retain the</font>
+
+59
+00:02:00,930 --> 00:02:03,390
+attention of a human football has become
+
+60
+00:02:03,390 --> 00:02:04,979
+a bit<font color="#CCCCCC"> of an economic</font><font color="#E5E5E5"> powerhouse and this</font>
+
+61
+00:02:04,979 --> 00:02:06,180
+is also<font color="#CCCCCC"> because all</font><font color="#E5E5E5"> those little breaks</font>
+
+62
+00:02:06,180 --> 00:02:07,920
+<font color="#CCCCCC">in play allow opportunities for</font>
+
+63
+00:02:07,920 --> 00:02:10,560
+America's second favorite pastime being
+
+64
+00:02:10,560 --> 00:02:12,629
+advertised<font color="#CCCCCC"> too when if you think I'm</font>
+
+65
+00:02:12,629 --> 00:02:13,800
+getting take a look at this
+
+66
+00:02:13,800 --> 00:02:15,570
+<font color="#CCCCCC">statistically average American spends</font>
+
+67
+00:02:15,570 --> 00:02:18,660
+over 500<font color="#E5E5E5"> hours per year watching</font>
+
+68
+00:02:18,660 --> 00:02:20,630
+<font color="#CCCCCC">television advertisement twelve</font>
+
+69
+00:02:20,630 --> 00:02:24,390
+<font color="#E5E5E5">full-time work weeks per</font><font color="#CCCCCC"> adult</font><font color="#E5E5E5"> per year</font>
+
+70
+00:02:24,390 --> 00:02:25,980
+sometimes people ask me how I have time
+
+71
+00:02:25,980 --> 00:02:27,450
+to<font color="#CCCCCC"> do so many things</font><font color="#E5E5E5"> and I tell them</font>
+
+72
+00:02:27,450 --> 00:02:29,520
+they<font color="#CCCCCC"> don't watch TV it is</font><font color="#E5E5E5"> important to</font>
+
+73
+00:02:29,520 --> 00:02:30,990
+note<font color="#CCCCCC"> however that</font><font color="#E5E5E5"> a game of football was</font>
+
+74
+00:02:30,990 --> 00:02:33,030
+not the top<font color="#E5E5E5"> television broadcast in</font>
+
+75
+00:02:33,030 --> 00:02:34,620
+America of all time<font color="#CCCCCC"> that distinction</font>
+
+76
+00:02:34,620 --> 00:02:36,600
+<font color="#CCCCCC">goes to</font><font color="#E5E5E5"> the series</font><font color="#CCCCCC"> finale of mash</font>
+
+77
+00:02:36,600 --> 00:02:39,810
+retaining more than<font color="#CCCCCC"> 60%</font><font color="#E5E5E5"> of American</font>
+
+78
+00:02:39,810 --> 00:02:41,310
+<font color="#E5E5E5">households</font><font color="#CCCCCC"> however for the very first</font>
+
+79
+00:02:41,310 --> 00:02:42,900
+<font color="#E5E5E5">time last year Monday Night Football was</font>
+
+80
+00:02:42,900 --> 00:02:44,790
+the top<font color="#E5E5E5"> rated television series in</font>
+
+81
+00:02:44,790 --> 00:02:47,100
+America breaking an<font color="#E5E5E5"> eight-year long</font>
+
+82
+00:02:47,100 --> 00:02:49,140
+streak from American Idol<font color="#CCCCCC"> all of this</font>
+
+83
+00:02:49,140 --> 00:02:51,150
+success<font color="#E5E5E5"> of course equals dollars the</font>
+
+84
+00:02:51,150 --> 00:02:52,410
+most<font color="#E5E5E5"> expensive football team in America</font>
+
+85
+00:02:52,410 --> 00:02:54,270
+<font color="#CCCCCC">that would be the Dallas Cowboys with a</font>
+
+86
+00:02:54,270 --> 00:02:55,740
+projected worth of more<font color="#CCCCCC"> than 2 point 1</font>
+
+87
+00:02:55,740 --> 00:02:59,010
+<font color="#E5E5E5">billion dollars</font><font color="#CCCCCC"> 2011 they had 226</font>
+
+88
+00:02:59,010 --> 00:03:01,530
+<font color="#E5E5E5">million dollars of profit that's more</font>
+
+89
+00:03:01,530 --> 00:03:04,080
+than<font color="#E5E5E5"> the Raiders had in revenue poor</font>
+
+90
+00:03:04,080 --> 00:03:05,880
+<font color="#E5E5E5">Raiders including food and drinks and</font>
+
+91
+00:03:05,880 --> 00:03:07,650
+merchandise the average cost<font color="#E5E5E5"> for an</font>
+
+92
+00:03:07,650 --> 00:03:08,910
+American family afford to go to<font color="#E5E5E5"> a</font>
+
+93
+00:03:08,910 --> 00:03:13,200
+football game<font color="#E5E5E5"> is over $500</font><font color="#CCCCCC"> players</font><font color="#E5E5E5"> of</font>
+
+94
+00:03:13,200 --> 00:03:14,760
+<font color="#E5E5E5">course all of this means high paychecks</font>
+
+95
+00:03:14,760 --> 00:03:16,050
+the minimum you can<font color="#E5E5E5"> be paid as an NFL</font>
+
+96
+00:03:16,050 --> 00:03:18,989
+<font color="#CCCCCC">player</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> $300,000</font><font color="#E5E5E5"> per year the top</font>
+
+97
+00:03:18,989 --> 00:03:21,090
+salary<font color="#E5E5E5"> of 2011 that was 19 million</font>
+
+98
+00:03:21,090 --> 00:03:23,160
+<font color="#E5E5E5">dollars</font><font color="#CCCCCC"> going to linebacker Dwight</font>
+
+99
+00:03:23,160 --> 00:03:25,200
+Freeney<font color="#E5E5E5"> that man was born the same year</font>
+
+100
+00:03:25,200 --> 00:03:29,090
+<font color="#CCCCCC">as me is my height and weighs exactly</font>
+
+101
+00:03:29,090 --> 00:03:31,830
+100 pounds more<font color="#E5E5E5"> than I do and his</font>
+
+102
+00:03:31,830 --> 00:03:34,470
+<font color="#CCCCCC">financial adviser was just arrested</font><font color="#E5E5E5"> for</font>
+
+103
+00:03:34,470 --> 00:03:36,600
+embezzling<font color="#CCCCCC"> two million dollars</font><font color="#E5E5E5"> from him</font>
+
+104
+00:03:36,600 --> 00:03:39,390
+brave guy all those high<font color="#E5E5E5"> paychecks you</font>
+
+105
+00:03:39,390 --> 00:03:40,830
+may have heard does not lead to
+
+106
+00:03:40,830 --> 00:03:44,040
+<font color="#CCCCCC">financial stability 78% of football</font>
+
+107
+00:03:44,040 --> 00:03:47,220
+<font color="#CCCCCC">players are broke two years after</font>
+
+108
+00:03:47,220 --> 00:03:49,170
+retirement<font color="#CCCCCC"> as for how the</font><font color="#E5E5E5"> actual game</font>
+
+109
+00:03:49,170 --> 00:03:51,150
+<font color="#CCCCCC">functions there's a ball and</font><font color="#E5E5E5"> you have to</font>
+
+110
+00:03:51,150 --> 00:03:52,650
+get it into the end<font color="#CCCCCC"> zone and there's</font>
+
+111
+00:03:52,650 --> 00:03:54,390
+rules and plays and it's all very
+
+112
+00:03:54,390 --> 00:03:56,250
+<font color="#E5E5E5">physically impressive</font><font color="#CCCCCC"> it seems quite</font>
+
+113
+00:03:56,250 --> 00:00:00,000
+dangerous<font color="#E5E5E5"> John I'll see</font><font color="#CCCCCC"> you tomorrow</font>
+
