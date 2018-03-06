@@ -1,0 +1,484 @@
+1
+00:00:00,060 --> 00:00:02,159
+everybody's Gary Vaynerchuk from Wine
+
+2
+00:00:02,159 --> 00:00:04,259
+Library TV and garyvaynerchuk.com<font color="#E5E5E5"> that's</font>
+
+3
+00:00:04,259 --> 00:00:04,950
+where we are<font color="#CCCCCC"> right now</font>
+
+4
+00:00:04,950 --> 00:00:06,810
+<font color="#E5E5E5">and I really wanted to address this</font>
+
+5
+00:00:06,810 --> 00:00:09,000
+revision3 thing<font color="#E5E5E5"> I feel like too many</font>
+
+6
+00:00:09,000 --> 00:00:10,050
+<font color="#E5E5E5">people</font><font color="#CCCCCC"> have asked me about</font><font color="#E5E5E5"> it</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> I</font>
+
+7
+00:00:10,050 --> 00:00:11,820
+<font color="#E5E5E5">address it but I'm gonna dress it more</font>
+
+8
+00:00:11,820 --> 00:00:14,009
+global as you<font color="#CCCCCC"> could tell</font><font color="#E5E5E5"> by</font><font color="#CCCCCC"> the title of</font>
+
+9
+00:00:14,009 --> 00:00:16,619
+<font color="#E5E5E5">this video</font><font color="#CCCCCC"> why</font><font color="#E5E5E5"> don't</font><font color="#CCCCCC"> we wait for hard</font>
+
+10
+00:00:16,619 --> 00:00:19,470
+times<font color="#E5E5E5"> to make smart decisions right and</font>
+
+11
+00:00:19,470 --> 00:00:21,590
+so everybody so go the economic meltdown
+
+12
+00:00:21,590 --> 00:00:24,660
+and Oh Gary you're<font color="#E5E5E5"> so bullcrap you're</font>
+
+13
+00:00:24,660 --> 00:00:26,430
+saying things<font color="#E5E5E5"> are good</font><font color="#CCCCCC"> I am saying</font>
+
+14
+00:00:26,430 --> 00:00:27,630
+things are good I'm gonna<font color="#E5E5E5"> tell you why</font>
+
+15
+00:00:27,630 --> 00:00:30,599
+<font color="#E5E5E5">for some reason it takes you know the</font>
+
+16
+00:00:30,599 --> 00:00:32,369
+news of crisis or things<font color="#E5E5E5"> of that nature</font>
+
+17
+00:00:32,369 --> 00:00:34,260
+<font color="#CCCCCC">to meet</font><font color="#E5E5E5"> people rethink stuff you know</font>
+
+18
+00:00:34,260 --> 00:00:35,399
+sometimes people<font color="#CCCCCC"> have a death in the</font>
+
+19
+00:00:35,399 --> 00:00:37,440
+<font color="#CCCCCC">family or</font><font color="#E5E5E5"> near death experience and they</font>
+
+20
+00:00:37,440 --> 00:00:38,940
+relive their<font color="#E5E5E5"> life</font><font color="#CCCCCC"> slot you know they go</font>
+
+21
+00:00:38,940 --> 00:00:40,950
+a different direction<font color="#E5E5E5"> or just more</font>
+
+22
+00:00:40,950 --> 00:00:43,079
+<font color="#CCCCCC">simple not as a skeptic and large</font><font color="#E5E5E5"> when</font>
+
+23
+00:00:43,079 --> 00:00:44,219
+you're running<font color="#E5E5E5"> a business when they</font>
+
+24
+00:00:44,219 --> 00:00:45,750
+kinda gets a little topper<font color="#CCCCCC"> you start</font>
+
+25
+00:00:45,750 --> 00:00:47,250
+<font color="#E5E5E5">making better decisions you start</font>
+
+26
+00:00:47,250 --> 00:00:47,730
+looking
+
+27
+00:00:47,730 --> 00:00:49,680
+and so what revision3<font color="#E5E5E5"> did in my opinion</font>
+
+28
+00:00:49,680 --> 00:00:51,120
+was just made some<font color="#E5E5E5"> really smart</font>
+
+29
+00:00:51,120 --> 00:00:52,710
+decisions<font color="#CCCCCC"> I mean let's I don't really</font>
+
+30
+00:00:52,710 --> 00:00:54,390
+know much about their epic food deal<font color="#E5E5E5"> but</font>
+
+31
+00:00:54,390 --> 00:00:55,739
+let me definitely<font color="#E5E5E5"> tell you</font><font color="#CCCCCC"> about the</font>
+
+32
+00:00:55,739 --> 00:00:57,510
+shows that<font color="#E5E5E5"> they</font><font color="#CCCCCC"> canceled and what they</font>
+
+33
+00:00:57,510 --> 00:00:59,460
+did with<font color="#E5E5E5"> me obviously</font><font color="#CCCCCC"> the shows they</font>
+
+34
+00:00:59,460 --> 00:01:00,690
+canceled just weren't getting viewership
+
+35
+00:01:00,690 --> 00:01:02,699
+it was tough for<font color="#E5E5E5"> them to monetize</font><font color="#CCCCCC"> I mean</font>
+
+36
+00:01:02,699 --> 00:01:04,500
+you know that's<font color="#E5E5E5"> what networks do all the</font>
+
+37
+00:01:04,500 --> 00:01:06,689
+<font color="#E5E5E5">time I mean obviously Martin Sargent and</font>
+
+38
+00:01:06,689 --> 00:01:09,420
+<font color="#E5E5E5">Sarah these guys are amazingly amazing</font>
+
+39
+00:01:09,420 --> 00:01:10,979
+you know internet superstars with a lot
+
+40
+00:01:10,979 --> 00:01:12,900
+of<font color="#E5E5E5"> track record and equity and so it</font>
+
+41
+00:01:12,900 --> 00:01:14,220
+makes big news but<font color="#E5E5E5"> at the end of</font><font color="#CCCCCC"> day</font>
+
+42
+00:01:14,220 --> 00:01:15,600
+<font color="#E5E5E5">dinner</font><font color="#CCCCCC"> did superstar pop star</font><font color="#E5E5E5"> and</font>
+
+43
+00:01:15,600 --> 00:01:17,400
+weren't doing well<font color="#CCCCCC"> they needed to cancel</font>
+
+44
+00:01:17,400 --> 00:01:18,750
+it cuz they were spending<font color="#E5E5E5"> funds and</font>
+
+45
+00:01:18,750 --> 00:01:21,240
+money and<font color="#E5E5E5"> effort and time on building</font>
+
+46
+00:01:21,240 --> 00:01:22,140
+something<font color="#E5E5E5"> that they weren't able to</font>
+
+47
+00:01:22,140 --> 00:01:23,759
+monetize against<font color="#E5E5E5"> something you should</font>
+
+48
+00:01:23,759 --> 00:01:27,420
+think<font color="#CCCCCC"> about with your</font><font color="#E5E5E5"> blog anyway it's</font>
+
+49
+00:01:27,420 --> 00:01:30,000
+<font color="#E5E5E5">like it's 10</font><font color="#CCCCCC"> o'clock do you know anyway</font>
+
+50
+00:01:30,000 --> 00:01:32,909
+<font color="#E5E5E5">um and with my deal you know why not my</font>
+
+51
+00:01:32,909 --> 00:01:34,380
+team<font color="#E5E5E5"> Ian was a distribution deal with</font>
+
+52
+00:01:34,380 --> 00:01:36,119
+revision3<font color="#E5E5E5"> I mean what they had at the</font>
+
+53
+00:01:36,119 --> 00:01:37,619
+end<font color="#E5E5E5"> of the day was the right to turn an</font>
+
+54
+00:01:37,619 --> 00:01:39,540
+episode of<font color="#CCCCCC"> wine lobby</font><font color="#E5E5E5"> TV into a smaller</font>
+
+55
+00:01:39,540 --> 00:01:41,880
+episode<font color="#E5E5E5"> of Wine Library</font><font color="#CCCCCC"> Reserve where</font>
+
+56
+00:01:41,880 --> 00:01:43,710
+Glenn<font color="#E5E5E5"> would edit it down but that was a</font>
+
+57
+00:01:43,710 --> 00:01:45,000
+lot<font color="#CCCCCC"> of</font><font color="#E5E5E5"> work because you gotta take a</font>
+
+58
+00:01:45,000 --> 00:01:47,070
+crap<font color="#E5E5E5"> load of me and you know the you</font>
+
+59
+00:01:47,070 --> 00:01:48,390
+<font color="#E5E5E5">know and then shrink it down to five</font>
+
+60
+00:01:48,390 --> 00:01:50,579
+minutes<font color="#CCCCCC"> and you</font><font color="#E5E5E5"> know that's just a lot</font>
+
+61
+00:01:50,579 --> 00:01:52,229
+<font color="#E5E5E5">of work and tougher to monetize because</font>
+
+62
+00:01:52,229 --> 00:01:54,420
+so much 90<font color="#E5E5E5"> something percent of my</font>
+
+63
+00:01:54,420 --> 00:01:56,520
+traffic<font color="#CCCCCC"> comes</font><font color="#E5E5E5"> to wine</font><font color="#CCCCCC"> webby</font><font color="#E5E5E5"> tv.com</font><font color="#CCCCCC"> or</font>
+
+64
+00:01:56,520 --> 00:01:58,680
+actually<font color="#CCCCCC"> iTunes as a mine</font><font color="#E5E5E5"> look at the</font>
+
+65
+00:01:58,680 --> 00:02:00,270
+<font color="#CCCCCC">iTunes link if you</font><font color="#E5E5E5"> want to watch</font><font color="#CCCCCC"> my</font>
+
+66
+00:02:00,270 --> 00:02:02,070
+<font color="#CCCCCC">Larry</font><font color="#E5E5E5"> TV on iTunes</font><font color="#CCCCCC"> we'll link</font><font color="#E5E5E5"> that up</font>
+
+67
+00:02:02,070 --> 00:02:02,670
+for you right<font color="#E5E5E5"> now</font>
+
+68
+00:02:02,670 --> 00:02:04,439
+<font color="#E5E5E5">so you know they weren't getting the</font>
+
+69
+00:02:04,439 --> 00:02:05,939
+mass of the traffic so it's hard<font color="#CCCCCC"> for</font>
+
+70
+00:02:05,939 --> 00:02:07,560
+<font color="#E5E5E5">them to monetize it it wasn't</font><font color="#CCCCCC"> their own</font>
+
+71
+00:02:07,560 --> 00:02:09,840
+property<font color="#E5E5E5"> at the other day I would have</font>
+
+72
+00:02:09,840 --> 00:02:11,849
+kicked my sorry ass off there<font color="#CCCCCC"> too heck</font>
+
+73
+00:02:11,849 --> 00:02:13,210
+<font color="#E5E5E5">if I was in the reverse</font>
+
+74
+00:02:13,210 --> 00:02:14,080
+<font color="#E5E5E5">it would have</font><font color="#CCCCCC"> never</font><font color="#E5E5E5"> happened in the</font>
+
+75
+00:02:14,080 --> 00:02:15,910
+<font color="#CCCCCC">first</font><font color="#E5E5E5"> place</font><font color="#CCCCCC"> you need to control your</font><font color="#E5E5E5"> own</font>
+
+76
+00:02:15,910 --> 00:02:18,100
+game right I mean at the end<font color="#CCCCCC"> of the day</font>
+
+77
+00:02:18,100 --> 00:02:20,860
+you know they need to<font color="#E5E5E5"> make smarter and</font>
+
+78
+00:02:20,860 --> 00:02:22,810
+bigger and<font color="#E5E5E5"> better business decisions</font><font color="#CCCCCC"> and</font>
+
+79
+00:02:22,810 --> 00:02:24,490
+if the economy<font color="#E5E5E5"> which I'm not so sold</font>
+
+80
+00:02:24,490 --> 00:02:26,770
+<font color="#E5E5E5">that that's the rationale made them you</font>
+
+81
+00:02:26,770 --> 00:02:28,480
+know<font color="#E5E5E5"> shed their fat and focus on</font>
+
+82
+00:02:28,480 --> 00:02:31,000
+entities they own and<font color="#E5E5E5"> can get ROI</font>
+
+83
+00:02:31,000 --> 00:02:32,920
+against<font color="#E5E5E5"> that makes a hell of a lot</font><font color="#CCCCCC"> of</font>
+
+84
+00:02:32,920 --> 00:02:34,810
+sense to me<font color="#CCCCCC"> mod I mean there's no</font><font color="#E5E5E5"> reason</font>
+
+85
+00:02:34,810 --> 00:02:36,610
+that<font color="#E5E5E5"> they should not be</font><font color="#CCCCCC"> able</font><font color="#E5E5E5"> to monetize</font>
+
+86
+00:02:36,610 --> 00:02:38,140
+against me and spend<font color="#E5E5E5"> all that time and</font>
+
+87
+00:02:38,140 --> 00:02:40,600
+effort<font color="#CCCCCC"> so made a lot of</font><font color="#E5E5E5"> sense</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> totally</font>
+
+88
+00:02:40,600 --> 00:02:41,500
+get where they're<font color="#CCCCCC"> coming from</font>
+
+89
+00:02:41,500 --> 00:02:43,390
+I give<font color="#E5E5E5"> them kudos obviously for me on my</font>
+
+90
+00:02:43,390 --> 00:02:44,920
+end I've been plumbing y'all nothing
+
+91
+00:02:44,920 --> 00:02:47,680
+changed before<font color="#CCCCCC"> after I</font><font color="#E5E5E5"> think</font><font color="#CCCCCC"> Mott here</font>
+
+92
+00:02:47,680 --> 00:02:48,940
+is a little happy<font color="#CCCCCC"> cuz he's got one less</font>
+
+93
+00:02:48,940 --> 00:02:51,520
+thing<font color="#CCCCCC"> to do a day obviously I have a lot</font>
+
+94
+00:02:51,520 --> 00:02:53,350
+<font color="#CCCCCC">of fun being</font><font color="#E5E5E5"> a</font><font color="#CCCCCC"> part of that platform</font>
+
+95
+00:02:53,350 --> 00:02:55,030
+it's a great platform<font color="#E5E5E5"> and I wish those</font>
+
+96
+00:02:55,030 --> 00:02:56,680
+<font color="#CCCCCC">guys well and it helped me</font><font color="#E5E5E5"> pick up new</font>
+
+97
+00:02:56,680 --> 00:02:59,170
+fans<font color="#CCCCCC"> and that's</font><font color="#E5E5E5"> probably the downside</font>
+
+98
+00:02:59,170 --> 00:03:00,670
+but it's<font color="#E5E5E5"> really no different</font><font color="#CCCCCC"> than me</font>
+
+99
+00:03:00,670 --> 00:03:02,410
+<font color="#CCCCCC">stopping to upload</font><font color="#E5E5E5"> from YouTube I mean</font>
+
+100
+00:03:02,410 --> 00:03:04,690
+<font color="#CCCCCC">while I be</font><font color="#E5E5E5"> TV</font><font color="#CCCCCC"> com has always been the</font>
+
+101
+00:03:04,690 --> 00:03:07,000
+home and the traffic but at the<font color="#CCCCCC"> end</font><font color="#E5E5E5"> of</font>
+
+102
+00:03:07,000 --> 00:03:09,130
+the day with the real question on
+
+103
+00:03:09,130 --> 00:03:11,140
+revision3 and everybody<font color="#CCCCCC"> else is</font><font color="#E5E5E5"> why do</font>
+
+104
+00:03:11,140 --> 00:03:13,420
+<font color="#E5E5E5">people wait</font><font color="#CCCCCC"> for the tough times</font><font color="#E5E5E5"> this is</font>
+
+105
+00:03:13,420 --> 00:03:15,220
+what<font color="#E5E5E5"> I such great businesses are built</font>
+
+106
+00:03:15,220 --> 00:03:17,170
+<font color="#E5E5E5">during these times this is why I keep</font>
+
+107
+00:03:17,170 --> 00:03:19,060
+<font color="#E5E5E5">telling</font><font color="#CCCCCC"> you to go out</font><font color="#E5E5E5"> and hustle build</font>
+
+108
+00:03:19,060 --> 00:03:20,680
+something right now because<font color="#E5E5E5"> gonna be</font>
+
+109
+00:03:20,680 --> 00:03:22,780
+making really<font color="#E5E5E5"> shrewd and sharp business</font>
+
+110
+00:03:22,780 --> 00:03:24,880
+decisions with real ways to monetize
+
+111
+00:03:24,880 --> 00:03:26,530
+because there's not stupid money being
+
+112
+00:03:26,530 --> 00:03:28,450
+flowed around or stupid theories or
+
+113
+00:03:28,450 --> 00:03:30,190
+stupid decisions<font color="#E5E5E5"> people</font><font color="#CCCCCC"> are tightened up</font>
+
+114
+00:03:30,190 --> 00:03:31,660
+which means<font color="#E5E5E5"> that it's gonna be tighter</font>
+
+115
+00:03:31,660 --> 00:03:33,280
+stronger and better from<font color="#CCCCCC"> a business</font>
+
+116
+00:03:33,280 --> 00:03:34,870
+model<font color="#CCCCCC"> so kudos to</font><font color="#E5E5E5"> revision3 and</font><font color="#CCCCCC"> i hope</font>
+
+117
+00:03:34,870 --> 00:03:36,280
+other<font color="#CCCCCC"> people</font><font color="#E5E5E5"> are gonna start making</font>
+
+118
+00:03:36,280 --> 00:03:38,170
+really smart decisions<font color="#E5E5E5"> because that's</font>
+
+119
+00:03:38,170 --> 00:03:41,470
+how<font color="#E5E5E5"> you win and you know that's it make</font>
+
+120
+00:03:41,470 --> 00:03:43,270
+smart decisions<font color="#CCCCCC"> whether the economy</font><font color="#E5E5E5"> is</font>
+
+121
+00:03:43,270 --> 00:00:00,000
+good or bad
+

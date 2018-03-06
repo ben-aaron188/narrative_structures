@@ -1,0 +1,284 @@
+1
+00:00:07,130 --> 00:00:12,710
+today begins<font color="#CCCCCC"> with a special announcement</font>
+
+2
+00:00:12,710 --> 00:00:15,889
+[Music]
+
+3
+00:00:17,240 --> 00:00:21,810
+so tomorrow November<font color="#CCCCCC"> 8 2016 is election</font>
+
+4
+00:00:21,810 --> 00:00:25,019
+<font color="#CCCCCC">day here</font><font color="#E5E5E5"> in the US of A and that's a big</font>
+
+5
+00:00:25,019 --> 00:00:25,380
+day
+
+6
+00:00:25,380 --> 00:00:27,000
+now maybe you're like me<font color="#E5E5E5"> you're a little</font>
+
+7
+00:00:27,000 --> 00:00:28,289
+bit sick of this<font color="#CCCCCC"> election you're a</font>
+
+8
+00:00:28,289 --> 00:00:29,939
+little bit sick of<font color="#E5E5E5"> the news coverage of</font>
+
+9
+00:00:29,939 --> 00:00:31,380
+<font color="#E5E5E5">this election</font><font color="#CCCCCC"> and you want to hear</font><font color="#E5E5E5"> from</font>
+
+10
+00:00:31,380 --> 00:00:33,059
+real<font color="#E5E5E5"> people about who and why they're</font>
+
+11
+00:00:33,059 --> 00:00:35,430
+<font color="#CCCCCC">voting for so ok all this</font><font color="#E5E5E5"> came together</font>
+
+12
+00:00:35,430 --> 00:00:37,020
+in like<font color="#E5E5E5"> the last week by</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> way so bear</font>
+
+13
+00:00:37,020 --> 00:00:39,960
+with<font color="#CCCCCC"> me here</font><font color="#E5E5E5"> but the beam squad the team</font>
+
+14
+00:00:39,960 --> 00:00:42,540
+at beam<font color="#CCCCCC"> we wanted</font><font color="#E5E5E5"> to build something</font>
+
+15
+00:00:42,540 --> 00:00:44,399
+that<font color="#E5E5E5"> like made it easy for you to</font><font color="#CCCCCC"> share</font>
+
+16
+00:00:44,399 --> 00:00:46,320
+who you<font color="#E5E5E5"> voted for and your thoughts in</font>
+
+17
+00:00:46,320 --> 00:00:48,600
+the election<font color="#E5E5E5"> things like that so we</font>
+
+18
+00:00:48,600 --> 00:00:50,910
+built this kind<font color="#E5E5E5"> of cool app on Android</font>
+
+19
+00:00:50,910 --> 00:00:51,780
+and iOS
+
+20
+00:00:51,780 --> 00:00:55,199
+it's called<font color="#E5E5E5"> exit poll live</font><font color="#CCCCCC"> and basically</font>
+
+21
+00:00:55,199 --> 00:00:57,210
+what it lets<font color="#E5E5E5"> you do is like after you</font>
+
+22
+00:00:57,210 --> 00:00:58,590
+voted before<font color="#E5E5E5"> you</font><font color="#CCCCCC"> vote it if you're</font>
+
+23
+00:00:58,590 --> 00:00:59,820
+thinking<font color="#CCCCCC"> of voting whatever you're gonna</font>
+
+24
+00:00:59,820 --> 00:01:02,100
+<font color="#CCCCCC">do</font><font color="#E5E5E5"> you like</font><font color="#CCCCCC"> say who you're voting for</font>
+
+25
+00:01:02,100 --> 00:01:04,830
+<font color="#E5E5E5">whether it's Trump or Clinton</font><font color="#CCCCCC"> or a third</font>
+
+26
+00:01:04,830 --> 00:01:06,510
+party<font color="#E5E5E5"> candidate or somebody who wrote in</font>
+
+27
+00:01:06,510 --> 00:01:09,030
+and<font color="#E5E5E5"> then for like 60 seconds 30 seconds</font>
+
+28
+00:01:09,030 --> 00:01:10,590
+you just<font color="#E5E5E5"> say in a little video why you</font>
+
+29
+00:01:10,590 --> 00:01:12,900
+picked that candidate then all those
+
+30
+00:01:12,900 --> 00:01:15,659
+videos get sent<font color="#CCCCCC"> into</font><font color="#E5E5E5"> like this gigantic</font>
+
+31
+00:01:15,659 --> 00:01:18,180
+<font color="#E5E5E5">feed of people sharing their opinions</font>
+
+32
+00:01:18,180 --> 00:01:19,710
+<font color="#E5E5E5">and if you like our page on Facebook</font>
+
+33
+00:01:19,710 --> 00:01:21,390
+that constant feed of people sharing
+
+34
+00:01:21,390 --> 00:01:23,280
+their perspectives<font color="#CCCCCC"> on</font><font color="#E5E5E5"> the election will</font>
+
+35
+00:01:23,280 --> 00:01:25,049
+show up in your Facebook feed<font color="#CCCCCC"> I hope</font>
+
+36
+00:01:25,049 --> 00:01:26,430
+that makes sense<font color="#CCCCCC"> cuz it was</font><font color="#E5E5E5"> like a lot</font>
+
+37
+00:01:26,430 --> 00:01:29,280
+<font color="#E5E5E5">to figure out the app is super stupid</font>
+
+38
+00:01:29,280 --> 00:01:33,229
+basic first download it
+
+39
+00:01:35,750 --> 00:01:38,840
+[Music]
+
+40
+00:01:47,870 --> 00:01:49,390
+[Music]
+
+41
+00:01:49,390 --> 00:01:52,250
+then you<font color="#E5E5E5"> open it it looks like this then</font>
+
+42
+00:01:52,250 --> 00:01:53,540
+<font color="#CCCCCC">you get here</font><font color="#E5E5E5"> you just click on who you</font>
+
+43
+00:01:53,540 --> 00:01:55,729
+voted for<font color="#CCCCCC"> I will show you</font><font color="#E5E5E5"> question mark</font>
+
+44
+00:01:55,729 --> 00:01:57,920
+<font color="#E5E5E5">head to keep this video neutral and then</font>
+
+45
+00:01:57,920 --> 00:01:58,880
+you're here and<font color="#E5E5E5"> you're just trying</font><font color="#CCCCCC"> to</font>
+
+46
+00:01:58,880 --> 00:02:00,770
+<font color="#E5E5E5">give a little recording like</font><font color="#CCCCCC"> ah click</font>
+
+47
+00:02:00,770 --> 00:02:02,479
+<font color="#CCCCCC">Submit and</font><font color="#E5E5E5"> that's it and then it uploads</font>
+
+48
+00:02:02,479 --> 00:02:05,000
+to the entire stream of<font color="#E5E5E5"> people sharing</font>
+
+49
+00:02:05,000 --> 00:02:08,869
+who they voted<font color="#CCCCCC"> for</font><font color="#E5E5E5"> here's the exit poll</font>
+
+50
+00:02:08,869 --> 00:02:11,420
+page just<font color="#CCCCCC"> click like</font><font color="#E5E5E5"> and here you'll see</font>
+
+51
+00:02:11,420 --> 00:02:13,820
+<font color="#E5E5E5">like our awesome</font><font color="#CCCCCC"> live feed of all</font><font color="#E5E5E5"> the</font>
+
+52
+00:02:13,820 --> 00:02:16,070
+<font color="#E5E5E5">people sharing all of their perspectives</font>
+
+53
+00:02:16,070 --> 00:02:17,870
+on<font color="#E5E5E5"> who they voted</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> I hope that makes</font>
+
+54
+00:02:17,870 --> 00:02:18,320
+<font color="#E5E5E5">sense</font>
+
+55
+00:02:18,320 --> 00:02:20,360
+<font color="#E5E5E5">this</font><font color="#CCCCCC"> apps</font><font color="#E5E5E5"> really only good for like one</font>
+
+56
+00:02:20,360 --> 00:02:22,550
+day<font color="#E5E5E5"> which is tomorrow</font><font color="#CCCCCC"> I hope you have an</font>
+
+57
+00:02:22,550 --> 00:02:23,810
+<font color="#CCCCCC">opportunity</font><font color="#E5E5E5"> to download</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> and play with</font>
+
+58
+00:02:23,810 --> 00:02:26,690
+<font color="#CCCCCC">it</font><font color="#E5E5E5"> and share your perspectives also I</font>
+
+59
+00:02:26,690 --> 00:02:28,400
+know a lot of you viewers<font color="#E5E5E5"> are under the</font>
+
+60
+00:02:28,400 --> 00:02:29,660
+<font color="#CCCCCC">age of</font><font color="#E5E5E5"> 18 you're not going to be able to</font>
+
+61
+00:02:29,660 --> 00:02:30,950
+<font color="#E5E5E5">vote I know a lot of you are</font>
+
+62
+00:02:30,950 --> 00:02:32,630
+international<font color="#CCCCCC"> and you can't vote here in</font>
+
+63
+00:02:32,630 --> 00:02:34,400
+<font color="#E5E5E5">the States</font><font color="#CCCCCC"> certainly feel free to use it</font>
+
+64
+00:02:34,400 --> 00:02:36,440
+<font color="#E5E5E5">share your opinion on this insane</font>
+
+65
+00:02:36,440 --> 00:02:38,360
+election and<font color="#E5E5E5"> yeah it will be shared with</font>
+
+66
+00:02:38,360 --> 00:02:40,580
+everybody<font color="#E5E5E5"> watching</font><font color="#CCCCCC"> the exit poll live</font>
+
+67
+00:02:40,580 --> 00:02:47,630
+feed<font color="#E5E5E5"> all day on Election Day the links</font>
+
+68
+00:02:47,630 --> 00:02:49,220
+for the apps<font color="#CCCCCC"> in</font><font color="#E5E5E5"> the link to our Facebook</font>
+
+69
+00:02:49,220 --> 00:02:50,320
+page
+
+70
+00:02:50,320 --> 00:02:51,770
+<font color="#E5E5E5">right below</font>
+
+71
+00:02:51,770 --> 00:00:00,000
+[Music]
+

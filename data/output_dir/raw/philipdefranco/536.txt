@@ -1,0 +1,908 @@
+1
+00:00:00,030 --> 00:00:02,460
+<font color="#CCCCCC">alright let me</font><font color="#E5E5E5"> introduce our guests at</font>
+
+2
+00:00:02,460 --> 00:00:04,259
+this virtual round table near your
+
+3
+00:00:04,259 --> 00:00:06,899
+<font color="#CCCCCC">fireside chat</font><font color="#E5E5E5"> Guy Kawasaki</font><font color="#CCCCCC"> he's an</font>
+
+4
+00:00:06,899 --> 00:00:09,000
+author and a technology<font color="#CCCCCC"> expert living in</font>
+
+5
+00:00:09,000 --> 00:00:13,290
+Palo Alto<font color="#E5E5E5"> California</font><font color="#CCCCCC"> morning hey guy boy</font>
+
+6
+00:00:13,290 --> 00:00:15,630
+<font color="#CCCCCC">DeFranco</font><font color="#E5E5E5"> who's a media entrepreneur and</font>
+
+7
+00:00:15,630 --> 00:00:17,310
+popular host<font color="#E5E5E5"> of the Phil DeFranco show</font>
+
+8
+00:00:17,310 --> 00:00:19,529
+on YouTube which I'm sure you watch mr.
+
+9
+00:00:19,529 --> 00:00:21,660
+Biden<font color="#E5E5E5"> well I actually have seen you</font><font color="#CCCCCC"> I</font>
+
+10
+00:00:21,660 --> 00:00:29,250
+wish I had your hair<font color="#CCCCCC"> yes mr. vice</font>
+
+11
+00:00:29,250 --> 00:00:32,219
+<font color="#E5E5E5">president</font><font color="#CCCCCC"> the 1994 violent criminal or</font>
+
+12
+00:00:32,219 --> 00:00:33,960
+violent<font color="#E5E5E5"> crime control in</font><font color="#CCCCCC"> law enforcement</font>
+
+13
+00:00:33,960 --> 00:00:36,410
+<font color="#E5E5E5">Act known as the</font><font color="#CCCCCC"> assault weapons ban</font>
+
+14
+00:00:36,410 --> 00:00:39,030
+<font color="#CCCCCC">expired because</font><font color="#E5E5E5"> it was proven to</font><font color="#CCCCCC"> be</font>
+
+15
+00:00:39,030 --> 00:00:40,680
+ineffective at reducing violent<font color="#CCCCCC"> crime</font>
+
+16
+00:00:40,680 --> 00:00:43,410
+and according<font color="#E5E5E5"> to FBI Govs violent crime</font>
+
+17
+00:00:43,410 --> 00:00:45,809
+stats<font color="#E5E5E5"> assault weapons as defined by the</font>
+
+18
+00:00:45,809 --> 00:00:48,360
+bill<font color="#CCCCCC"> account for less than 1% of</font>
+
+19
+00:00:48,360 --> 00:00:50,340
+homicides annually in fact that's less
+
+20
+00:00:50,340 --> 00:00:53,280
+than hammer<font color="#E5E5E5"> murders so my question is</font>
+
+21
+00:00:53,280 --> 00:00:55,020
+what<font color="#E5E5E5"> reasonable measures can we</font>
+
+22
+00:00:55,020 --> 00:00:56,550
+implement<font color="#CCCCCC"> that might reduce the loss of</font>
+
+23
+00:00:56,550 --> 00:00:58,230
+life<font color="#E5E5E5"> as opposed to repeating the same</font>
+
+24
+00:00:58,230 --> 00:01:00,170
+failed laws of previous administrations
+
+25
+00:01:00,170 --> 00:01:02,309
+<font color="#CCCCCC">let me set the record straight in your</font>
+
+26
+00:01:02,309 --> 00:01:04,409
+question it did not expire because<font color="#E5E5E5"> it</font>
+
+27
+00:01:04,409 --> 00:01:07,380
+proved ineffective<font color="#CCCCCC"> it expired</font><font color="#E5E5E5"> because it</font>
+
+28
+00:01:07,380 --> 00:01:10,290
+had to be reauthorized<font color="#E5E5E5"> in</font><font color="#CCCCCC"> 10 years</font><font color="#E5E5E5"> when</font>
+
+29
+00:01:10,290 --> 00:01:12,540
+<font color="#CCCCCC">I originally wrote the legislation only</font>
+
+30
+00:01:12,540 --> 00:01:15,210
+to get asked there was an<font color="#E5E5E5"> agreement that</font>
+
+31
+00:01:15,210 --> 00:01:17,580
+it would have a<font color="#E5E5E5"> year life and have to be</font>
+
+32
+00:01:17,580 --> 00:01:20,180
+<font color="#CCCCCC">reauthorized</font><font color="#E5E5E5"> and the last administration</font>
+
+33
+00:01:20,180 --> 00:01:23,729
+<font color="#E5E5E5">chose not to seek reauthorization that's</font>
+
+34
+00:01:23,729 --> 00:01:24,509
+number one
+
+35
+00:01:24,509 --> 00:01:27,240
+<font color="#CCCCCC">number two it is</font><font color="#E5E5E5"> true that the vast</font>
+
+36
+00:01:27,240 --> 00:01:29,520
+<font color="#E5E5E5">majority of gun</font><font color="#CCCCCC"> deaths</font><font color="#E5E5E5"> in America are</font>
+
+37
+00:01:29,520 --> 00:01:32,280
+not<font color="#E5E5E5"> a consequence of the use of an</font>
+
+38
+00:01:32,280 --> 00:01:34,470
+<font color="#E5E5E5">assault weapon but that begs the issue</font>
+
+39
+00:01:34,470 --> 00:01:36,450
+of whether<font color="#CCCCCC"> or</font><font color="#E5E5E5"> not assault weapons have</font>
+
+40
+00:01:36,450 --> 00:01:40,130
+any real utility<font color="#E5E5E5"> either a in terms of</font>
+
+41
+00:01:40,130 --> 00:01:43,320
+any any sporting or self-protection
+
+42
+00:01:43,320 --> 00:01:46,649
+needs that look as you know the Supreme
+
+43
+00:01:46,649 --> 00:01:49,950
+<font color="#CCCCCC">Court recently ruled that it is that is</font>
+
+44
+00:01:49,950 --> 00:01:53,040
+an individual<font color="#E5E5E5"> right to bear arms an</font>
+
+45
+00:01:53,040 --> 00:01:54,659
+individual right<font color="#E5E5E5"> that used to be a</font>
+
+46
+00:01:54,659 --> 00:01:56,939
+debate<font color="#CCCCCC"> no</font><font color="#E5E5E5"> longer is a debate and I've</font>
+
+47
+00:01:56,939 --> 00:01:58,829
+<font color="#E5E5E5">just had that position my whole career</font>
+
+48
+00:01:58,829 --> 00:02:01,290
+number two they<font color="#CCCCCC"> said though that there</font>
+
+49
+00:02:01,290 --> 00:02:03,450
+in his<font color="#E5E5E5"> constitutional put reasonable</font>
+
+50
+00:02:03,450 --> 00:02:06,360
+limitations on who can<font color="#E5E5E5"> own and what kind</font>
+
+51
+00:02:06,360 --> 00:02:08,459
+of arms can be owned now one of<font color="#E5E5E5"> the</font>
+
+52
+00:02:08,459 --> 00:02:09,840
+reasons<font color="#CCCCCC"> why the assault weapons ban</font>
+
+53
+00:02:09,840 --> 00:02:12,360
+makes sense<font color="#E5E5E5"> even though it accounts</font><font color="#CCCCCC"> for</font>
+
+54
+00:02:12,360 --> 00:02:13,280
+a small
+
+55
+00:02:13,280 --> 00:02:15,350
+percentage of<font color="#E5E5E5"> the murders or those who</font>
+
+56
+00:02:15,350 --> 00:02:17,720
+<font color="#E5E5E5">died</font><font color="#CCCCCC"> as a consequence of a weapon every</font>
+
+57
+00:02:17,720 --> 00:02:20,890
+year<font color="#E5E5E5"> is because police organizations</font>
+
+58
+00:02:20,890 --> 00:02:23,510
+overwhelmingly support it because<font color="#CCCCCC"> they</font>
+
+59
+00:02:23,510 --> 00:02:26,930
+get outgunned<font color="#CCCCCC"> they are outgunned on the</font>
+
+60
+00:02:26,930 --> 00:02:29,420
+street<font color="#E5E5E5"> by the bad guys and the</font>
+
+61
+00:02:29,420 --> 00:02:32,420
+proliferation<font color="#E5E5E5"> of these weapons when in</font>
+
+62
+00:02:32,420 --> 00:02:35,690
+fact there were fewer police<font color="#E5E5E5"> being</font>
+
+63
+00:02:35,690 --> 00:02:38,360
+murdered fewer police being victimized
+
+64
+00:02:38,360 --> 00:02:41,239
+<font color="#E5E5E5">being outgunned when the assault weapons</font>
+
+65
+00:02:41,239 --> 00:02:44,420
+<font color="#CCCCCC">ban in fact was</font><font color="#E5E5E5"> in existence when it</font>
+
+66
+00:02:44,420 --> 00:02:47,269
+been the number<font color="#E5E5E5"> of assaults on police</font>
+
+67
+00:02:47,269 --> 00:02:49,970
+officers<font color="#CCCCCC"> and the deadly</font><font color="#E5E5E5"> assault some has</font>
+
+68
+00:02:49,970 --> 00:02:53,450
+gone up<font color="#E5E5E5"> since the ban has been lifted</font><font color="#CCCCCC"> it</font>
+
+69
+00:02:53,450 --> 00:02:56,269
+is<font color="#CCCCCC"> not an answer to all the problems but</font>
+
+70
+00:02:56,269 --> 00:02:58,970
+it's<font color="#CCCCCC"> irrational in my view</font><font color="#E5E5E5"> a rational</font>
+
+71
+00:02:58,970 --> 00:03:02,360
+limitation on the on what type of
+
+72
+00:03:02,360 --> 00:03:04,819
+weapons should<font color="#CCCCCC"> beyond</font><font color="#E5E5E5"> could be</font><font color="#CCCCCC"> owned and</font>
+
+73
+00:03:04,819 --> 00:03:08,060
+and<font color="#E5E5E5"> mr. Biden when you say the rational</font>
+
+74
+00:03:08,060 --> 00:03:10,100
+<font color="#E5E5E5">what would you say to people saying that</font>
+
+75
+00:03:10,100 --> 00:03:12,110
+some<font color="#E5E5E5"> of this legislation</font><font color="#CCCCCC"> especially</font>
+
+76
+00:03:12,110 --> 00:03:14,780
+<font color="#E5E5E5">against</font><font color="#CCCCCC"> AR when you mentioned</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> police</font>
+
+77
+00:03:14,780 --> 00:03:17,420
+deaths<font color="#CCCCCC"> it's</font><font color="#E5E5E5"> it's creating policy based</font>
+
+78
+00:03:17,420 --> 00:03:20,209
+on outliers rather than really<font color="#E5E5E5"> hitting</font>
+
+79
+00:03:20,209 --> 00:03:22,940
+the<font color="#E5E5E5"> real issue well I think look we do</font>
+
+80
+00:03:22,940 --> 00:03:24,980
+get to<font color="#CCCCCC"> the real issue and I assume fill</font>
+
+81
+00:03:24,980 --> 00:03:26,090
+<font color="#CCCCCC">up we're gonna get a chance</font><font color="#E5E5E5"> to talk</font>
+
+82
+00:03:26,090 --> 00:03:28,310
+<font color="#E5E5E5">about in this chat we do get to the real</font>
+
+83
+00:03:28,310 --> 00:03:31,160
+issue which<font color="#CCCCCC"> is the</font><font color="#E5E5E5"> vast</font><font color="#CCCCCC"> majority of</font><font color="#E5E5E5"> gun</font>
+
+84
+00:03:31,160 --> 00:03:32,890
+deaths and by the way there's been<font color="#E5E5E5"> over</font>
+
+85
+00:03:32,890 --> 00:03:36,950
+<font color="#CCCCCC">1200 just in America</font><font color="#E5E5E5"> just since what</font>
+
+86
+00:03:36,950 --> 00:03:38,650
+happened<font color="#E5E5E5"> up in Connecticut in Newtown</font>
+
+87
+00:03:38,650 --> 00:03:42,609
+<font color="#E5E5E5">but the fact of the</font><font color="#CCCCCC"> matter is</font><font color="#E5E5E5"> it does</font>
+
+88
+00:03:42,609 --> 00:03:45,560
+<font color="#E5E5E5">negatively impact upon the</font><font color="#CCCCCC"> physical</font>
+
+89
+00:03:45,560 --> 00:03:47,329
+<font color="#E5E5E5">health and</font><font color="#CCCCCC"> well-being of police officers</font>
+
+90
+00:03:47,329 --> 00:03:51,290
+and<font color="#E5E5E5"> others and it is</font><font color="#CCCCCC"> in no way</font><font color="#E5E5E5"> no way</font>
+
+91
+00:03:51,290 --> 00:03:55,459
+does it<font color="#CCCCCC"> deny or trench upon a legitimate</font>
+
+92
+00:03:55,459 --> 00:03:57,709
+restriction on the type<font color="#CCCCCC"> of weapon that</font>
+
+93
+00:03:57,709 --> 00:04:00,769
+<font color="#E5E5E5">can be owned and and and so in the end</font>
+
+94
+00:04:00,769 --> 00:04:03,680
+the courts concluded<font color="#E5E5E5"> that as well so the</font>
+
+95
+00:04:03,680 --> 00:04:06,160
+idea<font color="#CCCCCC"> that</font><font color="#E5E5E5"> it doesn't solve every problem</font>
+
+96
+00:04:06,160 --> 00:04:08,680
+<font color="#E5E5E5">although only solves part of a problem</font>
+
+97
+00:04:08,680 --> 00:04:11,000
+without trenching on<font color="#CCCCCC"> any one's</font>
+
+98
+00:04:11,000 --> 00:04:12,799
+individual rights<font color="#E5E5E5"> but because it doesn't</font>
+
+99
+00:04:12,799 --> 00:04:14,329
+<font color="#E5E5E5">solve the whole problem</font><font color="#CCCCCC"> you shouldn't do</font>
+
+100
+00:04:14,329 --> 00:04:16,220
+it<font color="#CCCCCC"> I don't buy the logic of</font><font color="#E5E5E5"> that</font>
+
+101
+00:04:16,220 --> 00:04:18,079
+so the fact I know a<font color="#E5E5E5"> lot of your folks</font>
+
+102
+00:04:18,079 --> 00:04:19,310
+were<font color="#CCCCCC"> talking about video games on your</font>
+
+103
+00:04:19,310 --> 00:04:21,918
+board as well<font color="#CCCCCC"> yeah there was there was a</font>
+
+104
+00:04:21,918 --> 00:04:24,530
+big conversation of video games<font color="#E5E5E5"> ten</font>
+
+105
+00:04:24,530 --> 00:04:26,210
+million dollars spent<font color="#E5E5E5"> into the other</font>
+
+106
+00:04:26,210 --> 00:04:27,040
+research
+
+107
+00:04:27,040 --> 00:04:29,980
+of movies<font color="#E5E5E5"> videogames violence and I</font>
+
+108
+00:04:29,980 --> 00:04:31,330
+think there is<font color="#E5E5E5"> something</font><font color="#CCCCCC"> there before</font>
+
+109
+00:04:31,330 --> 00:04:32,980
+that I did<font color="#E5E5E5"> want to hit you were talking</font>
+
+110
+00:04:32,980 --> 00:04:34,600
+<font color="#E5E5E5">about the the</font><font color="#CCCCCC"> fact</font><font color="#E5E5E5"> so I did go to</font>
+
+111
+00:04:34,600 --> 00:04:38,260
+<font color="#E5E5E5">fbi.gov</font><font color="#CCCCCC"> which I have up I think it is</font>
+
+112
+00:04:38,260 --> 00:04:40,810
+unbiased<font color="#CCCCCC"> research that has shown</font><font color="#E5E5E5"> that</font>
+
+113
+00:04:40,810 --> 00:04:43,990
+since the the assault weapon ban expired
+
+114
+00:04:43,990 --> 00:04:46,180
+while firearm sales have increased the
+
+115
+00:04:46,180 --> 00:04:49,060
+number<font color="#CCCCCC"> of murders</font><font color="#E5E5E5"> have gone down and you</font>
+
+116
+00:04:49,060 --> 00:04:51,820
+previously mentioned the 1200 firearm
+
+117
+00:04:51,820 --> 00:04:55,540
+related deaths but not assault rifles<font color="#CCCCCC"> so</font>
+
+118
+00:04:55,540 --> 00:04:57,220
+what would you say to the<font color="#CCCCCC"> people</font><font color="#E5E5E5"> that</font>
+
+119
+00:04:57,220 --> 00:04:59,530
+<font color="#CCCCCC">say yes you are</font><font color="#E5E5E5"> infringing</font><font color="#CCCCCC"> on our rights</font>
+
+120
+00:04:59,530 --> 00:05:03,190
+<font color="#E5E5E5">not for sporting or for hunting but in</font>
+
+121
+00:05:03,190 --> 00:05:05,410
+California everyone talks about<font color="#E5E5E5"> the big</font>
+
+122
+00:05:05,410 --> 00:05:07,270
+earthquake or some<font color="#E5E5E5"> terrible natural</font>
+
+123
+00:05:07,270 --> 00:05:10,000
+disaster as a last<font color="#E5E5E5"> line of defense what</font>
+
+124
+00:05:10,000 --> 00:05:11,650
+would you say to those well I would say
+
+125
+00:05:11,650 --> 00:05:13,570
+there's an awful<font color="#E5E5E5"> I you know guess what</font><font color="#CCCCCC"> a</font>
+
+126
+00:05:13,570 --> 00:05:15,540
+shotgun<font color="#CCCCCC"> I'll keep you a lot safer</font><font color="#E5E5E5"> a</font>
+
+127
+00:05:15,540 --> 00:05:18,130
+double-barrel shotgun then<font color="#CCCCCC"> there's salt</font>
+
+128
+00:05:18,130 --> 00:05:19,480
+use<font color="#E5E5E5"> that even</font><font color="#CCCCCC"> one who</font><font color="#E5E5E5"> does know how</font><font color="#CCCCCC"> to</font>
+
+129
+00:05:19,480 --> 00:05:21,850
+use it<font color="#E5E5E5"> you know it's harder to use an</font>
+
+130
+00:05:21,850 --> 00:05:23,140
+<font color="#E5E5E5">assault weapon</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> hit something</font><font color="#CCCCCC"> that</font>
+
+131
+00:05:23,140 --> 00:05:24,970
+is a shotgun<font color="#E5E5E5"> okay so you want to keep</font>
+
+132
+00:05:24,970 --> 00:05:26,620
+people<font color="#CCCCCC"> away an earthquake</font><font color="#E5E5E5"> by some</font>
+
+133
+00:05:26,620 --> 00:05:30,220
+shotgun shells<font color="#E5E5E5"> number one but animate</font>
+
+134
+00:05:30,220 --> 00:05:32,500
+and with regard to<font color="#E5E5E5"> violent crime going</font>
+
+135
+00:05:32,500 --> 00:05:34,210
+<font color="#CCCCCC">on I'm very</font><font color="#E5E5E5"> proud it went down and</font><font color="#CCCCCC"> went</font>
+
+136
+00:05:34,210 --> 00:05:35,800
+proud in large part the<font color="#CCCCCC"> reason we went</font>
+
+137
+00:05:35,800 --> 00:05:37,570
+down is we put a hundred thousand cops
+
+138
+00:05:37,570 --> 00:05:40,330
+on the street but<font color="#E5E5E5"> that didn't mean the</font>
+
+139
+00:05:40,330 --> 00:05:43,000
+cops were safer as a consequence of
+
+140
+00:05:43,000 --> 00:05:45,670
+<font color="#E5E5E5">these guns</font><font color="#CCCCCC"> the cops were less safe the</font>
+
+141
+00:05:45,670 --> 00:05:47,410
+more assault weapons were on the street
+
+142
+00:05:47,410 --> 00:05:50,380
+<font color="#E5E5E5">they don't account for even not</font><font color="#CCCCCC"> only a</font>
+
+143
+00:05:50,380 --> 00:05:52,720
+bulk they come for a small<font color="#E5E5E5"> percentage</font><font color="#CCCCCC"> of</font>
+
+144
+00:05:52,720 --> 00:05:55,360
+the gun crimes in America more people
+
+145
+00:05:55,360 --> 00:05:57,520
+more<font color="#CCCCCC"> people out there get</font><font color="#E5E5E5"> shot with a</font>
+
+146
+00:05:57,520 --> 00:06:00,820
+Glock that has a that that<font color="#E5E5E5"> has</font>
+
+147
+00:06:00,820 --> 00:06:02,830
+cartridges<font color="#CCCCCC"> that</font><font color="#E5E5E5"> you can have magazines</font>
+
+148
+00:06:02,830 --> 00:06:06,010
+<font color="#E5E5E5">that can put two ten eight twelve fifty</font>
+
+149
+00:06:06,010 --> 00:06:08,830
+<font color="#CCCCCC">two ten eight twelve fifteen thirty</font>
+
+150
+00:06:08,830 --> 00:06:09,910
+<font color="#E5E5E5">shells in it</font>
+
+151
+00:06:09,910 --> 00:06:13,390
+then from any assault weapon you see I'm
+
+152
+00:06:13,390 --> 00:06:16,410
+much<font color="#CCCCCC"> less concerned</font><font color="#E5E5E5"> quite frankly about</font>
+
+153
+00:06:16,410 --> 00:06:19,210
+<font color="#CCCCCC">what you call an assault weapon</font><font color="#E5E5E5"> than I</font>
+
+154
+00:06:19,210 --> 00:06:22,380
+am about magazines<font color="#E5E5E5"> and the number of</font>
+
+155
+00:06:22,380 --> 00:06:24,690
+rounds<font color="#CCCCCC"> that can be held in a magazine</font>
+
+156
+00:06:24,690 --> 00:06:28,300
+<font color="#CCCCCC">but</font><font color="#E5E5E5"> the point is that</font><font color="#CCCCCC"> the fact that</font>
+
+157
+00:06:28,300 --> 00:06:30,330
+violent<font color="#CCCCCC"> crime is down</font>
+
+158
+00:06:30,330 --> 00:06:32,180
+and there's been a proliferation<font color="#E5E5E5"> of</font>
+
+159
+00:06:32,180 --> 00:06:35,370
+assault weapons<font color="#E5E5E5"> quote-unquote as was</font>
+
+160
+00:06:35,370 --> 00:06:39,270
+defined up to<font color="#E5E5E5"> now on the street</font><font color="#CCCCCC"> does</font><font color="#E5E5E5"> not</font>
+
+161
+00:06:39,270 --> 00:06:42,060
+<font color="#CCCCCC">suggest that taking</font><font color="#E5E5E5"> the salt weapons off</font>
+
+162
+00:06:42,060 --> 00:06:43,979
+the<font color="#E5E5E5"> street would not in</font><font color="#CCCCCC"> fact make it</font>
+
+163
+00:06:43,979 --> 00:06:46,169
+safer particularly for the folks who are
+
+164
+00:06:46,169 --> 00:06:50,430
+<font color="#E5E5E5">mostly out gun cops and you previously</font>
+
+165
+00:06:50,430 --> 00:06:53,099
+mentioned the<font color="#CCCCCC"> the magazine sizes</font><font color="#E5E5E5"> yes so</font>
+
+166
+00:06:53,099 --> 00:06:55,199
+I guess my question<font color="#E5E5E5"> with</font><font color="#CCCCCC"> that is the the</font>
+
+167
+00:06:55,199 --> 00:06:57,150
+<font color="#E5E5E5">gunman in Connecticut fired 150 rounds</font>
+
+168
+00:06:57,150 --> 00:06:59,639
+<font color="#E5E5E5">meaning that he had to swap out his 30</font>
+
+169
+00:06:59,639 --> 00:07:01,680
+round magazines at least four times<font color="#E5E5E5"> yep</font>
+
+170
+00:07:01,680 --> 00:07:04,560
+without fast<font color="#CCCCCC"> it you</font><font color="#E5E5E5"> can swap out a</font>
+
+171
+00:07:04,560 --> 00:07:06,780
+<font color="#CCCCCC">magazine do you think limiting the the</font>
+
+172
+00:07:06,780 --> 00:07:09,419
+the magazine<font color="#E5E5E5"> size to 10</font><font color="#CCCCCC"> we'll</font><font color="#E5E5E5"> have well</font>
+
+173
+00:07:09,419 --> 00:07:12,210
+let's<font color="#CCCCCC"> assume by the way</font><font color="#E5E5E5"> your facts are</font>
+
+174
+00:07:12,210 --> 00:07:15,270
+<font color="#CCCCCC">correct about 30 he had some magazines I</font>
+
+175
+00:07:15,270 --> 00:07:17,069
+think<font color="#CCCCCC"> only had 20</font><font color="#E5E5E5"> shell but I'm not sure</font>
+
+176
+00:07:17,069 --> 00:07:19,740
+<font color="#E5E5E5">30 shells so we had to swap out</font><font color="#CCCCCC"> 4</font><font color="#E5E5E5"> or</font><font color="#CCCCCC"> 5</font>
+
+177
+00:07:19,740 --> 00:07:23,729
+times<font color="#CCCCCC"> if it was if</font><font color="#E5E5E5"> it was if it</font><font color="#CCCCCC"> was</font><font color="#E5E5E5"> 10</font>
+
+178
+00:07:23,729 --> 00:07:25,620
+<font color="#CCCCCC">Michels in there he would have</font><font color="#E5E5E5"> had to</font>
+
+179
+00:07:25,620 --> 00:07:28,139
+swap out 30 times or he would have
+
+180
+00:07:28,139 --> 00:07:31,469
+<font color="#E5E5E5">stopped</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> had to stop out 25 times</font>
+
+181
+00:07:31,469 --> 00:07:34,409
+and so what would<font color="#E5E5E5"> happen is the</font><font color="#CCCCCC"> response</font>
+
+182
+00:07:34,409 --> 00:07:38,699
+time in fact may have saved one kid's
+
+183
+00:07:38,699 --> 00:07:41,460
+life<font color="#E5E5E5"> maybe if we took longer maybe one</font>
+
+184
+00:07:41,460 --> 00:07:43,259
+more kid would be<font color="#E5E5E5"> alive but let me give</font>
+
+185
+00:07:43,259 --> 00:07:46,169
+you an<font color="#CCCCCC"> example</font><font color="#E5E5E5"> in</font><font color="#CCCCCC"> the in the case of</font>
+
+186
+00:07:46,169 --> 00:07:49,680
+Gabby<font color="#E5E5E5"> Giffords when the guy had to swap</font>
+
+187
+00:07:49,680 --> 00:07:53,819
+out a new<font color="#CCCCCC"> magazine</font><font color="#E5E5E5"> he fumbled he fumbled</font>
+
+188
+00:07:53,819 --> 00:07:56,190
+and he was able<font color="#E5E5E5"> and an older woman</font>
+
+189
+00:07:56,190 --> 00:07:58,169
+reached up and grabbed his hand and<font color="#E5E5E5"> they</font>
+
+190
+00:07:58,169 --> 00:08:00,509
+<font color="#CCCCCC">subdued him all of them would have</font><font color="#E5E5E5"> been</font>
+
+191
+00:08:00,509 --> 00:08:03,090
+<font color="#E5E5E5">dead had he not had</font><font color="#CCCCCC"> to change that</font>
+
+192
+00:08:03,090 --> 00:08:05,580
+magazine<font color="#E5E5E5"> had there been 30 clips in that</font>
+
+193
+00:08:05,580 --> 00:08:07,409
+magazine<font color="#CCCCCC"> or 40 clips in that magazine</font>
+
+194
+00:08:07,409 --> 00:08:10,139
+<font color="#CCCCCC">the same way with Aurora a guy had a</font>
+
+195
+00:08:10,139 --> 00:08:12,469
+hundred shells in the magazine
+
+196
+00:08:12,469 --> 00:08:15,690
+<font color="#E5E5E5">fortunately</font><font color="#CCCCCC"> it jammed</font><font color="#E5E5E5"> it jammed enough</font>
+
+197
+00:08:15,690 --> 00:08:18,360
+that it gave time for<font color="#CCCCCC"> folks to</font><font color="#E5E5E5"> get there</font>
+
+198
+00:08:18,360 --> 00:08:20,940
+and<font color="#E5E5E5"> in fact save lives</font>
+
+199
+00:08:20,940 --> 00:08:22,949
+so look I'm<font color="#E5E5E5"> not making the argument</font><font color="#CCCCCC"> that</font>
+
+200
+00:08:22,949 --> 00:08:25,800
+<font color="#E5E5E5">this will end crime or this is I make</font>
+
+201
+00:08:25,800 --> 00:08:28,650
+the argument<font color="#CCCCCC"> this</font><font color="#E5E5E5"> way there is</font><font color="#CCCCCC"> no</font>
+
+202
+00:08:28,650 --> 00:08:31,440
+sporting need that I'm aware<font color="#CCCCCC"> of to have</font>
+
+203
+00:08:31,440 --> 00:08:35,130
+a magazine<font color="#E5E5E5"> that holds 50 rounds</font><font color="#CCCCCC"> none</font><font color="#E5E5E5"> the</font>
+
+204
+00:08:35,130 --> 00:08:38,159
+normal<font color="#CCCCCC"> wear and I'm a sportsman</font><font color="#E5E5E5"> number</font>
+
+205
+00:08:38,159 --> 00:08:42,000
+one number<font color="#CCCCCC"> two there is no diminution of</font>
+
+206
+00:08:42,000 --> 00:08:43,270
+your ability to physic
+
+207
+00:08:43,270 --> 00:08:46,000
+protect yourself<font color="#E5E5E5"> having</font><font color="#CCCCCC"> ten clips in a</font>
+
+208
+00:08:46,000 --> 00:08:46,540
+<font color="#CCCCCC">round</font>
+
+209
+00:08:46,540 --> 00:08:48,340
+I mean having<font color="#E5E5E5"> ten rounds in a clip</font>
+
+210
+00:08:48,340 --> 00:08:50,410
+<font color="#E5E5E5">instead</font><font color="#CCCCCC"> of thirty</font><font color="#E5E5E5"> or</font><font color="#CCCCCC"> forty rounds and</font>
+
+211
+00:08:50,410 --> 00:08:52,720
+what it does do now<font color="#E5E5E5"> for a professional</font>
+
+212
+00:08:52,720 --> 00:08:54,640
+<font color="#CCCCCC">it only takes you you go to</font><font color="#E5E5E5"> the FBI</font>
+
+213
+00:08:54,640 --> 00:08:58,180
+<font color="#CCCCCC">you'll just</font><font color="#E5E5E5"> just show</font><font color="#CCCCCC"> it takes a second</font>
+
+214
+00:08:58,180 --> 00:09:00,880
+<font color="#E5E5E5">and three quarters for a pro to change</font>
+
+215
+00:09:00,880 --> 00:09:03,370
+the clip<font color="#E5E5E5"> but not the not now at least</font>
+
+216
+00:09:03,370 --> 00:09:05,830
+<font color="#CCCCCC">fifty</font><font color="#E5E5E5"> people are pros and so if you just</font>
+
+217
+00:09:05,830 --> 00:09:08,890
+<font color="#CCCCCC">give another</font><font color="#E5E5E5"> if it took another you know</font>
+
+218
+00:09:08,890 --> 00:09:10,840
+<font color="#E5E5E5">a minute and a half two minutes</font>
+
+219
+00:09:10,840 --> 00:09:13,630
+who knows who who who else might<font color="#E5E5E5"> have</font>
+
+220
+00:09:13,630 --> 00:09:15,850
+been alive<font color="#CCCCCC"> and those kids</font><font color="#E5E5E5"> may be alive</font>
+
+221
+00:09:15,850 --> 00:09:18,640
+some of them<font color="#E5E5E5"> mr. vice president</font>
+
+222
+00:09:18,640 --> 00:09:20,890
+we're out of time thank<font color="#CCCCCC"> you very much</font>
+
+223
+00:09:20,890 --> 00:09:22,750
+<font color="#E5E5E5">for your time thank you on behalf of all</font>
+
+224
+00:09:22,750 --> 00:09:25,450
+of us<font color="#CCCCCC"> I appreciate very much write your</font>
+
+225
+00:09:25,450 --> 00:09:27,940
+<font color="#E5E5E5">Congressman or again write your</font>
+
+226
+00:09:27,940 --> 00:09:31,480
+Congressman<font color="#CCCCCC"> all right</font><font color="#E5E5E5"> all right</font><font color="#CCCCCC"> bye-bye</font>
+
+227
+00:09:31,480 --> 00:00:00,000
+thanks a<font color="#E5E5E5"> lot everybody</font>
+

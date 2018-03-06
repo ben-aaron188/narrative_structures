@@ -1,0 +1,121 @@
+alright so we're going to go to a new
+project and I know we want it to be 25
+seconds because I've already previewed
+the clip broadcast nada 29.97 frames per
+second that's good all right so what we
+have to do now is bring in the clip that
+I use and you just drag it from your
+browser into your list of layers want to
+fit it now I need to trim the clip to
+where i'm going to use me because
+Veronica didn't do very well so let's
+just slide this
+it's going to keep sliding it
+this probably work better if you trim
+the clip before you bring it in I'm just
+trying to do this quickly
+all right there I go I'm like to hell
+with this I'm going to do it all right
+so right about here we're going to drag
+that over to the beginning and if i push
+play
+there's my awesome acting what is this
+what is that it's me frozen Oh like a
+ninja all right all right so we know we
+got what we want inside our art play
+area so now we need to do is copy this
+group so can command g-man G whoops I'm
+sorry I'm sorry its command D for
+duplicate and now so that layers on the
+top and just for namesake let's put this
+as freeze oh let me learn how to spell
+real quick okay alright so now we need
+to scrub forward to the frame that I
+want to freeze and use your forward and
+back keys to find the best slipping
+frame like that's the one
+ah so that's that frame 441 so go to the
+inspector properties go down to timing
+we're going to say that endpoint is at
+441 okay and you actually want to select
+the actual footage instead of the whole
+group change the speed to zero and
+change the end condition to hold now
+what we'll do is we'll drag this back to
+the beginning so it shows up at the very
+beginning of our clip now we haven't
+mast anything yet so this is essentially
+to video layers on top of each other so
+if I hide the original layer there's
+nothing below now if you see if I show
+the original layer then you can see that
+there's just basically two layers on top
+of each other alright so now what I want
+to do is make sure the play heads at
+frame one and I want to do a mask click
+and hold and get the busy a mask tool
+and this is we're going to mask out the
+figure where I'm frozen in the air and
+going to do this kind of roughly because
+it can take take a little bit of time if
+you hit command + and then scroll you
+can get a closer look at it
+so just start masking don't go all the
+way to the edge because we're going to
+feather it and I'm just going to do this
+kind of roughly olives
+we have started good I messed up be
+careful not to double-click the points
+because then it will close your path and
+that wasn't damask the path that we walk
+and you can see it's kind of blurry ah
+that's probably because I was in motion
+I was moving pretty fast and I'm pretty
+sure the camera was set to film at 30
+frames per second so with quick emotion
+you're going to get a lot of blur at 30
+frames per second I should have probably
+changed it to 60
+I'm going to go ahead and do this real
+quick and come back to you guys when I'm
+finished
+I wasn't
+alright so now that we've went through
+and we've added all the points for our
+mask I pro should do this little area up
+here you can see that but I know that in
+the original clip I won't pass over that
+and it's a still shot so you really
+won't be able to tell the difference
+alright so let's fit that to the window
+and now if we scrub forward you can see
+the original clip underneath with my bad
+acting you can see me ha let's let that
+play
+nope alright so now we want to go back
+to the point where am i where I line up
+to that shot that we froze that frame
+that we froze it to so that's it right
+there and if you just hit make sure this
+group is selected hit 0 for the out
+point and then that layer will disappear
+and one thing I wanted to do too is add
+a feather to that mass so click the math
+and get your heads up display and let's
+feather that a bit let's hide that group
+so we can see the effect better
+alright that looks that looks good right
+there I like that
+alright so let's show the whole group
+and let's play it back from the
+beginning
+yeah yeah all right one thing I noticed
+too is real quick I want to select this
+group and go to drop shadow let's give
+it a drop shadow to help add to the
+realism let's throw it way out there
+there we go little blur
+so it's really subtle but I think it
+works well let's watch it again
+all right awesome
+you

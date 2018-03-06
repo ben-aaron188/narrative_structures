@@ -1,0 +1,188 @@
+1
+00:00:00,030 --> 00:00:01,920
+hello everybody<font color="#CCCCCC"> this is Gary Vaynerchuk</font>
+
+2
+00:00:01,920 --> 00:00:05,670
+and this is my<font color="#CCCCCC"> 120 and first I</font><font color="#E5E5E5"> want</font><font color="#CCCCCC"> to</font>
+
+3
+00:00:05,670 --> 00:00:07,290
+tell you what my 120 is there's been
+
+4
+00:00:07,290 --> 00:00:09,000
+<font color="#CCCCCC">some confusion a lot of people think</font>
+
+5
+00:00:09,000 --> 00:00:10,679
+it's a minute<font color="#E5E5E5"> and 20 seconds but it's a</font>
+
+6
+00:00:10,679 --> 00:00:13,130
+<font color="#E5E5E5">hundred and</font><font color="#CCCCCC"> twenty seconds which is</font><font color="#E5E5E5"> two</font>
+
+7
+00:00:13,130 --> 00:00:16,710
+minutes<font color="#CCCCCC"> today I'm doing my 120 I'm just</font>
+
+8
+00:00:16,710 --> 00:00:18,779
+lounging I'm kind of tired<font color="#CCCCCC"> I don't know</font>
+
+9
+00:00:18,779 --> 00:00:19,800
+if anybody else<font color="#E5E5E5"> is tired I've been</font>
+
+10
+00:00:19,800 --> 00:00:21,480
+traveling a lot<font color="#CCCCCC"> just</font><font color="#E5E5E5"> got back from</font>
+
+11
+00:00:21,480 --> 00:00:23,039
+Virginia speaking<font color="#CCCCCC"> of the new new</font>
+
+12
+00:00:23,039 --> 00:00:26,039
+<font color="#E5E5E5">internet had a crazy weekend</font><font color="#CCCCCC"> got a new</font>
+
+13
+00:00:26,039 --> 00:00:29,369
+MacBook<font color="#E5E5E5"> had bring it back</font><font color="#CCCCCC"> cuz</font><font color="#E5E5E5"> of the</font>
+
+14
+00:00:29,369 --> 00:00:32,058
+clicky thing<font color="#E5E5E5"> down here</font><font color="#CCCCCC"> a clicky thing</font>
+
+15
+00:00:32,058 --> 00:00:37,860
+was not working<font color="#CCCCCC"> got stuck and no origami</font>
+
+16
+00:00:37,860 --> 00:00:40,320
+star fixes yet or anything like<font color="#E5E5E5"> that so</font>
+
+17
+00:00:40,320 --> 00:00:42,390
+<font color="#CCCCCC">that that that was a headache and then</font>
+
+18
+00:00:42,390 --> 00:00:44,579
+went<font color="#CCCCCC"> to</font><font color="#E5E5E5"> the Knicks</font><font color="#CCCCCC"> game last night and I</font>
+
+19
+00:00:44,579 --> 00:00:45,930
+don't<font color="#CCCCCC"> know if anybody else is tired out</font>
+
+20
+00:00:45,930 --> 00:00:47,550
+there I'm<font color="#E5E5E5"> just curious if anybody else</font>
+
+21
+00:00:47,550 --> 00:00:50,940
+is<font color="#CCCCCC"> really tired of tape five episodes</font>
+
+22
+00:00:50,940 --> 00:00:52,920
+today of WL TV and then went to<font color="#E5E5E5"> a</font>
+
+23
+00:00:52,920 --> 00:00:55,770
+<font color="#E5E5E5">meeting and I'm on my</font><font color="#CCCCCC"> way to Vegas on</font>
+
+24
+00:00:55,770 --> 00:00:58,020
+Wednesday I hope I see some people<font color="#CCCCCC"> a</font>
+
+25
+00:00:58,020 --> 00:00:59,730
+<font color="#CCCCCC">BlogWorld</font><font color="#E5E5E5"> if you're there hit me up on</font>
+
+26
+00:00:59,730 --> 00:01:03,660
+<font color="#CCCCCC">Twitter</font><font color="#E5E5E5"> Gary Vee</font><font color="#CCCCCC"> on Twitter</font><font color="#E5E5E5"> I'd love to</font>
+
+27
+00:01:03,660 --> 00:01:05,610
+meet up<font color="#CCCCCC"> and then Thursday and Friday I</font>
+
+28
+00:01:05,610 --> 00:01:09,750
+am<font color="#E5E5E5"> in LA and then I'll be home and next</font>
+
+29
+00:01:09,750 --> 00:01:12,680
+week is<font color="#CCCCCC"> my birthday I'm gonna</font><font color="#E5E5E5"> turn 32</font>
+
+30
+00:01:12,680 --> 00:01:15,780
+which is<font color="#CCCCCC"> devastating for lack of a</font>
+
+31
+00:01:15,780 --> 00:01:19,170
+<font color="#CCCCCC">better word</font><font color="#E5E5E5"> and I</font><font color="#CCCCCC"> don't know</font><font color="#E5E5E5"> just really</font>
+
+32
+00:01:19,170 --> 00:01:21,900
+happy though all<font color="#E5E5E5"> in all dead tired but</font>
+
+33
+00:01:21,900 --> 00:01:24,330
+<font color="#E5E5E5">extremely happy because</font><font color="#CCCCCC"> as long</font><font color="#E5E5E5"> as my</font>
+
+34
+00:01:24,330 --> 00:01:27,030
+<font color="#E5E5E5">parents and my sister</font><font color="#CCCCCC"> and brother</font><font color="#E5E5E5"> and</font>
+
+35
+00:01:27,030 --> 00:01:29,600
+<font color="#E5E5E5">wife and anybody</font><font color="#CCCCCC"> I care about is healthy</font>
+
+36
+00:01:29,600 --> 00:01:33,600
+<font color="#E5E5E5">are great and happy</font><font color="#CCCCCC"> and healthy then</font>
+
+37
+00:01:33,600 --> 00:01:35,820
+life is good<font color="#CCCCCC"> that's</font><font color="#E5E5E5"> what life is</font><font color="#CCCCCC"> all</font>
+
+38
+00:01:35,820 --> 00:01:37,170
+<font color="#E5E5E5">about the people you care about and have</font>
+
+39
+00:01:37,170 --> 00:01:38,970
+so<font color="#CCCCCC"> many</font><font color="#E5E5E5"> great friends</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> close people</font>
+
+40
+00:01:38,970 --> 00:01:41,640
+<font color="#E5E5E5">that I care about and I just really want</font>
+
+41
+00:01:41,640 --> 00:01:43,920
+<font color="#E5E5E5">to continue to video blog</font><font color="#CCCCCC"> every</font><font color="#E5E5E5"> day</font><font color="#CCCCCC"> I</font>
+
+42
+00:01:43,920 --> 00:01:47,369
+<font color="#E5E5E5">can love doing WL TV huge thank you to</font>
+
+43
+00:01:47,369 --> 00:01:48,810
+everybody who watches<font color="#E5E5E5"> and</font><font color="#CCCCCC"> I hope you</font>
+
+44
+00:01:48,810 --> 00:01:50,490
+<font color="#E5E5E5">watch garyvaynerchuk.com pass it on</font>
+
+45
+00:01:50,490 --> 00:01:52,579
+we're having<font color="#CCCCCC"> a lot</font><font color="#E5E5E5"> of fun with</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> and</font>
+
+46
+00:01:52,579 --> 00:01:57,420
+I'm tired and I'm done<font color="#E5E5E5"> I'll see</font><font color="#CCCCCC"> you soon</font>
+
+47
+00:01:57,420 --> 00:00:00,000
+on<font color="#E5E5E5"> my 120</font>
+

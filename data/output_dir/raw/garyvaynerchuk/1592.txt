@@ -1,0 +1,28 @@
+1
+00:00:00,000 --> 00:00:03,030
+<font color="#CCCCCC">I promised myself that if it ever came</font>
+
+2
+00:00:03,030 --> 00:00:05,190
+<font color="#E5E5E5">to this that I would</font><font color="#CCCCCC"> keep it short</font><font color="#E5E5E5"> and</font>
+
+3
+00:00:05,190 --> 00:00:09,719
+sweet<font color="#E5E5E5"> and so with a very heavy heart</font><font color="#CCCCCC"> I</font>
+
+4
+00:00:09,719 --> 00:00:11,969
+must<font color="#E5E5E5"> announce today effective</font>
+
+5
+00:00:11,969 --> 00:00:12,750
+<font color="#CCCCCC">immediately</font>
+
+6
+00:00:12,750 --> 00:00:15,660
+that I have<font color="#CCCCCC"> officially resigned from</font>
+
+7
+00:00:15,660 --> 00:00:00,000
+Yahoo
+

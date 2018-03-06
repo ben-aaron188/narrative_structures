@@ -18,6 +18,8 @@ def download_transcript(vlogger, id, url):
     encode = urllib.parse.quote(url, safe='')
     target_url = orig + encode
 
+    # print(target_url)
+
     http = httplib2.Http()
     status, response = http.request(target_url)
 

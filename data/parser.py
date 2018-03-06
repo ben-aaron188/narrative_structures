@@ -14,8 +14,8 @@ for folder in os.listdir("output_dir/raw"):
 
                 parsed = []
 
-                for elem in f.readlines():
-                    try:
+                try:
+                    for elem in f.readlines():
                         if "-->" not in elem:
                             elem = elem.replace("\n", "")
 
@@ -29,8 +29,8 @@ for folder in os.listdir("output_dir/raw"):
 
                             if elem != "" and not elem.isdigit():
                                 parsed.append(elem)
-                    except:
-                        print("Error for " + folder + "," + filename)
+                except:
+                    print("Error for " + folder + "," + filename)
 
             with open("output_dir/parsed/" + folder + "/" + filename, "a") as f:
                 for elem in parsed:
@@ -40,3 +40,5 @@ for folder in os.listdir("output_dir/raw"):
 
             if count % 2000 == 0:
                 print("Now at " + str(count))
+
+print("FINISHED")

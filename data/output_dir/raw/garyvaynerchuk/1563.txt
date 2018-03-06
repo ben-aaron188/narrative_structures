@@ -1,0 +1,292 @@
+1
+00:00:00,060 --> 00:00:04,500
+everybody<font color="#E5E5E5"> the wine library setting for a</font>
+
+2
+00:00:04,500 --> 00:00:07,170
+garyvaynerchuk.com<font color="#CCCCCC"> mod I'm freaking out</font>
+
+3
+00:00:07,170 --> 00:00:10,590
+<font color="#E5E5E5">uh hey how are you guys uh</font><font color="#CCCCCC"> ug be</font><font color="#E5E5E5"> calm</font>
+
+4
+00:00:10,590 --> 00:00:11,160
+video
+
+5
+00:00:11,160 --> 00:00:13,170
+I want to talk<font color="#CCCCCC"> about how old things</font>
+
+6
+00:00:13,170 --> 00:00:16,830
+shouldn't be sleep<font color="#E5E5E5"> or slept on</font><font color="#CCCCCC"> don't</font>
+
+7
+00:00:16,830 --> 00:00:19,439
+sleep on the old world moves<font color="#E5E5E5"> something</font>
+
+8
+00:00:19,439 --> 00:00:21,090
+<font color="#E5E5E5">very funny happened a couple</font><font color="#CCCCCC"> weeks</font><font color="#E5E5E5"> ago I</font>
+
+9
+00:00:21,090 --> 00:00:22,949
+finally<font color="#CCCCCC"> went out</font><font color="#E5E5E5"> got my three GS right</font>
+
+10
+00:00:22,949 --> 00:00:26,250
+<font color="#CCCCCC">and he</font><font color="#E5E5E5"> came with</font><font color="#CCCCCC"> some you</font><font color="#E5E5E5"> know apps one</font>
+
+11
+00:00:26,250 --> 00:00:28,949
+of them was called voice<font color="#E5E5E5"> memos right we</font>
+
+12
+00:00:28,949 --> 00:00:30,330
+have a guy at<font color="#E5E5E5"> vaynermedia's office by</font>
+
+13
+00:00:30,330 --> 00:00:32,880
+the name of David<font color="#E5E5E5"> Zhang who records on</font>
+
+14
+00:00:32,880 --> 00:00:36,840
+an<font color="#CCCCCC"> old-school you know</font><font color="#E5E5E5"> phone like mod</font>
+
+15
+00:00:36,840 --> 00:00:38,790
+just a silly phone he records all his
+
+16
+00:00:38,790 --> 00:00:40,410
+stuff he's a controller so we<font color="#E5E5E5"> hired him</font>
+
+17
+00:00:40,410 --> 00:00:42,270
+first so agent I would<font color="#CCCCCC"> tell him things</font>
+
+18
+00:00:42,270 --> 00:00:43,440
+and<font color="#CCCCCC"> he</font><font color="#E5E5E5"> would take out this like little</font>
+
+19
+00:00:43,440 --> 00:00:46,170
+flip<font color="#E5E5E5"> get you know</font><font color="#CCCCCC"> like 10 1994 phone I</font>
+
+20
+00:00:46,170 --> 00:00:48,480
+mean it's you know luckily<font color="#E5E5E5"> it's</font><font color="#CCCCCC"> not like</font>
+
+21
+00:00:48,480 --> 00:00:50,370
+this<font color="#E5E5E5"> kind of phone like you know that</font>
+
+22
+00:00:50,370 --> 00:00:52,440
+big but like you<font color="#CCCCCC"> know you know the ones</font>
+
+23
+00:00:52,440 --> 00:00:53,520
+for<font color="#E5E5E5"> my</font><font color="#CCCCCC"> five years</font><font color="#E5E5E5"> ago and you'd like</font>
+
+24
+00:00:53,520 --> 00:00:55,020
+record<font color="#CCCCCC"> stuff we kind of made fun</font><font color="#E5E5E5"> of him</font>
+
+25
+00:00:55,020 --> 00:00:56,760
+<font color="#E5E5E5">right like I was saying</font><font color="#CCCCCC"> dozen what do</font>
+
+26
+00:00:56,760 --> 00:00:59,190
+think it's<font color="#CCCCCC"> 99 yarn</font><font color="#E5E5E5"> then I got this and</font>
+
+27
+00:00:59,190 --> 00:01:01,260
+one<font color="#E5E5E5"> of the default apps was voice memos</font>
+
+28
+00:01:01,260 --> 00:01:04,019
+<font color="#E5E5E5">and then I was like you know AJ it just</font>
+
+29
+00:01:04,019 --> 00:01:05,729
+<font color="#CCCCCC">it hit me I was like I'm always</font>
+
+30
+00:01:05,729 --> 00:01:07,530
+forgetting<font color="#E5E5E5"> topics I'm always thinking</font>
+
+31
+00:01:07,530 --> 00:01:09,479
+<font color="#E5E5E5">and I'm always forgetting topics for</font>
+
+32
+00:01:09,479 --> 00:01:11,010
+these<font color="#E5E5E5"> garyvaynerchuk.com videos and I</font>
+
+33
+00:01:11,010 --> 00:01:12,750
+hadn't<font color="#E5E5E5"> been doing them as much as I want</font>
+
+34
+00:01:12,750 --> 00:01:13,890
+as you guys might<font color="#CCCCCC"> have noticed and</font>
+
+35
+00:01:13,890 --> 00:01:15,630
+<font color="#E5E5E5">really want to</font><font color="#CCCCCC"> get back</font><font color="#E5E5E5"> into them as you</font>
+
+36
+00:01:15,630 --> 00:01:17,520
+guys<font color="#E5E5E5"> might have noticed and I need to</font>
+
+37
+00:01:17,520 --> 00:01:20,580
+record some of<font color="#CCCCCC"> that stuff so ironically</font>
+
+38
+00:01:20,580 --> 00:01:23,520
+<font color="#CCCCCC">Maat i've been using this app and it</font>
+
+39
+00:01:23,520 --> 00:01:24,960
+made me think<font color="#CCCCCC"> like maybe</font><font color="#E5E5E5"> the pencil and</font>
+
+40
+00:01:24,960 --> 00:01:27,689
+<font color="#E5E5E5">paper isn't so bad maybe old school work</font>
+
+41
+00:01:27,689 --> 00:01:29,070
+isn't<font color="#E5E5E5"> so bad you know that's my theme</font>
+
+42
+00:01:29,070 --> 00:01:30,720
+<font color="#E5E5E5">right like maybe some</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> the old school</font>
+
+43
+00:01:30,720 --> 00:01:33,090
+<font color="#E5E5E5">stuff still works</font><font color="#CCCCCC"> and a lot of old</font>
+
+44
+00:01:33,090 --> 00:01:35,340
+<font color="#E5E5E5">school stuff is gonna work retail is</font>
+
+45
+00:01:35,340 --> 00:01:37,200
+gonna continue<font color="#CCCCCC"> to do well</font><font color="#E5E5E5"> don't be</font>
+
+46
+00:01:37,200 --> 00:01:41,159
+<font color="#E5E5E5">scared</font><font color="#CCCCCC"> uh you know events parties think</font>
+
+47
+00:01:41,159 --> 00:01:43,020
+about that business<font color="#E5E5E5"> still gonna do well</font>
+
+48
+00:01:43,020 --> 00:01:44,970
+<font color="#E5E5E5">and little things like the voice memos</font>
+
+49
+00:01:44,970 --> 00:01:46,920
+can still do<font color="#E5E5E5"> well</font><font color="#CCCCCC"> mata now look at this</font>
+
+50
+00:01:46,920 --> 00:01:48,810
+I<font color="#E5E5E5"> want you to zoom in</font><font color="#CCCCCC"> here MOT I don't</font>
+
+51
+00:01:48,810 --> 00:01:50,130
+know how good<font color="#E5E5E5"> our sound is here I'm</font>
+
+52
+00:01:50,130 --> 00:01:51,960
+gonna pull it up full blast but like for
+
+53
+00:01:51,960 --> 00:01:54,079
+<font color="#E5E5E5">example</font>
+
+54
+00:02:00,270 --> 00:02:02,049
+that's one<font color="#E5E5E5"> of the things I'm gonna do</font>
+
+55
+00:02:02,049 --> 00:02:20,280
+for Gary things have to<font color="#E5E5E5"> come and and</font>
+
+56
+00:02:54,780 --> 00:03:02,980
+which I did<font color="#E5E5E5"> now did that yesterday Mott</font>
+
+57
+00:03:02,980 --> 00:03:07,139
+<font color="#E5E5E5">you see you see what's going on your mom</font>
+
+58
+00:03:10,769 --> 00:03:14,549
+did the goldfish<font color="#CCCCCC"> too</font>
+
+59
+00:03:20,599 --> 00:03:23,969
+anyway<font color="#E5E5E5"> this</font><font color="#CCCCCC"> little recorder is allowing</font>
+
+60
+00:03:23,969 --> 00:03:25,829
+<font color="#CCCCCC">me to remember</font><font color="#E5E5E5"> the videos</font><font color="#CCCCCC"> that I</font><font color="#E5E5E5"> want to</font>
+
+61
+00:03:25,829 --> 00:03:28,140
+do and it just<font color="#CCCCCC"> made me think you know</font><font color="#E5E5E5"> we</font>
+
+62
+00:03:28,140 --> 00:03:30,030
+made<font color="#E5E5E5"> fun of voice recording better than</font>
+
+63
+00:03:30,030 --> 00:03:32,579
+<font color="#E5E5E5">a lot of</font><font color="#CCCCCC"> old school tactics and business</font>
+
+64
+00:03:32,579 --> 00:03:34,859
+still work and and I want<font color="#E5E5E5"> people to</font>
+
+65
+00:03:34,859 --> 00:03:36,120
+<font color="#CCCCCC">remember that and I</font><font color="#E5E5E5"> hope you look</font>
+
+66
+00:03:36,120 --> 00:03:37,379
+forward to<font color="#E5E5E5"> some of these</font><font color="#CCCCCC"> upcoming</font>
+
+67
+00:03:37,379 --> 00:03:40,439
+garyvaynerchuk.com videos<font color="#CCCCCC"> I hope you're</font>
+
+68
+00:03:40,439 --> 00:03:42,150
+doing<font color="#CCCCCC"> well</font><font color="#E5E5E5"> I'm having surgery tomorrow</font>
+
+69
+00:03:42,150 --> 00:03:44,159
+on my knee I'm very worried wish me the
+
+70
+00:03:44,159 --> 00:03:46,319
+best<font color="#CCCCCC"> and make sure you go out and</font><font color="#E5E5E5"> get</font>
+
+71
+00:03:46,319 --> 00:03:50,040
+crush it<font color="#CCCCCC"> that's it oh yeah tissue box</font>
+
+72
+00:03:50,040 --> 00:03:53,400
+<font color="#CCCCCC">stop crying stop crying go ahead and do</font>
+
+73
+00:03:53,400 --> 00:00:00,000
+it see you next<font color="#CCCCCC"> time</font>
+

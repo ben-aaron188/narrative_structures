@@ -1,0 +1,816 @@
+1
+00:00:01,669 --> 00:00:04,440
+hello<font color="#E5E5E5"> what's up guys</font><font color="#CCCCCC"> I'm in my kitchen</font>
+
+2
+00:00:04,440 --> 00:00:06,120
+<font color="#CCCCCC">right now because</font><font color="#E5E5E5"> I'm</font><font color="#CCCCCC"> about to</font><font color="#E5E5E5"> make some</font>
+
+3
+00:00:06,120 --> 00:00:08,490
+<font color="#E5E5E5">bread</font><font color="#CCCCCC"> I guess for today's</font><font color="#E5E5E5"> vlog I'm gonna</font>
+
+4
+00:00:08,490 --> 00:00:11,040
+do some cooking<font color="#CCCCCC"> changes kitchen I should</font>
+
+5
+00:00:11,040 --> 00:00:11,940
+put on<font color="#E5E5E5"> the apron</font>
+
+6
+00:00:11,940 --> 00:00:15,030
+hold that thought BAM<font color="#CCCCCC"> it's official</font>
+
+7
+00:00:15,030 --> 00:00:16,890
+we're back in<font color="#E5E5E5"> J and JS kitchen</font><font color="#CCCCCC"> alright</font>
+
+8
+00:00:16,890 --> 00:00:18,720
+<font color="#E5E5E5">guys so today we are</font><font color="#CCCCCC"> going</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> be making</font>
+
+9
+00:00:18,720 --> 00:00:20,820
+some gluten-free bread<font color="#E5E5E5"> just regular old</font>
+
+10
+00:00:20,820 --> 00:00:23,070
+gluten-free sandwich bread a lot<font color="#E5E5E5"> of</font>
+
+11
+00:00:23,070 --> 00:00:24,949
+breads you<font color="#E5E5E5"> can buy and I normally do but</font>
+
+12
+00:00:24,949 --> 00:00:27,269
+<font color="#CCCCCC">Jenna suggested I make some bread just</font>
+
+13
+00:00:27,269 --> 00:00:29,490
+so we have<font color="#CCCCCC"> a lot of it and</font><font color="#E5E5E5"> you know it's</font>
+
+14
+00:00:29,490 --> 00:00:31,019
+fun to make bread<font color="#E5E5E5"> you know there's no</font>
+
+15
+00:00:31,019 --> 00:00:33,329
+reason<font color="#E5E5E5"> why with all</font><font color="#CCCCCC"> the technology</font><font color="#E5E5E5"> of</font>
+
+16
+00:00:33,329 --> 00:00:35,070
+bread making that exists<font color="#E5E5E5"> that you</font><font color="#CCCCCC"> co</font>
+
+17
+00:00:35,070 --> 00:00:36,540
+make your own bread and have delicious
+
+18
+00:00:36,540 --> 00:00:39,149
+<font color="#E5E5E5">half</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> much brother</font><font color="#CCCCCC"> everyday</font><font color="#E5E5E5"> I</font><font color="#CCCCCC"> know you</font>
+
+19
+00:00:39,149 --> 00:00:44,100
+like<font color="#E5E5E5"> this and there</font><font color="#CCCCCC"> you go Paige is</font>
+
+20
+00:00:44,100 --> 00:00:45,989
+gonna<font color="#E5E5E5"> sit and judge us</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> I'm gonna</font>
+
+21
+00:00:45,989 --> 00:00:48,570
+make dinner<font color="#CCCCCC"> so for this recipe</font><font color="#E5E5E5"> you're</font>
+
+22
+00:00:48,570 --> 00:00:50,940
+gonna need milk or almond milk<font color="#CCCCCC"> honey or</font>
+
+23
+00:00:50,940 --> 00:00:53,090
+agave we can use active dry yeast
+
+24
+00:00:53,090 --> 00:00:55,320
+<font color="#CCCCCC">all-purpose flour xanthan gum</font>
+
+25
+00:00:55,320 --> 00:00:57,210
+baking<font color="#CCCCCC"> powder salt</font><font color="#E5E5E5"> apple cider vinegar</font>
+
+26
+00:00:57,210 --> 00:01:00,149
+olive oil and eggs or egg replacements
+
+27
+00:01:00,149 --> 00:01:01,770
+<font color="#CCCCCC">alright so we're</font><font color="#E5E5E5"> going to measure a cup</font>
+
+28
+00:01:01,770 --> 00:01:04,140
+and<font color="#E5E5E5"> a</font><font color="#CCCCCC"> half of the almond milk</font><font color="#E5E5E5"> warm it</font>
+
+29
+00:01:04,140 --> 00:01:05,519
+<font color="#E5E5E5">and then we're going to add the honey</font>
+
+30
+00:01:05,519 --> 00:01:07,290
+and yeast to<font color="#CCCCCC"> it four</font><font color="#E5E5E5"> tablespoons of</font>
+
+31
+00:01:07,290 --> 00:01:08,880
+<font color="#E5E5E5">honey and two</font><font color="#CCCCCC"> tablespoons of dry yeast</font>
+
+32
+00:01:08,880 --> 00:01:10,770
+<font color="#CCCCCC">we're going to let that</font><font color="#E5E5E5"> mixture sit</font><font color="#CCCCCC"> for</font>
+
+33
+00:01:10,770 --> 00:01:12,119
+<font color="#CCCCCC">ten minutes</font><font color="#E5E5E5"> but we got to warm the milk</font>
+
+34
+00:01:12,119 --> 00:01:14,369
+<font color="#E5E5E5">first so we got our milk we'll throw</font>
+
+35
+00:01:14,369 --> 00:01:15,810
+this in the<font color="#CCCCCC"> microwave and get</font><font color="#E5E5E5"> them</font>
+
+36
+00:01:15,810 --> 00:01:17,220
+warmed up<font color="#CCCCCC"> so we're going</font><font color="#E5E5E5"> to take two and</font>
+
+37
+00:01:17,220 --> 00:01:19,320
+<font color="#E5E5E5">a half teaspoons of yeast and add it to</font>
+
+38
+00:01:19,320 --> 00:01:21,659
+<font color="#E5E5E5">this mixture</font><font color="#CCCCCC"> works out exactly perfect</font>
+
+39
+00:01:21,659 --> 00:01:25,500
+<font color="#CCCCCC">and</font><font color="#E5E5E5"> four tablespoons of agave now we're</font>
+
+40
+00:01:25,500 --> 00:01:26,670
+going to<font color="#E5E5E5"> stir</font><font color="#CCCCCC"> that up a little</font><font color="#E5E5E5"> bit and</font>
+
+41
+00:01:26,670 --> 00:01:28,170
+just<font color="#E5E5E5"> let</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> sit</font><font color="#CCCCCC"> all right so now</font><font color="#E5E5E5"> we're</font>
+
+42
+00:01:28,170 --> 00:01:29,490
+<font color="#E5E5E5">going to combine all</font><font color="#CCCCCC"> of our dry</font>
+
+43
+00:01:29,490 --> 00:01:31,650
+<font color="#CCCCCC">ingredients in a small</font><font color="#E5E5E5"> bowl while the e</font>
+
+44
+00:01:31,650 --> 00:01:34,110
+<font color="#E5E5E5">sets which</font><font color="#CCCCCC"> is three cups of all-purpose</font>
+
+45
+00:01:34,110 --> 00:01:37,170
+gluten-free flour powdered cars baby<font color="#CCCCCC"> you</font>
+
+46
+00:01:37,170 --> 00:01:40,799
+like that yeah<font color="#CCCCCC"> one</font><font color="#E5E5E5"> teaspoon of salt four</font>
+
+47
+00:01:40,799 --> 00:01:42,420
+teaspoons of baking powder<font color="#CCCCCC"> by the way</font>
+
+48
+00:01:42,420 --> 00:01:44,340
+this<font color="#CCCCCC"> little thing</font><font color="#E5E5E5"> the edge in</font>
+
+49
+00:01:44,340 --> 00:01:45,810
+the baking powder to flatten<font color="#E5E5E5"> out</font><font color="#CCCCCC"> your</font>
+
+50
+00:01:45,810 --> 00:01:47,880
+scoop that's<font color="#CCCCCC"> a genius idea I</font>
+
+51
+00:01:47,880 --> 00:01:49,770
+like<font color="#E5E5E5"> that</font><font color="#CCCCCC"> and lastly one and a half</font>
+
+52
+00:01:49,770 --> 00:01:51,780
+teaspoons of xanthan gum<font color="#CCCCCC"> this</font><font color="#E5E5E5"> is going</font>
+
+53
+00:01:51,780 --> 00:01:53,399
+to<font color="#E5E5E5"> make the bread not crumble to pieces</font>
+
+54
+00:01:53,399 --> 00:01:55,170
+when<font color="#CCCCCC"> you crush it see right now I'm</font>
+
+55
+00:01:55,170 --> 00:01:56,219
+struggling because<font color="#E5E5E5"> I don't have that</font>
+
+56
+00:01:56,219 --> 00:01:58,469
+<font color="#E5E5E5">little</font><font color="#CCCCCC"> flattener</font><font color="#E5E5E5"> I'm just I'm doing</font>
+
+57
+00:01:58,469 --> 00:02:00,460
+manually<font color="#CCCCCC"> I feel like I'm in the snow</font>
+
+58
+00:02:00,460 --> 00:02:02,590
+because I was there before<font color="#CCCCCC"> all right we</font>
+
+59
+00:02:02,590 --> 00:02:04,450
+got all the dry ingredients done now
+
+60
+00:02:04,450 --> 00:02:06,220
+it's just important that<font color="#E5E5E5"> we like mix</font>
+
+61
+00:02:06,220 --> 00:02:07,900
+them all together in this bowl to<font color="#E5E5E5"> the</font>
+
+62
+00:02:07,900 --> 00:02:09,788
+dry<font color="#CCCCCC"> Bowl</font><font color="#E5E5E5"> nobody drinks alcohol in this</font>
+
+63
+00:02:09,788 --> 00:02:12,940
+bowl<font color="#CCCCCC"> that was</font><font color="#E5E5E5"> such a bad joke</font><font color="#CCCCCC"> all</font><font color="#E5E5E5"> right</font>
+
+64
+00:02:12,940 --> 00:02:18,610
+so<font color="#E5E5E5"> just mix all the dry ingredients</font><font color="#CCCCCC"> so</font>
+
+65
+00:02:18,610 --> 00:02:21,520
+<font color="#CCCCCC">this is</font><font color="#E5E5E5"> almost done resting</font><font color="#CCCCCC"> but while we</font>
+
+66
+00:02:21,520 --> 00:02:23,590
+let it have a couple more minutes<font color="#E5E5E5"> we</font><font color="#CCCCCC"> are</font>
+
+67
+00:02:23,590 --> 00:02:24,730
+<font color="#E5E5E5">going to combine all the wet</font><font color="#CCCCCC"> ingredients</font>
+
+68
+00:02:24,730 --> 00:02:26,920
+in One Bowl<font color="#E5E5E5"> which is the eggs olive oil</font>
+
+69
+00:02:26,920 --> 00:02:28,750
+vinegar<font color="#CCCCCC"> and we are going to mix it if</font>
+
+70
+00:02:28,750 --> 00:02:30,580
+you have an electronic mixer<font color="#E5E5E5"> that works</font>
+
+71
+00:02:30,580 --> 00:02:32,050
+<font color="#E5E5E5">great or you can whisk it so</font><font color="#CCCCCC"> two</font>
+
+72
+00:02:32,050 --> 00:02:33,790
+teaspoons of apple cider vinegar<font color="#CCCCCC"> fourth</font>
+
+73
+00:02:33,790 --> 00:02:35,800
+<font color="#E5E5E5">a cup of olive oil and then the two eggs</font>
+
+74
+00:02:35,800 --> 00:02:38,110
+<font color="#E5E5E5">and you're not a real chef until you</font>
+
+75
+00:02:38,110 --> 00:02:41,290
+crack eggs<font color="#CCCCCC"> with</font><font color="#E5E5E5"> one hand that's a lie</font>
+
+76
+00:02:41,290 --> 00:02:43,090
+<font color="#CCCCCC">that's such a lie I just like to do it</font>
+
+77
+00:02:43,090 --> 00:02:45,870
+<font color="#CCCCCC">oh it's like a 50%</font><font color="#E5E5E5"> success rate for me</font>
+
+78
+00:02:45,870 --> 00:02:48,780
+literally<font color="#CCCCCC"> half the time I</font><font color="#E5E5E5"> will</font><font color="#CCCCCC"> just drop</font>
+
+79
+00:02:48,780 --> 00:02:51,670
+well I think I<font color="#E5E5E5"> got a good technique if</font>
+
+80
+00:02:51,670 --> 00:02:53,650
+<font color="#E5E5E5">you do it on a flat</font><font color="#CCCCCC"> surface that</font><font color="#E5E5E5"> works</font>
+
+81
+00:02:53,650 --> 00:02:56,830
+better<font color="#CCCCCC"> well it cracks it right here in</font>
+
+82
+00:02:56,830 --> 00:02:58,480
+<font color="#CCCCCC">JJ's</font><font color="#E5E5E5"> kitchen this is live we are</font>
+
+83
+00:02:58,480 --> 00:03:00,489
+<font color="#CCCCCC">reporting</font><font color="#E5E5E5"> live with</font><font color="#CCCCCC"> us from</font><font color="#E5E5E5"> the vegan</font>
+
+84
+00:03:00,489 --> 00:03:03,790
+with the technique<font color="#E5E5E5"> that should be like</font>
+
+85
+00:03:03,790 --> 00:03:05,739
+your online<font color="#E5E5E5"> username</font><font color="#CCCCCC"> now begin with</font>
+
+86
+00:03:05,739 --> 00:03:08,200
+technique<font color="#E5E5E5"> freed up</font><font color="#CCCCCC"> freed up but you</font>
+
+87
+00:03:08,200 --> 00:03:10,000
+don't<font color="#E5E5E5"> specify what kind of</font><font color="#CCCCCC"> to know yeah</font>
+
+88
+00:03:10,000 --> 00:03:11,739
+you just you're<font color="#CCCCCC"> just a versatile vegan</font>
+
+89
+00:03:11,739 --> 00:03:16,180
+with crazy technique and<font color="#CCCCCC"> everything</font><font color="#E5E5E5"> okay</font>
+
+90
+00:03:16,180 --> 00:03:17,610
+baby
+
+91
+00:03:17,610 --> 00:03:22,180
+get and now I'm gonna<font color="#E5E5E5"> add the</font>
+
+92
+00:03:22,180 --> 00:03:24,489
+yeast<font color="#E5E5E5"> and I'm gonna mix some</font><font color="#CCCCCC"> more this</font>
+
+93
+00:03:24,489 --> 00:03:29,440
+<font color="#E5E5E5">is</font><font color="#CCCCCC"> a fully mixed as a wet</font><font color="#E5E5E5"> ball</font><font color="#CCCCCC"> and it's</font>
+
+94
+00:03:29,440 --> 00:03:31,000
+not a real<font color="#CCCCCC"> recipe</font><font color="#E5E5E5"> unless it</font><font color="#CCCCCC"> starts</font>
+
+95
+00:03:31,000 --> 00:03:32,290
+flying<font color="#CCCCCC"> out</font><font color="#E5E5E5"> a ball like that means you're</font>
+
+96
+00:03:32,290 --> 00:03:32,890
+doing<font color="#CCCCCC"> the right</font>
+
+97
+00:03:32,890 --> 00:03:35,019
+<font color="#E5E5E5">cleanup later</font><font color="#CCCCCC"> porn parties that</font><font color="#E5E5E5"> we</font>
+
+98
+00:03:35,019 --> 00:03:36,820
+whisked it<font color="#CCCCCC"> all</font><font color="#E5E5E5"> right so we gonna</font><font color="#CCCCCC"> mix the</font>
+
+99
+00:03:36,820 --> 00:03:38,170
+wet<font color="#E5E5E5"> and the dry ingredients which means</font>
+
+100
+00:03:38,170 --> 00:03:39,970
+we need a big-ass<font color="#E5E5E5"> bowl we also are going</font>
+
+101
+00:03:39,970 --> 00:03:42,549
+<font color="#E5E5E5">to need to have the electronic mixer mix</font>
+
+102
+00:03:42,549 --> 00:03:43,690
+that bread up so we're going<font color="#E5E5E5"> to change</font>
+
+103
+00:03:43,690 --> 00:03:45,820
+<font color="#E5E5E5">it</font><font color="#CCCCCC"> from the</font><font color="#E5E5E5"> whisk to actual bread mixer</font>
+
+104
+00:03:45,820 --> 00:03:48,880
+<font color="#E5E5E5">yeah</font><font color="#CCCCCC"> it'll</font><font color="#E5E5E5"> work we'll figure it out</font>
+
+105
+00:03:48,880 --> 00:03:50,440
+<font color="#CCCCCC">alright so now we are going</font><font color="#E5E5E5"> to add the</font>
+
+106
+00:03:50,440 --> 00:03:52,480
+dry<font color="#CCCCCC"> ingredients</font><font color="#E5E5E5"> to our wet ingredients</font>
+
+107
+00:03:52,480 --> 00:03:55,660
+and make our bread mixture<font color="#E5E5E5"> I'm actually</font>
+
+108
+00:03:55,660 --> 00:03:56,980
+going to<font color="#E5E5E5"> get in here</font><font color="#CCCCCC"> with my hands real</font>
+
+109
+00:03:56,980 --> 00:03:58,209
+quick<font color="#CCCCCC"> because I feel like it might</font><font color="#E5E5E5"> help</font>
+
+110
+00:03:58,209 --> 00:04:00,310
+the dough should be<font color="#E5E5E5"> thick wet and sticky</font>
+
+111
+00:04:00,310 --> 00:04:03,060
+<font color="#CCCCCC">at first you just</font><font color="#E5E5E5"> got to keep</font><font color="#CCCCCC"> working it</font>
+
+112
+00:04:03,060 --> 00:04:05,590
+now we're going<font color="#E5E5E5"> to grease up</font><font color="#CCCCCC"> the baking</font>
+
+113
+00:04:05,590 --> 00:04:07,390
+pan which<font color="#E5E5E5"> we're goes I got mine right</font>
+
+114
+00:04:07,390 --> 00:04:09,190
+<font color="#E5E5E5">here and I'm going to use Pam</font><font color="#CCCCCC"> because</font>
+
+115
+00:04:09,190 --> 00:04:10,960
+everyone<font color="#CCCCCC"> loves chemicals to</font><font color="#E5E5E5"> keep their</font>
+
+116
+00:04:10,960 --> 00:04:13,510
+chip from<font color="#CCCCCC"> sticking to those</font><font color="#E5E5E5"> so I'm</font>
+
+117
+00:04:13,510 --> 00:04:14,770
+going to spray<font color="#E5E5E5"> this pin</font><font color="#CCCCCC"> and then</font><font color="#E5E5E5"> you can</font>
+
+118
+00:04:14,770 --> 00:04:17,738
+use a spatula<font color="#CCCCCC"> to</font><font color="#E5E5E5"> basically empty all</font><font color="#CCCCCC"> of</font>
+
+119
+00:04:17,738 --> 00:04:19,089
+your bread mix into<font color="#CCCCCC"> this and you're</font>
+
+120
+00:04:19,089 --> 00:04:20,738
+<font color="#E5E5E5">going to smooth it over with</font><font color="#CCCCCC"> the spatula</font>
+
+121
+00:04:20,738 --> 00:04:22,750
+and<font color="#E5E5E5"> then well let's</font><font color="#CCCCCC"> just do that</font><font color="#E5E5E5"> and</font>
+
+122
+00:04:22,750 --> 00:04:27,610
+<font color="#E5E5E5">then I'll tell</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> what this</font><font color="#CCCCCC"> is zoomed</font>
+
+123
+00:04:27,610 --> 00:04:29,230
+<font color="#E5E5E5">in Jenna's rocking the camera right now</font>
+
+124
+00:04:29,230 --> 00:04:32,230
+<font color="#E5E5E5">thanks fish</font><font color="#CCCCCC"> now I'm gonna unload all the</font>
+
+125
+00:04:32,230 --> 00:04:35,410
+bread mix in<font color="#E5E5E5"> the air code are you gonna</font>
+
+126
+00:04:35,410 --> 00:04:38,170
+make<font color="#E5E5E5"> a word you need</font><font color="#CCCCCC"> I just said</font><font color="#E5E5E5"> I know</font>
+
+127
+00:04:38,170 --> 00:04:39,820
+<font color="#E5E5E5">that's how I'm doing</font><font color="#CCCCCC"> it I'm unloading</font><font color="#E5E5E5"> it</font>
+
+128
+00:04:39,820 --> 00:04:43,180
+into the pan<font color="#E5E5E5"> cameraman and girlfriend</font>
+
+129
+00:04:43,180 --> 00:04:45,700
+<font color="#E5E5E5">these</font><font color="#CCCCCC"> twelve</font><font color="#E5E5E5"> basically what you want is</font>
+
+130
+00:04:45,700 --> 00:04:48,130
+it to be all completely<font color="#E5E5E5"> low</font><font color="#CCCCCC"> so you want</font>
+
+131
+00:04:48,130 --> 00:04:49,600
+it<font color="#E5E5E5"> to be flat all the way around and</font>
+
+132
+00:04:49,600 --> 00:04:51,760
+<font color="#E5E5E5">it's gonna rise</font><font color="#CCCCCC"> key is to not let it</font>
+
+133
+00:04:51,760 --> 00:04:54,490
+rise above the line<font color="#E5E5E5"> of the pan once it</font>
+
+134
+00:04:54,490 --> 00:04:55,720
+gets to<font color="#E5E5E5"> there that's when you're going</font>
+
+135
+00:04:55,720 --> 00:04:57,100
+<font color="#E5E5E5">to throw it in the oven but right now we</font>
+
+136
+00:04:57,100 --> 00:05:00,570
+<font color="#CCCCCC">should be preheating the oven at 375</font>
+
+137
+00:05:01,440 --> 00:05:04,540
+Lilliana<font color="#E5E5E5"> the muffin man</font><font color="#CCCCCC"> the guy that</font>
+
+138
+00:05:04,540 --> 00:05:07,060
+mixes<font color="#E5E5E5"> little fresh bread his name is</font>
+
+139
+00:05:07,060 --> 00:05:11,980
+Julian<font color="#E5E5E5"> and works at J&J catch it</font><font color="#CCCCCC"> so once</font>
+
+140
+00:05:11,980 --> 00:05:13,540
+this is<font color="#E5E5E5"> in here we're letting the oven</font>
+
+141
+00:05:13,540 --> 00:05:15,400
+preheat 375<font color="#CCCCCC"> you don't want it to rise</font>
+
+142
+00:05:15,400 --> 00:05:25,090
+above the height of the<font color="#E5E5E5"> pin rise no I'm</font>
+
+143
+00:05:25,090 --> 00:05:28,360
+gonna<font color="#E5E5E5"> let it shine this little bit of</font>
+
+144
+00:05:28,360 --> 00:05:32,560
+<font color="#CCCCCC">mine I'm gonna let it shine oh the floor</font>
+
+145
+00:05:32,560 --> 00:05:34,870
+still<font color="#CCCCCC"> because</font><font color="#E5E5E5"> you spray Pam into another</font>
+
+146
+00:05:34,870 --> 00:05:39,970
+dimension<font color="#E5E5E5"> now we can ice rink while we</font>
+
+147
+00:05:39,970 --> 00:05:43,000
+cook no it's dangerous<font color="#E5E5E5"> honey</font><font color="#CCCCCC"> so right</font>
+
+148
+00:05:43,000 --> 00:05:44,800
+<font color="#CCCCCC">before we throw it in now</font><font color="#E5E5E5"> son you're</font>
+
+149
+00:05:44,800 --> 00:05:46,210
+<font color="#CCCCCC">gonna</font><font color="#E5E5E5"> want to throw</font><font color="#CCCCCC"> your little</font>
+
+150
+00:05:46,210 --> 00:05:48,940
+accessories on chocolate chips chips of
+
+151
+00:05:48,940 --> 00:05:50,740
+glass stuff like that<font color="#CCCCCC"> that makes it an</font>
+
+152
+00:05:50,740 --> 00:05:53,680
+interesting<font color="#E5E5E5"> you Nancy don't do that</font>
+
+153
+00:05:53,680 --> 00:05:56,700
+don't do this
+
+154
+00:05:57,950 --> 00:06:02,010
+<font color="#CCCCCC">alright fam bread is risen</font><font color="#E5E5E5"> ovens hot</font>
+
+155
+00:06:02,010 --> 00:06:04,260
+<font color="#CCCCCC">we're going to</font><font color="#E5E5E5"> throw our</font><font color="#CCCCCC"> Suzie peach</font>
+
+156
+00:06:04,260 --> 00:06:05,970
+<font color="#CCCCCC">we're going to throw our bread in the</font>
+
+157
+00:06:05,970 --> 00:06:08,670
+oven<font color="#E5E5E5"> for</font><font color="#CCCCCC"> 30 to 45 minutes you're</font><font color="#E5E5E5"> going</font>
+
+158
+00:06:08,670 --> 00:06:09,810
+<font color="#E5E5E5">to keep</font><font color="#CCCCCC"> an</font><font color="#E5E5E5"> eye on it you want an</font>
+
+159
+00:06:09,810 --> 00:06:11,160
+<font color="#E5E5E5">internal temperature if you're going to</font>
+
+160
+00:06:11,160 --> 00:06:13,560
+use<font color="#E5E5E5"> the thermometer of about 200 to 225</font>
+
+161
+00:06:13,560 --> 00:06:15,900
+<font color="#CCCCCC">degrees</font><font color="#E5E5E5"> but yeah let's get it going</font>
+
+162
+00:06:15,900 --> 00:06:17,310
+<font color="#E5E5E5">because I</font><font color="#CCCCCC"> want some bread man</font>
+
+163
+00:06:17,310 --> 00:06:20,850
+<font color="#CCCCCC">let's do</font><font color="#E5E5E5"> it</font><font color="#CCCCCC"> all right so</font><font color="#E5E5E5"> we took the</font>
+
+164
+00:06:20,850 --> 00:06:23,880
+bread<font color="#E5E5E5"> out of the oven and we just slice</font>
+
+165
+00:06:23,880 --> 00:06:26,010
+it<font color="#CCCCCC"> and it looks beautiful</font>
+
+166
+00:06:26,010 --> 00:06:28,410
+it's piping<font color="#CCCCCC"> hot</font><font color="#E5E5E5"> I actually let it rest</font>
+
+167
+00:06:28,410 --> 00:06:29,550
+<font color="#E5E5E5">for a couple</font><font color="#CCCCCC"> minutes</font><font color="#E5E5E5"> because that's what</font>
+
+168
+00:06:29,550 --> 00:06:31,500
+you're<font color="#CCCCCC"> supposed to do</font><font color="#E5E5E5"> but it's hot it's</font>
+
+169
+00:06:31,500 --> 00:06:33,960
+fresh<font color="#E5E5E5"> it's soft</font><font color="#CCCCCC"> it's fluffy it looks</font>
+
+170
+00:06:33,960 --> 00:06:37,290
+really good I'm gonna taste<font color="#E5E5E5"> it soon</font><font color="#CCCCCC"> Wow</font>
+
+171
+00:06:37,290 --> 00:06:39,300
+I'm pumped<font color="#CCCCCC"> I'm</font><font color="#E5E5E5"> pumped I did this thank</font>
+
+172
+00:06:39,300 --> 00:06:41,670
+you for<font color="#E5E5E5"> forcing me to do it</font><font color="#CCCCCC"> ahh</font>
+
+173
+00:06:41,670 --> 00:06:43,770
+next<font color="#E5E5E5"> I'm</font><font color="#CCCCCC"> gonna try it</font><font color="#E5E5E5"> I'm gonna put some</font>
+
+174
+00:06:43,770 --> 00:06:44,880
+<font color="#E5E5E5">butter on it and</font><font color="#CCCCCC"> take a</font><font color="#E5E5E5"> bite for you</font>
+
+175
+00:06:44,880 --> 00:06:46,020
+<font color="#E5E5E5">guys and let</font><font color="#CCCCCC"> you know</font><font color="#E5E5E5"> how it is</font><font color="#CCCCCC"> and I</font>
+
+176
+00:06:46,020 --> 00:06:47,400
+want<font color="#E5E5E5"> you to know</font><font color="#CCCCCC"> that my</font><font color="#E5E5E5"> next bread</font>
+
+177
+00:06:47,400 --> 00:06:48,570
+recipe is most likely<font color="#E5E5E5"> going to be</font>
+
+178
+00:06:48,570 --> 00:06:51,060
+sourdough<font color="#E5E5E5"> it's a lot more intense but I</font>
+
+179
+00:06:51,060 --> 00:06:52,410
+<font color="#E5E5E5">love sourdough bread and I haven't had</font>
+
+180
+00:06:52,410 --> 00:06:55,230
+it<font color="#CCCCCC"> since almost 9 years so I'm gonna</font>
+
+181
+00:06:55,230 --> 00:06:56,760
+take<font color="#E5E5E5"> a bite now so let's see how this is</font>
+
+182
+00:06:56,760 --> 00:06:58,980
+put a little<font color="#E5E5E5"> bit of butter</font><font color="#CCCCCC"> cuz I'm a</font>
+
+183
+00:06:58,980 --> 00:07:01,980
+simple man<font color="#E5E5E5"> and butter is all I need on</font>
+
+184
+00:07:01,980 --> 00:07:03,900
+some toast<font color="#CCCCCC"> my mom used</font><font color="#E5E5E5"> to bake bread for</font>
+
+185
+00:07:03,900 --> 00:07:05,280
+me fresh and this<font color="#CCCCCC"> is what</font><font color="#E5E5E5"> that reminds</font>
+
+186
+00:07:05,280 --> 00:07:06,630
+<font color="#E5E5E5">me of don't judge me on the amount of</font>
+
+187
+00:07:06,630 --> 00:07:08,100
+<font color="#E5E5E5">butter I put some</font><font color="#CCCCCC"> thyme</font><font color="#E5E5E5"> just</font><font color="#CCCCCC"> gotta</font><font color="#E5E5E5"> go to</font>
+
+188
+00:07:08,100 --> 00:07:08,520
+<font color="#E5E5E5">town</font>
+
+189
+00:07:08,520 --> 00:07:10,350
+<font color="#CCCCCC">alright let's taste it</font><font color="#E5E5E5"> so this is just</font>
+
+190
+00:07:10,350 --> 00:07:12,780
+<font color="#E5E5E5">fresh out of the oven</font><font color="#CCCCCC"> Julian's</font><font color="#E5E5E5"> gluten</font>
+
+191
+00:07:12,780 --> 00:07:15,110
+<font color="#E5E5E5">free bread</font>
+
+192
+00:07:17,210 --> 00:07:19,910
+it was so good<font color="#CCCCCC"> it's like</font><font color="#E5E5E5"> light</font><font color="#CCCCCC"> and</font>
+
+193
+00:07:19,910 --> 00:07:23,479
+fluffy<font color="#E5E5E5"> but it's not falling apart hell</font>
+
+194
+00:07:23,479 --> 00:07:25,340
+yeah I'm<font color="#E5E5E5"> glad I got a whole loaf anyway</font>
+
+195
+00:07:25,340 --> 00:07:26,449
+I hope you<font color="#E5E5E5"> guys got some out of this</font>
+
+196
+00:07:26,449 --> 00:07:27,949
+recipe I<font color="#E5E5E5"> hope you enjoyed it</font><font color="#CCCCCC"> leave</font><font color="#E5E5E5"> your</font>
+
+197
+00:07:27,949 --> 00:07:29,210
+comments on<font color="#CCCCCC"> what we should do next and</font>
+
+198
+00:07:29,210 --> 00:07:31,039
+<font color="#CCCCCC">edges kitchen or if you have a</font><font color="#E5E5E5"> recipe</font>
+
+199
+00:07:31,039 --> 00:07:32,990
+<font color="#CCCCCC">for sourdough bread let me know not be</font>
+
+200
+00:07:32,990 --> 00:07:34,430
+in this anyway<font color="#E5E5E5"> you guys want to cook</font>
+
+201
+00:07:34,430 --> 00:07:36,110
+this<font color="#E5E5E5"> bread follow this recipe let me</font>
+
+202
+00:07:36,110 --> 00:07:37,460
+know how to<font color="#E5E5E5"> send me pictures thanks for</font>
+
+203
+00:07:37,460 --> 00:07:38,810
+watching changes kitchen we'll see you
+
+204
+00:07:38,810 --> 00:00:00,000
+guys<font color="#E5E5E5"> next time</font><font color="#CCCCCC"> bye guys</font>
+

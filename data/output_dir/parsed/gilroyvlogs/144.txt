@@ -1,0 +1,226 @@
+good evening guys I just got back here
+and we're gonna get the health pick
+we're going to pick a tub and do some of
+the treatment and stuff for his leg as
+you can see from where the votes here
+where and gave him that shot the
+swelling is down a bit up here in more
+of his leg part the swelling is down a
+lot it's still a little swollen around
+the ankle area but it's definitely
+looking better
+oh she's on the phone oh good
+this was just best annulment jizz okay
+hi his back off is getting a little
+better when we would take it before he
+would have to spill sensitive spots and
+he was kind of try and pull away from
+you but when I just picked it he seems
+to be doing a lot better but he is on
+pain medicine right now to yourself
+suddenly has something to do with it the
+one treatment I don't know if you guys
+can see me okay or not she she said the
+cold hose like 10 or 15 minutes 10 or 15
+minutes twice a day so I'm just out here
+with cold hose goes in his leg down he
+knows it seeing the can look burn
+burners burners yeah this has been kind
+of under the weather issues sipping on
+some ginger ale
+but we I'm just trying to let him sit
+here and his legs kind of warmed back up
+I guess before I do the warm saltwater
+soap I don't want to send them into
+shock from a cold foot to a warm foot so
+we've got this handy dandy little boot
+here the Soaker boot you're going to put
+the Epsom salt in there in warm water
+and then you strap it all around his leg
+and let them soak for like 20 minutes
+just like that and then sew his foot is
+soaking in the salt water
+which will help draw that infection like
+any more exception if there's anything
+else in there this girl look damn he now
+they're trying to fix the Gator knees is
+laughing at her relaxing so pretty much
+what I do is you get these puppy pads or
+just like it's a puppy pee pad instant
+death tape
+so we just leave that on for 10 minutes
+fish he has been a very good boy and
+some cheap he's like oh yeah oh yeah
+listen what next one next plant num1
+Riley you're gonna help me tomorrow
+y-yeah I like having helpers this is
+Riley this is Tessa and Dan stop it how
+old are you Riley four four do you love
+horses
+yeah if you've grown up as a Bond girl
+who's your favorite horsey um all of
+them uh special I made my phone really
+you know sweeping Wow I just washed my
+hands you missed it then I was doing the
+disbander peer learning dollar I do
+noises right hey I'm Ana Paula vinegar
+yeah yeah hi Jerry
+take a teeth with this I'll grab it up a
+munch shake it roll pop it open
+mm-hmm and then I swallow it and then I
+want to take it away from my lip this
+like string wampum came out with it and
+then I look in there and it was all
+chunky save Zach her for our viewers to
+see from ERISA Oh No how is ninja he's
+good yeah yeah I got there and I already
+told my promise really
+and when there are yeah we've seen it
+but he let me cold hose in dried ma so
+Sammy's getting used to the foot Soaker
+boot so I went to Radio Shack earlier I
+didn't mention a yeah Radio Shack
+earlier and I got some supplies I mean
+the boys are about to do a cool
+experiment you got 30 minutes before
+bedtime hey guys I hope you're ready to
+learn because today we're going to learn
+a little bit more science particularly
+electronics and eventually in a future
+video I'm going to teach the kids how to
+make their own flashlight just like this
+right so in a lot of modern flashlights
+right these are LED you see the little
+bulbs in there those are LEDs but what I
+wanted to show you guys was how to build
+a simple circuit to power an LED light
+and eventually would use that knowledge
+to create our own flashlight
+line so this is how we'll build the
+circuitry but in the future we'll use a
+3d printer to print the actual casing
+the housing and stuff we'll have to use
+Springs and wires but we'll get it to
+figure that out we're starting with a
+power pack right and this power pack has
+a like a 9-volt jacket here with some
+leads coming off of it red is positive
+black is negative okay and we could do
+this just by touching the wires together
+but it's a lot easier using this is like
+a breadboard these have like metal
+plates and sides that connect together
+and you got to keep the rows in line but
+anyway a circuit is the flow of
+electricity from one point to the other
+to complete a circuit and you can create
+very intricate and detailed circuit by
+adding different steps in between the
+flow of the current right so really all
+we want to do
+is turn on the light bulb so what we
+need to do first is connect our power to
+it and so this is the positive side
+we're going to just pop that right
+inside there and this is the negative
+side right here this is a two point two
+kilo ohm half watt resistor three red
+bands in one gold band we're going to
+add that it doesn't matter what side you
+put in first but we're going to skip
+this middle part because we just want to
+reach over here we'll just plugged in in
+pretty sure this LED has two little ends
+on one of the ends is shorter okay
+the shortest end is the negative side
+you want to keep the negative side the
+short side on the negative side right so
+we're going to plug that in anywhere on
+this has that negative polarity and I
+keep it downloaded just so we can little
+fit properly and then we plug that right
+in the same row you see a little line
+right and that's off and then plug in
+see what happens when we went one row
+above where our resistors plugged in it
+doesn't work of it so what we do is we
+take it and we plug it on the same line
+boom all and there it lit up I want to
+show you another step so this lights up
+since it's all connected we don't have a
+way to turn it on and off without taking
+it out right we can do something really
+cool and that's add a little switch in
+between right beside our resistor and
+the other side will plug in right over
+here good take our negative side plug it
+in over there and pull that guy and
+right beside our switch you see how it
+connects that circuit
+what happens when I push put me push it
+oh yeah when no one goes pretty good
+hold it though it's really hard for the
+camera to see all right this is called
+um you can leave it there
+loser this is called a momentary switch
+so it only activates when you're
+pressing we can use this concept to
+create a flashlight what I also wanted
+to show you guys something really cool
+which is this guy this is an infrared
+LED and let me just hook it up for you
+real quick alright so what I want you to
+do is hold this like this okay don't let
+the battery pack fall out and I want you
+to go over to that thing there and I
+want you to shine that diode all over
+right by that mirror okay yep now watch
+when the camera switches and the camera
+switches over to infrared hold on hold
+on buddy and what you can't see okay
+there goes it switched over to imprint
+now look at Carson right move the light
+around
+okay you know it looks like Carson's
+holding a flashlight but when we look
+over at Carson it's pitch black
+how cool is that is what do you think No
+kinda what are you messing with it whoa
+what was that
+so isn't that correct a nice little
+experiment and electronic I want to
+teach the boys how to make their own
+flashlights not only using the circuitry
+but using a 3d printer as well so it's
+going to be a real fun when we actually
+get to making that but this is kind of
+like the I guess the prerequisite course
+before you get into making a flashlight
+free for it pick up a baby saw me so it
+can stop a busy time that's toddler
+language coming here into reading her
+own the time and a good morning Wow who
+is that
+unless you know one of those moments if
+you stay up late and study hard you like
+fall asleep with your laptop in your lap
+that's what they're made for
+pretty sure so we're starting off with
+some coffee I get the kids off lesson
+with a babysitter today I think we might
+have some actual not dark grey cloudy
+day so I might be able to get review
+done today I'm pretty excited because
+I've been dying for the weather's brick
+I think today might be the day I'm
+pretty suit okay friends so my family
+has prepared for their day we're all
+getting right in
+we're in smashing today Bronson was
+going to babysitter
+because they're a school and I I plan to
+film to that stuff look forward for
+tomorrow's video sorry today's kind of
+scatterbrained button
+thank you so much for watching can't
+wait to see you right back here

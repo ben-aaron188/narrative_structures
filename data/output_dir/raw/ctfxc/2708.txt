@@ -1,0 +1,28 @@
+1
+00:00:00,030 --> 00:00:02,599
+let's go
+
+2
+00:00:13,580 --> 00:00:17,680
+<font color="#E5E5E5">the Kate Beckinsale over</font><font color="#CCCCCC"> that</font>
+
+3
+00:00:23,200 --> 00:00:26,220
+watch the<font color="#E5E5E5"> trashcan</font>
+
+4
+00:01:01,970 --> 00:01:04,650
+that wasn't<font color="#E5E5E5"> too</font><font color="#CCCCCC"> scary it wasn't too</font><font color="#E5E5E5"> bad</font>
+
+5
+00:01:04,650 --> 00:01:06,890
+was it
+
+6
+00:01:08,310 --> 00:01:10,200
+<font color="#CCCCCC">all right go back</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> vlog</font><font color="#CCCCCC"> and we'll</font>
+
+7
+00:01:10,200 --> 00:00:00,000
+continue<font color="#E5E5E5"> tonight</font>
+

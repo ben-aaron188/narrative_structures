@@ -1,0 +1,284 @@
+1
+00:00:00,060 --> 00:00:02,340
+everybody's<font color="#CCCCCC"> gary vaynerchuck</font><font color="#E5E5E5"> up gary</font>
+
+2
+00:00:02,340 --> 00:00:04,110
+<font color="#E5E5E5">mitrik calm</font><font color="#CCCCCC"> i want to sort</font><font color="#E5E5E5"> a new little</font>
+
+3
+00:00:04,110 --> 00:00:06,720
+series called small<font color="#CCCCCC"> fYI you know it's</font>
+
+4
+00:00:06,720 --> 00:00:08,880
+like<font color="#E5E5E5"> an FYI but it's small just a little</font>
+
+5
+00:00:08,880 --> 00:00:10,889
+tidbit<font color="#E5E5E5"> allows me to pump out videos I've</font>
+
+6
+00:00:10,889 --> 00:00:12,179
+noticed there's a lot of days where<font color="#E5E5E5"> I</font>
+
+7
+00:00:12,179 --> 00:00:13,620
+have<font color="#E5E5E5"> these thoughts</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> don't think</font>
+
+8
+00:00:13,620 --> 00:00:16,289
+they're big<font color="#E5E5E5"> you know game-changing</font>
+
+9
+00:00:16,289 --> 00:00:17,460
+thoughts and I'm like<font color="#CCCCCC"> I shouldn't</font><font color="#E5E5E5"> do a</font>
+
+10
+00:00:17,460 --> 00:00:18,570
+video<font color="#CCCCCC"> I shouldn't waste people's time</font>
+
+11
+00:00:18,570 --> 00:00:20,369
+and<font color="#CCCCCC"> the same token more more</font><font color="#E5E5E5"> people like</font>
+
+12
+00:00:20,369 --> 00:00:22,050
+hey do videos<font color="#CCCCCC"> and there</font><font color="#E5E5E5"> are things that</font>
+
+13
+00:00:22,050 --> 00:00:24,420
+<font color="#E5E5E5">become bigger and bigger</font><font color="#CCCCCC"> and it's fun to</font>
+
+14
+00:00:24,420 --> 00:00:26,369
+kind<font color="#CCCCCC"> of talk about them early</font><font color="#E5E5E5"> on so I'm</font>
+
+15
+00:00:26,369 --> 00:00:27,990
+gonna<font color="#E5E5E5"> start this little serious my first</font>
+
+16
+00:00:27,990 --> 00:00:31,920
+small<font color="#E5E5E5"> fYI is that I just noticed this</font>
+
+17
+00:00:31,920 --> 00:00:34,230
+little<font color="#E5E5E5"> bar above Facebook introducing</font>
+
+18
+00:00:34,230 --> 00:00:36,809
+<font color="#E5E5E5">the like button</font><font color="#CCCCCC"> you know starting today</font>
+
+19
+00:00:36,809 --> 00:00:38,940
+they're changing the terminology on the
+
+20
+00:00:38,940 --> 00:00:42,930
+Facebook fan page from become a fan<font color="#E5E5E5"> to</font>
+
+21
+00:00:42,930 --> 00:00:45,510
+like now<font color="#E5E5E5"> this is something that I knew</font>
+
+22
+00:00:45,510 --> 00:00:47,340
+<font color="#CCCCCC">was coming</font><font color="#E5E5E5"> AJ and I at vaynermedia have</font>
+
+23
+00:00:47,340 --> 00:00:48,719
+been talking about<font color="#E5E5E5"> this what does this</font>
+
+24
+00:00:48,719 --> 00:00:50,579
+mean I think<font color="#E5E5E5"> it's interesting</font><font color="#CCCCCC"> their last</font>
+
+25
+00:00:50,579 --> 00:00:53,730
+line says<font color="#CCCCCC"> we hope this action will fear</font>
+
+26
+00:00:53,730 --> 00:00:56,520
+will feel much more<font color="#E5E5E5"> lightweight and that</font>
+
+27
+00:00:56,520 --> 00:00:57,899
+will<font color="#E5E5E5"> increase the number</font><font color="#CCCCCC"> of connections</font>
+
+28
+00:00:57,899 --> 00:01:00,149
+made<font color="#E5E5E5"> across</font><font color="#CCCCCC"> the site this is something</font>
+
+29
+00:01:00,149 --> 00:01:01,829
+that<font color="#CCCCCC"> I don't</font><font color="#E5E5E5"> think is that minor I think</font>
+
+30
+00:01:01,829 --> 00:01:03,780
+people should pay attention<font color="#E5E5E5"> to this let</font>
+
+31
+00:01:03,780 --> 00:01:05,040
+me<font color="#CCCCCC"> show to</font><font color="#E5E5E5"> you in real life if you</font><font color="#CCCCCC"> were</font>
+
+32
+00:01:05,040 --> 00:01:07,619
+<font color="#CCCCCC">to go to a fan page</font><font color="#E5E5E5"> right</font><font color="#CCCCCC"> here my little</font>
+
+33
+00:01:07,619 --> 00:01:10,080
+<font color="#E5E5E5">zoomy zoom you can see now</font><font color="#CCCCCC"> ma</font><font color="#E5E5E5"> it's a</font>
+
+34
+00:01:10,080 --> 00:01:13,439
+like instead of become a fan and now
+
+35
+00:01:13,439 --> 00:01:16,380
+basically I'm<font color="#CCCCCC"> in their database so now</font>
+
+36
+00:01:16,380 --> 00:01:19,049
+they've<font color="#CCCCCC"> got me</font><font color="#E5E5E5"> in here so now</font><font color="#CCCCCC"> Forbes has</font>
+
+37
+00:01:19,049 --> 00:01:21,030
+<font color="#E5E5E5">twenty six thousand one hundred and six</font>
+
+38
+00:01:21,030 --> 00:01:24,060
+<font color="#E5E5E5">fans instead of five it has long been my</font>
+
+39
+00:01:24,060 --> 00:01:26,130
+<font color="#CCCCCC">position for</font><font color="#E5E5E5"> at least a year now it</font>
+
+40
+00:01:26,130 --> 00:01:27,390
+feels like<font color="#E5E5E5"> or maybe a little bit shorter</font>
+
+41
+00:01:27,390 --> 00:01:29,100
+that<font color="#E5E5E5"> Facebook fan pages are the most</font>
+
+42
+00:01:29,100 --> 00:01:31,770
+important sites<font color="#CCCCCC"> maybe that any to add to</font>
+
+43
+00:01:31,770 --> 00:01:33,450
+a brand anywhere on the<font color="#CCCCCC"> internet maybe</font>
+
+44
+00:01:33,450 --> 00:01:34,680
+<font color="#E5E5E5">even more important their own</font><font color="#CCCCCC"> homepage</font>
+
+45
+00:01:34,680 --> 00:01:36,990
+<font color="#E5E5E5">the ecosystem of what Facebook is and</font>
+
+46
+00:01:36,990 --> 00:01:39,299
+the flexibility<font color="#CCCCCC"> that the</font><font color="#E5E5E5"> fanpage allows</font>
+
+47
+00:01:39,299 --> 00:01:41,729
+<font color="#CCCCCC">you to do all these creative things</font><font color="#E5E5E5"> and</font>
+
+48
+00:01:41,729 --> 00:01:44,070
+you know the virality<font color="#E5E5E5"> of once it becomes</font>
+
+49
+00:01:44,070 --> 00:01:46,710
+<font color="#E5E5E5">in</font><font color="#CCCCCC"> a newsfeed</font><font color="#E5E5E5"> is so iconic</font><font color="#CCCCCC"> I think this</font>
+
+50
+00:01:46,710 --> 00:01:49,290
+is a shift<font color="#E5E5E5"> for Facebook to get more</font>
+
+51
+00:01:49,290 --> 00:01:51,060
+people<font color="#E5E5E5"> to feel like they</font><font color="#CCCCCC"> can like more</font>
+
+52
+00:01:51,060 --> 00:01:52,799
+things becoming a fan<font color="#E5E5E5"> feels kind of</font>
+
+53
+00:01:52,799 --> 00:01:55,140
+heavy like a my fan of coke but like it
+
+54
+00:01:55,140 --> 00:01:56,969
+yeah I like<font color="#CCCCCC"> it it's kind of like like it</font>
+
+55
+00:01:56,969 --> 00:01:58,710
+right it's you know it's<font color="#E5E5E5"> like a hookup</font>
+
+56
+00:01:58,710 --> 00:02:00,840
+instead of marriage<font color="#CCCCCC"> I think it's a very</font>
+
+57
+00:02:00,840 --> 00:02:03,060
+big shift<font color="#CCCCCC"> I think it will increase the</font>
+
+58
+00:02:03,060 --> 00:02:05,790
+amount<font color="#CCCCCC"> of fan pages that you follow and</font>
+
+59
+00:02:05,790 --> 00:02:08,550
+I think<font color="#CCCCCC"> by virtue increases the business</font>
+
+60
+00:02:08,550 --> 00:02:10,679
+<font color="#CCCCCC">ecosystem that Facebook</font><font color="#E5E5E5"> is creating it</font>
+
+61
+00:02:10,679 --> 00:02:12,810
+is quickly happening that Facebook is
+
+62
+00:02:12,810 --> 00:02:13,260
+becoming
+
+63
+00:02:13,260 --> 00:02:15,900
+<font color="#E5E5E5">nice</font><font color="#CCCCCC"> spot for brands to go to the vanity</font>
+
+64
+00:02:15,900 --> 00:02:18,060
+URL that<font color="#E5E5E5"> brands want to use like</font>
+
+65
+00:02:18,060 --> 00:02:20,280
+facebook.com slash Forbes instead of
+
+66
+00:02:20,280 --> 00:02:21,540
+sending<font color="#CCCCCC"> people to</font><font color="#E5E5E5"> forbes.com</font>
+
+67
+00:02:21,540 --> 00:02:23,310
+<font color="#E5E5E5">something</font><font color="#CCCCCC"> Twitter capitalized early on</font>
+
+68
+00:02:23,310 --> 00:02:25,920
+and still continues to a very small
+
+69
+00:02:25,920 --> 00:02:28,230
+little shift<font color="#E5E5E5"> that</font><font color="#CCCCCC"> I think has a very big</font>
+
+70
+00:02:28,230 --> 00:02:30,510
+<font color="#E5E5E5">impact and I hope you digest it and play</font>
+
+71
+00:02:30,510 --> 00:00:00,000
+<font color="#CCCCCC">around</font><font color="#E5E5E5"> with it today</font><font color="#CCCCCC"> see you later</font>
+

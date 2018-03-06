@@ -1,0 +1,184 @@
+1
+00:00:00,030 --> 00:00:01,319
+also<font color="#E5E5E5"> I want</font><font color="#CCCCCC"> to talk about the two bits</font>
+
+2
+00:00:01,319 --> 00:00:02,760
+<font color="#E5E5E5">of YouTube news today</font><font color="#CCCCCC"> the first thing</font>
+
+3
+00:00:02,760 --> 00:00:04,259
+<font color="#CCCCCC">that's been posted everywhere</font><font color="#E5E5E5"> a lot of</font>
+
+4
+00:00:04,259 --> 00:00:05,940
+people like the<font color="#E5E5E5"> new code shows there</font>
+
+5
+00:00:05,940 --> 00:00:07,859
+will<font color="#CCCCCC"> be paid subscription channels there</font>
+
+6
+00:00:07,859 --> 00:00:09,150
+was a thing<font color="#E5E5E5"> but</font><font color="#CCCCCC"> a really quick thing if</font>
+
+7
+00:00:09,150 --> 00:00:11,340
+you are<font color="#CCCCCC"> angry about</font><font color="#E5E5E5"> this why none of the</font>
+
+8
+00:00:11,340 --> 00:00:12,750
+channels<font color="#E5E5E5"> that you</font><font color="#CCCCCC"> enjoy right now we're</font>
+
+9
+00:00:12,750 --> 00:00:14,820
+<font color="#E5E5E5">switching over</font><font color="#CCCCCC"> to it's all new channels</font>
+
+10
+00:00:14,820 --> 00:00:16,260
+it's like you went<font color="#E5E5E5"> to an ice cream</font><font color="#CCCCCC"> shop</font>
+
+11
+00:00:16,260 --> 00:00:17,910
+<font color="#CCCCCC">and they're like hey free vanilla ice</font>
+
+12
+00:00:17,910 --> 00:00:19,560
+cream for<font color="#E5E5E5"> everyone and you enjoyed that</font>
+
+13
+00:00:19,560 --> 00:00:20,850
+<font color="#E5E5E5">vanilla ice cream all</font><font color="#CCCCCC"> the time even</font>
+
+14
+00:00:20,850 --> 00:00:21,750
+<font color="#E5E5E5">though you're like this is a weird</font>
+
+15
+00:00:21,750 --> 00:00:23,100
+business<font color="#E5E5E5"> model but then one</font><font color="#CCCCCC"> day they</font>
+
+16
+00:00:23,100 --> 00:00:24,420
+introduced chocolate ice cream<font color="#E5E5E5"> and you</font>
+
+17
+00:00:24,420 --> 00:00:25,619
+don't really<font color="#E5E5E5"> care cuz you don't eat</font>
+
+18
+00:00:25,619 --> 00:00:26,640
+chocolate<font color="#E5E5E5"> ice cream but then they were</font>
+
+19
+00:00:26,640 --> 00:00:28,470
+like and we're<font color="#E5E5E5"> gonna charge</font><font color="#CCCCCC"> for and then</font>
+
+20
+00:00:28,470 --> 00:00:29,939
+you got pissed off even though you were
+
+21
+00:00:29,939 --> 00:00:31,529
+<font color="#E5E5E5">still gonna get your free vanilla ice</font>
+
+22
+00:00:31,529 --> 00:00:32,940
+cream<font color="#E5E5E5"> so I guess the main</font><font color="#CCCCCC"> point of this</font>
+
+23
+00:00:32,940 --> 00:00:35,670
+is be stupid or angry<font color="#E5E5E5"> but please don't</font>
+
+24
+00:00:35,670 --> 00:00:37,440
+be<font color="#E5E5E5"> bold</font><font color="#CCCCCC"> that makes no sense and to</font>
+
+25
+00:00:37,440 --> 00:00:38,640
+something you might be<font color="#CCCCCC"> interested in if</font>
+
+26
+00:00:38,640 --> 00:00:40,020
+you like really<font color="#E5E5E5"> fast internet but</font>
+
+27
+00:00:40,020 --> 00:00:41,610
+<font color="#E5E5E5">YouTube was like really really slow and</font>
+
+28
+00:00:41,610 --> 00:00:42,899
+<font color="#E5E5E5">it always buffers all the time might be</font>
+
+29
+00:00:42,899 --> 00:00:43,860
+<font color="#E5E5E5">because your internet service provider</font>
+
+30
+00:00:43,860 --> 00:00:45,570
+hasn't told you<font color="#CCCCCC"> what</font><font color="#E5E5E5"> they're throttling</font>
+
+31
+00:00:45,570 --> 00:00:47,039
+your download speed so this<font color="#E5E5E5"> guy figured</font>
+
+32
+00:00:47,039 --> 00:00:48,690
+<font color="#E5E5E5">out a way to make it</font><font color="#CCCCCC"> faster by</font><font color="#E5E5E5"> rejecting</font>
+
+33
+00:00:48,690 --> 00:00:50,610
+IP addresses<font color="#E5E5E5"> and the instructions are</font>
+
+34
+00:00:50,610 --> 00:00:51,930
+really<font color="#E5E5E5"> easy I did it this morning in</font>
+
+35
+00:00:51,930 --> 00:00:53,280
+about<font color="#E5E5E5"> 20 seconds and the next thing I</font>
+
+36
+00:00:53,280 --> 00:00:55,590
+<font color="#CCCCCC">knew YouTube Vimeo Netflix videos</font><font color="#E5E5E5"> played</font>
+
+37
+00:00:55,590 --> 00:00:57,840
+<font color="#E5E5E5">super fast for some unforeseeable reason</font>
+
+38
+00:00:57,840 --> 00:00:58,890
+it doesn't<font color="#E5E5E5"> work</font><font color="#CCCCCC"> for you there's some</font>
+
+39
+00:00:58,890 --> 00:01:00,690
+undo instructions it's easy<font color="#CCCCCC"> I will put a</font>
+
+40
+00:01:00,690 --> 00:01:02,489
+big asterisk<font color="#E5E5E5"> on this that if</font><font color="#CCCCCC"> you do any</font>
+
+41
+00:01:02,489 --> 00:01:04,199
+of<font color="#CCCCCC"> this it is</font><font color="#E5E5E5"> not my</font><font color="#CCCCCC"> fault I am just</font>
+
+42
+00:01:04,199 --> 00:01:05,640
+connecting you to<font color="#E5E5E5"> something and</font>
+
+43
+00:01:05,640 --> 00:01:07,530
+explaining<font color="#E5E5E5"> my experience but when I find</font>
+
+44
+00:01:07,530 --> 00:01:08,760
+something<font color="#E5E5E5"> that's awesome works awesome</font>
+
+45
+00:01:08,760 --> 00:01:10,049
+<font color="#E5E5E5">for me I love to share it</font><font color="#CCCCCC"> I guess the</font>
+
+46
+00:01:10,049 --> 00:00:00,000
+main point<font color="#CCCCCC"> of this is you are welcome</font>
+

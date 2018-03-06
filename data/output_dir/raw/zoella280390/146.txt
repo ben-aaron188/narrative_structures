@@ -1,0 +1,628 @@
+1
+00:00:00,030 --> 00:00:01,709
+hello everybody<font color="#CCCCCC"> today I am going to</font>
+
+2
+00:00:01,709 --> 00:00:03,689
+showing<font color="#E5E5E5"> you how to bake spiced pumpkin</font>
+
+3
+00:00:03,689 --> 00:00:05,850
+cupcakes<font color="#E5E5E5"> with cinnamon cream cheese</font>
+
+4
+00:00:05,850 --> 00:00:08,760
+<font color="#E5E5E5">frosting</font><font color="#CCCCCC"> that is quite a mouthful and</font>
+
+5
+00:00:08,760 --> 00:00:12,509
+they taste delicious<font color="#CCCCCC"> in your mouth</font><font color="#E5E5E5"> so</font>
+
+6
+00:00:12,509 --> 00:00:14,580
+this is what they look<font color="#CCCCCC"> like</font><font color="#E5E5E5"> they are</font>
+
+7
+00:00:14,580 --> 00:00:16,920
+super lovely<font color="#E5E5E5"> for this time of</font><font color="#CCCCCC"> year I</font>
+
+8
+00:00:16,920 --> 00:00:18,330
+would<font color="#E5E5E5"> never actually fake anything with</font>
+
+9
+00:00:18,330 --> 00:00:20,010
+pumpkin in them<font color="#E5E5E5"> before so I was</font><font color="#CCCCCC"> really</font>
+
+10
+00:00:20,010 --> 00:00:22,260
+<font color="#E5E5E5">excited to give these a</font><font color="#CCCCCC"> try and I know</font>
+
+11
+00:00:22,260 --> 00:00:25,529
+that you<font color="#E5E5E5"> guys are going</font><font color="#CCCCCC"> to love them so</font>
+
+12
+00:00:25,529 --> 00:00:26,699
+the ingredients<font color="#E5E5E5"> that you'll need</font><font color="#CCCCCC"> for</font><font color="#E5E5E5"> the</font>
+
+13
+00:00:26,699 --> 00:00:28,949
+cupcakes are<font color="#E5E5E5"> two</font><font color="#CCCCCC"> hundred</font><font color="#E5E5E5"> and eighty</font>
+
+14
+00:00:28,949 --> 00:00:32,430
+grams of plain flour two teaspoons<font color="#E5E5E5"> of</font>
+
+15
+00:00:32,430 --> 00:00:36,300
+cinnamon 1/4 teaspoon of ginger 1/4
+
+16
+00:00:36,300 --> 00:00:39,000
+teaspoon<font color="#E5E5E5"> of cloves</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> a quarter</font>
+
+17
+00:00:39,000 --> 00:00:42,030
+<font color="#E5E5E5">teaspoon of nutmeg</font><font color="#CCCCCC"> half a</font><font color="#E5E5E5"> teaspoon of</font>
+
+18
+00:00:42,030 --> 00:00:45,379
+<font color="#E5E5E5">salt one tablespoon of baking powder</font>
+
+19
+00:00:45,379 --> 00:00:49,309
+<font color="#E5E5E5">half a tablespoon of bicarbonate of soda</font>
+
+20
+00:00:49,309 --> 00:00:53,219
+110 grams of butter 200 grams of<font color="#E5E5E5"> caster</font>
+
+21
+00:00:53,219 --> 00:00:56,629
+sugar<font color="#CCCCCC"> 5</font><font color="#E5E5E5"> tablespoons of soft brown sugar</font>
+
+22
+00:00:56,629 --> 00:01:02,430
+<font color="#CCCCCC">2 eggs</font><font color="#E5E5E5"> 180 milliliters of milk and 250</font>
+
+23
+00:01:02,430 --> 00:01:05,369
+grams<font color="#E5E5E5"> or pureed pumpkin</font><font color="#CCCCCC"> I found mine in</font>
+
+24
+00:01:05,369 --> 00:01:07,860
+<font color="#E5E5E5">white rose I think you can also get it</font>
+
+25
+00:01:07,860 --> 00:01:10,470
+online<font color="#E5E5E5"> for the cream cheese cinnamon</font>
+
+26
+00:01:10,470 --> 00:01:13,380
+frosting<font color="#E5E5E5"> you will need 200 grams of</font>
+
+27
+00:01:13,380 --> 00:01:18,210
+cream cheese<font color="#E5E5E5"> 50 grams of</font><font color="#CCCCCC"> butter</font><font color="#E5E5E5"> 350</font>
+
+28
+00:01:18,210 --> 00:01:21,390
+grams of icing sugar<font color="#E5E5E5"> 1 a teaspoon of</font>
+
+29
+00:01:21,390 --> 00:01:24,150
+<font color="#E5E5E5">vanilla extract and</font><font color="#CCCCCC"> 1 teaspoon of ground</font>
+
+30
+00:01:24,150 --> 00:01:26,759
+cinnamon<font color="#E5E5E5"> you'll also want to get</font>
+
+31
+00:01:26,759 --> 00:01:30,150
+yourself some cute little<font color="#E5E5E5"> cupcake cases</font>
+
+32
+00:01:30,150 --> 00:01:32,490
+I got mine<font color="#CCCCCC"> online and they're</font><font color="#E5E5E5"> just kind</font>
+
+33
+00:01:32,490 --> 00:01:36,659
+of<font color="#CCCCCC"> gold-foiled ones which I love if</font>
+
+34
+00:01:36,659 --> 00:01:37,710
+you're wondering where I got<font color="#E5E5E5"> my cute</font>
+
+35
+00:01:37,710 --> 00:01:39,720
+pumpkin sprinkles<font color="#E5E5E5"> they are from home</font>
+
+36
+00:01:39,720 --> 00:01:41,310
+<font color="#E5E5E5">scents home scents actually have some</font>
+
+37
+00:01:41,310 --> 00:01:43,170
+really amazing<font color="#CCCCCC"> things</font><font color="#E5E5E5"> for baking around</font>
+
+38
+00:01:43,170 --> 00:01:44,579
+this time<font color="#CCCCCC"> of year so make sure you pop</font>
+
+39
+00:01:44,579 --> 00:01:46,439
+<font color="#E5E5E5">in and check that out</font>
+
+40
+00:01:46,439 --> 00:01:47,640
+both are you're going<font color="#E5E5E5"> to want to do is</font>
+
+41
+00:01:47,640 --> 00:01:49,799
+to pre-heat your oven<font color="#E5E5E5"> to 190 degrees</font>
+
+42
+00:01:49,799 --> 00:01:53,689
+<font color="#CCCCCC">Celsius or</font><font color="#E5E5E5"> gas</font><font color="#CCCCCC"> mark 5</font>
+
+43
+00:01:54,490 --> 00:01:56,539
+burn baby<font color="#E5E5E5"> burn</font>
+
+44
+00:01:56,539 --> 00:01:58,460
+next thing<font color="#E5E5E5"> you're gonna want to do is to</font>
+
+45
+00:01:58,460 --> 00:02:07,490
+line your muffin tins with chases after
+
+46
+00:02:07,490 --> 00:02:09,229
+preheating the oven and lining your
+
+47
+00:02:09,229 --> 00:02:10,940
+muffin tin you want to sieve all your
+
+48
+00:02:10,940 --> 00:02:13,400
+dry ingredients<font color="#E5E5E5"> including the spices and</font>
+
+49
+00:02:13,400 --> 00:02:16,790
+<font color="#E5E5E5">the baking soda etc etc</font><font color="#CCCCCC"> into a large</font>
+
+50
+00:02:16,790 --> 00:02:23,569
+bowl<font color="#CCCCCC"> I just said to mix all the dry</font>
+
+51
+00:02:23,569 --> 00:02:25,700
+ingredients that what I meant to say<font color="#CCCCCC"> was</font>
+
+52
+00:02:25,700 --> 00:02:27,950
+all the dry ingredients except the sugar
+
+53
+00:02:27,950 --> 00:02:34,849
+<font color="#E5E5E5">so I'm now</font><font color="#CCCCCC"> adding all my spices</font><font color="#E5E5E5"> this is</font>
+
+54
+00:02:34,849 --> 00:02:39,470
+basically autumn<font color="#E5E5E5"> in a tiny dish and my</font>
+
+55
+00:02:39,470 --> 00:02:42,970
+<font color="#E5E5E5">five tablespoons</font><font color="#CCCCCC"> of brown sugar</font>
+
+56
+00:02:43,459 --> 00:02:47,000
+and now my salt<font color="#CCCCCC"> my bicarbonate soda</font><font color="#E5E5E5"> and</font>
+
+57
+00:02:47,000 --> 00:02:51,560
+my baking powder<font color="#CCCCCC"> a now you want</font><font color="#E5E5E5"> to</font>
+
+58
+00:02:51,560 --> 00:02:53,719
+combine<font color="#E5E5E5"> your butter at room temperature</font>
+
+59
+00:02:53,719 --> 00:02:57,079
+<font color="#CCCCCC">and your sugar</font><font color="#E5E5E5"> in a large mixing bowl or</font>
+
+60
+00:02:57,079 --> 00:02:58,790
+you can use a hand whisk<font color="#E5E5E5"> if you prefer</font>
+
+61
+00:02:58,790 --> 00:03:01,099
+and<font color="#E5E5E5"> you just want</font><font color="#CCCCCC"> to beat it until it's</font>
+
+62
+00:03:01,099 --> 00:03:03,170
+really<font color="#E5E5E5"> soft and it goes a little paler</font>
+
+63
+00:03:03,170 --> 00:03:05,560
+<font color="#E5E5E5">in color</font>
+
+64
+00:03:16,160 --> 00:03:18,930
+using a very cute pink spatula<font color="#E5E5E5"> I'm now</font>
+
+65
+00:03:18,930 --> 00:03:20,850
+going to just scrape down the sides<font color="#E5E5E5"> just</font>
+
+66
+00:03:20,850 --> 00:03:24,450
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> make sure it's all being whisked</font>
+
+67
+00:03:24,450 --> 00:03:26,970
+nicely so you<font color="#CCCCCC"> want it</font><font color="#E5E5E5"> to look a little</font>
+
+68
+00:03:26,970 --> 00:03:28,560
+bit like<font color="#CCCCCC"> this it goes</font><font color="#E5E5E5"> just goes a lot</font>
+
+69
+00:03:28,560 --> 00:03:30,480
+<font color="#E5E5E5">lighter in color next thing I want to do</font>
+
+70
+00:03:30,480 --> 00:03:32,940
+is add one egg at a<font color="#CCCCCC"> time into</font><font color="#E5E5E5"> the</font>
+
+71
+00:03:32,940 --> 00:03:34,410
+mixture<font color="#E5E5E5"> and</font><font color="#CCCCCC"> then give it</font><font color="#E5E5E5"> a little mix</font>
+
+72
+00:03:34,410 --> 00:03:36,570
+I'm clearly feeling<font color="#E5E5E5"> very brave I'm</font>
+
+73
+00:03:36,570 --> 00:03:39,720
+cracking the<font color="#E5E5E5"> egg straight in if you're</font>
+
+74
+00:03:39,720 --> 00:03:41,220
+not so<font color="#E5E5E5"> good at cracking</font><font color="#CCCCCC"> eggs I would</font>
+
+75
+00:03:41,220 --> 00:03:45,660
+suggest doing it in a bowl take<font color="#CCCCCC"> number</font>
+
+76
+00:03:45,660 --> 00:03:51,410
+<font color="#E5E5E5">two and it goes</font>
+
+77
+00:03:54,530 --> 00:03:58,940
+next you want<font color="#CCCCCC"> to</font><font color="#E5E5E5"> add your milk</font>
+
+78
+00:04:01,209 --> 00:04:06,040
+now it's<font color="#E5E5E5"> time to add your puree now it's</font>
+
+79
+00:04:06,040 --> 00:04:08,019
+time to<font color="#E5E5E5"> add your dry mixture</font><font color="#CCCCCC"> I'm going</font>
+
+80
+00:04:08,019 --> 00:04:10,030
+to do<font color="#E5E5E5"> kind of like a third at a time mix</font>
+
+81
+00:04:10,030 --> 00:04:14,220
+<font color="#E5E5E5">add a little bit more mix</font><font color="#CCCCCC"> etc</font><font color="#E5E5E5"> etc</font>
+
+82
+00:04:21,988 --> 00:04:24,270
+now is the fun<font color="#CCCCCC"> part</font><font color="#E5E5E5"> or the messy part</font>
+
+83
+00:04:24,270 --> 00:04:26,550
+where you get<font color="#CCCCCC"> to</font><font color="#E5E5E5"> put</font><font color="#CCCCCC"> your</font><font color="#E5E5E5"> mixture into</font>
+
+84
+00:04:26,550 --> 00:04:28,259
+<font color="#CCCCCC">your cupcake cases you</font><font color="#E5E5E5"> want to fill</font>
+
+85
+00:04:28,259 --> 00:04:31,970
+these about<font color="#E5E5E5"> two-thirds of the</font><font color="#CCCCCC"> way</font><font color="#E5E5E5"> full</font>
+
+86
+00:04:52,400 --> 00:04:54,740
+now it's time to<font color="#E5E5E5"> pop them in the oven</font><font color="#CCCCCC"> I</font>
+
+87
+00:04:54,740 --> 00:05:03,040
+would say<font color="#E5E5E5"> for around 20 to 25 minutes hi</font>
+
+88
+00:05:03,040 --> 00:05:05,300
+<font color="#E5E5E5">so once the cakes are done you want to</font>
+
+89
+00:05:05,300 --> 00:05:07,040
+get them<font color="#E5E5E5"> out</font><font color="#CCCCCC"> I left them in</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> Tim for</font>
+
+90
+00:05:07,040 --> 00:05:08,300
+a little<font color="#CCCCCC"> bit</font><font color="#E5E5E5"> cooled down I didn't get</font>
+
+91
+00:05:08,300 --> 00:05:11,150
+<font color="#E5E5E5">these out piping hot as you can see some</font>
+
+92
+00:05:11,150 --> 00:05:12,440
+of<font color="#E5E5E5"> them are kind of pointed on the top</font>
+
+93
+00:05:12,440 --> 00:05:15,229
+<font color="#E5E5E5">not sure why this happened but you can</font>
+
+94
+00:05:15,229 --> 00:05:17,330
+always slice those before<font color="#E5E5E5"> I</font><font color="#CCCCCC"> seen them if</font>
+
+95
+00:05:17,330 --> 00:05:18,650
+you want<font color="#E5E5E5"> to so it's a little bit more</font>
+
+96
+00:05:18,650 --> 00:05:20,600
+even<font color="#E5E5E5"> and then it just gives you an</font>
+
+97
+00:05:20,600 --> 00:05:22,970
+excuse<font color="#CCCCCC"> to eat a little</font><font color="#E5E5E5"> bit of cake so</font>
+
+98
+00:05:22,970 --> 00:05:24,169
+I'm just going<font color="#CCCCCC"> to leave those</font><font color="#E5E5E5"> to cool</font>
+
+99
+00:05:24,169 --> 00:05:27,970
+for<font color="#CCCCCC"> now</font><font color="#E5E5E5"> moving</font><font color="#CCCCCC"> on to</font><font color="#E5E5E5"> the cream cheese</font>
+
+100
+00:05:27,970 --> 00:05:31,010
+<font color="#CCCCCC">cinnamon frosting okay so we've got our</font>
+
+101
+00:05:31,010 --> 00:05:34,130
+trusty mixer<font color="#E5E5E5"> back put your butter and</font>
+
+102
+00:05:34,130 --> 00:05:36,590
+your<font color="#E5E5E5"> cream cheese into the mixer</font><font color="#CCCCCC"> and</font>
+
+103
+00:05:36,590 --> 00:05:39,580
+beat until<font color="#E5E5E5"> smooth</font>
+
+104
+00:05:46,470 --> 00:05:49,650
+and then if you've got<font color="#CCCCCC"> a little pup</font><font color="#E5E5E5"> who</font>
+
+105
+00:05:49,650 --> 00:05:53,460
+likes cream cheese you can let them lick
+
+106
+00:05:53,460 --> 00:05:55,110
+the spoon although probably<font color="#E5E5E5"> a little</font>
+
+107
+00:05:55,110 --> 00:05:56,760
+unhygienic so make sure you wash the
+
+108
+00:05:56,760 --> 00:05:59,570
+spoon afterwards
+
+109
+00:06:11,400 --> 00:06:14,380
+now you want<font color="#E5E5E5"> to incorporate your</font><font color="#CCCCCC"> ice and</font>
+
+110
+00:06:14,380 --> 00:06:17,169
+<font color="#CCCCCC">sugar in a little bit at a time</font><font color="#E5E5E5"> and then</font>
+
+111
+00:06:17,169 --> 00:06:21,669
+carry<font color="#E5E5E5"> on mixing no it's</font><font color="#CCCCCC"> just done a</font>
+
+112
+00:06:21,669 --> 00:06:26,800
+<font color="#E5E5E5">reread but you want to make sure you mix</font>
+
+113
+00:06:26,800 --> 00:06:28,780
+in the icing sugar<font color="#CCCCCC"> on a low speed to</font>
+
+114
+00:06:28,780 --> 00:06:30,550
+start with otherwise it will look<font color="#E5E5E5"> like</font>
+
+115
+00:06:30,550 --> 00:06:33,370
+<font color="#E5E5E5">you are doing an experiment</font><font color="#CCCCCC"> of some kind</font>
+
+116
+00:06:33,370 --> 00:06:35,860
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> looks so good</font>
+
+117
+00:06:35,860 --> 00:06:38,440
+look how cute<font color="#CCCCCC"> this is and</font><font color="#E5E5E5"> now you want</font>
+
+118
+00:06:38,440 --> 00:06:44,290
+to<font color="#E5E5E5"> add your cinnamon and your vanilla</font>
+
+119
+00:06:44,290 --> 00:06:48,700
+<font color="#CCCCCC">extract and you just want to</font><font color="#E5E5E5"> mix it all</font>
+
+120
+00:06:48,700 --> 00:06:50,650
+<font color="#E5E5E5">together</font><font color="#CCCCCC"> I can't tell you how</font><font color="#E5E5E5"> good this</font>
+
+121
+00:06:50,650 --> 00:06:53,470
+smells<font color="#CCCCCC"> I also now have a dog at my feet</font>
+
+122
+00:06:53,470 --> 00:06:55,630
+<font color="#CCCCCC">waiting for me</font><font color="#E5E5E5"> to drop something maybe</font>
+
+123
+00:06:55,630 --> 00:06:57,430
+give them<font color="#E5E5E5"> the cream cheese once all the</font>
+
+124
+00:06:57,430 --> 00:07:00,120
+baking is done
+
+125
+00:07:02,640 --> 00:07:05,350
+now it's<font color="#E5E5E5"> only right I think that</font><font color="#CCCCCC"> I have</font>
+
+126
+00:07:05,350 --> 00:07:08,920
+to<font color="#E5E5E5"> test this first not you sorry sorry</font>
+
+127
+00:07:08,920 --> 00:07:19,840
+<font color="#E5E5E5">Nala</font><font color="#CCCCCC"> oh my god I feel like that's the</font>
+
+128
+00:07:19,840 --> 00:07:22,300
+<font color="#E5E5E5">best</font><font color="#CCCCCC"> thing I've ever</font><font color="#E5E5E5"> made that is</font>
+
+129
+00:07:22,300 --> 00:07:23,440
+delicious
+
+130
+00:07:23,440 --> 00:07:25,210
+oh my god you guys<font color="#CCCCCC"> are going</font><font color="#E5E5E5"> to love</font>
+
+131
+00:07:25,210 --> 00:07:27,310
+this<font color="#CCCCCC"> eh I'm just sniffing the end off</font>
+
+132
+00:07:27,310 --> 00:07:29,620
+<font color="#E5E5E5">with</font><font color="#CCCCCC"> a piping bag I'm just going to pop</font>
+
+133
+00:07:29,620 --> 00:07:35,590
+my nozzle<font color="#E5E5E5"> down then we're just going to</font>
+
+134
+00:07:35,590 --> 00:07:41,980
+turn the piping<font color="#CCCCCC"> bag over and we're</font><font color="#E5E5E5"> going</font>
+
+135
+00:07:41,980 --> 00:07:44,950
+to fill it<font color="#CCCCCC"> with our cream cheese</font>
+
+136
+00:07:44,950 --> 00:07:47,250
+<font color="#CCCCCC">frosting</font>
+
+137
+00:08:06,010 --> 00:08:09,370
+I'm now<font color="#E5E5E5"> just putting a</font><font color="#CCCCCC"> couple of my</font>
+
+138
+00:08:09,370 --> 00:08:14,160
+little pumpkin sprinkles on the<font color="#CCCCCC"> gate</font>
+
+139
+00:08:34,429 --> 00:08:39,890
+I hope you guys enjoyed this video
+
+140
+00:08:39,890 --> 00:08:41,270
+do you remember to give<font color="#E5E5E5"> it a thumbs up</font>
+
+141
+00:08:41,270 --> 00:08:42,799
+<font color="#E5E5E5">if you want more baking things</font><font color="#CCCCCC"> since</font>
+
+142
+00:08:42,799 --> 00:08:44,720
+<font color="#E5E5E5">it's around the kind of baking time of</font>
+
+143
+00:08:44,720 --> 00:08:46,160
+the year there's lots<font color="#E5E5E5"> of amazing things</font>
+
+144
+00:08:46,160 --> 00:08:48,620
+<font color="#CCCCCC">like Halloween bonfire night</font><font color="#E5E5E5"> and</font>
+
+145
+00:08:48,620 --> 00:08:50,990
+Christmas coming<font color="#E5E5E5"> up so I definitely want</font>
+
+146
+00:08:50,990 --> 00:08:52,670
+to do some more<font color="#E5E5E5"> kind of festive style</font>
+
+147
+00:08:52,670 --> 00:08:54,560
+baking<font color="#E5E5E5"> leave your suggestions in the</font>
+
+148
+00:08:54,560 --> 00:08:55,940
+comments<font color="#E5E5E5"> below if you want me to try</font>
+
+149
+00:08:55,940 --> 00:08:58,220
+anything<font color="#E5E5E5"> out let me</font><font color="#CCCCCC"> know if you bake</font>
+
+150
+00:08:58,220 --> 00:08:59,720
+these and<font color="#E5E5E5"> don't forget to tag me</font><font color="#CCCCCC"> on</font>
+
+151
+00:08:59,720 --> 00:09:02,120
+Twitter<font color="#E5E5E5"> and Instagram it's</font><font color="#CCCCCC"> Zozi bow so I</font>
+
+152
+00:09:02,120 --> 00:09:03,950
+can see<font color="#E5E5E5"> that you guys have made them as</font>
+
+153
+00:09:03,950 --> 00:09:06,320
+well and I<font color="#E5E5E5"> really hope that you enjoy</font>
+
+154
+00:09:06,320 --> 00:09:08,180
+<font color="#E5E5E5">them I am now going to go and eat these</font>
+
+155
+00:09:08,180 --> 00:09:09,980
+<font color="#E5E5E5">and I'm going to thoroughly enjoy myself</font>
+
+156
+00:09:09,980 --> 00:09:11,900
+<font color="#CCCCCC">so thank</font><font color="#E5E5E5"> you so</font><font color="#CCCCCC"> much for watching</font>
+
+157
+00:09:11,900 --> 00:00:00,000
+after you<font color="#CCCCCC"> get writing</font>
+

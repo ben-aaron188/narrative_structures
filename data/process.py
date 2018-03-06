@@ -10,7 +10,7 @@ for filename in os.listdir("retrieved_links"):
 
         filename = filename[:filename.index(".txt")]
 
-        with open("retrieved_links/" + filename) as f:
+        with open("retrieved_links/" + filename + ".txt") as f:
             links = f.readlines()
 
             vloggers[filename] = []
@@ -18,6 +18,8 @@ for filename in os.listdir("retrieved_links"):
             for elem in links:
                 if elem[24:29] == "watch":
                     vloggers[filename].append(elem.replace("\n", ""))
+
+print("Total of {} vloggers to download.".format(len(vloggers)))
 
 for vlogger, vlogs in vloggers.items():
     total = len(vlogs)
@@ -37,5 +39,6 @@ for vlogger, vlogs in vloggers.items():
                 f.write(vlogger + "," + str(count) + "," + vlog + "," + view_count + "," + published + "\n")
         except:
             print("Video " + vlog + " from " + vlogger + " not supported!")
+            count -= 1
 
     print("Total Score for " + vlogger + ": " + str(count))

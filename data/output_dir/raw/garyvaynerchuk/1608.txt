@@ -1,0 +1,268 @@
+1
+00:00:01,100 --> 00:00:03,090
+so it's<font color="#CCCCCC"> been a</font><font color="#E5E5E5"> lot of time thinking</font>
+
+2
+00:00:03,090 --> 00:00:05,160
+<font color="#CCCCCC">about why</font><font color="#E5E5E5"> I'm not angel investing as</font>
+
+3
+00:00:05,160 --> 00:00:06,299
+much<font color="#CCCCCC"> lately</font><font color="#E5E5E5"> and I think there's a</font>
+
+4
+00:00:06,299 --> 00:00:07,589
+<font color="#CCCCCC">conversation that I'd like to make this</font>
+
+5
+00:00:07,589 --> 00:00:09,300
+<font color="#E5E5E5">video about to start</font><font color="#CCCCCC"> bringing a</font>
+
+6
+00:00:09,300 --> 00:00:11,280
+conversation to our space about this<font color="#E5E5E5"> and</font>
+
+7
+00:00:11,280 --> 00:00:13,559
+the title this is<font color="#E5E5E5"> that you know I can't</font>
+
+8
+00:00:13,559 --> 00:00:16,440
+code and you can't sell<font color="#E5E5E5"> crap and it's</font>
+
+9
+00:00:16,440 --> 00:00:18,300
+it's an analogy to<font color="#CCCCCC"> what I</font><font color="#E5E5E5"> think is going</font>
+
+10
+00:00:18,300 --> 00:00:20,310
+on<font color="#E5E5E5"> right now which is</font><font color="#CCCCCC"> that whether</font>
+
+11
+00:00:20,310 --> 00:00:23,010
+you're a developer<font color="#E5E5E5"> or a designer a CTO</font>
+
+12
+00:00:23,010 --> 00:00:27,750
+<font color="#E5E5E5">or maybe just an operator as a CEO or a</font>
+
+13
+00:00:27,750 --> 00:00:30,269
+marketer as a CMO there's a very
+
+14
+00:00:30,269 --> 00:00:33,180
+distinct personality trait<font color="#E5E5E5"> that it needs</font>
+
+15
+00:00:33,180 --> 00:00:36,540
+to<font color="#CCCCCC"> have to</font><font color="#E5E5E5"> be a leader or a CEO or a</font>
+
+16
+00:00:36,540 --> 00:00:38,820
+co-founder or<font color="#E5E5E5"> an executor of a</font>
+
+17
+00:00:38,820 --> 00:00:41,520
+profitable business<font color="#CCCCCC"> it's easy to go out</font>
+
+18
+00:00:41,520 --> 00:00:44,399
+<font color="#E5E5E5">and come up with a pitch and raise some</font>
+
+19
+00:00:44,399 --> 00:00:46,950
+<font color="#E5E5E5">money and start</font><font color="#CCCCCC"> a business</font><font color="#E5E5E5"> it's hard to</font>
+
+20
+00:00:46,950 --> 00:00:48,450
+navigate<font color="#E5E5E5"> it through</font><font color="#CCCCCC"> as the world</font>
+
+21
+00:00:48,450 --> 00:00:49,920
+<font color="#CCCCCC">continues to change and</font><font color="#E5E5E5"> what I'm</font>
+
+22
+00:00:49,920 --> 00:00:51,960
+realizing and what I like to<font color="#E5E5E5"> have</font><font color="#CCCCCC"> people</font>
+
+23
+00:00:51,960 --> 00:00:54,059
+<font color="#E5E5E5">think</font><font color="#CCCCCC"> about</font><font color="#E5E5E5"> a little bit especially VCS</font>
+
+24
+00:00:54,059 --> 00:00:56,910
+and angels and<font color="#E5E5E5"> more importantly 22 235</font>
+
+25
+00:00:56,910 --> 00:00:59,129
+<font color="#E5E5E5">year old young women and young</font><font color="#CCCCCC"> men</font><font color="#E5E5E5"> that</font>
+
+26
+00:00:59,129 --> 00:01:00,329
+<font color="#CCCCCC">are thinking</font><font color="#E5E5E5"> about starting</font><font color="#CCCCCC"> an internet</font>
+
+27
+00:01:00,329 --> 00:01:02,910
+<font color="#E5E5E5">company or a</font><font color="#CCCCCC"> startup or an app which is</font>
+
+28
+00:01:02,910 --> 00:01:05,069
+that there's a lot<font color="#CCCCCC"> of number twos</font><font color="#E5E5E5"> and</font>
+
+29
+00:01:05,069 --> 00:01:06,330
+number three's right now
+
+30
+00:01:06,330 --> 00:01:08,100
+that are<font color="#E5E5E5"> trying to run companies I'm not</font>
+
+31
+00:01:08,100 --> 00:01:09,689
+just<font color="#E5E5E5"> the truth</font><font color="#CCCCCC"> there's a lot</font><font color="#E5E5E5"> of players</font>
+
+32
+00:01:09,689 --> 00:01:12,360
+who would<font color="#E5E5E5"> be amazing women</font><font color="#CCCCCC"> right-hand</font>
+
+33
+00:01:12,360 --> 00:01:15,140
+gals<font color="#E5E5E5"> or left-hand guys like just</font>
+
+34
+00:01:15,140 --> 00:01:17,790
+unbelievable<font color="#E5E5E5"> number twos and threes that</font>
+
+35
+00:01:17,790 --> 00:01:19,380
+<font color="#E5E5E5">are trying to be number ones and we're</font>
+
+36
+00:01:19,380 --> 00:01:23,460
+gonna see a lot<font color="#E5E5E5"> and I mean</font><font color="#CCCCCC"> an obnoxious</font>
+
+37
+00:01:23,460 --> 00:01:24,780
+amount<font color="#E5E5E5"> of companies going out of</font>
+
+38
+00:01:24,780 --> 00:01:27,210
+<font color="#E5E5E5">business because those those individuals</font>
+
+39
+00:01:27,210 --> 00:01:29,909
+don't<font color="#E5E5E5"> have the stomach to navigate</font>
+
+40
+00:01:29,909 --> 00:01:31,829
+through the waters and<font color="#E5E5E5"> there's this huge</font>
+
+41
+00:01:31,829 --> 00:01:33,840
+<font color="#CCCCCC">disconnect right</font><font color="#E5E5E5"> now that everybody</font>
+
+42
+00:01:33,840 --> 00:01:35,640
+<font color="#CCCCCC">thinks they can be an entrepreneur and</font>
+
+43
+00:01:35,640 --> 00:01:38,189
+the fact<font color="#CCCCCC"> that matter is</font><font color="#E5E5E5"> I think in</font>
+
+44
+00:01:38,189 --> 00:01:39,930
+theory<font color="#E5E5E5"> that I</font><font color="#CCCCCC"> can be a great Python</font>
+
+45
+00:01:39,930 --> 00:01:41,729
+developer but I don't have the matching
+
+46
+00:01:41,729 --> 00:01:43,920
+talent to pull it off<font color="#E5E5E5"> or I can never</font>
+
+47
+00:01:43,920 --> 00:01:46,259
+really get<font color="#E5E5E5"> there I mean I'd love to be</font>
+
+48
+00:01:46,259 --> 00:01:49,140
+an NBA superstar<font color="#E5E5E5"> but no matter how much</font>
+
+49
+00:01:49,140 --> 00:01:52,860
+flying or effort it's just not gonna get
+
+50
+00:01:52,860 --> 00:01:55,140
+there and so yeah you could try<font color="#CCCCCC"> this</font>
+
+51
+00:01:55,140 --> 00:01:56,340
+part a<font color="#E5E5E5"> couple business and you think</font><font color="#CCCCCC"> the</font>
+
+52
+00:01:56,340 --> 00:01:58,380
+third time you could pull<font color="#E5E5E5"> it off but the</font>
+
+53
+00:01:58,380 --> 00:02:01,049
+fact that matter is<font color="#E5E5E5"> I can't code</font><font color="#CCCCCC"> and you</font>
+
+54
+00:02:01,049 --> 00:02:03,000
+can't sell crap<font color="#E5E5E5"> really sums up how I</font>
+
+55
+00:02:03,000 --> 00:02:04,290
+feel<font color="#E5E5E5"> about the space right</font><font color="#CCCCCC"> now which is</font>
+
+56
+00:02:04,290 --> 00:02:04,880
+<font color="#CCCCCC">that</font>
+
+57
+00:02:04,880 --> 00:02:06,110
+there's just<font color="#CCCCCC"> a lot</font><font color="#E5E5E5"> of people starting</font>
+
+58
+00:02:06,110 --> 00:02:08,330
+<font color="#CCCCCC">businesses and they can't win be honest</font>
+
+59
+00:02:08,330 --> 00:02:09,880
+<font color="#E5E5E5">with yourself</font><font color="#CCCCCC"> look inside yourself</font>
+
+60
+00:02:09,880 --> 00:02:11,780
+<font color="#E5E5E5">understand that you're that number two</font>
+
+61
+00:02:11,780 --> 00:02:13,160
+and three<font color="#CCCCCC"> that you could be the boost</font>
+
+62
+00:02:13,160 --> 00:02:15,080
+the<font color="#CCCCCC"> turbocharged</font><font color="#E5E5E5"> there's just a lot of</font>
+
+63
+00:02:15,080 --> 00:02:16,400
+<font color="#E5E5E5">people right</font><font color="#CCCCCC"> now that can</font><font color="#E5E5E5"> make a lot</font>
+
+64
+00:02:16,400 --> 00:02:19,310
+more money<font color="#CCCCCC"> jumping</font><font color="#E5E5E5"> on to an</font><font color="#CCCCCC"> A on number</font>
+
+65
+00:02:19,310 --> 00:02:20,930
+one instead<font color="#E5E5E5"> of trying to start</font><font color="#CCCCCC"> their own</font>
+
+66
+00:02:20,930 --> 00:02:22,370
+<font color="#CCCCCC">thing big disconnecting</font><font color="#E5E5E5"> the market guys</font>
+
+67
+00:02:22,370 --> 00:00:00,000
+<font color="#E5E5E5">big disconnect</font>
+

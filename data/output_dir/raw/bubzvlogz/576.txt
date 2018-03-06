@@ -1,0 +1,12 @@
+1
+00:00:36,920 --> 00:00:40,190
+<font color="#CCCCCC">all</font><font color="#E5E5E5"> right</font>
+
+2
+00:01:40,280 --> 00:01:41,400
+steady
+
+3
+00:01:41,400 --> 00:00:00,000
+oops<font color="#CCCCCC"> Oh</font><font color="#E5E5E5"> the screen</font>
+

@@ -1,0 +1,576 @@
+1
+00:00:05,839 --> 00:00:10,559
+hey guys<font color="#E5E5E5"> it's a new day today and I just</font>
+
+2
+00:00:10,559 --> 00:00:13,049
+<font color="#CCCCCC">wrapped up yesterday's blog which was</font>
+
+3
+00:00:13,049 --> 00:00:15,480
+kind of a Q&A if you guys saw it and I
+
+4
+00:00:15,480 --> 00:00:17,910
+literally wrapped it up like a<font color="#E5E5E5"> couple</font>
+
+5
+00:00:17,910 --> 00:00:20,850
+seconds ago so starting<font color="#E5E5E5"> on a new day</font>
+
+6
+00:00:20,850 --> 00:00:22,740
+Brandon's coming over today and<font color="#E5E5E5"> we're</font>
+
+7
+00:00:22,740 --> 00:00:25,350
+gonna do some<font color="#E5E5E5"> drink stuff a little later</font>
+
+8
+00:00:25,350 --> 00:00:26,670
+on I don't<font color="#E5E5E5"> know what I'm</font><font color="#CCCCCC"> doing before</font>
+
+9
+00:00:26,670 --> 00:00:28,349
+<font color="#CCCCCC">that but for</font><font color="#E5E5E5"> right now I'm just kind of</font>
+
+10
+00:00:28,349 --> 00:00:31,710
+hanging out doing<font color="#E5E5E5"> my thing on a Saturday</font>
+
+11
+00:00:31,710 --> 00:00:35,399
+Sunday for you yet or whatever day it is
+
+12
+00:00:35,399 --> 00:00:36,719
+I don't know your time zone but anyway
+
+13
+00:00:36,719 --> 00:00:38,790
+we're gonna have a<font color="#E5E5E5"> good day so let's get</font>
+
+14
+00:00:38,790 --> 00:00:40,950
+started I<font color="#E5E5E5"> just got my package in with</font>
+
+15
+00:00:40,950 --> 00:00:43,829
+the final stuff i need the audio
+
+16
+00:00:43,829 --> 00:00:45,510
+equipment to make my audio sound good
+
+17
+00:00:45,510 --> 00:00:50,370
+using my DSLR my 7th ed that for the
+
+18
+00:00:50,370 --> 00:00:51,989
+drink stuff and<font color="#E5E5E5"> i got all the stuff here</font>
+
+19
+00:00:51,989 --> 00:00:53,940
+it's<font color="#E5E5E5"> kind of a mess right now i have my</font>
+
+20
+00:00:53,940 --> 00:00:56,550
+two receivers on here my age my zoom h4n
+
+21
+00:00:56,550 --> 00:01:00,390
+i have the 3.5 millimeter going from
+
+22
+00:01:00,390 --> 00:01:01,800
+with the splitter here the splitter
+
+23
+00:01:01,800 --> 00:01:03,539
+makes it so<font color="#E5E5E5"> i can listen and headphones</font>
+
+24
+00:01:03,539 --> 00:01:05,640
+as well as<font color="#E5E5E5"> just connect it straight into</font>
+
+25
+00:01:05,640 --> 00:01:07,770
+the camera here the problem<font color="#CCCCCC"> i ran into</font>
+
+26
+00:01:07,770 --> 00:01:10,890
+<font color="#E5E5E5">is these receivers with the XLR inputs</font>
+
+27
+00:01:10,890 --> 00:01:13,680
+are is a balanced input now<font color="#CCCCCC"> I'm not an</font>
+
+28
+00:01:13,680 --> 00:01:15,960
+audio guy so all the stuff I<font color="#CCCCCC"> just</font>
+
+29
+00:01:15,960 --> 00:01:18,689
+learned from doing research but when you
+
+30
+00:01:18,689 --> 00:01:22,170
+try to plug one of these into here you
+
+31
+00:01:22,170 --> 00:01:24,780
+can the problem is is it already tries
+
+32
+00:01:24,780 --> 00:01:27,150
+to amplify and then amplify more inside
+
+33
+00:01:27,150 --> 00:01:29,130
+<font color="#CCCCCC">of it so it creates as fuzzy craziness</font>
+
+34
+00:01:29,130 --> 00:01:31,229
+so I learned<font color="#E5E5E5"> you needed an inline</font>
+
+35
+00:01:31,229 --> 00:01:34,740
+attenuator so I got these sure<font color="#E5E5E5"> inline</font>
+
+36
+00:01:34,740 --> 00:01:39,210
+attenuators which then see then<font color="#E5E5E5"> I could</font>
+
+37
+00:01:39,210 --> 00:01:41,050
+take this
+
+38
+00:01:41,050 --> 00:01:43,930
+connect that into here then I<font color="#E5E5E5"> take this</font>
+
+39
+00:01:43,930 --> 00:01:47,290
+whole set up and put<font color="#CCCCCC"> it into there I</font>
+
+40
+00:01:47,290 --> 00:01:49,750
+can't do<font color="#CCCCCC"> it with one hand I'm trying try</font>
+
+41
+00:01:49,750 --> 00:01:52,510
+anyway there goes in there it looks<font color="#E5E5E5"> like</font>
+
+42
+00:01:52,510 --> 00:01:55,300
+a super long setup thing it actually it
+
+43
+00:01:55,300 --> 00:01:57,970
+cuts the audio down by negative 50
+
+44
+00:01:57,970 --> 00:02:01,180
+decibels so whereas you would have a
+
+45
+00:02:01,180 --> 00:02:03,610
+game but like knob to turn the gain up
+
+46
+00:02:03,610 --> 00:02:05,200
+this would kind of be like a loss you
+
+47
+00:02:05,200 --> 00:02:07,480
+put it down<font color="#E5E5E5"> from positive to a negative</font>
+
+48
+00:02:07,480 --> 00:02:10,240
+and it makes<font color="#E5E5E5"> it so that</font><font color="#CCCCCC"> I could use my</font>
+
+49
+00:02:10,240 --> 00:02:12,250
+law of<font color="#E5E5E5"> mics and be able to set them up</font>
+
+50
+00:02:12,250 --> 00:02:13,660
+and<font color="#E5E5E5"> get clear audio so hopefully the</font>
+
+51
+00:02:13,660 --> 00:02:15,070
+ideals great you guys don't really<font color="#E5E5E5"> care</font>
+
+52
+00:02:15,070 --> 00:02:16,300
+too much about this but for those that
+
+53
+00:02:16,300 --> 00:02:18,190
+do i figured i would share to show you
+
+54
+00:02:18,190 --> 00:02:20,020
+<font color="#E5E5E5">that i'm trying to get this all set up</font>
+
+55
+00:02:20,020 --> 00:02:22,030
+for you guys<font color="#E5E5E5"> but uh yeah i'm sure it</font>
+
+56
+00:02:22,030 --> 00:02:24,910
+will turn out great look<font color="#CCCCCC"> who's here yeah</font>
+
+57
+00:02:24,910 --> 00:02:32,050
+nope isn't good at it take a couple<font color="#E5E5E5"> more</font>
+
+58
+00:02:32,050 --> 00:02:38,650
+oh there you<font color="#CCCCCC"> go there you</font><font color="#E5E5E5"> go</font><font color="#CCCCCC"> geez fight</font>
+
+59
+00:02:38,650 --> 00:02:41,970
+with my shoe<font color="#CCCCCC"> okay</font>
+
+60
+00:02:43,960 --> 00:02:50,010
+yay<font color="#CCCCCC"> you getting it do you not a stop Oh</font>
+
+61
+00:02:55,050 --> 00:03:05,350
+amazing you're so good at it I'll show
+
+62
+00:03:05,350 --> 00:03:07,980
+you how to do it
+
+63
+00:03:17,760 --> 00:03:20,530
+ready here i'm<font color="#E5E5E5"> going to go full speed go</font>
+
+64
+00:03:20,530 --> 00:03:21,640
+all the way down there and<font color="#E5E5E5"> i'll come to</font>
+
+65
+00:03:21,640 --> 00:03:23,760
+you
+
+66
+00:03:33,930 --> 00:03:36,580
+see that's how<font color="#CCCCCC"> you do it up oh you're</font>
+
+67
+00:03:36,580 --> 00:03:40,450
+<font color="#CCCCCC">sure i will show off maxnosleeves coming</font>
+
+68
+00:03:40,450 --> 00:03:42,280
+up right now we're<font color="#E5E5E5"> gonna film the drink</font>
+
+69
+00:03:42,280 --> 00:03:46,810
+with him<font color="#CCCCCC"> and we have a we have a good</font>
+
+70
+00:03:46,810 --> 00:03:48,070
+one lined up for him I<font color="#CCCCCC"> think it'll</font><font color="#E5E5E5"> be</font>
+
+71
+00:03:48,070 --> 00:03:54,310
+pretty cool pretty fun hello yeah try to
+
+72
+00:03:54,310 --> 00:03:56,290
+<font color="#E5E5E5">ignore</font><font color="#CCCCCC"> him so he</font><font color="#E5E5E5"> won't have sex with you</font>
+
+73
+00:03:56,290 --> 00:03:58,240
+yeah everybody has sex with him all the
+
+74
+00:03:58,240 --> 00:04:06,820
+time you know this<font color="#E5E5E5"> is what it is keep</font>
+
+75
+00:04:06,820 --> 00:04:11,710
+<font color="#E5E5E5">pushing keep pushing oh he gave up I'm</font>
+
+76
+00:04:11,710 --> 00:04:13,390
+not<font color="#E5E5E5"> going to tell</font><font color="#CCCCCC"> you what drink we just</font>
+
+77
+00:04:13,390 --> 00:04:15,790
+made<font color="#E5E5E5"> because you'll see it in the drink</font>
+
+78
+00:04:15,790 --> 00:04:19,420
+video but Brandon's gonna try one you
+
+79
+00:04:19,420 --> 00:04:21,970
+will you'll see because he was filming
+
+80
+00:04:21,970 --> 00:04:24,220
+it so he didn't get<font color="#E5E5E5"> to try it go for it</font>
+
+81
+00:04:24,220 --> 00:04:26,920
+light<font color="#CCCCCC"> it light it baby I also didn't</font>
+
+82
+00:04:26,920 --> 00:04:28,660
+taste the fire much did you taste
+
+83
+00:04:28,660 --> 00:04:30,340
+anything yeah you don't chase fire Oh
+
+84
+00:04:30,340 --> 00:04:33,070
+light it<font color="#CCCCCC"> down no it's not</font><font color="#E5E5E5"> it's out no</font>
+
+85
+00:04:33,070 --> 00:04:35,410
+it's not<font color="#E5E5E5"> I see oh it's a child safety</font>
+
+86
+00:04:35,410 --> 00:04:38,650
+lock you idiot there you go jump fire
+
+87
+00:04:38,650 --> 00:04:44,830
+it's lit drop it in whoa and chug chug
+
+88
+00:04:44,830 --> 00:04:49,810
+chug you're spilling get him the napkin
+
+89
+00:04:49,810 --> 00:04:55,200
+chug it all love you so close so close
+
+90
+00:04:55,200 --> 00:05:03,610
+how's that wait to see the drink if this
+
+91
+00:05:03,610 --> 00:05:06,400
+drink makes you burp like crazy<font color="#CCCCCC"> like 10</font>
+
+92
+00:05:06,400 --> 00:05:08,350
+birds coming out you see now you're
+
+93
+00:05:08,350 --> 00:05:09,820
+burping over and over again it's the
+
+94
+00:05:09,820 --> 00:05:12,009
+same thing like I feel like<font color="#E5E5E5"> I'm on</font>
+
+95
+00:05:12,009 --> 00:05:20,379
+and Willy Wonka movie with me what do
+
+96
+00:05:20,379 --> 00:05:22,149
+you think that was okay right yeah I
+
+97
+00:05:22,149 --> 00:05:23,080
+thought<font color="#E5E5E5"> it was gonna be a lot worse</font>
+
+98
+00:05:23,080 --> 00:05:24,369
+<font color="#CCCCCC">through your reactions but it wasn't</font>
+
+99
+00:05:24,369 --> 00:05:26,469
+<font color="#E5E5E5">that bad I definitely still taste 151</font><font color="#CCCCCC"> oh</font>
+
+100
+00:05:26,469 --> 00:05:28,719
+<font color="#E5E5E5">definitely we just uber it over to</font>
+
+101
+00:05:28,719 --> 00:05:31,180
+jake's place he's having a party at his
+
+102
+00:05:31,180 --> 00:05:45,240
+place cuz they gotta remodel it goes ok
+
+103
+00:05:52,050 --> 00:06:21,539
+twice come on mr. Jake Jake oh yeah
+
+104
+00:06:41,789 --> 00:07:15,339
+they're doing<font color="#CCCCCC"> a pinata so you can't move</font>
+
+105
+00:07:15,339 --> 00:07:17,580
+it
+
+106
+00:08:18,519 --> 00:08:28,129
+the games begin time for some chinga
+
+107
+00:08:28,129 --> 00:08:33,559
+chinga chinga chinga go for it alice is
+
+108
+00:08:33,559 --> 00:08:35,539
+like no laceration hit the<font color="#E5E5E5"> parked arrow</font>
+
+109
+00:08:35,539 --> 00:08:54,079
+hey let them don't worry buddy you got
+
+110
+00:08:54,079 --> 00:08:56,230
+it
+
+111
+00:09:01,420 --> 00:09:03,450
+I
+
+112
+00:09:08,100 --> 00:09:10,399
+ok
+
+113
+00:09:20,180 --> 00:09:24,480
+loser thank you fuck you too Brandon
+
+114
+00:09:24,480 --> 00:09:27,420
+just left I'm just getting back to my
+
+115
+00:09:27,420 --> 00:09:30,660
+boys whoa<font color="#E5E5E5"> it's bright in here that'll be</font>
+
+116
+00:09:30,660 --> 00:09:36,600
+turns down<font color="#CCCCCC"> all right yeah it was set</font>
+
+117
+00:09:36,600 --> 00:09:38,460
+super bright so we could film the drink
+
+118
+00:09:38,460 --> 00:09:43,010
+stuff I<font color="#CCCCCC"> forgot how bright</font><font color="#E5E5E5"> it was</font><font color="#CCCCCC"> okay</font>
+
+119
+00:09:43,010 --> 00:09:48,780
+and yeah so we're<font color="#CCCCCC"> just we're done we're</font>
+
+120
+00:09:48,780 --> 00:09:51,720
+done I'm done right however I'm done I'm
+
+121
+00:09:51,720 --> 00:09:59,160
+done boy yeah I'm<font color="#E5E5E5"> gonna start getting</font>
+
+122
+00:09:59,160 --> 00:10:01,800
+ready for<font color="#E5E5E5"> bed okay</font><font color="#CCCCCC"> guys well that's all</font>
+
+123
+00:10:01,800 --> 00:10:03,870
+I got for you I am<font color="#E5E5E5"> waking up the next</font>
+
+124
+00:10:03,870 --> 00:10:05,610
+morning good<font color="#E5E5E5"> to start we actually</font>
+
+125
+00:10:05,610 --> 00:10:07,440
+shooting another drink video today with
+
+126
+00:10:07,440 --> 00:10:10,260
+our female friend not with a male
+
+127
+00:10:10,260 --> 00:10:12,750
+friends but you looking forward to
+
+128
+00:10:12,750 --> 00:10:15,840
+Harvey hey Harvey I'm back here comes to
+
+129
+00:10:15,840 --> 00:10:21,110
+hide come say hi coo coo or
+
+130
+00:10:22,250 --> 00:10:32,480
+morning good morning ah ah ah yeah yeah
+
+131
+00:10:32,480 --> 00:10:35,610
+<font color="#E5E5E5">so anyway it's all I got for you so I</font>
+
+132
+00:10:35,610 --> 00:10:37,820
+will see you guys<font color="#E5E5E5"> again soon good luck</font>
+
+133
+00:10:37,820 --> 00:10:42,480
+the ghetto girls 21 asks what<font color="#CCCCCC"> you ever</font>
+
+134
+00:10:42,480 --> 00:10:46,320
+date a fan what I ever need a fan yeah
+
+135
+00:10:46,320 --> 00:10:48,990
+why<font color="#CCCCCC"> not if the fan was really cool I</font>
+
+136
+00:10:48,990 --> 00:10:52,110
+don't I don't I'm not fan discriminant I
+
+137
+00:10:52,110 --> 00:10:55,260
+don't discriminate against fans help I
+
+138
+00:10:55,260 --> 00:10:58,170
+used<font color="#E5E5E5"> to be streamed live on a service</font>
+
+139
+00:10:58,170 --> 00:10:59,880
+called stickam which is kind of like you
+
+140
+00:10:59,880 --> 00:11:02,130
+now and there was a girl used to watch
+
+141
+00:11:02,130 --> 00:11:06,690
+me and we went up there and<font color="#E5E5E5"> week we kind</font>
+
+142
+00:11:06,690 --> 00:11:08,670
+of like I don't you want to call it
+
+143
+00:11:08,670 --> 00:11:10,800
+<font color="#CCCCCC">dated or did whatever</font><font color="#E5E5E5"> I don't know but</font>
+
+144
+00:11:10,800 --> 00:00:00,000
+yeah I have no wrong with that
+

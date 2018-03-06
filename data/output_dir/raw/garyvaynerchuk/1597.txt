@@ -1,0 +1,536 @@
+1
+00:00:00,199 --> 00:00:03,270
+legacy is greater than currency<font color="#CCCCCC"> let's</font>
+
+2
+00:00:03,270 --> 00:00:05,069
+get into<font color="#CCCCCC"> that statement a little bit</font>
+
+3
+00:00:05,069 --> 00:00:06,509
+more what<font color="#CCCCCC"> am i</font><font color="#E5E5E5"> favorite kind of I'm not</font>
+
+4
+00:00:06,509 --> 00:00:07,649
+<font color="#CCCCCC">even sure if anybody's ever</font><font color="#E5E5E5"> said it</font>
+
+5
+00:00:07,649 --> 00:00:09,059
+before I'm sure somebody<font color="#CCCCCC"> has but I'm all</font>
+
+6
+00:00:09,059 --> 00:00:11,099
+about<font color="#CCCCCC"> it I haven't heard it much but</font>
+
+7
+00:00:11,099 --> 00:00:12,480
+<font color="#E5E5E5">I've been rocking it put on a t-shirt</font>
+
+8
+00:00:12,480 --> 00:00:14,370
+<font color="#CCCCCC">what do I</font><font color="#E5E5E5"> mean when</font><font color="#CCCCCC"> I say legacy is</font>
+
+9
+00:00:14,370 --> 00:00:16,079
+greater than currency<font color="#E5E5E5"> you know I always</font>
+
+10
+00:00:16,079 --> 00:00:18,960
+go<font color="#CCCCCC"> from self</font><font color="#E5E5E5"> inside of</font><font color="#CCCCCC"> myself when I</font>
+
+11
+00:00:18,960 --> 00:00:20,369
+<font color="#E5E5E5">communicate and talk to</font><font color="#CCCCCC"> people</font><font color="#E5E5E5"> and</font>
+
+12
+00:00:20,369 --> 00:00:21,270
+that's<font color="#E5E5E5"> why I think I'm able</font><font color="#CCCCCC"> to</font>
+
+13
+00:00:21,270 --> 00:00:23,310
+<font color="#E5E5E5">articulate it because it's it's my DNA</font>
+
+14
+00:00:23,310 --> 00:00:25,859
+right<font color="#E5E5E5"> and so everything I've ever done</font>
+
+15
+00:00:25,859 --> 00:00:27,420
+when I first got into the liquor store
+
+16
+00:00:27,420 --> 00:00:30,210
+<font color="#E5E5E5">industry with my dad</font><font color="#CCCCCC"> all I ever wanted</font>
+
+17
+00:00:30,210 --> 00:00:32,340
+to do was<font color="#CCCCCC"> be the biggest</font><font color="#E5E5E5"> wine shop in</font>
+
+18
+00:00:32,340 --> 00:00:33,989
+the<font color="#CCCCCC"> world that was the</font><font color="#E5E5E5"> number one agenda</font>
+
+19
+00:00:33,989 --> 00:00:37,590
+<font color="#CCCCCC">and so what I talk about</font><font color="#E5E5E5"> every business</font>
+
+20
+00:00:37,590 --> 00:00:39,540
+decision<font color="#CCCCCC"> that I ever made</font><font color="#E5E5E5"> every</font><font color="#CCCCCC"> one of</font>
+
+21
+00:00:39,540 --> 00:00:42,030
+them was<font color="#E5E5E5"> always based on my long-term</font>
+
+22
+00:00:42,030 --> 00:00:44,219
+legacy<font color="#E5E5E5"> as being the biggest wine</font>
+
+23
+00:00:44,219 --> 00:00:46,200
+retailer in the<font color="#CCCCCC"> world I like trying</font><font color="#E5E5E5"> to</font>
+
+24
+00:00:46,200 --> 00:00:48,690
+point<font color="#CCCCCC"> at</font><font color="#E5E5E5"> that thing anyway</font><font color="#CCCCCC"> and so that</font>
+
+25
+00:00:48,690 --> 00:00:50,940
+was<font color="#CCCCCC"> the key</font><font color="#E5E5E5"> that was my entire thought</font>
+
+26
+00:00:50,940 --> 00:00:52,410
+process<font color="#CCCCCC"> so when I was paying myself</font>
+
+27
+00:00:52,410 --> 00:00:53,730
+nothing<font color="#E5E5E5"> even though the business was</font>
+
+28
+00:00:53,730 --> 00:00:55,530
+exploding and when I was letting other
+
+29
+00:00:55,530 --> 00:00:57,449
+managers take vacations<font color="#E5E5E5"> in lieu of</font><font color="#CCCCCC"> my</font>
+
+30
+00:00:57,449 --> 00:00:59,940
+<font color="#E5E5E5">vacation time</font><font color="#CCCCCC"> all these decisions</font><font color="#E5E5E5"> every</font>
+
+31
+00:00:59,940 --> 00:01:02,399
+one of<font color="#E5E5E5"> them</font><font color="#CCCCCC"> you can't skip</font><font color="#E5E5E5"> every one of</font>
+
+32
+00:01:02,399 --> 00:01:03,960
+them has to be<font color="#E5E5E5"> about your long-term</font>
+
+33
+00:01:03,960 --> 00:01:06,330
+<font color="#CCCCCC">legacy it can't be about the</font><font color="#E5E5E5"> dollars</font>
+
+34
+00:01:06,330 --> 00:01:07,770
+you're putting in<font color="#E5E5E5"> your pocket</font><font color="#CCCCCC"> or more</font>
+
+35
+00:01:07,770 --> 00:01:10,860
+<font color="#E5E5E5">importantly taking</font><font color="#CCCCCC"> a Series A or some VC</font>
+
+36
+00:01:10,860 --> 00:01:12,720
+money<font color="#CCCCCC"> what is it gonna do are they gonna</font>
+
+37
+00:01:12,720 --> 00:01:15,689
+let take make you take you make you vest
+
+38
+00:01:15,689 --> 00:01:17,040
+in five years<font color="#CCCCCC"> or you gonna</font><font color="#E5E5E5"> have to wait</font>
+
+39
+00:01:17,040 --> 00:01:18,780
+five<font color="#E5E5E5"> years to cash out</font><font color="#CCCCCC"> a lot</font><font color="#E5E5E5"> of people</font>
+
+40
+00:01:18,780 --> 00:01:20,100
+do<font color="#E5E5E5"> that because it's this money</font><font color="#CCCCCC"> they're</font>
+
+41
+00:01:20,100 --> 00:01:21,180
+not monetizing right now they're not
+
+42
+00:01:21,180 --> 00:01:22,920
+<font color="#CCCCCC">making the cash</font><font color="#E5E5E5"> right so you take in</font>
+
+43
+00:01:22,920 --> 00:01:24,509
+this<font color="#E5E5E5"> extra flow they take percentages</font>
+
+44
+00:01:24,509 --> 00:01:26,100
+<font color="#E5E5E5">you're on the board what have you but</font>
+
+45
+00:01:26,100 --> 00:01:26,610
+<font color="#E5E5E5">wait a minute</font>
+
+46
+00:01:26,610 --> 00:01:28,530
+you're now in<font color="#E5E5E5"> theory really locked</font><font color="#CCCCCC"> into</font>
+
+47
+00:01:28,530 --> 00:01:30,270
+<font color="#E5E5E5">this game for five years and in this</font>
+
+48
+00:01:30,270 --> 00:01:32,070
+world and I'm doing<font color="#E5E5E5"> this because</font><font color="#CCCCCC"> I'm</font>
+
+49
+00:01:32,070 --> 00:01:33,570
+trying<font color="#E5E5E5"> to show</font><font color="#CCCCCC"> you in this</font><font color="#E5E5E5"> world where</font>
+
+50
+00:01:33,570 --> 00:01:35,130
+<font color="#E5E5E5">things are changing every minute where</font>
+
+51
+00:01:35,130 --> 00:01:36,540
+players are changing every minute<font color="#CCCCCC"> if</font>
+
+52
+00:01:36,540 --> 00:01:38,520
+you're a hustler<font color="#CCCCCC"> if you're a very hard</font>
+
+53
+00:01:38,520 --> 00:01:40,350
+<font color="#E5E5E5">worker</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> you're putting everything on</font>
+
+54
+00:01:40,350 --> 00:01:42,150
+the<font color="#CCCCCC"> line</font><font color="#E5E5E5"> put it into your</font><font color="#CCCCCC"> own personal</font>
+
+55
+00:01:42,150 --> 00:01:44,820
+brand<font color="#E5E5E5"> just make rent</font><font color="#CCCCCC"> pay your bills</font><font color="#E5E5E5"> and</font>
+
+56
+00:01:44,820 --> 00:01:46,710
+<font color="#E5E5E5">keep building your personal brand</font><font color="#CCCCCC"> and</font>
+
+57
+00:01:46,710 --> 00:01:49,079
+always think of a big<font color="#E5E5E5"> picture the legacy</font>
+
+58
+00:01:49,079 --> 00:01:51,630
+who are you<font color="#E5E5E5"> going to be viewed at when</font>
+
+59
+00:01:51,630 --> 00:01:53,159
+it's all said and<font color="#CCCCCC"> done you know so</font><font color="#E5E5E5"> many</font>
+
+60
+00:01:53,159 --> 00:01:54,659
+<font color="#CCCCCC">people</font><font color="#E5E5E5"> are like my children</font><font color="#CCCCCC"> my legacy</font>
+
+61
+00:01:54,659 --> 00:01:56,700
+absolutely<font color="#CCCCCC"> but where is your personal</font>
+
+62
+00:01:56,700 --> 00:01:58,380
+brand and<font color="#CCCCCC"> your business whatever you're</font>
+
+63
+00:01:58,380 --> 00:02:00,420
+involved<font color="#E5E5E5"> in where is that's legacy</font>
+
+64
+00:02:00,420 --> 00:02:02,939
+where's that legacy<font color="#E5E5E5"> where is that legacy</font>
+
+65
+00:02:02,939 --> 00:02:03,840
+<font color="#CCCCCC">I'm gonna say it again</font>
+
+66
+00:02:03,840 --> 00:02:05,280
+where is that<font color="#E5E5E5"> legacy</font><font color="#CCCCCC"> and the reason I</font>
+
+67
+00:02:05,280 --> 00:02:06,869
+keep pounding it<font color="#E5E5E5"> is because</font><font color="#CCCCCC"> of this</font><font color="#E5E5E5"> I</font>
+
+68
+00:02:06,869 --> 00:02:09,179
+truthfully<font color="#CCCCCC"> believe all the way that</font><font color="#E5E5E5"> if</font>
+
+69
+00:02:09,179 --> 00:02:10,739
+every business<font color="#CCCCCC"> decision you make from</font>
+
+70
+00:02:10,739 --> 00:02:13,670
+<font color="#CCCCCC">hiring a secretary to buy what paint</font>
+
+71
+00:02:13,670 --> 00:02:15,349
+you<font color="#E5E5E5"> buy whether it's like earth-friendly</font>
+
+72
+00:02:15,349 --> 00:02:17,930
+right<font color="#CCCCCC"> to every move you make if the</font>
+
+73
+00:02:17,930 --> 00:02:19,970
+first<font color="#E5E5E5"> question you ask is how does this</font>
+
+74
+00:02:19,970 --> 00:02:22,430
+affect my legacy<font color="#CCCCCC"> my long-term legacy</font>
+
+75
+00:02:22,430 --> 00:02:24,470
+<font color="#E5E5E5">when it's all said and</font><font color="#CCCCCC"> done</font><font color="#E5E5E5"> I guarantee</font>
+
+76
+00:02:24,470 --> 00:02:25,880
+<font color="#CCCCCC">the currency will be</font><font color="#E5E5E5"> there at the end</font>
+
+77
+00:02:25,880 --> 00:02:28,250
+<font color="#CCCCCC">I'd much rather</font><font color="#E5E5E5"> have a million friends</font>
+
+78
+00:02:28,250 --> 00:02:30,170
+<font color="#E5E5E5">right now than a million dollars</font><font color="#CCCCCC"> not</font>
+
+79
+00:02:30,170 --> 00:02:32,000
+even<font color="#CCCCCC"> more</font><font color="#E5E5E5"> than a hundred million dollars</font>
+
+80
+00:02:32,000 --> 00:02:33,530
+<font color="#E5E5E5">the world is changing we're more</font>
+
+81
+00:02:33,530 --> 00:02:35,180
+connected<font color="#CCCCCC"> and your legacy you're</font>
+
+82
+00:02:35,180 --> 00:02:36,680
+<font color="#E5E5E5">maneuvering</font><font color="#CCCCCC"> your decision-making process</font>
+
+83
+00:02:36,680 --> 00:02:39,260
+has to<font color="#CCCCCC"> start at</font><font color="#E5E5E5"> your</font><font color="#CCCCCC"> long-term legacy</font>
+
+84
+00:02:39,260 --> 00:02:42,110
+<font color="#CCCCCC">big</font><font color="#E5E5E5"> picture always wins</font><font color="#CCCCCC"> and so if you</font>
+
+85
+00:02:42,110 --> 00:02:44,180
+take every decision<font color="#CCCCCC"> out there</font><font color="#E5E5E5"> that you</font>
+
+86
+00:02:44,180 --> 00:02:46,069
+can make from who you're<font color="#CCCCCC"> gonna be</font>
+
+87
+00:02:46,069 --> 00:02:48,410
+surrounded<font color="#E5E5E5"> by who are your friends</font><font color="#CCCCCC"> right</font>
+
+88
+00:02:48,410 --> 00:02:49,730
+<font color="#E5E5E5">people are looking for</font><font color="#CCCCCC"> short-term</font>
+
+89
+00:02:49,730 --> 00:02:51,950
+<font color="#E5E5E5">traffic right you know Digg StumbleUpon</font>
+
+90
+00:02:51,950 --> 00:02:53,569
+this and that silly things like<font color="#E5E5E5"> that or</font>
+
+91
+00:02:53,569 --> 00:02:56,690
+who your circle friends<font color="#E5E5E5"> are or any of</font>
+
+92
+00:02:56,690 --> 00:02:58,280
+those kinds of decisions<font color="#CCCCCC"> minor</font><font color="#E5E5E5"> decisions</font>
+
+93
+00:02:58,280 --> 00:03:01,069
+<font color="#CCCCCC">what conferences you go to what what</font>
+
+94
+00:03:01,069 --> 00:03:03,170
+color is your<font color="#E5E5E5"> website everything</font>
+
+95
+00:03:03,170 --> 00:03:05,810
+everything has to start<font color="#E5E5E5"> with how is this</font>
+
+96
+00:03:05,810 --> 00:03:09,200
+going<font color="#E5E5E5"> to impact my global legacy and I</font>
+
+97
+00:03:09,200 --> 00:03:10,640
+guarantee<font color="#E5E5E5"> you</font><font color="#CCCCCC"> when you make legacy</font>
+
+98
+00:03:10,640 --> 00:03:11,989
+decisions instead<font color="#CCCCCC"> of quick cash</font>
+
+99
+00:03:11,989 --> 00:03:14,480
+decisions or mid-range cast<font color="#CCCCCC"> of</font><font color="#E5E5E5"> cash</font>
+
+100
+00:03:14,480 --> 00:03:16,670
+decisions you're gonna win every time
+
+101
+00:03:16,670 --> 00:03:18,470
+when you come from that<font color="#E5E5E5"> thought process</font>
+
+102
+00:03:18,470 --> 00:03:20,959
+<font color="#E5E5E5">when you add it to the</font><font color="#CCCCCC"> DNA game that we</font>
+
+103
+00:03:20,959 --> 00:03:22,640
+talked<font color="#E5E5E5"> about being your DNA when you add</font>
+
+104
+00:03:22,640 --> 00:03:24,500
+it to<font color="#E5E5E5"> not lying to yourself when you</font>
+
+105
+00:03:24,500 --> 00:03:25,910
+break<font color="#CCCCCC"> down these and you start putting</font>
+
+106
+00:03:25,910 --> 00:03:28,459
+<font color="#E5E5E5">these pieces in place you start winning</font>
+
+107
+00:03:28,459 --> 00:03:29,840
+<font color="#E5E5E5">I'll give you some good</font><font color="#CCCCCC"> examples because</font>
+
+108
+00:03:29,840 --> 00:03:31,070
+<font color="#E5E5E5">I'm gonna really give you details</font>
+
+109
+00:03:31,070 --> 00:03:33,290
+<font color="#CCCCCC">I was buying full-page New York Times</font>
+
+110
+00:03:33,290 --> 00:03:35,209
+ads that<font color="#CCCCCC"> were</font><font color="#E5E5E5"> costing me</font><font color="#CCCCCC"> $30,000</font><font color="#E5E5E5"> when I</font>
+
+111
+00:03:35,209 --> 00:03:37,820
+was paying myself<font color="#CCCCCC"> $28,000 a year in</font>
+
+112
+00:03:37,820 --> 00:03:40,370
+business<font color="#E5E5E5"> why</font><font color="#CCCCCC"> because I was investing in</font>
+
+113
+00:03:40,370 --> 00:03:42,350
+my legacy<font color="#CCCCCC"> I wasn't worried about getting</font>
+
+114
+00:03:42,350 --> 00:03:44,600
+<font color="#E5E5E5">a new car when I was 24 or like with all</font>
+
+115
+00:03:44,600 --> 00:03:45,769
+my other<font color="#CCCCCC"> friends even</font><font color="#E5E5E5"> though I know I</font>
+
+116
+00:03:45,769 --> 00:03:47,299
+was building something<font color="#E5E5E5"> bigger</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> that's</font>
+
+117
+00:03:47,299 --> 00:03:48,920
+what you need<font color="#CCCCCC"> to do you need</font><font color="#E5E5E5"> to survive</font>
+
+118
+00:03:48,920 --> 00:03:51,200
+and<font color="#E5E5E5"> thrive</font><font color="#CCCCCC"> you need</font><font color="#E5E5E5"> to just keep it</font>
+
+119
+00:03:51,200 --> 00:03:52,700
+<font color="#CCCCCC">going you know you gotta</font><font color="#E5E5E5"> pay your bills</font>
+
+120
+00:03:52,700 --> 00:03:54,230
+so your family do all<font color="#E5E5E5"> those things right</font>
+
+121
+00:03:54,230 --> 00:03:56,000
+<font color="#E5E5E5">stay healthy have a little excess cash</font>
+
+122
+00:03:56,000 --> 00:03:57,410
+just<font color="#E5E5E5"> so you can buy a Wii or something</font>
+
+123
+00:03:57,410 --> 00:03:59,750
+to make<font color="#E5E5E5"> you happy</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> at all</font><font color="#CCCCCC"> times</font><font color="#E5E5E5"> all</font>
+
+124
+00:03:59,750 --> 00:04:02,660
+times<font color="#E5E5E5"> I on the price legacy is greater</font>
+
+125
+00:04:02,660 --> 00:04:05,480
+than currency your social gosh your
+
+126
+00:04:05,480 --> 00:04:08,180
+social equity<font color="#E5E5E5"> is far greater</font><font color="#CCCCCC"> than your</font>
+
+127
+00:04:08,180 --> 00:04:10,579
+financial equity<font color="#E5E5E5"> it's not even close and</font>
+
+128
+00:04:10,579 --> 00:04:12,889
+<font color="#E5E5E5">all these technologies are only</font><font color="#CCCCCC"> making</font>
+
+129
+00:04:12,889 --> 00:04:15,500
+that more obvious<font color="#CCCCCC"> please</font><font color="#E5E5E5"> if anything</font>
+
+130
+00:04:15,500 --> 00:04:17,810
+after<font color="#E5E5E5"> this video what is your legacy is</font>
+
+131
+00:04:17,810 --> 00:04:19,850
+going to be the<font color="#E5E5E5"> question you need to ask</font>
+
+132
+00:04:19,850 --> 00:04:21,978
+yourself<font color="#CCCCCC"> before you make</font><font color="#E5E5E5"> any kind of</font>
+
+133
+00:04:21,978 --> 00:04:24,900
+<font color="#CCCCCC">financial decision</font><font color="#E5E5E5"> legacy my friends</font>
+
+134
+00:04:24,900 --> 00:00:00,000
+<font color="#E5E5E5">is greater than currency</font>
+

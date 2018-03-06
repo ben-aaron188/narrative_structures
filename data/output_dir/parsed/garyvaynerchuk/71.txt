@@ -1,0 +1,2625 @@
+- This is the keynote I gave in Stockholm,
+crushed the crowd because that's
+just how I do in Stockholm.
+They call it a syndrome.
+What is the Stockholm syndrome?
+- I literally said that to my mom today
+and I don't even know
+if I used it correctly.
+- Can somebody Google it while I,
+'cause I'm using this intro, anyway.
+- Hey Siri, what is
+the Stockholm syndrome?
+- Oh voice baby, voice.
+-  Stockholm syndrome
+is a condition that causes
+hostages to develop a
+psychological alliance
+with their captors as
+a survival strategy--
+- Cool.
+You guys are my hostages.
+-  You want to hear more?
+(laughing)
+- Yeah, I get it.
+Stockholm syndrome (laughing),
+wow that's cool.
+Watch this keynote,
+tell me what you think.
+(upbeat rock music)
+Hey Stockholm.
+-  What's up?
+- What's up?
+Very excited to be here.
+Want to talk about the one
+thing that I'm positive
+that we are all connected by.
+I think one of the challenges
+that I have as somebody
+who likes to do speeches
+is that I'm obsessed
+with being consumer centric, right?
+At the end of the day, I
+think every success I have
+comes far more from humility and listening
+than it does from my big
+mouth and all my talking
+and things of that nature
+and one of the keys
+that I think a lot about when
+I speak is getting a sense
+of who's in the audience
+and reverse engineering.
+Obviously I can't give
+the same speech to a room
+full of 22 year old founders
+that are trying to build
+machine learning companies
+as I can to a bunch
+of 16 year olds who are
+trading crypto currency
+in the same way that I can't
+to a 48 year old executive
+Fortune 500 CMO crowd and so
+I'm always kind of weaving.
+I have a thesis.
+It's very simple.
+It's right there.
+I day trade attention.
+It is going to be the core
+of what I want to talk
+to you about because it's
+the only thing that if you're
+in here as an executive or B to B,
+how many people here are in B to B?
+The B to B space?
+Raise your hands high.
+Great.
+B to C?
+Great.
+How many people here are entrepreneurs
+and own their own business?
+Raise your hand.
+Great.
+How many don't and they work somewhere?
+Great.
+50, 50, 50, 50.
+Right?
+So I think what's very scary
+about that in my ambition
+that everybody here
+enjoys the talk is that
+there's a lot of nuances and
+practicalities that play out
+very differently but the
+one thing that 100% connects
+every single person in
+this room is the need
+to get somebody's attention
+before they tell them
+how good their thing is.
+Whether you're sitting
+here and very altruistic
+and are trying to raise
+money for a non profit
+or if you want to sell a bottle of wine,
+it's all the same game,
+which is very simply
+where is the attention?
+How do you then communicate in
+that environment contextually
+to the attention?
+And then, can you create the
+output that you're looking for?
+I spend a lot of time in this.
+I've spent a lot of time
+in this my whole life.
+When I was six years old and
+moved to Edison, New Jersey,
+for a lot of you that
+don't know me, I was born
+in the Soviet Union,
+immigrated to the United States
+when I was three, lived
+a very humble life,
+studio apartment, seven
+family members, you know,
+spent my first 18 years
+taking one family vacation.
+Basically after I was 11
+or 12 years old had to buy
+everything for myself.
+Very, very fortunate, to be honest.
+Taught me really how to get
+mine and taught me a lot
+of the things that have made me successful
+but the interesting thing
+was I was an entrepreneur
+right from the beginning.
+I'm 42 years old and in America,
+good grades was the only
+way somebody was judged
+in the 80's and 90's and
+I did not have good grades
+and so for a long period of
+my time I was not winning.
+I was a losing player.
+A lot of my friends'
+parents looked down on me
+because their kids got A's and I got F's
+and I used to sit there are
+look at them when they would
+make fun of me, this is the
+parents, not making fun of me
+in a mean way, but they
+would make slide comments
+and I would sit there and
+say, don't you realize
+that your straight A kid is
+gonna work for me one day.
+(laughing)
+It's so basic.
+Anyway.
+(audience laughing)
+When I was seven years old
+and started my first kind of
+business, six, seven years
+old, it was lemonade stands
+which is very cliche in the United States,
+but I took a very different approach.
+I had four or five of
+them because I commenced,
+manipulated my friends to
+stand behind them all day
+in the summer and sell
+lemonade and what I did
+was I walked up and down
+the streets of New Jersey
+and I would sit and try
+to figure out which tree
+and which post and which
+sign I could put my signs on
+and I did that by literally
+sitting on the ground
+and watching cars drive
+by for three to four hours
+in the middle of the summer.
+This is what came natural to me.
+It came natural to me DNA
+that I was trying to follow
+your eyes while you were
+driving and try to figure out
+was it better to be put
+here or here or up there
+and that's basically been
+the story of my life.
+Today, today I do that.
+I try to figure out when
+are you gonna spend time
+on Instagram or Snapchat
+or Pinterest or LinkedIn.
+How soon is it before you
+all interact with an Alexa
+or a Google Home device to
+get information or buy things?
+Where is your attention in
+an altruistic, kind of future
+world of AR and VR and what
+is it about machine learning?
+What are we doing?
+Where are we going?
+What happens to restaurants
+with self driving cars
+if we're gonna eat in there?
+How can I story tell to
+you when you're driving?
+Today, I story tell to
+you through voice, right,
+because when you're driving, it's passive.
+You can consume it.
+How does that change?
+Why is, while everybody's
+obsessed with video consumption
+I'm going and spending
+all my time on audio
+because I know, actually watch this.
+This may be very
+interesting for this crowd.
+How many people here
+are fans of my content
+and consume my content
+and don't raise your hand
+because you're trying to
+be nice, just if you do,
+raise your hands.
+Alright, first of all, that sucks.
+(audience laughing)
+(laughing)
+Alright, one more time, hands up.
+Great.
+Of you, how many of you
+in the last year or two
+have started listening more to the podcast
+and watching a little less of the video?
+Raise your hands.
+That, to me, is the
+most interesting thing.
+Thank you.
+That, to me, is the most
+interesting thing happening
+right now which is, I think,
+we're about to live through
+the explosion of voice and
+I'll get to that in a minute
+but I want to go back because
+there's so many people
+in the B to B space.
+What day trading attention
+means is that everything
+that you're gonna hear
+coming out of my mouth
+around voice, Instagram,
+influencers, Facebook,
+in this moment has the potential
+to not matter tomorrow.
+I doubt it because it usually
+takes a little more time
+but literally 15 months ago I made a video
+saying that Instagram was
+in trouble, that Snapchat
+was growing very quickly
+and starting to penetrate
+30 year olds, that
+Facebook was much bigger
+than people realized at a younger age,
+and that I did not see a
+place for Instagram to play
+as Snapchat started
+winning that generation.
+Literally a month later,
+and I didn't know this,
+they came out with all the
+features that Snapchat has
+and here we are 15 months
+later but basically after
+I made the video it was
+literally 100 days later
+that Instagram became the
+most important platform
+of attention and that's
+why I call it day trading
+where I used to call it,
+if you came to a talk
+five years ago that slide
+would have said market
+in the year that you live in, right?
+My thesis is that most of you,
+especially in the B to B space
+are wasting an ungodly amount
+of time and money and energy
+on places where people
+are not paying attention
+because of history and tradition
+and that's how you've always done it
+and that you're underspending
+where their attention
+actually is and that's
+where the arbitrage is,
+that's the opportunity.
+That is where I and people
+that trade the way I do
+make their wealth, build their businesses
+but I had to change it
+from marketing in the year
+that you live in to day trading attention
+because everything's happening so fast.
+It's unbelievable to me
+how big of a deal this is
+and how quickly it's changing.
+But here are some of the
+frameworks I understand.
+For everybody in this room,
+if you do not produce content
+and story tell on this
+device, you are becoming
+unbelievably irrelevant by the minute.
+If you do not understand
+how to take your brochure
+or your booth at a trade
+conference or your print ad
+in a catalog and convert
+it to being relevant
+to on here, you are becoming
+increasingly irrelevant.
+The biggest mistake that
+this room is gonna make
+is they're gonna say things
+like, but my 59 year old
+target audience isn't living on there
+and they will make grave
+business mistakes over the next
+three to four years based on
+their romantic point of view
+on technology instead of the reality
+of what's actually happening.
+My friends, I think in only practicality.
+I was brought up in an
+environment where eventually
+after having a successful
+baseball card business
+that I was making three to
+4,000 dollars a weekend in,
+I was dragged into my dad's
+liquor store and had to help
+build that family business.
+I built my dad's business
+from a three to a 60 million
+dollar business in a
+very short period of time
+on the back of making every
+penny work like a dollar.
+My dad's business was doing
+3.7 million dollars in sales
+on 10% gross profit, which
+means we had $370,000
+before expenses and I built
+that business from that base
+to 60 million in five
+years with no MNA, no VCs,
+because what I did was
+I day trading attention.
+In 1996 to 2001, that meant
+two big bets that I made.
+One was email.
+How many people here
+have done email marketing
+in their careers?
+Raise your hands.
+Please raise them high,
+I want to get a sense.
+Great.
+So you'll love this.
+In 1996 I had an email newsletter
+that had 91% open rates.
+It had 91% open rates not
+because it was so incredible
+what I was writing in there.
+I was writing, buy this wine, click here.
+It was incredible because
+nobody was doing email marketing
+in 1996.
+It was a new phenomenon.
+How many people had email in 1998?
+Raise your hands.
+Great, so for the youngsters
+you're about to learn something
+because most of this
+stuff you don't even know.
+In 1998 youngsters, this
+is how email happened.
+Somebody would send an
+email and us old folk
+we would open and read
+every single fucking email.
+(audience laughing)
+The supply and demand of attention.
+It was a new medium and
+all of us traded email
+the way we traded mail,
+you had to kind of properly
+look at it.
+We now no longer do that.
+We now care so much about
+our time that the reason
+we don't unsubscribe from
+newsletters that we don't read
+anymore is because it
+takes longer to unsubscribe
+than it does to just delete.
+It is time arbitrage.
+It is attention and this is how we play.
+The second bet I made
+happened a little bit later.
+When I started winelibrary.com
+Google didn't exist
+so it's just fascinating to think about
+very much the themes of the
+gentleman right before me
+about how early this is,
+how much we don't know,
+that's how I think about marketing.
+Google didn't exist for most of this room
+when we started our careers.
+The internet didn't exist
+for most of the people
+in this room so I've lived
+a life where everything
+was a fad, not just Snapchat,
+the whole fucking internet
+was a fad when I started my
+career and so what's fascinating
+to me is the next bet I
+made was Google AdWords.
+Google AdWords had come out
+and for five cents a click
+before they raised the
+minimum to 10 cents,
+I was buying up every wine
+term and I was able to buy
+words like wine and cabernet
+and champagne for five
+and 10 cents a click and
+very honestly it is one
+of the best things I ever did in my career
+and it is no question
+one of the worst things
+I ever did in my career.
+I bet very big and it worked very great
+but I was young and I
+was doing everything,
+direct mail, print, radio, television.
+I was branding, I was
+marketing but I underspent
+on Google AdWords.
+I had, I always like to say,
+I had the best hand in poker
+and I didn't go all in.
+It was working but I didn't
+understand at that point
+in my career how much it
+was working and when I hear
+like somebody introduced me and say,
+from three to 60 million
+dollars and it's impressive
+and I'm glad and I love
+it and it's my family,
+it matters to me, but
+every time I hear it,
+I say to myself, it should have been 200.
+And I'll tell you, it's why
+I stand here in front of you
+and I want to use that as a segue to why,
+and the light is powerful
+but I want to see your faces,
+I need everybody to understand this,
+I don't care if you're
+selling to 17 farmers
+a one million dollar aggregation system
+in a B to B environment,
+every person in this
+room has to understand
+how unbelievably under priced
+and how unbelievably powerful
+Facebook advertising is right now.
+Right this second, the
+scalable, under priced attention
+in our society, and by the
+way, if you were doing business
+in the Nordics, it's an
+even better deal than it is
+in the U.S. because it's a
+marketplace and it only reacts,
+I love you guys for that, it
+only reacts to how much money
+you guys pump into the system.
+When BMW and Sass and
+Coca Cola actually wake up
+and understand how under
+priced Facebook's ads are,
+the price of Facebook
+ads is going to skyrocket
+and you will regret, like
+I do, in not spending money
+in it today.
+There is an unbelievable
+amount of people in this room
+who have opinions on how
+Facebook works for their business
+without ever running a Facebook ad.
+We are making headline reading
+and emotional decisions
+about the current state of
+marketing and opportunity.
+We are not relying
+enough on practitioners.
+I have watched people buy
+100 million dollar contracts
+from one Facebook ad.
+I've seen it.
+Not I guessed it, I heard about it.
+We work with the GEs and the
+SAPs and the biggest brands
+in the world.
+We are grossly underestimating.
+It's amazing to me that people
+sit around and talk about
+Trump and Brexit and Arab
+Spring and these macro,
+unbelievable, historic
+cultural shifts in our society
+and then an hour later
+when they talk about
+their little business,
+their 100 million dollar,
+500 million dollar, one billion dollar,
+10 billion dollar little business
+and they don't think
+Facebook can affect it.
+It is unbelievable naivety
+and that's at best.
+At worst, you are being grossly negligent
+in how you're running your
+business out of the laziness
+to not become educated on
+what is actually happening
+in our game.
+So, I'm fascinated by this.
+I think this is the great opportunity.
+This is a generational situation.
+If you look at the history
+of marketing, television,
+radio, the internet, now
+the social layer on top
+of the internet, every
+time there is a huge shift
+of attention somewhere new,
+enormous wealth is made
+and enormous wealth is lost.
+And this, my friends, is
+the biggest of them all.
+The amount of attention
+shifting is extraordinary.
+But I want you to hear something.
+I do not believe that this
+is about traditional media
+versus digital media.
+For example, one of the great
+wastes of money in the world
+is buying programmatic
+banner ads and pre-rolls
+across the web for five dollar
+CPMs because it's cheap.
+I also believe in America, for example,
+that the Super Bowl ad that
+costs 5.5 million dollars
+for 30 seconds is by far
+the best deal in marketing
+because everybody in America will see it
+and you get unbelievable awareness.
+So for me, I'm fascinated by the nuances.
+I think you can waste all
+your money on Facebook
+if you don't know how to use it.
+As a matter of fact,
+what's the ROI of a piano?
+What's the ROI of a piano?
+Let me help you.
+For Gary Vaynerchuk (clucks tongue) zero.
+I can't play for shit.
+But for Billy Joel and Elton John,
+the ROI was of billions of dollars.
+The ROI of a basketball is zero for me,
+for Lebron, a billion.
+This is not about does this stuff work,
+this is about do you
+know what to do with it.
+And the reality is, you don't
+know what to do with it.
+The far majority of people
+in here have never been
+practitioners of the
+modern day story telling
+and media planning and
+execution for a business result
+and that is where the opportunity is.
+I'm fascinated by how
+big this actually is.
+I laugh when people don't
+understand how much change
+is happening and so this
+rant, this passion I start
+this keynote with is very simple.
+It is my hope that one,
+one, one person in this room
+decides to go back home and
+run their business properly
+and it's not very complicated.
+It's about becoming educated.
+Education matters.
+Just the education of the
+day always matters more.
+The fact that so many of
+you have not spent 30 hours,
+which is a lot but very
+little based on the ambitions
+that you have for yourself
+or your organizations,
+that you've not spent the 30
+hours to either read on Google
+or watch videos on YouTube to
+how to run an Instagram ad,
+how to place a Snapchat filter,
+how to plan Facebook media
+and you think that even if you've done it
+you've outsourced it to a
+25 year old who gets it,
+is fascinating to me.
+Who is the biggest advertiser on Google
+in the first six years of Google?
+Amazon.
+Amazon was the biggest
+advertiser on Google
+in the first six years of Google AdWords.
+It is not a coincidence that
+Amazon is one of the biggest
+companies in the world.
+They used the under priced
+attention to build their company.
+Who was the biggest
+advertiser of television
+in the prime of the 1970's
+and 80's when television
+was at scale and under priced?
+Proctor and Gamble.
+It is not a coincidence that Tide and Dove
+and Proctor and Gamble became
+the biggest consumer packaged
+goods products in the world.
+This is very basic.
+What were the biggest sports
+in America in the 1940's
+and 50's?
+Baseball, horse racing, and boxing.
+Who also spent the most time
+distributing content on radio?
+What was the biggest sports in
+the last 20 years in America?
+The NFL.
+The biggest spender, the
+biggest executor of content
+in the medium.
+The sport matched the content.
+There's two young men
+right there doing tricks
+with soccer balls on
+Instagram and YouTube.
+It's because that content
+and that formula works
+on that platform and they
+didn't have to get signed
+by somebody to be able
+to make that content.
+They just went direct to the consumer
+and then Adidas, the
+biggest brand in the world
+in that sport comes to them
+and wants to do business with them.
+I am fascinated by the
+naivety slash audacity
+of the 99% of people in
+the business world today
+and their disrespect for social media.
+Why don't I help you guys?
+Let me help you with something.
+The word social media is the problem.
+You know that, right?
+The problem here is a branding problem.
+Social media has a branding problem.
+When I say the word social
+media, for a lot of executives
+in this room, especially
+you B to B people,
+that is a nuance.
+That is a sprinkle.
+That is a nice to have.
+That is a it's gonna be here one day
+but doesn't matter to me.
+When I hear the word social
+media, I think very simply,
+I think this is the remote
+control of our society
+and I know that 50% of every
+minute spent by human beings
+on earth, zero to 100 years old,
+is spent on a social media site.
+50%.
+I hear social media, my
+brain says, the current state
+of the internet.
+And I have a funny feeling that
+you would have a harder time
+betting against the current
+state of the internet
+for your business than social media.
+So now I implore you and my hope and dream
+is that this audience
+starts to think about this
+just a little bit differently,
+not because I'm passionate
+and I'm going hard but
+because there are truths
+in what I'm saying and you
+know them and you feel them
+and you also know that
+you can't call the bluff
+one way or the other.
+Meaning, I'm a big fan of AB testing.
+If you believe that
+your print, your radio,
+your Google ads, your
+sponsorships, your booths at events
+are better than producing
+videos that people
+actually want to watch on
+Facebook and then retargeting them
+and putting 'em into a sales
+funnel and then closing them,
+well then you should test them.
+To me, the fascination
+is how anybody in 2018
+is not testing at scale these phenomenons.
+And so, I'm trying to put
+pressure on the collective system
+really, to be very frank
+and I hope everybody
+understands this, none
+of you are my clients.
+You guys aren't my brothers and sisters.
+I'm about to leave Stockholm
+very soon and go back
+to New York.
+I don't give a shit if you do
+anything I'm talking about.
+I really don't.
+There's really only two
+agendas I have here.
+Number one, Tyler's filming
+it and in four years
+when CPM costs on Facebook
+are 30 and 40 dollars,
+I'm just gonna post a
+video clip of this moment
+and it's gonna say, I told you so.
+(audience laughing)
+Number two, which has been
+much more fruitful for me,
+is that when I do this
+and I talk this way,
+which is practical, not
+emphatic, not passionate.
+Practical.
+I'm talking about what's
+actually happening now
+and everybody's acting and
+executing and spending money
+and energy like seven years ago.
+This is not futuristic talk.
+This is today.
+I can talk to you about virtual reality
+and AR machine learning
+and voice all day long.
+That's not practical for anybody in here.
+But selling a contract
+in a construction company
+on Facebook which seems extremely
+foreign to the collective
+is happening every day for
+the two or three practitioners
+of this skill in that
+platform and it's converting
+a hell of a lot better
+than your direct mail
+and all the other shit
+you're spending money
+and energy on.
+Period.
+But you don't know that
+because you haven't tested it.
+I have.
+I run direct mail and
+Facebook for Wine Library.
+I run direct mail and Facebook
+for all my Sass products
+that I'm an investor in.
+I look at this stuff
+everyday and so I say this
+to have it on the record and number two,
+it is an amazing feeling.
+When I fly home I will
+get an email that says,
+four and a half years
+ago I was in Alabama,
+I heard your talk and I
+own this and I did this
+and here's my business now.
+I'm looking to get my high
+from an email that says,
+you came to Stockholm in late 2017.
+I didn't even know who you
+were when you went on stage
+but you yelled at me so
+aggressively I said, fuck it,
+I'll try it.
+(audience laughing)
+And then this happened.
+And so that's where I'm at mentally.
+I'm excited.
+I think the thing that
+you have to hear from me
+is a couple more things
+before we get into Q and A
+and please, are we using the app here?
+I assume we are.
+So please, if you've got,
+what I would implore right now
+and then I'll go into the rest of my talk,
+is if you have a basic,
+social media, digital media,
+marketing, branding
+101 question, to ask it
+because this is the environment to do it.
+Right?
+Because you can see this
+theoretical talk on YouTube.
+We're here together now so if you have
+a very direct question.
+I am a lawyer, how the hell
+do I use Facebook to get more,
+like, please ask right now.
+Take out your app and
+start asking questions
+while I keep going
+because the Q and A part
+that's coming soon is the part.
+Here's the part that's tricky.
+I'm right on the framework
+of where the attention is.
+The problem is is if you
+go home and spend $5,000
+on Facebook ads, the
+creative is the variable
+of your success.
+The picture, the video, the
+words you write in that post
+are the difference between
+zero sales and 1,000 sales.
+Zero dollars in donations
+and a million dollars
+in donations.
+My vulnerability, my
+kryptonite to my thesis
+is the creative.
+I have your attention right now.
+This would be no different
+than Facebook, right?
+This framework of the
+event we're in right now,
+I have your attention.
+This is a talk.
+You came to listen.
+You're here.
+You're all paying attention-ish.
+I see a couple of you on your phone.
+Keep doing your thing,
+it's more important.
+But, if the content of
+my speech is not good
+and not interesting, I've
+wasted my opportunity
+with my creative to create the
+event that I'm looking for.
+Right?
+So the thing that I'm
+very passionate about is
+please understand what
+is actually happening
+in this device and
+here's what's happening.
+This is a place where
+math and data and science
+mash into art and creativity
+and equally, both of them,
+have to be respected.
+The short term financial
+businesses running in here
+care about math too much.
+The overally long term and
+ideological and artistic
+people in this room
+are going too over here
+and not practical about the math.
+The balance of the two is everything
+and the platform of Facebook
+and likes and these are
+stream mentality sites that
+have our attention right now,
+Instagram and things of that nature,
+is incredibly important to respect both.
+For example, talking
+about stream dynamics,
+Twitter because of the
+nature of the context
+is over priced ads because
+the ad prices have a floor
+and they're not converting
+as well and the attention
+on Twitter is very different
+than it is on Facebook
+and Instagram thus making
+the inventory over priced,
+in my opinion as we sit here today.
+So, the creative that you
+put in Twitter matters just
+as much every where else but
+if you're paying too much
+to get in front of somebody,
+it's not going to be as valuable.
+This is basic supply
+and demand of attention
+and then framed on top
+of it, do you understand
+the context of the creative
+you have to put into it.
+Now let me go a little 201 on this.
+It's super important
+for you to do one thing.
+It's important for you to do what I did
+before I took this stage
+which is reverse engineer
+the audience.
+The number one mistake everybody's making
+on social media content
+right now is they're using
+the same content and they're spreading it
+throughout all the
+platforms and they're using
+socialist distribution
+not as a native place
+to story tell.
+Let me explain.
+All of you sitting here,
+how many people here
+consume content on more
+than one social network?
+Raise your hand.
+Fantastic.
+A majority of this room.
+So you're gonna understand
+this and this is fascinating
+and after I tell you
+this, I can't wait for you
+to spend the next day or two
+realizing how interesting
+this nuance is.
+I am me.
+I'm Gary, right?
+When I go into Instagram,
+my psychology is different
+than when I go into Twitter.
+My psychology is different
+than when I go into Facebook.
+Every one of you uses these
+platforms differently.
+When you're on LinkedIn,
+that's an amazing ring.
+When I go, that's really funny.
+When I go into Instagram,
+my mindset is younger.
+It's swaggier.
+It is just different.
+There's a youthfulness.
+There's a pulse.
+There's a cultural
+aspect that even the copy
+that I write with my two
+thumbs is different slang
+than what I would write on LinkedIn,
+than what I would write on Twitter,
+than what I would write on Facebook.
+Understand that when you
+put a picture or words
+or video on one of these
+platforms, the person
+you're trying to reach,
+even though you targeted ads
+across all of them for
+44 to 45 year old women
+with two children and
+$100,000 income, even though
+she's the same person,
+her mindset is different
+in every platform and
+that context, that nuance
+is imperative.
+You also have to respect the platform.
+Instagram is a platform
+that only allows you, today,
+to make a video that is
+only one minute long.
+That is a different
+story telling restriction
+than if you're making a
+four and a half minute video
+on Facebook.
+Too many companies that
+are advanced in here
+will make one video and then edit it down
+for the one minute version by
+their best half assed efforts
+from the four minute version
+that they put on Facebook
+without creating narratively
+for that platform
+or deeply understanding
+how, what I would call,
+DJ the content into the platform.
+If you're into music, then
+you realize over the last
+20 years, we've seen the
+growth of DJ culture.
+It is a different skillset
+than being the person
+that creates the original song.
+If you become great at
+being a DJ off of a piece
+of a content to the six
+or seven logos that matter
+at the bottom of my screen down here,
+if you can become a great
+DJ, if you can take a piece
+of content, if you can
+understand what you want to say,
+what message are you trying
+to make me understand,
+use my dentist service.
+Buy my Sass product.
+Use my bank.
+Hire my law firm.
+Work with me, donate for
+me, vote for me, buy me,
+donate for me.
+If you understand what you
+are trying to get across
+and you understand that
+it's words, audio, and video
+in the way we've communicated
+for the last 100 plus years,
+and you understand how to
+respect and I mean really respect
+this and this and this and that and that
+and understand how they're
+different, how they work,
+inside out, spend the 30 to
+40 hours to become educated
+on how they work and then
+actually with your own fingers
+place it, run it, and watch
+it, and do that for the next
+six months, you have a
+shot to be successful
+and if you do not, you
+can still be successful
+but you're doing it at your own peril.
+Every day goes by, this
+is grabbing attention.
+Now, you may not like that.
+You might be very upset that
+the kids are on their phone
+the whole time but you
+have to make me a promise.
+You have to leave your opinions
+about technology at the door
+when you walk into the
+office and run your business
+because your romance is gonna
+put you out of business.
+And, I want to debate you on your romance.
+When you go to a restaurant
+and you see a couple
+sitting there and both
+of them are on the phone
+and not talking, you love
+to nudge your partner
+and say, isn't that sad?
+That's terrible.
+Right?
+Oh look at this, that's terrible.
+I look at it very differently.
+When I walk into a
+restaurant and I see a couple
+sitting there and both
+of them are on the phone
+the whole 30 times, I get excited.
+I feel better for them.
+I'm happy for them.
+Let me tell you why.
+I'm serious, my man.
+Let me tell you why.
+It's very simple.
+30 years ago that same couple
+sitting at that restaurant,
+they didn't talk to each other.
+They sat across from each other,
+all of you have seen this,
+all of you, I'm looking
+around the crowd, you know,
+this is not 14 year
+old girls in the crowd.
+We're a little older here.
+How many people over 35?
+Raise your hand.
+Perfect.
+(audience laughing)
+All of you have seen
+what I saw 15 years ago
+which is you went to a
+restaurant and you just happened
+to notice while you were
+doing your thing, two people
+sitting there, a couple
+not saying a fucking word
+to each other.
+Right?
+My friends, technology has not changed us.
+Technology has exposed us.
+The reason those two
+people are sitting there
+and both on the phone is because
+they don't like each other
+and when I see two people
+sitting there in their 40's,
+50's, 60's, 70's and 80's
+normally both on the phone
+and not talking to each
+other, I see it as a mitzvah.
+I'm happy for them because
+20 years ago they had nothing
+to do and they had to
+get through that hour
+hating each other not
+saying a fucking word
+but now they can look at their
+YouTube video and be happy.
+(audience laughing)
+(audience clapping)
+It's true.
+Things are changing.
+You have to understand your culture.
+I'm awfully aware of the
+different nuances of the culture
+of the Nordics versus the U.S.
+When I speak everyone's, and
+I'm type A for even America.
+People are like we're different here.
+We're subtle.
+I understand.
+I'm not asking you to do
+anything uncomfortable.
+I'm asking you to communicate
+and not waste your money.
+It's not ground breaking.
+It's not revolutionary.
+It's a bad idea to waste
+money and just because
+your organization scores
+it that way or your boss
+believes in that doesn't mean it's right
+and so we are living through
+a very big culture change.
+The culture change is phenomenal.
+This is all time change.
+15 years ago if you went
+on the internet to go on
+a dating site and went on
+a date, you were weird.
+Now that is the norm.
+Can you imagine if I told
+the parents in this room
+20 years ago that I'm from the future
+and let me tell you what's
+gonna happen in 20 years,
+you're gonna rather your
+14 year old girl go into
+a stranger's car every
+day to get around the town
+then to drive herself because
+you would think that's safer.
+Nobody would've bought
+me selling them Uber.
+Nobody would've bought 20
+years ago that kids would be
+going into strangers, you were taught,
+how many people over 35?
+We were taught you don't
+go into strangers' cars
+at all costs.
+Now we're paying a fucking
+premium to go inside of them.
+The culture has changed.
+It's not changing, it's not coming.
+There are 60 year old men in
+here who texted a poop emoji
+to their friend last night.
+(audience laughing)
+The same 60 year old executive who said,
+what's an emoji 18 months ago.
+The same 60 year old
+executive who 10 years ago
+said they would never be on Facebook.
+The same 60 year old executive
+for 15 years ago said to me,
+I'm not getting a cellphone.
+My pager works just fine.
+We, as a culture, do not like change.
+And in that we lose.
+It is time for you to go on
+the offense, not the defense
+because I have a funny thing
+to tell you about technology.
+Everything I believe in
+didn't exist 15 years ago.
+Not the smart phone, not
+YouTube, not Facebook,
+not apps, nothing.
+Did not exist.
+And if you think the last
+15 years have been crazy,
+wait till you see what
+technology is gonna do
+in the next 15 years.
+This is nothing.
+You know what this is?
+This iPhone X, you know what this is?
+This is a pager.
+This is a pager.
+And in 10 years this is
+gonna look so archaic,
+we're not gonna know what
+to do with ourselves.
+So, let me ask you a question.
+How many people in this
+room right now are retiring
+in the next 10 years?
+And I don't mean you're gonna
+crush it and sell your company
+for a billion dollars
+and live on an island.
+I mean, you're old and you're finished.
+(audience laughing)
+Raise your hand, 10 years, show me.
+Okay, great, great.
+So for the 13 of you,
+you can take this with somewhat importance
+but for the rest of you, my friends,
+you have to understand
+what we're living through.
+We're living through a race.
+We're about to run a
+marathon in technology.
+Technology will eat up
+every aspect of everything
+always and forever.
+It's how it works.
+The book stores were first.
+Then it was people that
+owned taxi services.
+Then it was the hotel industry with Airbnb
+but it will keep going.
+The biggest TV networks in the world,
+now that they're so TT, this
+will keep going, everything.
+Just because you have big contracts
+with the biggest companies in the world,
+what's that contract worth
+when that company is not alive?
+This is real and so we're
+about to run a marathon
+and the reason I stress
+on you to be good at that
+is not because I think
+that's the end all, be all
+but you have no chance
+to be good at AR and VR
+and machine learning and crypto
+currency and everything else
+that's coming next if you did
+not ground yourself in this.
+You can't run a 40 mile
+marathon right now on the spot
+if you haven't been on the
+treadmill for the last six months
+and running little mini races to prepare
+and if you are not adapting
+this psychology first,
+religion first, and then
+becoming a practitioner,
+you need to be the architect,
+the general contractor,
+and the plumber because if
+you don't, you will lose
+and so I implore you while
+it's easy, it's fucking easy,
+to learn this.
+While it's easy you better
+get serious about this
+because the next wave of
+technology is gonna gobble you up
+and I implore you to take this
+speech very, very seriously.
+Thank you.
+(audience clapping)
+Thank you.
+(audience clapping)
+-  Gary Vee!
+I think, should I stand there or here?
+- You can do anything you want.
+- Can I come close to you?
+- Yes, let's get real close.
+- Okay.
+Thank you, that was great
+and we all feel like dinosaurs now.
+How many feel like a dinosaur now?
+Yes, quite a few.
+- Can I say something?
+That was actually, thank you.
+One more time, dinosaur.
+Who feels like a dinosaur?
+You know what's amazing about this game?
+Literally in 60 days you don't have to.
+What I love about this
+game is you could be
+a dinosaur of everything but good news,
+that already happened.
+This is one of the most liberating things
+I could tell somebody and by the way,
+I'm not saying to make you feel good
+because I think you can
+tell, I don't give a shit.
+(audience laughing)
+I'm saying it because it's true.
+The fact that you can go
+from a zero, a dinosaur,
+I don't know what the
+hell he's talking about
+or more importantly I understand
+but I know nothing about
+it, in 60 days and 40 hours,
+you can know everything.
+That's incredible.
+Free information.
+Who's over 35?
+Raise your hand real quick.
+Tell these kids about
+something called the library.
+Like we used to go somewhere
+to get information.
+What do you want to know?
+What do you want to know?
+In our fingers, in a second.
+So, what excites me is, sure
+you could feel like a dinosaur,
+sure, it might feel intense
+but I see it as optimism,
+not negativity.
+This is an opportunity for all of you
+and the biggest thing is,
+you're gonna live much longer
+than you think.
+There's a lot of people here
+in their 40's, 50's, and 60's
+who think they're wrapping
+up and finishing it
+and it was past where all
+the opportunity for happiness
+professionally is the next
+30 years between 50 and 80
+'cause you can start your own
+business around your passion,
+around ice hockey or beverages
+or soup or suits or sneakers.
+This is so big that I just
+think people are underestimating
+how great it can be.
+- Thank you.
+We feel much better.
+(man laughing)
+(audience laughing)
+I actually do.
+That's good.
+Keep the questions coming in.
+You heard Gary, this
+is a free consultation
+so just use the time.
+And, I have a question here from Mark.
+What about ads on Facebook
+for non-profit organizations?
+Does it work?
+How should it be done?
+- I was among a well
+member for an organization
+called Charity Water that
+I'd love for all of you
+to look at because it's
+run by a club promoter
+and an entrepreneur which is
+why it's being successful.
+Right?
+We're doing very well.
+We're really trying to bring fresh water
+to the entire world.
+Scott Harrison is an all time
+great non-profit executive.
+In the presentation on Sunday
+night, which was remarkable,
+the biggest growth for the
+company has been getting
+five dollar return on investment
+for every dollar spent
+on Facebook.
+My friends, listen, it's
+under priced attention.
+It's six dollar CPM and
+you can target 44 year old
+Korean women who like hockey.
+I mean, it's crazy.
+Do you understand?
+It's crazy what it can do.
+It's why it's changing our
+macro, geopolitical climate.
+It's going to be 45 dollar
+CPM in about three years.
+That's it.
+It's just a lot better to
+pay six dollars instead of 45
+especially when you have to
+spend hundreds of thousands
+and millions.
+So yes, it can work for non profits.
+- Another question.
+How do you think your
+strategy regarding visibility
+and marketing on Instagram
+and Snapchat would work if,
+this is hypothetical or not, I don't know,
+I am CMO of Patek Phillip OMS.
+Many people in marketing
+would say that it's proven
+that luxury brands lose
+brand value and positioning
+if they're visible in the wrong context
+with the math brands.
+- I think there's a lot of things in there
+in that statement.
+I would say, number one,
+ego is mixed in there.
+I would say naivety is mixed there.
+Those two are the things that stand out.
+I'm empathetic.
+I'm empathetic to why Rolex
+or Cartier or Aston Martin
+may think that this is below them.
+It's also why Tiffany's
+and Aston Martin and Rolex
+will go out of business
+over the next decade.
+Let me say it very clear one more time.
+Go out of business in the
+next decade or 15 years
+if they don't act.
+They will because every day that goes,
+let me tell you something
+about social media
+and luxury brands.
+None of them were there eight years ago.
+They're all there now,
+they're just half pregnant
+because they're fucking
+snobs run by snobs.
+(audience laughing)
+(audience clapping)
+And you know what's
+amazing about meritocracy
+and capitalism and open
+market dynamics, snobs die.
+- This is not a, just
+personal opinion based on
+where you come from?
+No, yeah?
+- No I mean look, listen,
+I don't think I can win
+if I have personal opinions.
+Christie's is selling $800,000
+products on Instagram.
+Is that a good enough answer?
+What do you want?
+Like, do you not understand
+how society works?
+Do you not understand that
+every rich person 35 to 45
+only lives on Instagram
+and doesn't even know
+what the fuck Vogue is?
+Like, do you live in the world?
+(audience laughing)
+No, but I'm being real.
+Listen, this is an opportunity like
+are people that tone deaf or
+is it that you're not doing it
+because inside the companies
+of these luxury brands
+they don't have an internal
+MMM that knows how to score
+the metrics of the new modern
+platforms so they over value
+the impressions of print,
+oh by the way for anybody
+that's not in the business,
+the way that print is valued
+on how many people see it
+is they give eight times
+circulation value to how many
+of the magazines are printed.
+So if a high net worth
+brand where you're in with
+high net worth brands prints
+500,000 or 100,000 copies,
+they give you the fact that
+800,000 people will see your ad
+on page 237 of that
+magazine because you know
+everybody takes the Robb
+Report and Vogue and GQ
+and leaves it on a plane and
+then somebody else gets there,
+picks it up and opens it and
+carefully goes to page 237
+and consumes your ad.
+So listen, I think, to
+answer your question,
+my personal experience,
+no, I think it's their
+personal experience of how they
+grew up or more importantly
+how they wish it would be
+because a lot of people
+that work at brands like
+that like the inclusive
+on a pedestal nature of that job.
+Oh, and by the way, I don't blame you.
+Enjoy it while it lasts.
+(audience laughing)
+(audience clapping)
+- Okay, we have a quite a
+few questions that ask about
+what is the, like after
+Facebook when that becomes
+too expensive, what's the next thing?
+- I don't know if you guys
+know but I'm not Nostradamus.
+(audience laughing)
+I have no idea and that's the beauty
+of day trading attention and
+trying not to have opinions.
+I don't know.
+I don't know if AR will
+be here fast enough
+that there's something
+that gets brought up.
+I don't know how soon we're
+gonna wear contact lenses
+and live in a virtual reality
+world, not in the real world.
+I don't know.
+What I know is that I have
+a mental mindset, a religion
+to know what it is.
+I, in 1996 would stand up
+here and tell you about email.
+I, in 2001 would tell you about Google.
+I, in 2004 would tell you
+about programmatic banners
+and YouTube.
+I, in 2007 would tell you about Twitter.
+Like, I don't know at all.
+I know that what got me
+here isn't gonna get me
+to the next place and
+I know that the market,
+much like luxury brands,
+doesn't care about little old me
+so when it's here in four years,
+I'm gonna do a lot of work
+and stay up late and educate
+myself and use my intuition
+and my skill of consumer
+behavior to figure out
+how to story tell in the
+place that has now emerged.
+-  Okay and so
+then you have to go out
+for the knowledge so your
+intuition will work the right way.
+Where do you sort of go?
+- Everywhere where we are currently.
+So I will tell you the pulse
+of culture, no question,
+lives on Instagram.
+You should spend an hour a
+day just searching Instagram
+hash tags and following a lot of people
+and then reading what people
+leave, you should spend,
+let me rephrase.
+If you're a strategist, a
+psychologist, somebody who,
+anthropologist, if you're
+curious about culture,
+it is playing out in
+your eyes on Instagram.
+It is the pulse, the heartbeats
+of the emerging cultures.
+I knew that eight year old
+girls were gonna make slime
+two years ago.
+It's right there.
+- Couldn't you have stopped it?
+(audience laughing)
+- I could have.
+(audience clapping)
+But that wouldn't have
+allowed me to invest
+a lot of money into the
+Elmer's glue company.
+(audience laughing)
+-  You did?
+- I sure did.
+And, if I took my coin base out right now,
+not that I'm a genius and I
+surely didn't bet enough money
+but if I take my coin base
+account out right now,
+I just want to be very accurate
+so there's no confusion,
+by paying attention to culture
+and betting on people's
+kind of actions I bought
+on, let's see here,
+on February 18, 2014,
+I bought my bit coin.
+Not last week.
+What happens when you
+stay curious and humble
+is you start listening.
+When you start listening
+and executing it allows you
+to have the audacity to start talking.
+That is a good strategy.
+-  Thank you.
+- You're welcome.
+- Yes.
+This one.
+How important is personal brand compared
+to the company brand as an entrepreneur?
+- Look, I think everybody
+has different levers.
+If you're highly charismatic
+and extremely handsome,
+you should build a personal brand.
+I think if you're an introvert
+and you don't like people,
+you shouldn't.
+(audience laughing)
+(audience clapping)
+It's true.
+Look, it's very true.
+There are an amazing
+amount of people building
+incredible businesses,
+organizations, governments,
+non profits, and businesses
+that you'll never hear of.
+They're more comfortable behind the scenes
+and that's incredible.
+Not everybody should be out
+there doing, you have to,
+self awareness is the magic.
+Knowing who you are is the magic.
+Not being on stage and
+making a joke, right?
+So, I think it's incredible
+if you're good at it
+and you like it and you like people
+and you can take the heat.
+The key to a personal brand is humility.
+Like, when I put out content,
+there's a lot of comments
+that I'm a jackass or
+I'm too cocky or I suck.
+If you can't quantify
+that, you won't produce
+so you have to know who
+you are, if you're doing it
+for the right reasons, and
+you have to deploy empathy
+to why your personality
+may not work for somebody
+because everybody's got an
+opinion and they're allowed
+to share it.
+- Do you see any danger in
+the social media bubble?
+Are we getting more stupid
+by being fed with news
+that confirm what we
+already know or think?
+-  No, I think we've
+been historically stupid.
+(laughing)
+- That's very true.
+- Here's a very simple question.
+Life is binary.
+When we have this conversation
+about social media
+manipulating us, life's binary.
+I'm gonna ask you very simple.
+Would you rather have the
+society that we live in
+be in a place where
+they can consume content
+from lots and lots of voices
+or did you like 1973 better
+when two or three or one old
+white dude could tell you
+what to think?
+(audience laughing)
+You can't have both.
+I mean that.
+Like, all of a sudden,
+traditional media's been this
+incredible golden era for all
+the people that are scared
+by the new regime.
+Really?
+You liked when two people
+controlled the media?
+I'm thrilled all these men are being outed
+for their transgressions.
+That happens when the world's open,
+not when they're friends with the people
+that control the media.
+Your choice.
+- But I think most people
+would agree that, yes,
+it's better now in many
+ways but still we have
+Mr. Putin and we have other
+realities that really are
+affecting democracy and what about that?
+Are we supposed to--
+- Dictators get to play too.
+(audience laughing)
+You know, yes.
+The naivety of the human
+race that everything's
+gonna stay the same, everything
+is gonna ebb and flow
+and everything will always ebb and flow.
+I just am an unbelievable buyer of us.
+I'm an optimist of us.
+We've been around a long time.
+We have figured this out.
+It always gets better.
+You may not like it.
+There might be something you don't like
+but it always gets better.
+You know what's scarier than social media?
+The black plague.
+(audience laughing)
+I just believe in us.
+Like, they'll always ebb and flow.
+I mean, Putin is executing
+my thesis which is the media
+controls thinking and he
+can use the tools as much
+as anybody else but this
+is where I get really mad
+at human beings, we love
+to blame somebody else.
+Vladimir Putin did not come
+to my house and make me
+read the propaganda.
+You read it.
+You're a big girl, you're a big boy,
+stop pointing fingers.
+Social and digital and the
+new way communication works
+is exposing us.
+It's not changing us.
+You know how the Facebook algorithm works?
+If you keep clicking
+and reading that stuff,
+it will show you more.
+You want to try an incredible,
+actually you know what,
+I've never done this.
+You want to try an incredible experiment?
+Go to Facebook.
+How many people use Facebook?
+Raise your hand.
+Great.
+Go to Facebook and search at
+the top, which people don't do,
+search at the top a subject that you like.
+Something you like.
+Hockey, peanut butter and jelly, E sports,
+whatever you want.
+Shoes, suits, parenting,
+something you like.
+Search it then what shows
+up like all the posts.
+Like 'em all.
+Like them all.
+(audience laughing)
+And read three of them.
+Stay in the screen and read three of them
+and then tell me what your
+newsfeed does the next month.
+Tell me how much the bad
+guys are manipulating you.
+You're manipulating yourself.
+You don't want to own up to it.
+- But okay, let's have a real,
+or might be a real example.
+(audience clapping)
+Trump says, we don't want any
+immigrants in this country,
+especially not the ones
+from Belarus, okay?
+-  Yeah.
+- And every argument
+for the immigrants being
+in the United States
+won't reach peoples' feeds
+so this is the reality and
+they want to throw you out
+of the country.
+How do you go about to sort
+of to get into this space,
+to reach these people?
+- So there's a lot of questions in that.
+First of all, Facebook
+has a lot of attention
+but it doesn't control all the air waves.
+It doesn't control all the communication.
+There's nobody who's
+doing anything in a macro
+that people aren't aware of.
+It's not like people spend 100%
+of their time in their feed.
+Let me tell you something,
+in America, if you only watch
+Fox News or if you only
+watch CNN, you're seeing
+two different things too.
+There's no difference
+of your Facebook feed
+than if you have Fox News on the whole day
+or CNN on the whole day.
+We are manipulating
+our consumption always.
+Also, in that scenario, I
+know how to get to Americans
+to know about the Bela-Russian
+thing just as well
+as the Trump or the Hillary
+Clinton or Obama machine
+and believe it or not, on
+Facebook, I have a fair chance.
+In old media, I don't.
+- Okay, let's argue about that later.
+- That's nothing to argue about.
+(woman laughing)
+You will be historically wrong
+if you believe what I just,
+one more time.
+Trump 40 years ago says
+we're kicking everybody out.
+His two best friends are
+Rupert and Les Moonves
+and he controls the air waves,
+you know, like dictatorships.
+This is historical.
+This is not my opinion.
+Fidel Castro did it.
+This is simple.
+Do you want two or three people
+controlling the information
+or do you want an open marketplace?
+There's nothing to argue about.
+The conversation that we
+need to have is our lack
+of accountability of what we
+consume and our curiosity.
+The day after 9/11, I started
+going to Al Jazeera's website
+for the next year because
+I wanted to learn.
+That is way more important.
+That is what we need to be as
+a, we need to be empathetic
+and we need to hear other points of view.
+Whether you consume that on
+Facebook or on television
+or the newspaper or the
+magazine, that's a human thing,
+not a media distribution argument.
+- Don't blame the
+platform, okay, we get it.
+- Do you agree?
+- I do agree, yes, I do.
+(audience laughing)
+(laughing)
+Okay, someone wants to know
+if you ever were wrong.
+(audience laughing)
+- A ton.
+And let me tell you something
+and this will make sense
+and I think, Babin, this has
+been the theme of our like
+trip on this, I bought crypto in 2014.
+Not the earliest, I had
+friends buying it in 11 and 12
+but definitely not the latest.
+I have a lot of wins on my
+board in early investing.
+The reason somebody would ask
+that question is I only talk
+about things I know, not things I think.
+I'm very basic.
+I talk very little, very, I mean,
+just in a very narrow place.
+I could talk to you today
+about AR and crypto currency
+and the internet of things,
+I just know there's a lot
+of people that are smarter
+and better to talk about it
+than me.
+So the reason I feel like
+cocky or are you ever wrong
+is I stay so God damn narrow
+and I talk about things
+that have already happened.
+I'm not guessing up here my friends.
+I'm just social commentating
+on what happened
+and that's it.
+And so, yeah, I'm wrong every day.
+I just don't think it's a
+good strategy to go on stage
+(audience laughing)
+and guess or opinionate.
+-  Thank you.
+-  You're welcome.
+(audience clapping)
+- Okay, this one.
+How do you use Facebook
+in order to raise capital
+for a start up?
+- You run ads against employees
+of venture capitalists.
+(audience laughing)
+- Is that a good answer,
+whoever asked the question?
+- What's really interesting
+about that is how great this is.
+The fact that I can make a
+video on my phone for free,
+articulate my points of
+view of why my start up
+and I as a founder are
+special and then spend $600
+reaching every single
+employee of every single
+venture capital firm that
+could potentially want
+to talk to me is the greatest
+opportunity in the history
+of marketing and communications.
+That's how you use
+Facebook to get in front.
+Now, if you're not a
+practitioner and you just talk
+about Facebook but you don't
+know anything about it,
+you might not know that one
+of the ways you can run ads
+on Facebook is clicking
+a button that says,
+go to these company employees in the feed.
+You may not know that.
+That's it.
+Headline readers, practitioners.
+My plea here today is for
+you to become a practitioner.
+If you're the CEO and 90
+years old or 22 years old
+and you're gonna change the
+world and everybody in between,
+you have to be the practitioner.
+This is oxygen now.
+You can't have this as a nice to have.
+Communication in today's
+world is the value
+and you have to be good at it.
+- Gary, what's your best
+tip on delivering quality
+at scale?
+- Driving down the cost of
+the production of the content.
+The biggest reason so
+many people are losing
+is 'cause they work with
+agencies or internal people
+that aren't producing enough
+at an efficient enough price.
+The reason, for the hands
+that went up that follow me,
+the reason I started
+talking about documenting
+versus creating is because
+I'm trying to produce
+so much content, having
+a man following me around
+with a camera, though
+narcissistic and crazy,
+has allowed me to create so
+much content because so much
+is happening all the time
+and then I'm DJing it.
+I think the biggest reason
+people are struggling
+is everything is too perfect,
+too fancy and too subjective.
+I let the market decide.
+I deploy humility with my content.
+I produce it, I put it out there,
+and then I watch what happens.
+Not before.
+And so, this camera is so
+much better of a camera
+than what we had just six
+years ago that costs thousands
+of dollars.
+You don't need unbelievable equipment.
+You need people who are native
+to today's digital world
+to produce content.
+I would also say you have to
+use content in multiple ways.
+When I make a video, I
+turn that into audio.
+I turn that into the written word.
+I get to write a 500 word
+essay on LinkedIn off of
+maybe an answer that
+I just gave here today
+because it was recorded.
+Then it's transcribed.
+Create a framework that
+creates enough quality content
+at scale so you get a
+thousand at bats instead of 13
+which then allows you
+to not debate quality.
+Quality is subjective, period.
+Until it hits the market and
+there's too much audacity
+and ego in the executives in this room
+and in my own company of what quality is
+before it goes out and I fight
+that, I fight that daily.
+- Okay.
+But what homework can you
+do earlier on in the process
+to ensure that this
+documenting or this produce
+of content has a good quality?
+I mean, working with your values--
+- I think the way you do it
+you start and you put it out
+and then you learn from the
+feedback which then informs you
+on the next thing that you do.
+It's iteration.
+It's the reps.
+You gotta do it.
+You can't read or debate about push ups.
+If you want the ROI of push ups,
+you've gotta do the fucking push ups
+and that's how I think about content.
+I really do.
+You can't read or debate
+about the push ups
+and I don't think you can read or debate,
+now, I believe in strategy
+and consumer insights.
+I live on it.
+You should do that but that has a moment
+and then you need to produce and at scale
+because there's a lot of
+platforms and a lot of attention
+and it's fragmented and you
+gotta give yourself chances
+and by putting out 800
+videos, 30 of them are gonna
+teach you so much for you to
+be better at the next 800.
+- So a major piece of
+advice is just start?
+- Yep.
+(audience laughing)
+- Okay.
+- And that is very counter
+cultural to organizations
+and corporations.
+They're in the business of not starting.
+- This is just a question
+from me because I know
+one can order you as a speaker
+with or without cursing.
+Is this with or without cursing?
+(audience laughing)
+- I really hope this was with cursing.
+(audience laughing)
+-  You're in Sweden.
+I don't think anyone minds anyway.
+- Love you guys, take care.
+If you can't curse in
+Stockholm, you might as well
+close up shop.
+You know?
+Stockholm can handle it.
+- What do you do when your
+target audience is too small
+for Facebook or LinkedIn advertising tools
+to let your ads through?
+- Got it.
+So the segmentation you're
+creating is too small?
+Who asked that question?
+Ma'am, when you go for your targeting,
+it shows a not a significant enough?
+So I think for now, because
+Facebook is so under priced,
+when I try to do that, think
+about a very interesting
+strategy that you might like.
+If you're going that small,
+you're trying to reach
+decision makers, right?
+Think a lot about the
+people that influence
+the decision maker.
+The reason I love employees of as a target
+is because you never know which
+employee has the CEO's ear.
+It's funny to me and in my company of 800
+that there is 30, 40 people
+that are very junior,
+have a lot of influence over
+me more than other people
+that are very senior.
+So, I think Facebook's so under
+priced that you should just
+add a wider range and give
+away that money on the CPMs
+because it's still worth
+it to get to the group
+that you're trying to reach.
+So when I get too small,
+I just make it wider
+with age or preference or I'll tweak it.
+Or by location because I know
+that a lot of big companies
+are there.
+I widen it because I
+still value it so much
+that even wasting 80% of it
+I still think is under priced
+because the other option
+is what's your alternative?
+Right?
+Sending them a direct
+mail or cold emailing them
+or sending them a message on
+LinkedIn is not being heard.
+Make sense-ish?
+Do we have a mic?
+I want to have this conversation.
+Do we have one?
+- Where's the microphone?
+- Oh right, Jesus Christ, that's insane.
+You were right there, love it.
+- Wow.
+(audience laughing)
+-  I guess it makes
+sense but sometimes, you know,
+you have the people you
+work for, they don't want
+to spend a lot of money.
+- No shit.
+(audience laughing)
+It doesn't make it wrong, right?
+-  No, no.
+- Like, I get it.
+Like I'm giving you the actual answer.
+If you tell me I only get a $1,000 budget
+because they don't believe in it
+well that means you should
+go find another job.
+-  Okay.
+- Good.
+(audience laughing)
+-  Thank you.
+- You're welcome.
+(audience laughing)
+(audience clapping)
+And I mean that, you
+should find another job
+if you unbelievably believe
+that what we believe in
+is right.
+If you don't, well then
+you don't but, to me,
+this is a real decade of
+the haves and the have nots
+and you need to be smart
+because the opportunity is great
+if you actually understand.
+The fact that you have targeted a segment
+that is not big enough means
+that you're 99.7% ahead
+of most of the marketers in the world.
+You need to take advantage
+of that, not just regress
+into the machine.
+- I wonder if her boss
+is here or if he's here
+or she if that's good or bad.
+- I think it's good because I would hope
+that she or he listens to
+this conversation and says,
+screw that guy on stage.
+Here's a couple of more
+dollars, let's prove him wrong
+and then I hope that
+she makes good content
+so that we could prove him or her wrong.
+- Okay, so these are good
+arguments for getting
+an organization going but
+what else could you tell,
+for example, Lars is 59 years old,
+not very keen on spending
+money on social media.
+- Listen, I don't have a huge
+passion that 59 year old Lars
+spends money on social media.
+I really don't.
+A, I don't give a fuck about Lars
+but B, B, the market will
+be the decision maker.
+I don't want people to pander
+to me or to the history.
+Like, I think Lars and Susan
+should see what it's like
+for themselves but if
+they don't, you know,
+much bigger companies than
+yours have gone out of business.
+Why?
+Because of this argument.
+Right?
+If my argument was wrong
+then IBM would have never let
+Microsoft happen.
+Then Microsoft would've
+never let Google happen.
+Google would've never let Facebook happen.
+Companies are built when
+people don't see things.
+Or, they see them but
+they don't make change
+because the people in the
+company don't actually care
+about the health of the company.
+They care about themselves.
+(audience clapping)
+Super not fun,
+super not fun to make
+the proper investment
+into Facebook right now
+if the head of marketing
+is bonused on efficiency on
+a thing that doesn't score
+Facebook advertising.
+(audience laughing)
+- Okay, this is a personal question to you
+from someone in the audience.
+Have you negotiated a deal
+with Apple to give you
+six dollars per view on
+iPhone you would've made
+at least $50,000 by now.
+I haven't.
+Apple isn't super in the
+business of negotiating
+directly with me.
+(audience laughing)
+I haven't but what I would say is this.
+I have zero expectations of
+the other person or platform.
+I think one of the biggest
+mistakes is people spend
+a lot of time here saying,
+well Facebook is benefiting
+from me or this or that.
+I don't care.
+When I go into business, whether
+it's a human or a platform,
+I try to figure out what
+I'm trying to get out of it.
+I always like if I'm getting
+a little less out of it
+because then I have leverage
+and that's how I think about
+the world and so I don't
+think about what Google
+and Apple and Facebook
+are getting out of it.
+I think about what I'm getting out of it
+and if it's good enough for
+me, then that's fine by me
+and I think a lot of people
+are misplaying their strategies
+because of some theoretical
+debate of who's getting
+the better of the relationship.
+I just try to spend time on
+what I'm trying to get out
+of the relationship and
+if those two guys get 80%
+of the value because they
+get all my content for free
+and it helps them and they
+never buy a sneaker or a book
+or anything, I don't care.
+It makes me happy.
+Fine.
+It's not why I'm doing
+it and I think people get
+really caught up in the wrong psychology.
+- Good.
+With an increasing CPM on
+Facebook is the Facebook stock
+the best investment today?
+- Listen, I think actions
+are better than words.
+I don't understand Wall
+Street at all, period.
+Let's start there.
+I don't trust those fuckers.
+(audience laughing)
+There's only two stocks that I buy ever.
+Like ever.
+Facebook and Amazon.
+Period.
+That is the only stocks that I've bought
+in the last five years
+because of Mark and Jeff.
+I believe companies are
+complete replications
+of the leadership and I
+think both of those guys
+are playing long term not
+to make the stock good
+in the next 90 days and
+that's how you actually win
+in business.
+You invest in the next things and so, yes,
+I think Facebook is grossly
+under priced at $175.
+Now, could macro economics
+crash the world economy
+and that 175 go to 85?
+Of course but if you put,
+well, if you put $175
+into Facebook and you never
+need that money, ever,
+I am convinced blindly
+that you will return
+and investment on that in a 10 year macro
+and that's how I think
+about Amazon and Facebook.
+- It's been really great
+getting to know you today
+and also yesterday in
+Gothenburg but what will you do
+in the next 15 years?
+Do you have a plan or is it
+just or what's your objectives?
+- I don't know if you heard earlier
+about the Nostradamus thing.
+(woman laughing)
+My intuition is, over
+the last year or two,
+I've become intoxicated
+with impacting young men.
+I have a lot of young guys following me
+because of the alpha nature.
+You can see, this is
+probably the most alpha I am
+because when I'm on stage
+and nobody can talk back,
+I like that.
+Right?
+(audience laughing)
+And it allows me to be
+a little more bravado
+and I'm a little bit more of a showman.
+When I'm one on one in
+real life it comes down
+in a different direction
+but through my personality
+I've gotten the attention
+of a lot of young men
+and I'm really trying to
+teach gratitude and empathy
+and kindness.
+I think these are weapons
+to why I've been successful
+and I do have an ambition
+over the next 15 years
+to become unbelievably
+popular to that demo
+so that I can make them
+a different version
+than what they used to look
+up to, Rolexes and Porsches
+and parties and I do
+have some pretty lofty
+historical legacy ambitions
+on my ability to communicate
+and the way that my mother raised me.
+My intuition is that
+every day that goes by
+that continues to pull at me more.
+Yeah, I want to be historically correct.
+- And that really comes
+through when you spend time
+with you and I was just wondering,
+what did your mother do?
+- She taught me, boy, she's fucking,
+she did everything right.
+So what did she do?
+She over accentuated
+when I did good things.
+Meaning, I remember
+clearly opening the door
+for an elderly woman
+when I was seven or eight
+at McDonald's.
+You know, we're just going.
+I just remember this clearly.
+I opened the door for this elderly woman.
+My mom acted, at that moment,
+like I won the Nobel Peace Prize.
+So she was very aggressive
+when I was being kind
+or deploying empathy.
+But she also didn't let
+me get away with things.
+So, she knew I was gonna
+be successful long before
+anybody else but when
+I would get D's and F's
+on my report card she would
+punish me for a week or two
+even though she knew it
+meant nothing but she wanted
+to teach me that things had repercussions.
+She was my biggest cheerleader
+but she was practical
+and I'm so grateful for
+her and so she built up
+my self esteem to an
+uncomfortably high level.
+(audience laughing)
+And she raised three children with no help
+and worked her ass off.
+Like, I can't even, she
+did some things wrong
+but it came out of what
+she did amazingly well.
+Like, I can't do anything for
+myself like peel an orange
+or wash clothes because my
+mom did everything for me.
+She was that hard core.
+She created an incredible framework for me
+and to be very honest with
+you, so much of what I do
+is out of guilt and
+gratitude for how my parents
+raised me and me not having
+anything and having to work
+for it that I'm trying to,
+I feel like a lot of this
+is me giving,
+as lucrative as this is
+for me to get paid for,
+and I'm sure you guys and
+the organizers for my fee,
+but I'm very fortunate,
+the companies I'm building,
+my time allocation is
+far greater for me to be
+in the business than to
+be here for a day but this
+and knowing I was gifted
+with a communication style
+that is actually gonna
+get three people here
+to do something, that has
+a lot to do with the way
+I was parented.
+I'm desperate to give back
+the wisdom and the framework
+that Sasha and Tamara gave to me.
+(audience clapping)
+- Thank you Gary, that's beautiful.
+-  Thank you.
+- And one last question was
+from someone in the audience.
+Can I get my selfie taken
+with you and maybe they can
+by the book table?
+- 100%, let's go.
+Oh at the book, oh that's a segue.
+I wanted to do it here.
+Sorry, don't want to break the system.
+Yes, I will be at the book table.
+I'm ready to go.
+-  Yeah.
+- Do we want that one
+person to come up here now?
+- Yeah, who wrote that?
+- Who wrote that?
+(man speaking softly)
+Let's go.
+It's fucking selfie time.
+(audience clapping)
+Pleasure.
+You ready?
+-  Yeah, sure.
+(speaks a foreign language)
+(audience clapping)
+- Thank you.
+-  Gary V, thank you.
+- Thank you.
+Thank you guys.
+(audience clapping)
+Thank you.
+You were great.
+You were so good.
+- That was great.
+- Thank you.
+- Thanks.
+- Hope you guys liked it.
+Two things, what did you
+think of the key note
+and number two, what's your
+take on the Stockholm syndrome?
+(upbeat rock music)

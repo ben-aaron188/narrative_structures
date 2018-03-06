@@ -1,0 +1,264 @@
+hey guys chase Gilroy here with a brand
+new video training series I'm going to
+show you guys all about how to use Final
+Cut Pro X and the tricks and tips that
+I've learned to get myself where I'm at
+with the program today so without
+further ado let's dive right in
+alright so now what we're gonna do is
+we're gonna open Final Cut Pro so
+basically this tutorial is going to show
+you we're gonna give you an overview of
+what Final Cut Pro interface looks like
+where you can find everything and how to
+move about the workspace efficiently all
+right first up top left we're gonna show
+you up here is the this area is called
+the libraries browser and libraries are
+where you hold all your events a library
+is is you can tell it's a library by the
+Foursquare stars that's the library
+Gilroy tutorials and then we have in the
+library our event event is just a 1
+square star and we're gonna do the
+basics of Final Cut Pro X that's our
+tutorial today so let me back out so
+there's the libraries browser you can
+close it by clicking this button here
+so you don't have to see it or you can
+leave it open and you can have options
+like group clips by sorting by all that
+different stuff play with those options
+see what you like the best I like to
+keep them default it works best for me
+next right beside this area this this
+area right here is called the event
+browser and appropriately enough because
+this is an event and once you click this
+you'll see all of the video files that
+are in that event ok now if you look
+right here
+this area is the the viewer what you see
+in this panel is what's gonna display on
+screen this is what is going to show
+your video you have two different
+options up here you can choose to zoom
+in let me select a clip here
+you can choose to zoom in whatever
+percentage you want and then if you
+click this little box here you can
+scroll around it which is pretty handy
+if you're doing like fine-tuning
+keyframing stuff like that but it's
+always good to once you start hit fit so
+you can see everything that's going on
+the frame all at once this little this
+little light switch here gives you a
+bunch of different things you can hit
+show video scopes which shows you the
+intensity of each color channel for that
+clip you can also show angles which I'll
+do a separate video on what exactly that
+view is used for very cool very awesome
+you're gonna want to know that so look
+forward to that tutorial show both
+fields haven't used that yet probably
+never will and let's see yeah okay here
+we go alright so you can choose the
+quality better quality or better
+performance the media you can choose to
+show the optimized original or proxy
+media and we'll get into that later and
+you can also choose like the different
+color channels if you'd rather see the
+red color Channel the green color
+channel you know different things like
+that but obviously you want to see them
+all for the purposes of editing pranks
+you're probably not going to get into
+messing with all of that kind of stuff
+will keep it pretty basic I'll show you
+how I I do a quick edit in a later video
+okay now if you see this little button
+right here we click this button this
+pulls up your inspector and the
+inspector obviously if you don't have
+anything selected it's not going to show
+you anything this is a it's an active
+panel so that that means whatever your
+whatever you have selected it's going to
+show you properties for whatever you
+have selected and it's a very very
+useful panel I would recommend keeping
+this panel open all the time only close
+it to save space in the inspector panel
+we've got a video clip selected and if
+you hit nfo it's going to show you a
+bunch of cool stuff it's going to show
+you the duration it's going to show you
+when it was
+it's also going to show you the video
+quality the audio sampling and and a
+bunch of other key things and you can
+put in you can put in your own notes and
+metadata in here which is really really
+nice it shows you down here where it's
+at what event where it's at on the hard
+drive and a bunch of other stuff really
+useful panel there you can change a
+bunch of stuff like the color the audio
+you can mute it and this I'm just flying
+through this because we don't want we
+don't want to show too much of this
+without going into greater detail at
+this point we're just showing you a tour
+of Final Cut Pro X so moving on I think
+we got the basics of the the libraries
+the event browser the viewer oh I did I
+forgot to show you so also in the viewer
+if you have a clip selected obviously we
+can't really do anything with this
+button here yet because we haven't
+dragged our clip into the timeline and
+we can't drag our clip into the timeline
+because we haven't created a new project
+so let me go ahead and do that now we'll
+title this training and while I have
+this dialog box open I can show you a
+couple things so when you start a new
+project the project is going to be your
+main timeline for whatever video you're
+trying to produce so we're gonna make a
+video called training series whoops
+these series well I can't spell okay
+here we go
+okay and we can choose what event to put
+that in obviously we only have one event
+inside of our library right now the
+basics of Final Cut Pro X you can choose
+when you're starting timecode is say if
+you've if you've had your video clips
+synced to a slate board that'll be
+useful there and the video properties
+you can set them based on the first
+video clip you import or you can do
+custom properties you can set your your
+resolution format you can do that
+and you can set your frame right over
+here I always keep set based on first
+video clip just to keep it congruent and
+I always use the same camera so if you
+use different cameras I would definitely
+recommend doing a custom setup like this
+but if you use the same camera for all
+of it I would just choose this default
+set based on first video clip the audio
+and render properties I usually leave
+that as default also but if you do
+choose to go custom you can set your
+different audio channels your sample
+rate you can choose what you want and
+then your render format I always changes
+in the output settings but you can do it
+here if you want to but or you could
+just click and use automatic setting
+pretty basic so for now we're gonna just
+choose default set based on first video
+clip we'll leave everything the way it
+is and click OK so now you'll notice
+inside of our event browser you got you
+got your project and you can tell the
+final cut gives you these little icons
+that help you identify what these things
+are and maybe I should mention you can
+view this event browser two different
+ways you can view it in the list like I
+have it here or you can if you're if
+you're privy to iMovie which I don't
+really like you can you can view it as
+film strips which I kind of I kind of
+actually hate I hate it it's ugly so you
+can have these film strips or whatever
+but for my purposes I'm gonna use the
+list because I think that's the bomb com
+so now we have a project insider
+training series and to be quite honest
+you can have as many projects inside of
+an event as you want so say we wanted to
+create a new project just go up to file
+and we'll go new and we'll go project
+and we can call this one just for shits
+and since we put it in that same event
+we've got another project in there in
+the same event and we can make two
+different videos based on all of these
+same clips that are in here okay so I
+think we're ready to move on to the
+timeline the timeline is down here at
+the bottom obviously this is where all
+your magic happens this is where every
+part of your every clip you bring in its
+gonna end up down here
+whatever our playhead Scrubs across he's
+going to be what shows up in the viewer
+and what shows been in viewer is what
+you see on-screen and your final product
+so if I could show you quickly I'm just
+gonna go ahead and drag down one of
+these full clips I'm just gonna drag it
+from here right down into the timeline
+and I'm gonna drag another one right
+beside it and I want you to notice what
+happens if you drag a clip and try to
+move it and let it go it's gonna snap
+back into place
+that's because Final Cut Pro 10 oops I
+don't want you to see that yet Final Cut
+Pro 10 uses what's called a magnetic
+timeline and the magnetic timeline means
+you can move things around but they're
+always gonna stay but it up next to each
+other we can also move things above the
+timeline that's called an appended clip
+or a cutaway or overlay whatever program
+you're used to using and we can also
+take audio files and drag them
+underneath and you can put video files
+underneath too it's really cool and
+we'll get really in-depth in creating
+you can create other storylines like say
+this one's above the storyline you can
+go say create storyline and we can have
+two different storylines up here it says
+this is a kind of an advanced technique
+but we'll get it we'll get into that
+later so basically what I've showed you
+is our library panel we've got our event
+browser and we've got our viewer and
+we've got our inspector panel far right
+over here and then
+our time line down below you will use
+every single one of these panels when
+you start editing in Final Cut and each
+one of them are powerful in their own
+regard and you'll need to know how to
+utilize each of them independently to
+maximize your workflow efficiency in the
+next tutorial I'm going to show you how
+to import your media files and where
+they're all stored on the computer I
+know that might seem redundant but it's
+actually quite important when you start
+when you start gathering a bunch of
+media files and clogging up your
+computer that's about it for this
+tutorial guys thanks so much for
+watching leave all your comments in the
+comment section below
+hit that like and subscribe button and
+we'll see all of you right back here
+next time take your camera and you're
+going to secure it to your box so we're
+gonna use velcro that you can buy at the
+grocery store or whatever then we're
+gonna stick the velcro

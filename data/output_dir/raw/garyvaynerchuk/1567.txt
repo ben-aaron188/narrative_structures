@@ -1,0 +1,440 @@
+1
+00:00:00,060 --> 00:00:03,030
+sup guys<font color="#CCCCCC"> it's Gary Vaynerchuk had</font>
+
+2
+00:00:03,030 --> 00:00:04,200
+<font color="#E5E5E5">something</font><font color="#CCCCCC"> that happened in my own</font>
+
+3
+00:00:04,200 --> 00:00:05,549
+<font color="#E5E5E5">business life that I thought</font><font color="#CCCCCC"> I could</font>
+
+4
+00:00:05,549 --> 00:00:07,589
+share<font color="#E5E5E5"> with</font><font color="#CCCCCC"> you guys</font><font color="#E5E5E5"> because</font><font color="#CCCCCC"> I think</font><font color="#E5E5E5"> it's</font>
+
+5
+00:00:07,589 --> 00:00:10,200
+really<font color="#CCCCCC"> a great example of what can be</font>
+
+6
+00:00:10,200 --> 00:00:12,030
+<font color="#CCCCCC">done in today's</font><font color="#E5E5E5"> world of</font><font color="#CCCCCC"> technology and</font>
+
+7
+00:00:12,030 --> 00:00:14,000
+<font color="#CCCCCC">it's</font><font color="#E5E5E5"> really a basic business principle</font>
+
+8
+00:00:14,000 --> 00:00:17,609
+<font color="#CCCCCC">but I think it really has a lot of</font><font color="#E5E5E5"> a lot</font>
+
+9
+00:00:17,609 --> 00:00:19,289
+of<font color="#CCCCCC"> merit</font><font color="#E5E5E5"> you know I always hear people</font>
+
+10
+00:00:19,289 --> 00:00:21,060
+<font color="#E5E5E5">like should we do this should we do that</font>
+
+11
+00:00:21,060 --> 00:00:23,400
+<font color="#CCCCCC">they're rippled by their indecisiveness</font>
+
+12
+00:00:23,400 --> 00:00:25,849
+<font color="#CCCCCC">and their</font><font color="#E5E5E5"> worries about total reaction</font>
+
+13
+00:00:25,849 --> 00:00:28,769
+<font color="#CCCCCC">it's not what you do</font><font color="#E5E5E5"> it's how you follow</font>
+
+14
+00:00:28,769 --> 00:00:30,960
+up on<font color="#CCCCCC"> that mistake</font><font color="#E5E5E5"> it's not</font><font color="#CCCCCC"> how you</font>
+
+15
+00:00:30,960 --> 00:00:32,759
+spill the milk it's how you clean it up
+
+16
+00:00:32,759 --> 00:00:34,649
+that's really<font color="#E5E5E5"> what's important in</font>
+
+17
+00:00:34,649 --> 00:00:36,899
+<font color="#CCCCCC">business the other day</font><font color="#E5E5E5"> I've got my book</font>
+
+18
+00:00:36,899 --> 00:00:38,579
+crush it coming<font color="#E5E5E5"> out Matt looks like that</font>
+
+19
+00:00:38,579 --> 00:00:41,040
+up<font color="#E5E5E5"> and I'm excited about it and I'm</font>
+
+20
+00:00:41,040 --> 00:00:42,000
+trying<font color="#CCCCCC"> to find different</font><font color="#E5E5E5"> creative ways</font>
+
+21
+00:00:42,000 --> 00:00:44,730
+<font color="#CCCCCC">to you know</font><font color="#E5E5E5"> move the books and get it</font>
+
+22
+00:00:44,730 --> 00:00:46,230
+into people's<font color="#E5E5E5"> hands and trying to do</font>
+
+23
+00:00:46,230 --> 00:00:47,910
+creative<font color="#CCCCCC"> things here at Wine Library the</font>
+
+24
+00:00:47,910 --> 00:00:49,350
+retail side of things<font color="#E5E5E5"> so</font><font color="#CCCCCC"> we've tried</font>
+
+25
+00:00:49,350 --> 00:00:50,489
+<font color="#E5E5E5">something new</font><font color="#CCCCCC"> and I was worried about I</font>
+
+26
+00:00:50,489 --> 00:00:52,410
+knew there<font color="#E5E5E5"> was a little half you know</font>
+
+27
+00:00:52,410 --> 00:00:53,760
+like is this gonna<font color="#CCCCCC"> work out kind</font><font color="#E5E5E5"> of</font>
+
+28
+00:00:53,760 --> 00:00:55,910
+<font color="#E5E5E5">thing with it um</font><font color="#CCCCCC"> we sent out an</font><font color="#E5E5E5"> email to</font>
+
+29
+00:00:55,910 --> 00:00:59,760
+<font color="#E5E5E5">our</font><font color="#CCCCCC"> entire email</font><font color="#E5E5E5"> service saying if you</font>
+
+30
+00:00:59,760 --> 00:01:03,690
+buy<font color="#E5E5E5"> three books and a mix of these five</font>
+
+31
+00:01:03,690 --> 00:01:05,760
+<font color="#CCCCCC">wines</font><font color="#E5E5E5"> two cases if you buy that total</font>
+
+32
+00:01:05,760 --> 00:01:07,680
+package<font color="#CCCCCC"> two cases</font><font color="#E5E5E5"> and three books seven</font>
+
+33
+00:01:07,680 --> 00:01:09,090
+and two receipts one from Amazon<font color="#E5E5E5"> one</font>
+
+34
+00:01:09,090 --> 00:01:11,010
+from Wine Library<font color="#CCCCCC"> calm we'll send</font><font color="#E5E5E5"> you</font>
+
+35
+00:01:11,010 --> 00:01:12,600
+back<font color="#CCCCCC"> a free shipping code for the entire</font>
+
+36
+00:01:12,600 --> 00:01:14,610
+month of<font color="#E5E5E5"> June and</font><font color="#CCCCCC"> we came up with that</font>
+
+37
+00:01:14,610 --> 00:01:17,400
+based on the you know average shipping
+
+38
+00:01:17,400 --> 00:01:19,380
+cost per<font color="#E5E5E5"> customer for the month of June</font>
+
+39
+00:01:19,380 --> 00:01:22,140
+and I realized there was an angle where
+
+40
+00:01:22,140 --> 00:01:23,460
+they could<font color="#E5E5E5"> actually buy</font><font color="#CCCCCC"> these wines and</font>
+
+41
+00:01:23,460 --> 00:01:26,189
+books<font color="#E5E5E5"> in essence for free sounds good</font>
+
+42
+00:01:26,189 --> 00:01:28,470
+<font color="#E5E5E5">right but</font><font color="#CCCCCC"> I also</font><font color="#E5E5E5"> knew like yeah being</font>
+
+43
+00:01:28,470 --> 00:01:30,600
+kind<font color="#E5E5E5"> of aggressive we sent it out we got</font>
+
+44
+00:01:30,600 --> 00:01:33,030
+five to seven out<font color="#E5E5E5"> of hundreds of</font>
+
+45
+00:01:33,030 --> 00:01:34,829
+thousands of people on the list<font color="#E5E5E5"> five to</font>
+
+46
+00:01:34,829 --> 00:01:37,560
+seven emails<font color="#E5E5E5"> saying this is</font><font color="#CCCCCC"> bullcrap why</font>
+
+47
+00:01:37,560 --> 00:01:39,420
+don't you make<font color="#CCCCCC"> me stand on my head you</font>
+
+48
+00:01:39,420 --> 00:01:41,430
+guys are a jerk you know<font color="#CCCCCC"> you know all</font>
+
+49
+00:01:41,430 --> 00:01:43,200
+<font color="#CCCCCC">these different things</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> you know</font>
+
+50
+00:01:43,200 --> 00:01:45,270
+what<font color="#CCCCCC"> I</font><font color="#E5E5E5"> totally understood and I knew had</font>
+
+51
+00:01:45,270 --> 00:01:50,220
+the ability to happen<font color="#CCCCCC"> six</font><font color="#E5E5E5"> or</font><font color="#CCCCCC"> seven out</font>
+
+52
+00:01:50,220 --> 00:01:51,689
+<font color="#CCCCCC">of a</font><font color="#E5E5E5"> half a million email addresses is</font>
+
+53
+00:01:51,689 --> 00:01:55,110
+not a big percentage but knowing and
+
+54
+00:01:55,110 --> 00:01:56,579
+this is where<font color="#CCCCCC"> Turkey comes in knowing</font>
+
+55
+00:01:56,579 --> 00:01:58,680
+there's a lot of silent voices brands
+
+56
+00:01:58,680 --> 00:02:02,040
+<font color="#E5E5E5">there's a few vocal people multiply them</font>
+
+57
+00:02:02,040 --> 00:02:03,990
+by a couple<font color="#E5E5E5"> of hundred every for every</font>
+
+58
+00:02:03,990 --> 00:02:06,210
+<font color="#CCCCCC">one five</font><font color="#E5E5E5"> hundred thousand people are</font>
+
+59
+00:02:06,210 --> 00:02:08,310
+thinking the same<font color="#E5E5E5"> thing or by percentage</font>
+
+60
+00:02:08,310 --> 00:02:11,489
+of your list so whatever<font color="#E5E5E5"> anyway we</font>
+
+61
+00:02:11,489 --> 00:02:13,170
+reacted quickly the<font color="#E5E5E5"> next day got those</font>
+
+62
+00:02:13,170 --> 00:02:13,800
+emails
+
+63
+00:02:13,800 --> 00:02:15,030
+I went to the otter<font color="#CCCCCC"> department said if</font>
+
+64
+00:02:15,030 --> 00:02:16,320
+anything<font color="#E5E5E5"> happens with this email today</font>
+
+65
+00:02:16,320 --> 00:02:17,880
+let me<font color="#E5E5E5"> know</font><font color="#CCCCCC"> sure enough they forward me</font>
+
+66
+00:02:17,880 --> 00:02:20,250
+<font color="#E5E5E5">cut one person called as well and I</font>
+
+67
+00:02:20,250 --> 00:02:22,950
+decided that the next<font color="#CCCCCC"> day what we were</font>
+
+68
+00:02:22,950 --> 00:02:25,110
+gonna<font color="#E5E5E5"> do and what we did was we sent out</font>
+
+69
+00:02:25,110 --> 00:02:26,520
+an email<font color="#E5E5E5"> to everybody on our mailing</font>
+
+70
+00:02:26,520 --> 00:02:28,500
+<font color="#E5E5E5">list for</font><font color="#CCCCCC"> a free shipping</font><font color="#E5E5E5"> code for the</font>
+
+71
+00:02:28,500 --> 00:02:32,910
+month of<font color="#E5E5E5"> June</font><font color="#CCCCCC"> no strings attached</font><font color="#E5E5E5"> six</font>
+
+72
+00:02:32,910 --> 00:02:36,960
+seven thousand emails later<font color="#E5E5E5"> today people</font>
+
+73
+00:02:36,960 --> 00:02:39,390
+<font color="#E5E5E5">thanking us tons of</font><font color="#CCCCCC"> people saying screw</font>
+
+74
+00:02:39,390 --> 00:02:40,860
+them<font color="#CCCCCC"> Gary your business man you can do</font>
+
+75
+00:02:40,860 --> 00:02:42,740
+whatever you want<font color="#E5E5E5"> but at the</font><font color="#CCCCCC"> end</font><font color="#E5E5E5"> of day</font>
+
+76
+00:02:42,740 --> 00:02:46,020
+thousands<font color="#CCCCCC"> of</font><font color="#E5E5E5"> people that said yeah you</font>
+
+77
+00:02:46,020 --> 00:02:47,850
+know<font color="#E5E5E5"> that was</font><font color="#CCCCCC"> kind of off you know the</font>
+
+78
+00:02:47,850 --> 00:02:49,200
+radar kind of<font color="#E5E5E5"> new for you guys I was a</font>
+
+79
+00:02:49,200 --> 00:02:53,010
+little taken<font color="#E5E5E5"> aback</font><font color="#CCCCCC"> you know</font><font color="#E5E5E5"> a huge coup</font>
+
+80
+00:02:53,010 --> 00:02:56,070
+for<font color="#E5E5E5"> our brand</font><font color="#CCCCCC"> our customers are happy my</font>
+
+81
+00:02:56,070 --> 00:02:59,580
+controller<font color="#E5E5E5"> and</font><font color="#CCCCCC"> CFO is not happy because</font>
+
+82
+00:02:59,580 --> 00:03:01,110
+<font color="#E5E5E5">we're taking a beating</font><font color="#CCCCCC"> we don't run on</font>
+
+83
+00:03:01,110 --> 00:03:03,960
+the margins like<font color="#CCCCCC"> wine.com</font><font color="#E5E5E5"> or Amazon do</font>
+
+84
+00:03:03,960 --> 00:03:05,700
+that we can<font color="#E5E5E5"> have those kind</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> you know</font>
+
+85
+00:03:05,700 --> 00:03:08,640
+<font color="#E5E5E5">prime or monthly fees you know five or</font>
+
+86
+00:03:08,640 --> 00:03:10,140
+<font color="#CCCCCC">fifty bucks free shipping for the</font><font color="#E5E5E5"> year</font>
+
+87
+00:03:10,140 --> 00:03:12,300
+<font color="#E5E5E5">or over</font><font color="#CCCCCC"> a low margin</font><font color="#E5E5E5"> business</font><font color="#CCCCCC"> so we're</font>
+
+88
+00:03:12,300 --> 00:03:15,150
+taking a beating<font color="#E5E5E5"> but your brand and your</font>
+
+89
+00:03:15,150 --> 00:03:17,280
+relationship with<font color="#CCCCCC"> your customer</font><font color="#E5E5E5"> should</font>
+
+90
+00:03:17,280 --> 00:03:19,140
+<font color="#E5E5E5">never take a beating</font><font color="#CCCCCC"> no matter how</font>
+
+91
+00:03:19,140 --> 00:03:22,350
+<font color="#E5E5E5">short-term the</font><font color="#CCCCCC"> theis financial losses so</font>
+
+92
+00:03:22,350 --> 00:03:24,180
+just a couple<font color="#E5E5E5"> things</font><font color="#CCCCCC"> out there</font><font color="#E5E5E5"> you know</font>
+
+93
+00:03:24,180 --> 00:03:26,340
+<font color="#E5E5E5">you know Gawker did something with True</font>
+
+94
+00:03:26,340 --> 00:03:27,750
+Blood the<font color="#E5E5E5"> other day and I was asking is</font>
+
+95
+00:03:27,750 --> 00:03:28,410
+<font color="#CCCCCC">that right</font>
+
+96
+00:03:28,410 --> 00:03:31,170
+I don't want to kill<font color="#CCCCCC"> creativity</font><font color="#E5E5E5"> if we're</font>
+
+97
+00:03:31,170 --> 00:03:32,820
+all gonna be scared to do something
+
+98
+00:03:32,820 --> 00:03:34,980
+<font color="#E5E5E5">we're all gonna be confined and no</font>
+
+99
+00:03:34,980 --> 00:03:36,810
+creative marketing<font color="#E5E5E5"> and business ideas</font>
+
+100
+00:03:36,810 --> 00:03:39,360
+will grow understand this<font color="#E5E5E5"> try things</font>
+
+101
+00:03:39,360 --> 00:03:42,480
+<font color="#E5E5E5">don't abuse or disrespect your base you</font>
+
+102
+00:03:42,480 --> 00:03:44,040
+know<font color="#E5E5E5"> that's definitely not a good move</font>
+
+103
+00:03:44,040 --> 00:03:46,410
+but do understand<font color="#E5E5E5"> that if you missed it</font>
+
+104
+00:03:46,410 --> 00:03:48,030
+by a little<font color="#E5E5E5"> mark and that's still</font>
+
+105
+00:03:48,030 --> 00:03:51,180
+painful<font color="#E5E5E5"> how you fix it really can</font><font color="#CCCCCC"> become</font>
+
+106
+00:03:51,180 --> 00:03:53,250
+the<font color="#E5E5E5"> reputation and the legacy of</font><font color="#CCCCCC"> that</font>
+
+107
+00:03:53,250 --> 00:03:56,370
+program stop<font color="#E5E5E5"> not trying to do cool stuff</font>
+
+108
+00:03:56,370 --> 00:03:58,920
+push that envelope<font color="#CCCCCC"> and when you push it</font>
+
+109
+00:03:58,920 --> 00:04:01,020
+too<font color="#CCCCCC"> far clean it up</font><font color="#E5E5E5"> because</font><font color="#CCCCCC"> the way you</font>
+
+110
+00:04:01,020 --> 00:00:00,000
+<font color="#E5E5E5">clean it up is what's always remembered</font>
+

@@ -1,0 +1,2056 @@
+1
+00:00:27,919 --> 00:00:32,668
+<font color="#CCCCCC">to be here I've been trying to</font><font color="#E5E5E5"> think</font>
+
+2
+00:00:32,668 --> 00:00:34,020
+<font color="#CCCCCC">about a lot of</font><font color="#E5E5E5"> different directions</font><font color="#CCCCCC"> of</font>
+
+3
+00:00:34,020 --> 00:00:35,969
+where I wanted to<font color="#E5E5E5"> go with this talk</font><font color="#CCCCCC"> I'm</font>
+
+4
+00:00:35,969 --> 00:00:38,730
+very obsessed<font color="#CCCCCC"> with the word context if</font>
+
+5
+00:00:38,730 --> 00:00:41,070
+it's my single favorite word in the
+
+6
+00:00:41,070 --> 00:00:42,480
+world I<font color="#E5E5E5"> think people</font><font color="#CCCCCC"> pay</font><font color="#E5E5E5"> way too much</font>
+
+7
+00:00:42,480 --> 00:00:45,120
+attention<font color="#E5E5E5"> to content which is massively</font>
+
+8
+00:00:45,120 --> 00:00:46,530
+important and I think<font color="#CCCCCC"> a lot of us for</font>
+
+9
+00:00:46,530 --> 00:00:48,629
+<font color="#E5E5E5">content is</font><font color="#CCCCCC"> King and all those kind of</font>
+
+10
+00:00:48,629 --> 00:00:50,309
+<font color="#E5E5E5">things but I I really</font><font color="#CCCCCC"> do</font><font color="#E5E5E5"> believe that</font>
+
+11
+00:00:50,309 --> 00:00:53,100
+context<font color="#E5E5E5"> is the signals</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> one word in</font>
+
+12
+00:00:53,100 --> 00:00:54,540
+the world<font color="#E5E5E5"> we live in now because there's</font>
+
+13
+00:00:54,540 --> 00:00:57,600
+so much noise and understanding the room
+
+14
+00:00:57,600 --> 00:00:59,909
+or the<font color="#CCCCCC"> platform or the nuances of the</font>
+
+15
+00:00:59,909 --> 00:01:02,489
+<font color="#E5E5E5">event or anything in life is massively</font>
+
+16
+00:01:02,489 --> 00:01:04,650
+important so the context of this talk is
+
+17
+00:01:04,650 --> 00:01:06,930
+<font color="#CCCCCC">super important to me</font><font color="#E5E5E5"> because a lot</font><font color="#CCCCCC"> of</font>
+
+18
+00:01:06,930 --> 00:01:08,189
+you are in a different chapter live your
+
+19
+00:01:08,189 --> 00:01:10,439
+lives<font color="#E5E5E5"> then let's say a lot of the</font>
+
+20
+00:01:10,439 --> 00:01:13,140
+<font color="#CCCCCC">audiences that I normally</font><font color="#E5E5E5"> talk to so I'm</font>
+
+21
+00:01:13,140 --> 00:01:14,130
+gonna take<font color="#E5E5E5"> a little bit of a different</font>
+
+22
+00:01:14,130 --> 00:01:19,590
+<font color="#E5E5E5">turns</font><font color="#CCCCCC"> with this with this talk today so</font>
+
+23
+00:01:19,590 --> 00:01:24,090
+<font color="#CCCCCC">I suck at</font><font color="#E5E5E5"> 99.9% of the things in</font>
+
+24
+00:01:24,090 --> 00:01:26,850
+the<font color="#E5E5E5"> world and</font><font color="#CCCCCC"> that's</font><font color="#E5E5E5"> like a fun</font><font color="#CCCCCC"> thing to</font>
+
+25
+00:01:26,850 --> 00:01:29,220
+giggle at but it's actually shockingly
+
+26
+00:01:29,220 --> 00:01:34,409
+true<font color="#CCCCCC"> I was a I was a solid at</font><font color="#E5E5E5"> student in</font>
+
+27
+00:01:34,409 --> 00:01:36,659
+school<font color="#CCCCCC"> and</font><font color="#E5E5E5"> I'm not kidding like I think</font>
+
+28
+00:01:36,659 --> 00:01:38,159
+<font color="#E5E5E5">when I tell</font><font color="#CCCCCC"> people that I</font><font color="#E5E5E5"> was a DNF</font>
+
+29
+00:01:38,159 --> 00:01:41,159
+student<font color="#E5E5E5"> people laughed like</font><font color="#CCCCCC"> haha because</font>
+
+30
+00:01:41,159 --> 00:01:42,840
+<font color="#CCCCCC">they've had success</font><font color="#E5E5E5"> and they think I</font>
+
+31
+00:01:42,840 --> 00:01:44,640
+mean B's and C's<font color="#E5E5E5"> no I mean like these</font>
+
+32
+00:01:44,640 --> 00:01:47,880
+<font color="#CCCCCC">maps</font><font color="#E5E5E5"> right I was really bad</font><font color="#CCCCCC"> at school</font>
+
+33
+00:01:47,880 --> 00:01:50,370
+mainly because since the time I can
+
+34
+00:01:50,370 --> 00:01:53,040
+<font color="#CCCCCC">remember which is like you</font><font color="#E5E5E5"> know</font><font color="#CCCCCC"> three</font>
+
+35
+00:01:53,040 --> 00:01:55,590
+I've always wanted to sell stuff<font color="#E5E5E5"> right</font>
+
+36
+00:01:55,590 --> 00:01:57,090
+I'm a<font color="#E5E5E5"> business man through and through</font>
+
+37
+00:01:57,090 --> 00:02:01,650
+<font color="#CCCCCC">and I think</font><font color="#E5E5E5"> about why have I been able</font>
+
+38
+00:02:01,650 --> 00:02:03,780
+<font color="#E5E5E5">to be</font><font color="#CCCCCC"> successful even</font><font color="#E5E5E5"> though everything</font>
+
+39
+00:02:03,780 --> 00:02:06,000
+that led up<font color="#CCCCCC"> to let's say</font><font color="#E5E5E5"> when I was 18</font>
+
+40
+00:02:06,000 --> 00:02:08,220
+years<font color="#E5E5E5"> old</font><font color="#CCCCCC"> on paper traditionally the way</font>
+
+41
+00:02:08,220 --> 00:02:10,979
+<font color="#E5E5E5">we score</font><font color="#CCCCCC"> lend itself to make people</font>
+
+42
+00:02:10,979 --> 00:02:12,239
+believe that I wasn't<font color="#E5E5E5"> going</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> be</font>
+
+43
+00:02:12,239 --> 00:02:14,250
+<font color="#E5E5E5">successful and then started</font><font color="#CCCCCC"> thinking</font>
+
+44
+00:02:14,250 --> 00:02:15,629
+about the<font color="#E5E5E5"> world you live in and then I</font>
+
+45
+00:02:15,629 --> 00:02:18,200
+started<font color="#E5E5E5"> thinking about wow you know I'm</font>
+
+46
+00:02:18,200 --> 00:02:21,120
+living<font color="#CCCCCC"> in</font><font color="#E5E5E5"> 1%</font><font color="#CCCCCC"> life I'm financially</font>
+
+47
+00:02:21,120 --> 00:02:24,299
+ridiculously secure I'm I'm right<font color="#E5E5E5"> now</font>
+
+48
+00:02:24,299 --> 00:02:25,980
+<font color="#E5E5E5">focused on buying the New York Jets</font>
+
+49
+00:02:25,980 --> 00:02:28,370
+<font color="#CCCCCC">right so literally on</font>
+
+50
+00:02:28,370 --> 00:02:30,110
+<font color="#E5E5E5">I'm a millionaire I've got all these</font>
+
+51
+00:02:30,110 --> 00:02:32,480
+<font color="#E5E5E5">great</font><font color="#CCCCCC"> things</font><font color="#E5E5E5"> and why am I sitting back</font>
+
+52
+00:02:32,480 --> 00:02:34,909
+there and<font color="#E5E5E5"> willing to give up everything</font>
+
+53
+00:02:34,909 --> 00:02:37,670
+that<font color="#E5E5E5"> I've achieved over the last 20</font>
+
+54
+00:02:37,670 --> 00:02:40,970
+years<font color="#E5E5E5"> to call it to trade places with</font>
+
+55
+00:02:40,970 --> 00:02:43,370
+any<font color="#E5E5E5"> one of the people</font><font color="#CCCCCC"> in this room</font><font color="#E5E5E5"> and I</font>
+
+56
+00:02:43,370 --> 00:02:45,200
+was think about<font color="#E5E5E5"> why is that and why is</font>
+
+57
+00:02:45,200 --> 00:02:46,909
+that really<font color="#E5E5E5"> true and I'm not kind</font><font color="#CCCCCC"> of</font>
+
+58
+00:02:46,909 --> 00:02:48,680
+like giving you like<font color="#E5E5E5"> ago I wish</font>
+
+59
+00:02:48,680 --> 00:02:50,840
+<font color="#E5E5E5">it was</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> like I really mean it and</font><font color="#CCCCCC"> the</font>
+
+60
+00:02:50,840 --> 00:02:53,569
+reason is<font color="#E5E5E5"> because what I've realized was</font>
+
+61
+00:02:53,569 --> 00:02:56,590
+holy crap<font color="#CCCCCC"> we live in the most ridiculous</font>
+
+62
+00:02:56,590 --> 00:02:59,780
+ridiculous<font color="#E5E5E5"> era of all time this is what</font>
+
+63
+00:02:59,780 --> 00:03:03,709
+I mean<font color="#E5E5E5"> the cost the infrastructure cost</font>
+
+64
+00:03:03,709 --> 00:03:06,560
+<font color="#E5E5E5">to do what you want to do is very light</font>
+
+65
+00:03:06,560 --> 00:03:09,019
+<font color="#CCCCCC">has collapsed over the last ten years</font>
+
+66
+00:03:09,019 --> 00:03:10,849
+<font color="#E5E5E5">there's this thing another thing I've</font>
+
+67
+00:03:10,849 --> 00:03:12,109
+heard<font color="#E5E5E5"> about it you may want</font><font color="#CCCCCC"> to write</font>
+
+68
+00:03:12,109 --> 00:03:13,909
+this down<font color="#CCCCCC"> there's this thing called</font><font color="#E5E5E5"> the</font>
+
+69
+00:03:13,909 --> 00:03:17,930
+<font color="#CCCCCC">Internet right and it's something that</font>
+
+70
+00:03:17,930 --> 00:03:20,060
+wasn't important
+
+71
+00:03:20,060 --> 00:03:21,950
+or<font color="#E5E5E5"> really at scale when I was your age</font>
+
+72
+00:03:21,950 --> 00:03:25,459
+<font color="#CCCCCC">only 15 years</font><font color="#E5E5E5"> ago right</font><font color="#CCCCCC"> and you know</font>
+
+73
+00:03:25,459 --> 00:03:27,980
+really<font color="#E5E5E5"> the</font><font color="#CCCCCC"> internet</font><font color="#E5E5E5"> took off in the US</font>
+
+74
+00:03:27,980 --> 00:03:31,190
+when<font color="#E5E5E5"> mint Windows 95 came out and so</font>
+
+75
+00:03:31,190 --> 00:03:33,319
+it's<font color="#E5E5E5"> really only been about 17 years</font>
+
+76
+00:03:33,319 --> 00:03:35,419
+<font color="#CCCCCC">that the Internet has</font><font color="#E5E5E5"> been a consumer</font>
+
+77
+00:03:35,419 --> 00:03:37,489
+facing product and<font color="#CCCCCC"> only really</font><font color="#E5E5E5"> over the</font>
+
+78
+00:03:37,489 --> 00:03:39,739
+last<font color="#E5E5E5"> five to</font><font color="#CCCCCC"> 10</font><font color="#E5E5E5"> at scale what the</font>
+
+79
+00:03:39,739 --> 00:03:42,019
+Internet has<font color="#CCCCCC"> done not Facebook or</font>
+
+80
+00:03:42,019 --> 00:03:43,549
+Twitter<font color="#E5E5E5"> or tumblr or Pinterest or</font>
+
+81
+00:03:43,549 --> 00:03:45,980
+Instagram or snapchat<font color="#CCCCCC"> but the Internet</font>
+
+82
+00:03:45,980 --> 00:03:48,709
+itself has done is created a scenario
+
+83
+00:03:48,709 --> 00:03:52,489
+where there's really little to<font color="#E5E5E5"> no reason</font>
+
+84
+00:03:52,489 --> 00:03:55,310
+unless<font color="#E5E5E5"> you sit through</font><font color="#CCCCCC"> all</font><font color="#E5E5E5"> of today I'm</font>
+
+85
+00:03:55,310 --> 00:03:56,989
+gonna apologize I might ruin<font color="#E5E5E5"> the whole</font>
+
+86
+00:03:56,989 --> 00:03:58,970
+day here right now so pay attention<font color="#CCCCCC"> to</font>
+
+87
+00:03:58,970 --> 00:04:00,549
+<font color="#E5E5E5">where I'm going</font><font color="#CCCCCC"> with this</font>
+
+88
+00:04:00,549 --> 00:04:04,579
+<font color="#E5E5E5">unleash</font><font color="#CCCCCC"> your obnoxious lis obsessed with</font>
+
+89
+00:04:04,579 --> 00:04:08,269
+the organization<font color="#E5E5E5"> and more person during</font>
+
+90
+00:04:08,269 --> 00:04:10,879
+<font color="#E5E5E5">the rest of the</font><font color="#CCCCCC"> thing</font><font color="#E5E5E5"> today I can you</font>
+
+91
+00:04:10,879 --> 00:04:14,150
+<font color="#E5E5E5">have this seriously debate where you are</font>
+
+92
+00:04:14,150 --> 00:04:17,539
+<font color="#CCCCCC">in your</font><font color="#E5E5E5"> life right now and</font><font color="#CCCCCC"> give enormous</font>
+
+93
+00:04:17,539 --> 00:04:21,500
+thought to try to make the thing that
+
+94
+00:04:21,500 --> 00:04:24,080
+you love<font color="#CCCCCC"> the most</font><font color="#E5E5E5"> in the world work for</font>
+
+95
+00:04:24,080 --> 00:04:28,070
+you<font color="#E5E5E5"> meaning there</font><font color="#CCCCCC"> is never</font><font color="#E5E5E5"> like as much</font>
+
+96
+00:04:28,070 --> 00:04:31,310
+as I'd love to right now like room up
+
+97
+00:04:31,310 --> 00:04:32,990
+with like<font color="#E5E5E5"> four of my buddies</font><font color="#CCCCCC"> you sleep</font>
+
+98
+00:04:32,990 --> 00:04:34,849
+on<font color="#CCCCCC"> the floor and</font><font color="#E5E5E5"> you chicken</font>
+
+99
+00:04:34,849 --> 00:04:36,420
+nuggets<font color="#CCCCCC"> 24 hours</font>
+
+100
+00:04:36,420 --> 00:04:39,990
+it's just not that<font color="#CCCCCC"> practical</font><font color="#E5E5E5"> meanwhile</font>
+
+101
+00:04:39,990 --> 00:04:42,450
+it's ridiculously practical for you
+
+102
+00:04:42,450 --> 00:04:45,180
+right now<font color="#CCCCCC"> a lot of you</font><font color="#E5E5E5"> could have</font>
+
+103
+00:04:45,180 --> 00:04:46,890
+<font color="#E5E5E5">brought up in a way to be practical</font><font color="#CCCCCC"> a</font>
+
+104
+00:04:46,890 --> 00:04:48,360
+lot<font color="#E5E5E5"> of you who's</font><font color="#CCCCCC"> been brought</font><font color="#E5E5E5"> up in a</font>
+
+105
+00:04:48,360 --> 00:04:50,790
+way to<font color="#E5E5E5"> have security and do the thing</font>
+
+106
+00:04:50,790 --> 00:04:52,620
+<font color="#CCCCCC">that you're supposed</font><font color="#E5E5E5"> to do and have had</font>
+
+107
+00:04:52,620 --> 00:04:55,050
+a lot of<font color="#E5E5E5"> mentors parents teachers you</font>
+
+108
+00:04:55,050 --> 00:04:57,630
+know<font color="#E5E5E5"> tell you about the way it's going</font>
+
+109
+00:04:57,630 --> 00:05:00,230
+<font color="#E5E5E5">to be or should be but I highly</font>
+
+110
+00:05:00,230 --> 00:05:04,890
+massively this single reason<font color="#E5E5E5"> I woke up</font>
+
+111
+00:05:04,890 --> 00:05:06,780
+today<font color="#CCCCCC"> and have none</font><font color="#E5E5E5"> and don't do the</font>
+
+112
+00:05:06,780 --> 00:05:08,640
+weekend events because that's my family
+
+113
+00:05:08,640 --> 00:05:10,800
+time and woke up<font color="#E5E5E5"> this morning and got</font>
+
+114
+00:05:10,800 --> 00:05:12,690
+here today was<font color="#CCCCCC"> to tell</font><font color="#E5E5E5"> you one thing</font>
+
+115
+00:05:12,690 --> 00:05:16,110
+which<font color="#CCCCCC"> is I recommend</font><font color="#E5E5E5"> it</font><font color="#CCCCCC"> it's</font><font color="#E5E5E5"> very</font>
+
+116
+00:05:16,110 --> 00:05:16,920
+seriously
+
+117
+00:05:16,920 --> 00:05:18,870
+<font color="#E5E5E5">that you go home</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> think</font><font color="#CCCCCC"> about</font><font color="#E5E5E5"> the</font>
+
+118
+00:05:18,870 --> 00:05:20,910
+fact that you<font color="#CCCCCC"> should probably allocate</font>
+
+119
+00:05:20,910 --> 00:05:22,290
+the next three<font color="#E5E5E5"> to four years of your</font>
+
+120
+00:05:22,290 --> 00:05:24,900
+life to<font color="#E5E5E5"> try to execute</font><font color="#CCCCCC"> on</font><font color="#E5E5E5"> the thing that</font>
+
+121
+00:05:24,900 --> 00:05:26,520
+you want<font color="#E5E5E5"> to do for the rest of</font>
+
+122
+00:05:26,520 --> 00:05:28,620
+your life and the reason that is is
+
+123
+00:05:28,620 --> 00:05:30,930
+<font color="#CCCCCC">because you're in just the morning</font><font color="#E5E5E5"> the</font>
+
+124
+00:05:30,930 --> 00:05:32,720
+reason that this is<font color="#E5E5E5"> you can just afford</font>
+
+125
+00:05:32,720 --> 00:05:36,480
+<font color="#E5E5E5">starting at zero at 26 and 27</font><font color="#CCCCCC"> you just</font>
+
+126
+00:05:36,480 --> 00:05:39,240
+can now you might not be scrappy enough
+
+127
+00:05:39,240 --> 00:05:41,640
+<font color="#E5E5E5">like you might</font><font color="#CCCCCC"> want like you might</font>
+
+128
+00:05:41,640 --> 00:05:44,580
+want<font color="#E5E5E5"> a purse right like</font><font color="#CCCCCC"> high</font>
+
+129
+00:05:44,580 --> 00:05:46,950
+like you might<font color="#E5E5E5"> write like and that's</font>
+
+130
+00:05:46,950 --> 00:05:49,380
+<font color="#E5E5E5">cool like that's what you like</font><font color="#CCCCCC"> and if</font>
+
+131
+00:05:49,380 --> 00:05:51,180
+<font color="#E5E5E5">that's what you</font><font color="#CCCCCC"> needed</font><font color="#E5E5E5"> then go get a</font>
+
+132
+00:05:51,180 --> 00:05:54,180
+ job<font color="#E5E5E5"> right like I get that but if</font>
+
+133
+00:05:54,180 --> 00:05:55,890
+you<font color="#E5E5E5"> really want to do</font><font color="#CCCCCC"> little thing</font><font color="#E5E5E5"> that</font>
+
+134
+00:05:55,890 --> 00:05:58,020
+drives you that's when you get<font color="#CCCCCC"> into the</font>
+
+135
+00:05:58,020 --> 00:05:59,850
+<font color="#CCCCCC">zone of</font><font color="#E5E5E5"> like cool I don't</font><font color="#CCCCCC"> need to live</font>
+
+136
+00:05:59,850 --> 00:06:01,920
+<font color="#E5E5E5">in the best place cool I'll commute from</font>
+
+137
+00:06:01,920 --> 00:06:04,080
+a little further<font color="#CCCCCC"> away cool I'll team up</font>
+
+138
+00:06:04,080 --> 00:06:05,550
+<font color="#E5E5E5">with four or five people have to sleep</font>
+
+139
+00:06:05,550 --> 00:06:07,740
+on<font color="#CCCCCC"> a couch</font><font color="#E5E5E5"> and I think that that to</font><font color="#CCCCCC"> me</font>
+
+140
+00:06:07,740 --> 00:06:09,420
+<font color="#CCCCCC">is the</font><font color="#E5E5E5"> part that's most</font><font color="#CCCCCC"> interesting</font><font color="#E5E5E5"> the</font>
+
+141
+00:06:09,420 --> 00:06:11,760
+reason<font color="#E5E5E5"> I'm willing to trade is because I</font>
+
+142
+00:06:11,760 --> 00:06:14,250
+know how awesome<font color="#E5E5E5"> it feels to do what you</font>
+
+143
+00:06:14,250 --> 00:06:15,780
+<font color="#E5E5E5">love</font><font color="#CCCCCC"> it's what I've been able</font><font color="#E5E5E5"> to do my</font>
+
+144
+00:06:15,780 --> 00:06:19,800
+whole life and for me that<font color="#E5E5E5"> is</font><font color="#CCCCCC"> something</font>
+
+145
+00:06:19,800 --> 00:06:21,420
+<font color="#CCCCCC">that there's</font><font color="#E5E5E5"> absolutely no price on and</font>
+
+146
+00:06:21,420 --> 00:06:23,760
+more importantly the ability<font color="#CCCCCC"> to go</font>
+
+147
+00:06:23,760 --> 00:06:26,070
+practical and two or<font color="#E5E5E5"> three or four</font><font color="#CCCCCC"> years</font>
+
+148
+00:06:26,070 --> 00:06:30,690
+<font color="#E5E5E5">is so easy and so recently</font><font color="#CCCCCC"> recently</font>
+
+149
+00:06:30,690 --> 00:06:32,400
+<font color="#CCCCCC">something weird</font><font color="#E5E5E5"> happened I'm doing this</font>
+
+150
+00:06:32,400 --> 00:06:35,730
+<font color="#CCCCCC">thing where I'm</font><font color="#E5E5E5"> doing an interview every</font>
+
+151
+00:06:35,730 --> 00:06:39,600
+day this will we are 365 interviews
+
+152
+00:06:39,600 --> 00:06:41,820
+<font color="#E5E5E5">every day with people</font><font color="#CCCCCC"> that have been</font>
+
+153
+00:06:41,820 --> 00:06:42,300
+<font color="#E5E5E5">advanced</font>
+
+154
+00:06:42,300 --> 00:06:44,370
+my work swimmingly really small<font color="#E5E5E5"> blogs</font>
+
+155
+00:06:44,370 --> 00:06:46,620
+like<font color="#E5E5E5"> my PR people</font><font color="#CCCCCC"> and all my managers</font>
+
+156
+00:06:46,620 --> 00:06:48,539
+and handlers are really pissed at me
+
+157
+00:06:48,539 --> 00:06:50,340
+<font color="#E5E5E5">because</font><font color="#CCCCCC"> they're</font><font color="#E5E5E5"> like why are we spending</font>
+
+158
+00:06:50,340 --> 00:06:52,860
+15 minutes<font color="#CCCCCC"> doing these blogs that</font><font color="#E5E5E5"> have</font>
+
+159
+00:06:52,860 --> 00:06:55,710
+six readers<font color="#E5E5E5"> you know every single</font><font color="#CCCCCC"> day</font>
+
+160
+00:06:55,710 --> 00:06:57,210
+and<font color="#E5E5E5"> you're passing</font><font color="#CCCCCC"> on the stuff that</font>
+
+161
+00:06:57,210 --> 00:06:59,340
+<font color="#CCCCCC">we're giving you</font><font color="#E5E5E5"> to be on CNN</font><font color="#CCCCCC"> or New</font>
+
+162
+00:06:59,340 --> 00:07:00,720
+York<font color="#E5E5E5"> Times and the</font><font color="#CCCCCC"> answer is because</font>
+
+163
+00:07:00,720 --> 00:07:02,069
+<font color="#E5E5E5">there's two</font><font color="#CCCCCC"> different very different</font>
+
+164
+00:07:02,069 --> 00:07:04,620
+things you can do for meaning<font color="#E5E5E5"> at South</font>
+
+165
+00:07:04,620 --> 00:07:06,750
+by Southwest is here instead<font color="#E5E5E5"> of giving a</font>
+
+166
+00:07:06,750 --> 00:07:08,370
+keynote to<font color="#E5E5E5"> 4,000 people like</font><font color="#CCCCCC"> I'd</font>
+
+167
+00:07:08,370 --> 00:07:11,250
+normally<font color="#E5E5E5"> have I set up a kissing booth</font>
+
+168
+00:07:11,250 --> 00:07:14,370
+<font color="#CCCCCC">style thing that was a Q&A booth and I</font>
+
+169
+00:07:14,370 --> 00:07:16,710
+stood in a booth<font color="#E5E5E5"> five hours and I</font>
+
+170
+00:07:16,710 --> 00:07:19,169
+answered every person's question<font color="#E5E5E5"> one</font><font color="#CCCCCC"> by</font>
+
+171
+00:07:19,169 --> 00:07:21,330
+<font color="#CCCCCC">one by one</font><font color="#E5E5E5"> and it</font><font color="#CCCCCC"> took me 15 minutes</font><font color="#E5E5E5"> per</font>
+
+172
+00:07:21,330 --> 00:07:22,849
+person<font color="#E5E5E5"> so only not to like 200 people</font>
+
+173
+00:07:22,849 --> 00:07:25,889
+<font color="#CCCCCC">but those two</font><font color="#E5E5E5"> other people I had a much</font>
+
+174
+00:07:25,889 --> 00:07:28,560
+deeper<font color="#CCCCCC"> connection with</font><font color="#E5E5E5"> right and so it</font>
+
+175
+00:07:28,560 --> 00:07:29,969
+all talked about<font color="#CCCCCC"> like you know</font><font color="#E5E5E5"> quality</font>
+
+176
+00:07:29,969 --> 00:07:32,099
+versus quantity right<font color="#E5E5E5"> do you want to</font><font color="#CCCCCC"> go</font>
+
+177
+00:07:32,099 --> 00:07:34,379
+<font color="#CCCCCC">wider do you</font><font color="#E5E5E5"> want to go deep and I've</font>
+
+178
+00:07:34,379 --> 00:07:36,569
+been thinking<font color="#CCCCCC"> a lot more</font><font color="#E5E5E5"> about</font><font color="#CCCCCC"> that and</font>
+
+179
+00:07:36,569 --> 00:07:38,550
+I<font color="#CCCCCC"> think</font><font color="#E5E5E5"> that what ended up happening was</font>
+
+180
+00:07:38,550 --> 00:07:40,590
+<font color="#E5E5E5">I wanted to go deeper with my community</font>
+
+181
+00:07:40,590 --> 00:07:41,879
+I wanted to give back<font color="#CCCCCC"> to people that</font>
+
+182
+00:07:41,879 --> 00:07:43,979
+were fans of<font color="#E5E5E5"> me and so if they could</font>
+
+183
+00:07:43,979 --> 00:07:45,900
+<font color="#E5E5E5">leverage my name to build up their blogs</font>
+
+184
+00:07:45,900 --> 00:07:47,699
+<font color="#CCCCCC">that's why I'm</font><font color="#E5E5E5"> doing it not because</font><font color="#CCCCCC"> I</font>
+
+185
+00:07:47,699 --> 00:07:48,719
+want something<font color="#E5E5E5"> for myself</font>
+
+186
+00:07:48,719 --> 00:07:51,120
+I'm<font color="#E5E5E5"> gonna get mine I always get</font><font color="#CCCCCC"> my right</font>
+
+187
+00:07:51,120 --> 00:07:52,830
+this was<font color="#E5E5E5"> about me kind of giving back a</font>
+
+188
+00:07:52,830 --> 00:07:54,539
+little bit<font color="#E5E5E5"> and so that's why I'm</font><font color="#CCCCCC"> doing</font>
+
+189
+00:07:54,539 --> 00:07:56,849
+it<font color="#E5E5E5"> and I did this interview and in it I</font>
+
+190
+00:07:56,849 --> 00:07:59,039
+kind of went on this rant<font color="#E5E5E5"> that I'm</font>
+
+191
+00:07:59,039 --> 00:08:00,509
+giving<font color="#E5E5E5"> you</font><font color="#CCCCCC"> right now</font><font color="#E5E5E5"> and I said</font>
+
+192
+00:08:00,509 --> 00:08:01,889
+something<font color="#E5E5E5"> and</font><font color="#CCCCCC"> I've</font><font color="#E5E5E5"> never said</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> before</font>
+
+193
+00:08:01,889 --> 00:08:03,810
+<font color="#E5E5E5">because I'm complete improv</font><font color="#CCCCCC"> I've</font><font color="#E5E5E5"> no</font>
+
+194
+00:08:03,810 --> 00:08:05,130
+<font color="#E5E5E5"> idea what I'm about</font><font color="#CCCCCC"> to say for</font>
+
+195
+00:08:05,130 --> 00:08:08,250
+the next<font color="#CCCCCC"> ten minutes</font><font color="#E5E5E5"> for example and and</font>
+
+196
+00:08:08,250 --> 00:08:11,210
+I said<font color="#E5E5E5"> something</font><font color="#CCCCCC"> that really kind</font><font color="#E5E5E5"> of</font>
+
+197
+00:08:11,210 --> 00:08:14,340
+stuck<font color="#E5E5E5"> and then the guy kind of took a</font>
+
+198
+00:08:14,340 --> 00:08:16,889
+made a poster out of it or<font color="#E5E5E5"> I'm a piece</font>
+
+199
+00:08:16,889 --> 00:08:19,050
+<font color="#CCCCCC">of micro contact and put it out</font><font color="#E5E5E5"> there</font>
+
+200
+00:08:19,050 --> 00:08:20,819
+and it's kind<font color="#CCCCCC"> of quite viral him in and</font>
+
+201
+00:08:20,819 --> 00:08:23,490
+I said<font color="#CCCCCC"> I actually don't care about your</font>
+
+202
+00:08:23,490 --> 00:08:26,219
+next<font color="#CCCCCC"> ten years</font><font color="#E5E5E5"> I care about the last ten</font>
+
+203
+00:08:26,219 --> 00:08:27,870
+years<font color="#E5E5E5"> so let me tell you something</font>
+
+204
+00:08:27,870 --> 00:08:30,289
+really<font color="#E5E5E5"> weird about me I'm</font>
+
+205
+00:08:30,289 --> 00:08:34,409
+<font color="#CCCCCC">obsessed</font><font color="#E5E5E5"> with very old people</font>
+
+206
+00:08:34,409 --> 00:08:36,720
+like when I<font color="#E5E5E5"> travel which is almost all</font>
+
+207
+00:08:36,720 --> 00:08:40,320
+<font color="#E5E5E5">the time I often</font><font color="#CCCCCC"> be</font><font color="#E5E5E5"> like literally in an</font>
+
+208
+00:08:40,320 --> 00:08:42,690
+airport<font color="#CCCCCC"> roll up on some poor like 80</font>
+
+209
+00:08:42,690 --> 00:08:45,210
+year old couple<font color="#E5E5E5"> and sit down and start</font>
+
+210
+00:08:45,210 --> 00:08:48,180
+<font color="#E5E5E5">bothering now right and the reason I do</font>
+
+211
+00:08:48,180 --> 00:08:50,430
+<font color="#CCCCCC">that often</font><font color="#E5E5E5"> is I found something point I</font>
+
+212
+00:08:50,430 --> 00:08:52,830
+<font color="#CCCCCC">just</font><font color="#E5E5E5"> think it's really</font><font color="#CCCCCC"> fascinating when</font>
+
+213
+00:08:52,830 --> 00:08:55,470
+<font color="#CCCCCC">you talk to a 70 80 90 year old person</font>
+
+214
+00:08:55,470 --> 00:08:57,780
+<font color="#CCCCCC">right it's really</font><font color="#E5E5E5"> fascinating because</font>
+
+215
+00:08:57,780 --> 00:08:59,730
+<font color="#CCCCCC">you</font><font color="#E5E5E5"> start realizing what they're focused</font>
+
+216
+00:08:59,730 --> 00:09:03,810
+<font color="#E5E5E5">on and I haven't I've never heard a</font><font color="#CCCCCC"> 9</font>
+
+217
+00:09:03,810 --> 00:09:06,000
+<font color="#E5E5E5">year old person ever say they wish they</font>
+
+218
+00:09:06,000 --> 00:09:10,050
+made<font color="#E5E5E5"> their money never ever</font><font color="#CCCCCC"> zeros and</font>
+
+219
+00:09:10,050 --> 00:09:12,720
+the things you hear<font color="#E5E5E5"> are always very</font>
+
+220
+00:09:12,720 --> 00:09:15,090
+similar which is<font color="#E5E5E5"> they wish they did like</font>
+
+221
+00:09:15,090 --> 00:09:17,430
+one guy caught me off guard<font color="#CCCCCC"> really like</font>
+
+222
+00:09:17,430 --> 00:09:19,320
+<font color="#CCCCCC">conservative</font><font color="#E5E5E5"> looking dude we start</font>
+
+223
+00:09:19,320 --> 00:09:20,640
+<font color="#CCCCCC">talking a</font><font color="#E5E5E5"> little bit he looked me in the</font>
+
+224
+00:09:20,640 --> 00:09:22,140
+face he<font color="#E5E5E5"> goes</font><font color="#CCCCCC"> I wish I didn't work at</font>
+
+225
+00:09:22,140 --> 00:09:24,180
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> factory for 50 years I</font>
+
+226
+00:09:24,180 --> 00:09:27,150
+start laughing<font color="#E5E5E5"> but it really hit</font><font color="#CCCCCC"> home</font>
+
+227
+00:09:27,150 --> 00:09:29,280
+<font color="#E5E5E5">and then a lot of people also talk about</font>
+
+228
+00:09:29,280 --> 00:09:30,600
+<font color="#CCCCCC">how much</font><font color="#E5E5E5"> they wish</font><font color="#CCCCCC"> they spent more time</font>
+
+229
+00:09:30,600 --> 00:09:32,490
+with their family<font color="#CCCCCC"> and so you start</font>
+
+230
+00:09:32,490 --> 00:09:34,980
+realizing like if these people<font color="#CCCCCC"> played</font>
+
+231
+00:09:34,980 --> 00:09:37,200
+the game<font color="#E5E5E5"> then why are we not listening</font>
+
+232
+00:09:37,200 --> 00:09:42,270
+to them<font color="#E5E5E5"> listen does the second you</font>
+
+233
+00:09:42,270 --> 00:09:44,790
+<font color="#E5E5E5">breathe their first breath you want I</font>
+
+234
+00:09:44,790 --> 00:09:47,760
+<font color="#E5E5E5">don't know all your circumstances</font><font color="#CCCCCC"> or any</font>
+
+235
+00:09:47,760 --> 00:09:49,800
+of you were<font color="#CCCCCC"> playing</font><font color="#E5E5E5"> this country the</font>
+
+236
+00:09:49,800 --> 00:09:52,050
+second year born in America<font color="#CCCCCC"> you</font>
+
+237
+00:09:52,050 --> 00:09:54,510
+<font color="#CCCCCC">won</font><font color="#E5E5E5"> right when you put it into context</font>
+
+238
+00:09:54,510 --> 00:09:56,760
+about<font color="#CCCCCC"> what's going on out there it is</font>
+
+239
+00:09:56,760 --> 00:09:59,250
+ridiculous<font color="#CCCCCC"> the opportunity we have now</font>
+
+240
+00:09:59,250 --> 00:10:01,230
+because not only<font color="#E5E5E5"> all the</font><font color="#CCCCCC"> business is in</font>
+
+241
+00:10:01,230 --> 00:10:02,490
+place and<font color="#CCCCCC"> all the</font><font color="#E5E5E5"> things that can be</font>
+
+242
+00:10:02,490 --> 00:10:04,650
+<font color="#CCCCCC">done but it has</font><font color="#E5E5E5"> never been cheaper</font><font color="#CCCCCC"> or</font>
+
+243
+00:10:04,650 --> 00:10:06,930
+<font color="#E5E5E5">more practical to try to build a career</font>
+
+244
+00:10:06,930 --> 00:10:08,520
+for yourself<font color="#CCCCCC"> because</font><font color="#E5E5E5"> of the</font>
+
+245
+00:10:08,520 --> 00:10:10,830
+<font color="#E5E5E5">infrastructure of the</font><font color="#CCCCCC"> internet so for me</font>
+
+246
+00:10:10,830 --> 00:10:13,230
+what's<font color="#CCCCCC"> most fascinating about everybody</font>
+
+247
+00:10:13,230 --> 00:10:15,240
+that's<font color="#E5E5E5"> sitting in this room is how</font>
+
+248
+00:10:15,240 --> 00:10:18,900
+fertile<font color="#E5E5E5"> and opportunistic this next</font>
+
+249
+00:10:18,900 --> 00:10:21,090
+chapter<font color="#E5E5E5"> is for you and what I really</font>
+
+250
+00:10:21,090 --> 00:10:23,430
+worry about is a lot of you looking back
+
+251
+00:10:23,430 --> 00:10:26,940
+in 30<font color="#E5E5E5"> 40 50</font><font color="#CCCCCC"> 60 years and thinking back</font>
+
+252
+00:10:26,940 --> 00:10:29,580
+<font color="#E5E5E5">to this exact speech and save yourself</font>
+
+253
+00:10:29,580 --> 00:10:30,410
+<font color="#E5E5E5">when I</font>
+
+254
+00:10:30,410 --> 00:10:34,190
+to him because what you have right now
+
+255
+00:10:34,190 --> 00:10:36,769
+in timing and circumstance<font color="#E5E5E5"> is this</font>
+
+256
+00:10:36,769 --> 00:10:41,180
+ridiculous ridiculous<font color="#CCCCCC"> 50 month window</font><font color="#E5E5E5"> to</font>
+
+257
+00:10:41,180 --> 00:10:45,079
+not be practical<font color="#CCCCCC"> 50 month window to not</font>
+
+258
+00:10:45,079 --> 00:10:46,399
+do<font color="#CCCCCC"> it the way</font><font color="#E5E5E5"> you thought you were</font>
+
+259
+00:10:46,399 --> 00:10:48,529
+always going<font color="#E5E5E5"> to do it</font><font color="#CCCCCC"> 50 month window</font>
+
+260
+00:10:48,529 --> 00:10:50,990
+<font color="#E5E5E5">yeah if you go for</font><font color="#CCCCCC"> this as much</font><font color="#E5E5E5"> as you</font>
+
+261
+00:10:50,990 --> 00:10:53,360
+<font color="#CCCCCC">possibly go for it</font><font color="#E5E5E5"> that if you decide</font>
+
+262
+00:10:53,360 --> 00:10:55,399
+you gave it a<font color="#CCCCCC"> good shot</font><font color="#E5E5E5"> and you felt</font>
+
+263
+00:10:55,399 --> 00:10:58,670
+good about<font color="#CCCCCC"> it that if</font><font color="#E5E5E5"> you started then</font>
+
+264
+00:10:58,670 --> 00:11:01,970
+becoming practical<font color="#E5E5E5"> you'd be far less</font>
+
+265
+00:11:01,970 --> 00:11:03,860
+behind<font color="#E5E5E5"> than you think</font>
+
+266
+00:11:03,860 --> 00:11:05,660
+see that's the dirty little<font color="#CCCCCC"> secret</font><font color="#E5E5E5"> right</font>
+
+267
+00:11:05,660 --> 00:11:07,250
+the payoff<font color="#CCCCCC"> or the thing</font><font color="#E5E5E5"> that really</font>
+
+268
+00:11:07,250 --> 00:11:08,870
+scares<font color="#E5E5E5"> you about well let</font><font color="#CCCCCC"> me</font><font color="#E5E5E5"> try</font><font color="#CCCCCC"> and</font>
+
+269
+00:11:08,870 --> 00:11:11,000
+start<font color="#E5E5E5"> my own blog or</font><font color="#CCCCCC"> my own business or</font>
+
+270
+00:11:11,000 --> 00:11:13,879
+my own thing with my<font color="#E5E5E5"> friends is</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> you</font>
+
+271
+00:11:13,879 --> 00:11:15,649
+think<font color="#E5E5E5"> that well if it doesn't work</font><font color="#CCCCCC"> I</font>
+
+272
+00:11:15,649 --> 00:11:18,050
+don't<font color="#E5E5E5"> want to be 27 and have given up</font>
+
+273
+00:11:18,050 --> 00:11:20,899
+those<font color="#E5E5E5"> four years the reality is is if</font>
+
+274
+00:11:20,899 --> 00:11:23,959
+you're good<font color="#E5E5E5"> if you've got chops</font><font color="#CCCCCC"> if</font>
+
+275
+00:11:23,959 --> 00:11:25,970
+you've got any skills<font color="#E5E5E5"> it's not</font><font color="#CCCCCC"> going to</font>
+
+276
+00:11:25,970 --> 00:11:28,490
+matter<font color="#CCCCCC"> because</font><font color="#E5E5E5"> the 12 months after you</font>
+
+277
+00:11:28,490 --> 00:11:30,019
+prove yourself<font color="#CCCCCC"> within whatever we're</font>
+
+278
+00:11:30,019 --> 00:11:31,279
+<font color="#E5E5E5">going to say should you go in and be</font>
+
+279
+00:11:31,279 --> 00:11:31,970
+practical
+
+280
+00:11:31,970 --> 00:11:33,620
+<font color="#CCCCCC">you'll be exactly where</font><font color="#E5E5E5"> you're</font><font color="#CCCCCC"> supposed</font>
+
+281
+00:11:33,620 --> 00:11:36,380
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> be and so that is the dirty little</font>
+
+282
+00:11:36,380 --> 00:11:38,060
+secret<font color="#CCCCCC"> the dirty</font><font color="#E5E5E5"> little secret is that</font>
+
+283
+00:11:38,060 --> 00:11:39,529
+<font color="#E5E5E5">you have a full day</font><font color="#CCCCCC"> of people here</font>
+
+284
+00:11:39,529 --> 00:11:42,470
+<font color="#CCCCCC">peering what they do and</font><font color="#E5E5E5"> PR and where</font>
+
+285
+00:11:42,470 --> 00:11:44,899
+they work hopefully require<font color="#CCCCCC"> to bring</font>
+
+286
+00:11:44,899 --> 00:11:47,300
+<font color="#E5E5E5">young talent that's</font><font color="#CCCCCC"> in the room and the</font>
+
+287
+00:11:47,300 --> 00:11:49,040
+only reason<font color="#CCCCCC"> I think</font><font color="#E5E5E5"> people should</font><font color="#CCCCCC"> work</font>
+
+288
+00:11:49,040 --> 00:11:52,279
+for me very honestly and vaynermedia is
+
+289
+00:11:52,279 --> 00:11:53,660
+because what I'm<font color="#CCCCCC"> willing to do for them</font>
+
+290
+00:11:53,660 --> 00:11:56,060
+<font color="#CCCCCC">individually within or outside my</font>
+
+291
+00:11:56,060 --> 00:11:58,220
+organization<font color="#CCCCCC"> once they come in because</font>
+
+292
+00:11:58,220 --> 00:11:59,720
+<font color="#CCCCCC">what I realized a couple years ago is</font>
+
+293
+00:11:59,720 --> 00:12:00,949
+everything else is a commodity
+
+294
+00:12:00,949 --> 00:12:03,350
+<font color="#E5E5E5">everything else is a commodity having a</font>
+
+295
+00:12:03,350 --> 00:12:05,329
+couple<font color="#CCCCCC"> of</font><font color="#E5E5E5"> years on your resume from some</font>
+
+296
+00:12:05,329 --> 00:12:07,550
+ agency or media company is a
+
+297
+00:12:07,550 --> 00:12:10,100
+ commodity<font color="#E5E5E5"> but it's not a</font>
+
+298
+00:12:10,100 --> 00:12:11,449
+<font color="#CCCCCC">commodity it's the relationships new</font>
+
+299
+00:12:11,449 --> 00:12:13,910
+people and the individuals<font color="#CCCCCC"> that can</font>
+
+300
+00:12:13,910 --> 00:12:15,860
+<font color="#CCCCCC">actually guide you to the</font><font color="#E5E5E5"> place you</font><font color="#CCCCCC"> want</font>
+
+301
+00:12:15,860 --> 00:12:17,720
+to<font color="#E5E5E5"> be so what are basically telling you</font>
+
+302
+00:12:17,720 --> 00:12:21,819
+here today is<font color="#E5E5E5"> everything you hear</font>
+
+303
+00:12:21,860 --> 00:12:25,340
+give serious serious thought to like
+
+304
+00:12:25,340 --> 00:12:27,050
+what<font color="#E5E5E5"> does that really could do what you</font>
+
+305
+00:12:27,050 --> 00:12:30,380
+<font color="#CCCCCC">wanted to do what would</font><font color="#E5E5E5"> you do recognize</font>
+
+306
+00:12:30,380 --> 00:12:32,990
+that<font color="#E5E5E5"> it's never been cheated ever been</font>
+
+307
+00:12:32,990 --> 00:12:35,930
+cheaper to<font color="#CCCCCC"> be able to achieve</font><font color="#E5E5E5"> that or do</font>
+
+308
+00:12:35,930 --> 00:12:38,630
+that<font color="#E5E5E5"> recognize that</font><font color="#CCCCCC"> the far majority of</font>
+
+309
+00:12:38,630 --> 00:12:40,820
+the people<font color="#E5E5E5"> among the</font><font color="#CCCCCC"> panels today</font><font color="#E5E5E5"> are</font>
+
+310
+00:12:40,820 --> 00:12:43,130
+working<font color="#CCCCCC"> for companies that have</font>
+
+311
+00:12:43,130 --> 00:12:45,680
+disrupted<font color="#E5E5E5"> traditional media companies or</font>
+
+312
+00:12:45,680 --> 00:12:48,860
+agencies<font color="#CCCCCC"> at far less costs</font><font color="#E5E5E5"> right when</font>
+
+313
+00:12:48,860 --> 00:12:50,330
+you look<font color="#E5E5E5"> at the</font><font color="#CCCCCC"> Thrillist or Huffington</font>
+
+314
+00:12:50,330 --> 00:12:51,620
+Post or daily<font color="#CCCCCC"> kami or all these</font>
+
+315
+00:12:51,620 --> 00:12:52,460
+platforms
+
+316
+00:12:52,460 --> 00:12:54,800
+I mean Perez Hilton with no money<font color="#E5E5E5"> years</font>
+
+317
+00:12:54,800 --> 00:12:56,210
+<font color="#E5E5E5">ago before the internet really</font><font color="#CCCCCC"> was at</font>
+
+318
+00:12:56,210 --> 00:12:59,390
+scale with a bigger media company than
+
+319
+00:12:59,390 --> 00:13:01,790
+Us<font color="#E5E5E5"> Weekly at a point and</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> was zero</font>
+
+320
+00:13:01,790 --> 00:13:03,980
+dollars<font color="#CCCCCC"> I sure a</font><font color="#E5E5E5"> lot of you that</font>
+
+321
+00:13:03,980 --> 00:13:05,600
+probably<font color="#E5E5E5"> don't know I come from the wine</font>
+
+322
+00:13:05,600 --> 00:13:07,670
+business<font color="#E5E5E5"> more people were</font><font color="#CCCCCC"> watching my</font>
+
+323
+00:13:07,670 --> 00:13:09,350
+wine shows than the<font color="#E5E5E5"> being</font><font color="#CCCCCC"> the Wine</font>
+
+324
+00:13:09,350 --> 00:13:11,360
+Spectator<font color="#E5E5E5"> and they were the leader for</font>
+
+325
+00:13:11,360 --> 00:13:13,130
+<font color="#E5E5E5">30 years</font><font color="#CCCCCC"> in spends millions of dollars</font>
+
+326
+00:13:13,130 --> 00:13:14,840
+building<font color="#E5E5E5"> that business</font><font color="#CCCCCC"> I just put up</font><font color="#E5E5E5"> a</font>
+
+327
+00:13:14,840 --> 00:13:17,060
+good<font color="#E5E5E5"> content on YouTube and used Twitter</font>
+
+328
+00:13:17,060 --> 00:13:19,250
+and Facebook<font color="#E5E5E5"> to promote it it's just</font>
+
+329
+00:13:19,250 --> 00:13:22,160
+<font color="#E5E5E5">different that's it the reason I switch</font>
+
+330
+00:13:22,160 --> 00:13:24,320
+with<font color="#CCCCCC"> you is it's just different like I</font>
+
+331
+00:13:24,320 --> 00:13:27,680
+wish that I had<font color="#CCCCCC"> the scale and the</font>
+
+332
+00:13:27,680 --> 00:13:31,060
+breadth<font color="#E5E5E5"> of opportunity</font>
+
+333
+00:13:33,690 --> 00:13:37,410
+I wish that I had<font color="#CCCCCC"> the real opportunity</font>
+
+334
+00:13:37,410 --> 00:13:38,940
+that you guys<font color="#CCCCCC"> do</font><font color="#E5E5E5"> just do I mean I think</font>
+
+335
+00:13:38,940 --> 00:13:40,470
+it's<font color="#E5E5E5"> very cliche and I'm sure you people</font>
+
+336
+00:13:40,470 --> 00:13:41,880
+<font color="#E5E5E5">you know you hear it and I don't want</font>
+
+337
+00:13:41,880 --> 00:13:43,200
+something<font color="#E5E5E5"> cold dude telling</font><font color="#CCCCCC"> you like</font>
+
+338
+00:13:43,200 --> 00:13:45,780
+<font color="#E5E5E5">that's what you know it is but it's what</font>
+
+339
+00:13:45,780 --> 00:13:47,940
+it<font color="#CCCCCC"> is</font><font color="#E5E5E5"> and so that's going to kind of</font>
+
+340
+00:13:47,940 --> 00:13:50,010
+fascinated by which is<font color="#E5E5E5"> I'm far more</font>
+
+341
+00:13:50,010 --> 00:13:51,930
+<font color="#CCCCCC">interested in</font><font color="#E5E5E5"> like what do you love more</font>
+
+342
+00:13:51,930 --> 00:13:53,760
+than life<font color="#E5E5E5"> like what would you truly do</font>
+
+343
+00:13:53,760 --> 00:13:56,130
+if you hit the lotto<font color="#E5E5E5"> and good</font>
+
+344
+00:13:56,130 --> 00:13:58,140
+like do whatever you want and<font color="#E5E5E5"> just</font><font color="#CCCCCC"> did</font>
+
+345
+00:13:58,140 --> 00:14:00,030
+<font color="#E5E5E5">it every day what is that</font><font color="#CCCCCC"> and I behind</font>
+
+346
+00:14:00,030 --> 00:14:02,460
+<font color="#E5E5E5">me</font><font color="#CCCCCC"> with all my heart soul recommend</font>
+
+347
+00:14:02,460 --> 00:14:05,040
+taking a very serious book about taking
+
+348
+00:14:05,040 --> 00:14:06,750
+that<font color="#CCCCCC"> at-bat and trying to do that for</font>
+
+349
+00:14:06,750 --> 00:14:08,160
+<font color="#CCCCCC">the next couple years and the only</font>
+
+350
+00:14:08,160 --> 00:14:11,310
+<font color="#CCCCCC">reason not to is if somebody captivates</font>
+
+351
+00:14:11,310 --> 00:14:13,890
+you today with<font color="#E5E5E5"> their organization or who</font>
+
+352
+00:14:13,890 --> 00:14:16,110
+they are<font color="#E5E5E5"> individually that's it</font><font color="#CCCCCC"> it's</font>
+
+353
+00:14:16,110 --> 00:14:18,270
+<font color="#CCCCCC">really that quite simple I farm rather</font>
+
+354
+00:14:18,270 --> 00:14:20,160
+new<font color="#CCCCCC"> Q&A right</font><font color="#E5E5E5"> now with you</font><font color="#CCCCCC"> guys</font><font color="#E5E5E5"> and</font>
+
+355
+00:14:20,160 --> 00:14:21,630
+answer questions<font color="#E5E5E5"> then talk about</font>
+
+356
+00:14:21,630 --> 00:14:23,370
+<font color="#E5E5E5">anything else because really</font>
+
+357
+00:14:23,370 --> 00:14:25,080
+fundamentally<font color="#E5E5E5"> I don't think anything</font>
+
+358
+00:14:25,080 --> 00:14:27,060
+else<font color="#E5E5E5"> is</font><font color="#CCCCCC"> that important</font><font color="#E5E5E5"> right</font><font color="#CCCCCC"> there's</font>
+
+359
+00:14:27,060 --> 00:14:28,740
+plenty<font color="#E5E5E5"> of things going on you know</font>
+
+360
+00:14:28,740 --> 00:14:31,410
+<font color="#E5E5E5">social</font><font color="#CCCCCC"> media is rad</font><font color="#E5E5E5"> you know but</font>
+
+361
+00:14:31,410 --> 00:14:34,020
+there's a ton<font color="#E5E5E5"> of stuff</font><font color="#CCCCCC"> going on but the</font>
+
+362
+00:14:34,020 --> 00:14:37,800
+truth real<font color="#E5E5E5"> fundamental thing that</font><font color="#CCCCCC"> you</font>
+
+363
+00:14:37,800 --> 00:14:40,200
+need<font color="#CCCCCC"> to</font><font color="#E5E5E5"> think about is that because when</font>
+
+364
+00:14:40,200 --> 00:14:43,260
+I did<font color="#E5E5E5"> write</font><font color="#CCCCCC"> rush</font><font color="#E5E5E5"> yet which was 2008 it</font>
+
+365
+00:14:43,260 --> 00:14:45,930
+was harder not easier there was harder
+
+366
+00:14:45,930 --> 00:14:47,310
+for years ago to do what I<font color="#E5E5E5"> wrote about</font>
+
+367
+00:14:47,310 --> 00:14:48,600
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> book and</font><font color="#E5E5E5"> that's what I'm talking to</font>
+
+368
+00:14:48,600 --> 00:14:50,370
+<font color="#E5E5E5">you about right now which is</font><font color="#CCCCCC"> if you</font><font color="#E5E5E5"> have</font>
+
+369
+00:14:50,370 --> 00:14:52,590
+expertise or passion around<font color="#CCCCCC"> the subject</font>
+
+370
+00:14:52,590 --> 00:14:56,130
+matter<font color="#CCCCCC"> like there</font><font color="#E5E5E5"> was no way to</font>
+
+371
+00:14:56,130 --> 00:14:59,070
+make money<font color="#CCCCCC"> fifteen years ago about</font>
+
+372
+00:14:59,070 --> 00:15:01,980
+loving<font color="#E5E5E5"> Millie Vanilli</font><font color="#CCCCCC"> right</font><font color="#E5E5E5"> but</font>
+
+373
+00:15:01,980 --> 00:15:04,850
+some dude<font color="#CCCCCC"> this year is going to</font><font color="#E5E5E5"> make</font>
+
+374
+00:15:04,850 --> 00:15:08,070
+$100,000 a year<font color="#E5E5E5"> for loving</font>
+
+375
+00:15:08,070 --> 00:15:10,910
+Trinidad<font color="#E5E5E5"> James and 2 Chainz</font>
+
+376
+00:15:10,910 --> 00:15:13,700
+it's just<font color="#CCCCCC"> gonna happen and that's</font><font color="#E5E5E5"> a real</font>
+
+377
+00:15:13,700 --> 00:15:16,100
+thing<font color="#E5E5E5"> and so that's something I</font><font color="#CCCCCC"> think</font>
+
+378
+00:15:16,100 --> 00:15:17,570
+you guys need to<font color="#E5E5E5"> think about because</font>
+
+379
+00:15:17,570 --> 00:15:19,160
+really<font color="#E5E5E5"> very honestly I'm giving this</font>
+
+380
+00:15:19,160 --> 00:15:22,820
+talk to one person<font color="#E5E5E5"> some one person in</font>
+
+381
+00:15:22,820 --> 00:15:25,250
+this<font color="#E5E5E5"> room</font><font color="#CCCCCC"> I actually at some level and</font>
+
+382
+00:15:25,250 --> 00:15:26,870
+<font color="#CCCCCC">hope to</font><font color="#E5E5E5"> giving this talk to one person</font>
+
+383
+00:15:26,870 --> 00:15:28,940
+<font color="#CCCCCC">in this</font><font color="#E5E5E5"> room I know that I know</font><font color="#CCCCCC"> that</font>
+
+384
+00:15:28,940 --> 00:15:30,950
+very few people<font color="#CCCCCC"> here are going</font><font color="#E5E5E5"> to</font>
+
+385
+00:15:30,950 --> 00:15:33,320
+<font color="#CCCCCC">actually take that at bat idea</font><font color="#E5E5E5"> because I</font>
+
+386
+00:15:33,320 --> 00:15:35,960
+understand all the scary reasons and you
+
+387
+00:15:35,960 --> 00:15:38,030
+know one talks not going to change<font color="#E5E5E5"> you</font>
+
+388
+00:15:38,030 --> 00:15:39,770
+<font color="#CCCCCC">know twenty years of structure and</font>
+
+389
+00:15:39,770 --> 00:15:41,990
+thought process and what even<font color="#E5E5E5"> has been</font>
+
+390
+00:15:41,990 --> 00:15:43,460
+sold to<font color="#CCCCCC"> you the whole way through</font>
+
+391
+00:15:43,460 --> 00:15:46,280
+however<font color="#CCCCCC"> I'm</font><font color="#E5E5E5"> praying one person listens</font>
+
+392
+00:15:46,280 --> 00:15:48,290
+for<font color="#CCCCCC"> them being selfish I'm looking</font>
+
+393
+00:15:48,290 --> 00:15:50,900
+forward<font color="#CCCCCC"> to in four years to get that</font>
+
+394
+00:15:50,900 --> 00:15:54,200
+email that says thank you<font color="#CCCCCC"> and I was in</font>
+
+395
+00:15:54,200 --> 00:15:56,240
+the crowd<font color="#E5E5E5"> and I listened</font><font color="#CCCCCC"> to you and I'm</font>
+
+396
+00:15:56,240 --> 00:15:57,740
+a<font color="#E5E5E5"> doctor thousand dollars a year talking</font>
+
+397
+00:15:57,740 --> 00:16:05,900
+<font color="#E5E5E5">about</font><font color="#CCCCCC"> showing that</font><font color="#E5E5E5"> James</font><font color="#CCCCCC"> I really get</font>
+
+398
+00:16:05,900 --> 00:16:08,470
+<font color="#CCCCCC">scared because I said to</font><font color="#E5E5E5"> talk about</font><font color="#CCCCCC"> it I</font>
+
+399
+00:16:08,470 --> 00:16:10,850
+always<font color="#E5E5E5"> wonder</font><font color="#CCCCCC"> like what you're thinking</font>
+
+400
+00:16:10,850 --> 00:16:12,770
+right<font color="#E5E5E5"> I was</font><font color="#CCCCCC"> thinking</font><font color="#E5E5E5"> about like do you</font>
+
+401
+00:16:12,770 --> 00:16:14,480
+think<font color="#CCCCCC"> I'm straight full of</font><font color="#E5E5E5"> do you</font>
+
+402
+00:16:14,480 --> 00:16:16,610
+think it's not<font color="#CCCCCC"> practical at all do you</font>
+
+403
+00:16:16,610 --> 00:16:18,320
+<font color="#E5E5E5">think it's like my</font><font color="#CCCCCC"> see going this route</font>
+
+404
+00:16:18,320 --> 00:16:21,020
+<font color="#E5E5E5">do you think like that's fine</font><font color="#CCCCCC"> but that's</font>
+
+405
+00:16:21,020 --> 00:16:24,200
+not real<font color="#E5E5E5"> it's just it's just something</font>
+
+406
+00:16:24,200 --> 00:16:26,240
+that I'm scared about because it's<font color="#E5E5E5"> so</font>
+
+407
+00:16:26,240 --> 00:16:29,870
+obvious to me it makes me so sad<font color="#CCCCCC"> that</font><font color="#E5E5E5"> we</font>
+
+408
+00:16:29,870 --> 00:16:31,700
+don't have<font color="#E5E5E5"> the structure now that a lot</font>
+
+409
+00:16:31,700 --> 00:16:32,960
+<font color="#E5E5E5">of people work in places they work</font>
+
+410
+00:16:32,960 --> 00:16:35,450
+because<font color="#E5E5E5"> they have student loans that</font>
+
+411
+00:16:35,450 --> 00:16:37,340
+<font color="#CCCCCC">taught them nothing that's actually</font>
+
+412
+00:16:37,340 --> 00:16:39,080
+practical about<font color="#E5E5E5"> the way the</font><font color="#CCCCCC"> world</font>
+
+413
+00:16:39,080 --> 00:16:41,300
+actually is<font color="#CCCCCC"> it scares me that I failed</font>
+
+414
+00:16:41,300 --> 00:16:43,220
+<font color="#E5E5E5">every one of my classes and I</font>
+
+415
+00:16:43,220 --> 00:16:45,050
+<font color="#CCCCCC">traveled the country speaking at Harvard</font>
+
+416
+00:16:45,050 --> 00:16:46,910
+and Yale<font color="#CCCCCC"> and the university should</font><font color="#E5E5E5"> kind</font>
+
+417
+00:16:46,910 --> 00:16:48,680
+of<font color="#E5E5E5"> a business school and I walk in there</font>
+
+418
+00:16:48,680 --> 00:16:50,330
+<font color="#CCCCCC">and listen to the lecture before I speak</font>
+
+419
+00:16:50,330 --> 00:16:52,160
+<font color="#E5E5E5">always to get a little context and the</font>
+
+420
+00:16:52,160 --> 00:16:55,010
+<font color="#E5E5E5"> professors lost lost because the</font>
+
+421
+00:16:55,010 --> 00:16:56,210
+world is<font color="#CCCCCC"> completely different</font><font color="#E5E5E5"> in the</font>
+
+422
+00:16:56,210 --> 00:16:57,800
+<font color="#E5E5E5">last three</font><font color="#CCCCCC"> years than it was three</font><font color="#E5E5E5"> years</font>
+
+423
+00:16:57,800 --> 00:16:59,270
+ago<font color="#E5E5E5"> the rules different than it was six</font>
+
+424
+00:16:59,270 --> 00:16:59,930
+<font color="#CCCCCC">months ago</font>
+
+425
+00:16:59,930 --> 00:17:02,870
+I spent 24<font color="#CCCCCC"> hours a day and</font><font color="#E5E5E5"> I pure</font><font color="#CCCCCC"> talent</font>
+
+426
+00:17:02,870 --> 00:17:05,220
+<font color="#E5E5E5">for what consumers want and how to self</font>
+
+427
+00:17:05,220 --> 00:17:07,410
+I spent 24 hours<font color="#CCCCCC"> a day</font><font color="#E5E5E5"> paying attention</font>
+
+428
+00:17:07,410 --> 00:17:08,579
+and it's different<font color="#E5E5E5"> than it was six</font>
+
+429
+00:17:08,579 --> 00:17:11,550
+<font color="#CCCCCC">months ago</font><font color="#E5E5E5"> so how the is some book</font>
+
+430
+00:17:11,550 --> 00:17:14,280
+<font color="#E5E5E5">gonna teach</font><font color="#CCCCCC"> people and so I think</font><font color="#E5E5E5"> about</font>
+
+431
+00:17:14,280 --> 00:17:15,690
+<font color="#CCCCCC">that all the time I</font><font color="#E5E5E5"> think about how</font><font color="#CCCCCC"> the</font>
+
+432
+00:17:15,690 --> 00:17:17,280
+world<font color="#E5E5E5"> in the system really is I</font><font color="#CCCCCC"> think</font>
+
+433
+00:17:17,280 --> 00:17:18,780
+<font color="#E5E5E5">about like why was I have student</font>
+
+434
+00:17:18,780 --> 00:17:20,640
+because I promise you<font color="#E5E5E5"> if there</font><font color="#CCCCCC"> was a</font>
+
+435
+00:17:20,640 --> 00:17:22,980
+<font color="#CCCCCC">business school for</font><font color="#E5E5E5"> K through</font><font color="#CCCCCC"> 12</font><font color="#E5E5E5"> right</font>
+
+436
+00:17:22,980 --> 00:17:25,050
+<font color="#E5E5E5">here's my thing right</font><font color="#CCCCCC"> if you would</font><font color="#E5E5E5"> have</font>
+
+437
+00:17:25,050 --> 00:17:27,690
+taught me why<font color="#E5E5E5"> New Coke failed in 1984</font>
+
+438
+00:17:27,690 --> 00:17:29,700
+and<font color="#CCCCCC"> 5th brain I'm gonna</font><font color="#E5E5E5"> get an egg</font>
+
+439
+00:17:29,700 --> 00:17:31,350
+<font color="#E5E5E5">instead you wanted to teach me how many</font>
+
+440
+00:17:31,350 --> 00:17:40,680
+ rings around Saturn and that's
+
+441
+00:17:40,680 --> 00:17:42,270
+it right<font color="#E5E5E5"> and I think</font><font color="#CCCCCC"> we all know this</font>
+
+442
+00:17:42,270 --> 00:17:43,950
+<font color="#CCCCCC">and I think you know it</font><font color="#E5E5E5"> I just</font><font color="#CCCCCC"> think</font>
+
+443
+00:17:43,950 --> 00:17:46,170
+<font color="#E5E5E5">it's scary I I guess I would tell</font><font color="#CCCCCC"> you</font>
+
+444
+00:17:46,170 --> 00:17:48,870
+<font color="#E5E5E5">that doing</font><font color="#CCCCCC"> what</font><font color="#E5E5E5"> you love is</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> number</font>
+
+445
+00:17:48,870 --> 00:17:51,030
+<font color="#E5E5E5">one thing</font><font color="#CCCCCC"> that ever</font><font color="#E5E5E5"> happened to you it's</font>
+
+446
+00:17:51,030 --> 00:17:53,610
+far better than stuff and if there's any
+
+447
+00:17:53,610 --> 00:17:55,860
+way that<font color="#E5E5E5"> I</font><font color="#CCCCCC"> can</font><font color="#E5E5E5"> convince you</font><font color="#CCCCCC"> to just go</font>
+
+448
+00:17:55,860 --> 00:17:57,510
+for it<font color="#E5E5E5"> for the next three or four</font><font color="#CCCCCC"> years</font>
+
+449
+00:17:57,510 --> 00:17:59,040
+which is going<font color="#E5E5E5"> to eliminate stuff and</font>
+
+450
+00:17:59,040 --> 00:18:00,990
+it's gonna<font color="#CCCCCC"> limiting fun stuff like going</font>
+
+451
+00:18:00,990 --> 00:18:03,180
+<font color="#E5E5E5">out right like with your friends or like</font>
+
+452
+00:18:03,180 --> 00:18:04,830
+vacations or like it's<font color="#E5E5E5"> not just</font>
+
+453
+00:18:04,830 --> 00:18:08,280
+<font color="#E5E5E5">purses but but I highly recommend</font><font color="#CCCCCC"> giving</font>
+
+454
+00:18:08,280 --> 00:18:09,990
+<font color="#CCCCCC">it</font><font color="#E5E5E5"> thought because the stakes are high</font>
+
+455
+00:18:09,990 --> 00:18:13,110
+and and the reason<font color="#CCCCCC"> the other people</font>
+
+456
+00:18:13,110 --> 00:18:14,850
+<font color="#CCCCCC">around you that</font><font color="#E5E5E5"> you look up to unless</font>
+
+457
+00:18:14,850 --> 00:18:16,740
+you have young older slightly older
+
+458
+00:18:16,740 --> 00:18:18,810
+brothers and<font color="#CCCCCC"> sisters is they didn't</font><font color="#E5E5E5"> have</font>
+
+459
+00:18:18,810 --> 00:18:20,760
+it like your parents didn't<font color="#CCCCCC"> have this</font>
+
+460
+00:18:20,760 --> 00:18:22,980
+<font color="#CCCCCC">true infrastructure to take that</font><font color="#E5E5E5"> at bat</font>
+
+461
+00:18:22,980 --> 00:18:24,750
+<font color="#CCCCCC">it's not</font><font color="#E5E5E5"> that they're long it just</font>
+
+462
+00:18:24,750 --> 00:18:26,760
+didn't happen<font color="#E5E5E5"> but she didn't happen it</font>
+
+463
+00:18:26,760 --> 00:18:30,120
+wasn't practical<font color="#E5E5E5"> being ambitious for</font>
+
+464
+00:18:30,120 --> 00:18:32,310
+what you<font color="#E5E5E5"> want to do and taking</font><font color="#CCCCCC"> a net</font>
+
+465
+00:18:32,310 --> 00:18:35,100
+back<font color="#CCCCCC"> but actually doing it is</font><font color="#E5E5E5"> actually</font>
+
+466
+00:18:35,100 --> 00:18:38,730
+practical<font color="#E5E5E5"> now she says nothing you know</font>
+
+467
+00:18:38,730 --> 00:18:40,950
+the way entrepreneurs took shots back in
+
+468
+00:18:40,950 --> 00:18:43,200
+the day is they borrowed<font color="#E5E5E5"> hundreds of</font>
+
+469
+00:18:43,200 --> 00:18:45,090
+thousands<font color="#CCCCCC"> of dollars</font><font color="#E5E5E5"> to start something</font>
+
+470
+00:18:45,090 --> 00:18:47,430
+<font color="#CCCCCC">that was physical and</font><font color="#E5E5E5"> 99% of</font>
+
+471
+00:18:47,430 --> 00:18:49,830
+business<font color="#E5E5E5"> the</font><font color="#CCCCCC"> cost that</font><font color="#E5E5E5"> you're going to</font>
+
+472
+00:18:49,830 --> 00:18:51,750
+put<font color="#CCCCCC"> into trying to</font><font color="#E5E5E5"> do your own thing</font>
+
+473
+00:18:51,750 --> 00:18:54,930
+<font color="#CCCCCC">it's just going to</font><font color="#E5E5E5"> be your time and the</font>
+
+474
+00:18:54,930 --> 00:18:56,490
+number one<font color="#E5E5E5"> thing that you have right now</font>
+
+475
+00:18:56,490 --> 00:18:58,440
+<font color="#E5E5E5">over means bless you</font><font color="#CCCCCC"> the number one</font>
+
+476
+00:18:58,440 --> 00:19:00,570
+<font color="#CCCCCC">thing you have over</font><font color="#E5E5E5"> me right now is your</font>
+
+477
+00:19:00,570 --> 00:19:02,640
+time<font color="#E5E5E5"> that's what I was going to trade</font>
+
+478
+00:19:02,640 --> 00:19:04,590
+with you<font color="#CCCCCC"> because time is the biggest</font>
+
+479
+00:19:04,590 --> 00:19:07,170
+most valuable asset in the world<font color="#E5E5E5"> and for</font>
+
+480
+00:19:07,170 --> 00:19:09,630
+all<font color="#CCCCCC"> the cash and</font><font color="#E5E5E5"> and connections</font>
+
+481
+00:19:09,630 --> 00:19:10,500
+<font color="#E5E5E5">that I have</font>
+
+482
+00:19:10,500 --> 00:19:12,900
+<font color="#E5E5E5">I can't trade that for</font><font color="#CCCCCC"> time and so I</font>
+
+483
+00:19:12,900 --> 00:19:15,480
+highly recommend<font color="#E5E5E5"> you take</font><font color="#CCCCCC"> advantage</font><font color="#E5E5E5"> of</font>
+
+484
+00:19:15,480 --> 00:19:17,160
+the thing<font color="#CCCCCC"> that you</font><font color="#E5E5E5"> have that so few</font>
+
+485
+00:19:17,160 --> 00:19:18,960
+<font color="#E5E5E5">other people have which is the ability</font>
+
+486
+00:19:18,960 --> 00:19:20,640
+<font color="#E5E5E5">to go do something</font><font color="#CCCCCC"> right now</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> then</font>
+
+487
+00:19:20,640 --> 00:19:23,970
+time<font color="#E5E5E5"> to actually execute it and then if</font>
+
+488
+00:19:23,970 --> 00:19:25,830
+you're going<font color="#CCCCCC"> to be</font><font color="#E5E5E5"> practical find a</font>
+
+489
+00:19:25,830 --> 00:19:27,810
+<font color="#E5E5E5">place that you'd be inspired find a</font>
+
+490
+00:19:27,810 --> 00:19:29,580
+place that the people<font color="#CCCCCC"> within that</font>
+
+491
+00:19:29,580 --> 00:19:31,020
+organization<font color="#E5E5E5"> actually give a about</font>
+
+492
+00:19:31,020 --> 00:19:33,720
+who you are<font color="#E5E5E5"> with them with within and</font>
+
+493
+00:19:33,720 --> 00:19:35,730
+without<font color="#CCCCCC"> inner walls of</font><font color="#E5E5E5"> that organization</font>
+
+494
+00:19:35,730 --> 00:19:38,310
+<font color="#CCCCCC">and be very strategic about it</font><font color="#E5E5E5"> take a</font>
+
+495
+00:19:38,310 --> 00:19:40,920
+little less<font color="#E5E5E5"> money to</font><font color="#CCCCCC"> get the right</font>
+
+496
+00:19:40,920 --> 00:19:43,500
+mentorship and stepping stones<font color="#E5E5E5"> because</font>
+
+497
+00:19:43,500 --> 00:19:45,450
+I'm<font color="#CCCCCC"> obsessed with taking one</font><font color="#E5E5E5"> step back</font>
+
+498
+00:19:45,450 --> 00:19:48,000
+for two steps forward<font color="#E5E5E5"> way too many</font>
+
+499
+00:19:48,000 --> 00:19:51,390
+<font color="#CCCCCC">people</font><font color="#E5E5E5"> take</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> best looking</font><font color="#CCCCCC"> thing</font><font color="#E5E5E5"> at 23</font>
+
+500
+00:19:51,390 --> 00:19:54,030
+<font color="#CCCCCC">and 22 and then</font><font color="#E5E5E5"> at 25</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> game's changed</font>
+
+501
+00:19:54,030 --> 00:19:56,760
+<font color="#CCCCCC">and so really</font><font color="#E5E5E5"> give that</font><font color="#CCCCCC"> a lot of</font><font color="#E5E5E5"> thought</font>
+
+502
+00:19:56,760 --> 00:19:58,110
+<font color="#E5E5E5">as well I would highly recommend</font>
+
+503
+00:19:58,110 --> 00:20:00,930
+auditing the opportunity<font color="#E5E5E5"> predicated on</font>
+
+504
+00:20:00,930 --> 00:20:03,600
+three or four<font color="#E5E5E5"> years</font><font color="#CCCCCC"> from now</font><font color="#E5E5E5"> not for the</font>
+
+505
+00:20:03,600 --> 00:20:06,650
+<font color="#CCCCCC">next 12 months</font><font color="#E5E5E5"> I'm very very important</font>
+
+506
+00:20:06,650 --> 00:20:09,180
+<font color="#E5E5E5">it's all</font><font color="#CCCCCC"> I've decided</font><font color="#E5E5E5"> I'd much rather</font><font color="#CCCCCC"> do</font>
+
+507
+00:20:09,180 --> 00:20:11,760
+<font color="#CCCCCC">Q&A</font><font color="#E5E5E5"> it's just pretty good at whose tips</font>
+
+508
+00:20:11,760 --> 00:20:12,870
+you don't have to come up<font color="#E5E5E5"> here</font><font color="#CCCCCC"> to just</font>
+
+509
+00:20:12,870 --> 00:20:14,670
+raise<font color="#E5E5E5"> your hand I'll repeat it</font><font color="#CCCCCC"> but I'd</font>
+
+510
+00:20:14,670 --> 00:20:16,650
+love<font color="#E5E5E5"> to do some Q&A please don't be</font>
+
+511
+00:20:16,650 --> 00:20:18,660
+<font color="#CCCCCC">scared</font><font color="#E5E5E5"> and thank you for</font><font color="#CCCCCC"> having me</font><font color="#E5E5E5"> thank</font>
+
+512
+00:20:18,660 --> 00:20:20,720
+you
+
+513
+00:20:21,940 --> 00:20:27,870
+<font color="#E5E5E5">a few minutes</font>
+
+514
+00:20:36,519 --> 00:00:00,000
+you
+

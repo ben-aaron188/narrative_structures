@@ -1,0 +1,944 @@
+1
+00:00:00,000 --> 00:00:02,280
+hi everyone<font color="#CCCCCC"> today I'll</font><font color="#E5E5E5"> be showing you my</font>
+
+2
+00:00:02,280 --> 00:00:03,990
+lighting and camera<font color="#CCCCCC"> setup that I</font><font color="#E5E5E5"> used to</font>
+
+3
+00:00:03,990 --> 00:00:07,500
+film my<font color="#E5E5E5"> YouTube videos now</font><font color="#CCCCCC"> I filmed in</font>
+
+4
+00:00:07,500 --> 00:00:09,719
+front<font color="#CCCCCC"> of</font><font color="#E5E5E5"> a window on my webcam for the</font>
+
+5
+00:00:09,719 --> 00:00:12,120
+longest<font color="#E5E5E5"> time</font><font color="#CCCCCC"> so this</font><font color="#E5E5E5"> setup is relatively</font>
+
+6
+00:00:12,120 --> 00:00:13,380
+new I've only just got<font color="#E5E5E5"> everything</font>
+
+7
+00:00:13,380 --> 00:00:15,690
+<font color="#E5E5E5">exactly how</font><font color="#CCCCCC"> I want</font><font color="#E5E5E5"> it and</font><font color="#CCCCCC"> so hence I'm</font>
+
+8
+00:00:15,690 --> 00:00:17,520
+filming this video when I was<font color="#CCCCCC"> trying to</font>
+
+9
+00:00:17,520 --> 00:00:19,230
+<font color="#CCCCCC">do research on what lighting to have</font>
+
+10
+00:00:19,230 --> 00:00:20,699
+especially cameras are a little<font color="#E5E5E5"> bit</font>
+
+11
+00:00:20,699 --> 00:00:21,630
+<font color="#E5E5E5">easier but when I was researching</font>
+
+12
+00:00:21,630 --> 00:00:22,560
+lighting
+
+13
+00:00:22,560 --> 00:00:24,660
+I found it virtually impossible<font color="#CCCCCC"> to find</font>
+
+14
+00:00:24,660 --> 00:00:27,720
+anything decent<font color="#CCCCCC"> about lighting for</font>
+
+15
+00:00:27,720 --> 00:00:29,189
+beauty videos on YouTube<font color="#E5E5E5"> so I thought</font>
+
+16
+00:00:29,189 --> 00:00:30,510
+<font color="#E5E5E5">this might help a lot of you if you</font><font color="#CCCCCC"> are</font>
+
+17
+00:00:30,510 --> 00:00:32,430
+filming<font color="#CCCCCC"> beauty videos or if you're just</font>
+
+18
+00:00:32,430 --> 00:00:34,260
+<font color="#E5E5E5">interested to see kind</font><font color="#CCCCCC"> of behind</font><font color="#E5E5E5"> the</font>
+
+19
+00:00:34,260 --> 00:00:37,860
+scenes<font color="#CCCCCC"> of a beauty video</font><font color="#E5E5E5"> this is a new</font>
+
+20
+00:00:37,860 --> 00:00:39,360
+<font color="#E5E5E5">set up like I said</font><font color="#CCCCCC"> there's quite a lot</font>
+
+21
+00:00:39,360 --> 00:00:41,010
+of equipment<font color="#E5E5E5"> which before it was just me</font>
+
+22
+00:00:41,010 --> 00:00:43,500
+<font color="#E5E5E5">and a laptop but I really think the</font>
+
+23
+00:00:43,500 --> 00:00:45,059
+quality of my videos<font color="#E5E5E5"> is</font><font color="#CCCCCC"> really good now</font>
+
+24
+00:00:45,059 --> 00:00:47,280
+<font color="#E5E5E5">it's not the best obviously I know</font>
+
+25
+00:00:47,280 --> 00:00:48,989
+something like well well actually<font color="#CCCCCC"> you</font>
+
+26
+00:00:48,989 --> 00:00:50,250
+could<font color="#E5E5E5"> do with a</font><font color="#CCCCCC"> little</font><font color="#E5E5E5"> bit less of</font><font color="#CCCCCC"> this</font>
+
+27
+00:00:50,250 --> 00:00:52,170
+or whatever<font color="#E5E5E5"> it's not</font><font color="#CCCCCC"> the best but</font><font color="#E5E5E5"> I'm</font>
+
+28
+00:00:52,170 --> 00:00:53,399
+really happy<font color="#E5E5E5"> with it and you guys can</font>
+
+29
+00:00:53,399 --> 00:00:54,870
+<font color="#CCCCCC">actually see</font><font color="#E5E5E5"> me and you can see the</font>
+
+30
+00:00:54,870 --> 00:00:56,550
+colors and<font color="#CCCCCC"> you</font><font color="#E5E5E5"> can see the products okay</font>
+
+31
+00:00:56,550 --> 00:00:58,350
+so this intro<font color="#E5E5E5"> is actually filmed on my</font>
+
+32
+00:00:58,350 --> 00:00:59,789
+camcorder which I will get around<font color="#E5E5E5"> to</font>
+
+33
+00:00:59,789 --> 00:01:01,199
+<font color="#E5E5E5">showing you in a minute but the footage</font>
+
+34
+00:01:01,199 --> 00:01:03,570
+<font color="#E5E5E5">of my camcorder</font><font color="#CCCCCC"> is going to be shot</font><font color="#E5E5E5"> on</font>
+
+35
+00:01:03,570 --> 00:01:06,270
+my actual photo camera now this is a
+
+36
+00:01:06,270 --> 00:01:09,180
+<font color="#E5E5E5">Canon</font><font color="#CCCCCC"> ixus 1000 HS and I actually got</font>
+
+37
+00:01:09,180 --> 00:01:12,299
+<font color="#E5E5E5">this for</font><font color="#CCCCCC"> Christmas this year</font><font color="#E5E5E5"> with the</font>
+
+38
+00:01:12,299 --> 00:01:14,189
+intention of taking<font color="#E5E5E5"> photos with</font><font color="#CCCCCC"> it and</font>
+
+39
+00:01:14,189 --> 00:01:16,140
+filming with it as it<font color="#CCCCCC"> does film in HD</font>
+
+40
+00:01:16,140 --> 00:01:17,490
+<font color="#E5E5E5">and it's absolutely amazing quality I</font>
+
+41
+00:01:17,490 --> 00:01:20,610
+used it<font color="#CCCCCC"> for a few videos last week</font><font color="#E5E5E5"> and a</font>
+
+42
+00:01:20,610 --> 00:01:21,930
+lot of<font color="#E5E5E5"> people said why on earth</font><font color="#CCCCCC"> you're</font>
+
+43
+00:01:21,930 --> 00:01:23,369
+getting a<font color="#E5E5E5"> new</font><font color="#CCCCCC"> camcorder because</font><font color="#E5E5E5"> this is</font>
+
+44
+00:01:23,369 --> 00:01:25,320
+amazing<font color="#CCCCCC"> quality to film with and because</font>
+
+45
+00:01:25,320 --> 00:01:26,970
+it's<font color="#E5E5E5"> the newest HS model it's meant to</font>
+
+46
+00:01:26,970 --> 00:01:28,530
+<font color="#E5E5E5">be able to shoot in low lighting which</font>
+
+47
+00:01:28,530 --> 00:01:31,439
+<font color="#CCCCCC">is great so I would recommend</font><font color="#E5E5E5"> this</font><font color="#CCCCCC"> for</font>
+
+48
+00:01:31,439 --> 00:01:33,750
+filming beauty videos if you<font color="#CCCCCC"> don't have</font>
+
+49
+00:01:33,750 --> 00:01:37,140
+the funds to<font color="#E5E5E5"> buy a proper camcorder but</font>
+
+50
+00:01:37,140 --> 00:01:40,020
+it is not so<font color="#E5E5E5"> great with sound syncing</font>
+
+51
+00:01:40,020 --> 00:01:41,700
+the sound with<font color="#CCCCCC"> the video so if you're</font>
+
+52
+00:01:41,700 --> 00:01:43,759
+making<font color="#E5E5E5"> longer videos say 10</font><font color="#CCCCCC"> 15 minutes</font>
+
+53
+00:01:43,759 --> 00:01:47,340
+you do need to do<font color="#CCCCCC"> it in kind of 5</font><font color="#E5E5E5"> minute</font>
+
+54
+00:01:47,340 --> 00:01:49,829
+<font color="#CCCCCC">intervals and start filming and which I</font>
+
+55
+00:01:49,829 --> 00:01:51,210
+found to<font color="#CCCCCC"> be the one side downside of</font>
+
+56
+00:01:51,210 --> 00:01:53,579
+<font color="#E5E5E5">this camera but generally this is really</font>
+
+57
+00:01:53,579 --> 00:01:54,840
+really<font color="#E5E5E5"> good it's amazing</font><font color="#CCCCCC"> for taking</font>
+
+58
+00:01:54,840 --> 00:01:56,939
+photos<font color="#CCCCCC"> for my blog and for just general</font>
+
+59
+00:01:56,939 --> 00:01:59,340
+<font color="#E5E5E5">daily life it's quite compact</font><font color="#CCCCCC"> as a huge</font>
+
+60
+00:01:59,340 --> 00:02:01,950
+screen on the back<font color="#E5E5E5"> and yeah so I really</font>
+
+61
+00:02:01,950 --> 00:02:03,570
+<font color="#CCCCCC">really like this</font><font color="#E5E5E5"> but I want explain to</font>
+
+62
+00:02:03,570 --> 00:02:05,430
+you<font color="#E5E5E5"> more when I show it to you why I'm</font>
+
+63
+00:02:05,430 --> 00:02:07,860
+now using<font color="#CCCCCC"> a</font><font color="#E5E5E5"> camcorder instead</font><font color="#CCCCCC"> ok so this</font>
+
+64
+00:02:07,860 --> 00:02:09,119
+is what it looks<font color="#E5E5E5"> like from</font><font color="#CCCCCC"> my side</font><font color="#E5E5E5"> of</font>
+
+65
+00:02:09,119 --> 00:02:11,190
+the camera<font color="#E5E5E5"> so I'm</font><font color="#CCCCCC"> gonna</font><font color="#E5E5E5"> start off</font><font color="#CCCCCC"> by</font>
+
+66
+00:02:11,190 --> 00:02:12,480
+talking about the<font color="#E5E5E5"> lights the lighting I</font>
+
+67
+00:02:12,480 --> 00:02:13,010
+have
+
+68
+00:02:13,010 --> 00:02:15,019
+<font color="#E5E5E5">two soft boxes and there's one there and</font>
+
+69
+00:02:15,019 --> 00:02:19,760
+one here<font color="#E5E5E5"> now</font><font color="#CCCCCC"> I searched and searched</font><font color="#E5E5E5"> and</font>
+
+70
+00:02:19,760 --> 00:02:23,090
+<font color="#E5E5E5">searched for tutorials or demos of</font>
+
+71
+00:02:23,090 --> 00:02:25,069
+<font color="#E5E5E5">lighting the</font><font color="#CCCCCC"> best lighting for beauty</font>
+
+72
+00:02:25,069 --> 00:02:26,629
+videos on YouTube and I struggled<font color="#CCCCCC"> to</font>
+
+73
+00:02:26,629 --> 00:02:29,150
+<font color="#E5E5E5">find one so I hope this kind of helps by</font>
+
+74
+00:02:29,150 --> 00:02:30,829
+showing<font color="#E5E5E5"> you what</font><font color="#CCCCCC"> I found to work</font><font color="#E5E5E5"> now I</font>
+
+75
+00:02:30,829 --> 00:02:32,450
+ordered these lights<font color="#E5E5E5"> from eBay and</font><font color="#CCCCCC"> there</font>
+
+76
+00:02:32,450 --> 00:02:35,360
+<font color="#E5E5E5">are a</font><font color="#CCCCCC"> hundred pounds for</font><font color="#E5E5E5"> two and I kind</font>
+
+77
+00:02:35,360 --> 00:02:36,769
+of<font color="#CCCCCC"> deliberated</font><font color="#E5E5E5"> between I didn't I</font><font color="#CCCCCC"> don't</font>
+
+78
+00:02:36,769 --> 00:02:38,209
+<font color="#E5E5E5">know anything about lights and I didn't</font>
+
+79
+00:02:38,209 --> 00:02:39,680
+know anything about at all about<font color="#CCCCCC"> light</font>
+
+80
+00:02:39,680 --> 00:02:42,620
+so I know a<font color="#E5E5E5"> little bit more</font><font color="#CCCCCC"> now but I</font>
+
+81
+00:02:42,620 --> 00:02:44,000
+think<font color="#CCCCCC"> the softbox has worked really well</font>
+
+82
+00:02:44,000 --> 00:02:45,680
+because<font color="#CCCCCC"> they are</font><font color="#E5E5E5"> quite soft light these</font>
+
+83
+00:02:45,680 --> 00:02:48,950
+ones actually only have one bulb<font color="#E5E5E5"> in each</font>
+
+84
+00:02:48,950 --> 00:02:51,739
+one if<font color="#E5E5E5"> you can see in there but they</font><font color="#CCCCCC"> are</font>
+
+85
+00:02:51,739 --> 00:02:53,720
+still<font color="#E5E5E5"> pretty bright</font><font color="#CCCCCC"> I'm gonna put the</font>
+
+86
+00:02:53,720 --> 00:02:55,250
+link to<font color="#E5E5E5"> where you can</font><font color="#CCCCCC"> get all of the</font>
+
+87
+00:02:55,250 --> 00:02:57,379
+<font color="#E5E5E5">stuff that</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> mentioned and that will</font>
+
+88
+00:02:57,379 --> 00:02:59,420
+save<font color="#E5E5E5"> me</font><font color="#CCCCCC"> from making</font><font color="#E5E5E5"> any mistakes talking</font>
+
+89
+00:02:59,420 --> 00:03:01,400
+about technological lighting
+
+90
+00:03:01,400 --> 00:03:02,720
+professional kind<font color="#E5E5E5"> of stuff because I</font>
+
+91
+00:03:02,720 --> 00:03:04,579
+really don't<font color="#E5E5E5"> know about it but these two</font>
+
+92
+00:03:04,579 --> 00:03:06,230
+soft boxes<font color="#E5E5E5"> work great for me there's a</font>
+
+93
+00:03:06,230 --> 00:03:08,150
+<font color="#E5E5E5">lot of three-point lighting tutorials on</font>
+
+94
+00:03:08,150 --> 00:03:09,980
+YouTube talking<font color="#CCCCCC"> about the best</font><font color="#E5E5E5"> way to</font>
+
+95
+00:03:09,980 --> 00:03:11,720
+get lights for portrait shots things
+
+96
+00:03:11,720 --> 00:03:13,370
+like that and I've kind<font color="#E5E5E5"> of based it on</font>
+
+97
+00:03:13,370 --> 00:03:15,889
+this so I have my main light there and
+
+98
+00:03:15,889 --> 00:03:17,810
+<font color="#E5E5E5">then this light kind of serves to light</font>
+
+99
+00:03:17,810 --> 00:03:19,970
+the<font color="#E5E5E5"> other side of my face and to light</font>
+
+100
+00:03:19,970 --> 00:03:21,139
+the background<font color="#E5E5E5"> a little</font><font color="#CCCCCC"> bit</font><font color="#E5E5E5"> and then</font>
+
+101
+00:03:21,139 --> 00:03:23,389
+instead of<font color="#CCCCCC"> having a light above my head</font>
+
+102
+00:03:23,389 --> 00:03:24,919
+<font color="#E5E5E5">I just have the lights that are in the</font>
+
+103
+00:03:24,919 --> 00:03:27,169
+<font color="#E5E5E5">ceiling so I've kind of tailored it</font>
+
+104
+00:03:27,169 --> 00:03:29,959
+around my<font color="#E5E5E5"> setup</font><font color="#CCCCCC"> obviously it's not ideal</font>
+
+105
+00:03:29,959 --> 00:03:31,579
+ideally this<font color="#E5E5E5"> light would be a lot</font>
+
+106
+00:03:31,579 --> 00:03:32,959
+<font color="#E5E5E5">further</font><font color="#CCCCCC"> away from</font><font color="#E5E5E5"> me but</font><font color="#CCCCCC"> obviously</font>
+
+107
+00:03:32,959 --> 00:03:34,040
+<font color="#E5E5E5">because of where I am</font>
+
+108
+00:03:34,040 --> 00:03:36,139
+I kind of can't do<font color="#E5E5E5"> that so I think it's</font>
+
+109
+00:03:36,139 --> 00:03:38,299
+<font color="#CCCCCC">working really</font><font color="#E5E5E5"> well I also have</font><font color="#CCCCCC"> just a</font>
+
+110
+00:03:38,299 --> 00:03:39,680
+<font color="#E5E5E5">light-up makeup mirror here this is</font>
+
+111
+00:03:39,680 --> 00:03:42,199
+purely for<font color="#E5E5E5"> being able to see myself</font>
+
+112
+00:03:42,199 --> 00:03:44,840
+<font color="#E5E5E5">rather than actually for lighting</font>
+
+113
+00:03:44,840 --> 00:03:46,760
+effects<font color="#CCCCCC"> at all it's just so that I</font><font color="#E5E5E5"> can</font>
+
+114
+00:03:46,760 --> 00:03:48,500
+see clearly<font color="#CCCCCC"> what I'm</font><font color="#E5E5E5"> doing when I'm</font>
+
+115
+00:03:48,500 --> 00:03:50,060
+doing tutorials<font color="#E5E5E5"> so that's quite useful I</font>
+
+116
+00:03:50,060 --> 00:03:51,980
+think<font color="#E5E5E5"> that was from</font><font color="#CCCCCC"> Argos</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> onto my</font>
+
+117
+00:03:51,980 --> 00:03:53,269
+<font color="#E5E5E5">video camera now</font><font color="#CCCCCC"> I got this camera</font>
+
+118
+00:03:53,269 --> 00:03:55,310
+probably<font color="#E5E5E5"> five</font><font color="#CCCCCC"> or six days ago</font><font color="#E5E5E5"> and I've</font>
+
+119
+00:03:55,310 --> 00:03:57,169
+<font color="#CCCCCC">already filmed</font><font color="#E5E5E5"> three or four videos</font><font color="#CCCCCC"> on</font>
+
+120
+00:03:57,169 --> 00:03:59,269
+it and I am<font color="#E5E5E5"> so so</font><font color="#CCCCCC"> happy with the quality</font>
+
+121
+00:03:59,269 --> 00:04:03,470
+<font color="#CCCCCC">it's a Canon Vixia</font><font color="#E5E5E5"> HF 21 if you're</font>
+
+122
+00:04:03,470 --> 00:04:04,730
+wondering what the difference<font color="#CCCCCC"> is between</font>
+
+123
+00:04:04,730 --> 00:04:07,549
+<font color="#E5E5E5">a</font><font color="#CCCCCC"> legria</font><font color="#E5E5E5"> and a</font><font color="#CCCCCC"> Vixia</font><font color="#E5E5E5"> they're basically</font>
+
+124
+00:04:07,549 --> 00:04:09,919
+the<font color="#CCCCCC"> same camera but the Vixia is branded</font>
+
+125
+00:04:09,919 --> 00:04:12,650
+for<font color="#E5E5E5"> the US and the</font><font color="#CCCCCC"> legria</font><font color="#E5E5E5"> for</font><font color="#CCCCCC"> Europe I</font>
+
+126
+00:04:12,650 --> 00:04:16,339
+actually have a<font color="#CCCCCC"> Vixia model because to</font>
+
+127
+00:04:16,339 --> 00:04:18,380
+cut a long<font color="#E5E5E5"> story short this camera was</font>
+
+128
+00:04:18,380 --> 00:04:19,699
+from<font color="#E5E5E5"> YouTube I don't know if any of you</font>
+
+129
+00:04:19,699 --> 00:04:22,639
+guys heard about<font color="#E5E5E5"> the scheme that they</font>
+
+130
+00:04:22,639 --> 00:04:23,490
+had at Christmas
+
+131
+00:04:23,490 --> 00:04:26,160
+<font color="#E5E5E5">we're the top 500 partners on YouTube</font>
+
+132
+00:04:26,160 --> 00:04:29,220
+got given<font color="#E5E5E5"> a gift voucher for an online</font>
+
+133
+00:04:29,220 --> 00:04:31,020
+shop called<font color="#CCCCCC"> B&H I think it's be an</font><font color="#E5E5E5"> H</font>
+
+134
+00:04:31,020 --> 00:04:34,889
+video or<font color="#E5E5E5"> bnh photo</font><font color="#CCCCCC"> so that's where I got</font>
+
+135
+00:04:34,889 --> 00:04:36,569
+this camera<font color="#E5E5E5"> from and I was so so happy I</font>
+
+136
+00:04:36,569 --> 00:04:38,210
+thought<font color="#E5E5E5"> it was a hoax for</font><font color="#CCCCCC"> a long time</font>
+
+137
+00:04:38,210 --> 00:04:40,139
+<font color="#CCCCCC">trying to scout me out of something</font>
+
+138
+00:04:40,139 --> 00:04:41,580
+<font color="#CCCCCC">because I couldn't believe that they</font>
+
+139
+00:04:41,580 --> 00:04:43,289
+would<font color="#CCCCCC"> actually want to</font><font color="#E5E5E5"> give me a</font><font color="#CCCCCC"> voucher</font>
+
+140
+00:04:43,289 --> 00:04:45,539
+<font color="#E5E5E5">to buy a video camera</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> that is what I</font>
+
+141
+00:04:45,539 --> 00:04:50,550
+chose the<font color="#E5E5E5"> canon</font><font color="#CCCCCC"> hf</font><font color="#E5E5E5"> 21 so it has a flip</font>
+
+142
+00:04:50,550 --> 00:04:52,050
+<font color="#E5E5E5">screen which is actually immensely</font>
+
+143
+00:04:52,050 --> 00:04:53,880
+useful that's the first thing<font color="#E5E5E5"> that makes</font>
+
+144
+00:04:53,880 --> 00:04:55,800
+<font color="#E5E5E5">this camera so</font><font color="#CCCCCC"> useful to me is that you</font>
+
+145
+00:04:55,800 --> 00:04:57,659
+<font color="#E5E5E5">can actually see what you're doing when</font>
+
+146
+00:04:57,659 --> 00:04:59,400
+you're<font color="#CCCCCC"> doing it which is great apart</font>
+
+147
+00:04:59,400 --> 00:05:00,569
+<font color="#E5E5E5">from that it's</font><font color="#CCCCCC"> just really really</font><font color="#E5E5E5"> simple</font>
+
+148
+00:05:00,569 --> 00:05:02,940
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> use it has a 64 gigabyte built-in</font>
+
+149
+00:05:02,940 --> 00:05:04,440
+flash memory so<font color="#E5E5E5"> you don't need</font><font color="#CCCCCC"> a memory</font>
+
+150
+00:05:04,440 --> 00:05:05,909
+<font color="#E5E5E5">card you can just plug it straight into</font>
+
+151
+00:05:05,909 --> 00:05:07,229
+<font color="#E5E5E5">your laptop which is actually what it's</font>
+
+152
+00:05:07,229 --> 00:05:10,020
+doing now<font color="#CCCCCC"> is uploading some footage that</font>
+
+153
+00:05:10,020 --> 00:05:12,599
+I just filmed the intro<font color="#E5E5E5"> to this video in</font>
+
+154
+00:05:12,599 --> 00:05:14,159
+fact<font color="#E5E5E5"> another feature that I should</font>
+
+155
+00:05:14,159 --> 00:05:15,389
+<font color="#E5E5E5">mention there's actually really</font><font color="#CCCCCC"> useful</font>
+
+156
+00:05:15,389 --> 00:05:16,259
+to<font color="#CCCCCC"> have if</font><font color="#E5E5E5"> you're going to be filming</font>
+
+157
+00:05:16,259 --> 00:05:18,930
+<font color="#CCCCCC">Beauty videos is a remote</font><font color="#E5E5E5"> control now</font>
+
+158
+00:05:18,930 --> 00:05:21,270
+<font color="#CCCCCC">this isn't</font><font color="#E5E5E5"> a particularly high-tech</font>
+
+159
+00:05:21,270 --> 00:05:22,830
+feature<font color="#E5E5E5"> I'm sure you're all aware this</font>
+
+160
+00:05:22,830 --> 00:05:25,199
+<font color="#E5E5E5">is just a little remote control</font><font color="#CCCCCC"> and some</font>
+
+161
+00:05:25,199 --> 00:05:26,580
+cameras come with<font color="#E5E5E5"> them some cameras</font>
+
+162
+00:05:26,580 --> 00:05:28,289
+don't but it does make it<font color="#E5E5E5"> immensely</font>
+
+163
+00:05:28,289 --> 00:05:29,940
+useful if you<font color="#E5E5E5"> can zoom</font><font color="#CCCCCC"> in and zoom out</font>
+
+164
+00:05:29,940 --> 00:05:31,919
+start and stop<font color="#CCCCCC"> without actually moving</font>
+
+165
+00:05:31,919 --> 00:05:33,389
+so that<font color="#CCCCCC"> you don't have</font><font color="#E5E5E5"> to kind</font><font color="#CCCCCC"> of</font>
+
+166
+00:05:33,389 --> 00:05:35,520
+reposition<font color="#E5E5E5"> yourself every</font><font color="#CCCCCC"> time so remote</font>
+
+167
+00:05:35,520 --> 00:05:38,159
+controls are useful just<font color="#E5E5E5"> kind of as a</font>
+
+168
+00:05:38,159 --> 00:05:40,289
+<font color="#E5E5E5">side note and then underneath here I</font>
+
+169
+00:05:40,289 --> 00:05:42,630
+have my little<font color="#E5E5E5"> tripod</font><font color="#CCCCCC"> and this is</font>
+
+170
+00:05:42,630 --> 00:05:44,610
+actually<font color="#E5E5E5"> from B&H photo as</font><font color="#CCCCCC"> well it</font><font color="#E5E5E5"> came</font>
+
+171
+00:05:44,610 --> 00:05:46,650
+at<font color="#E5E5E5"> the</font><font color="#CCCCCC"> same time</font><font color="#E5E5E5"> it is the Sun</font><font color="#CCCCCC"> pack</font>
+
+172
+00:05:46,650 --> 00:05:48,900
+travel smart<font color="#E5E5E5"> and it is a very small but</font>
+
+173
+00:05:48,900 --> 00:05:51,150
+actually rather sturdy tripod<font color="#E5E5E5"> I was</font>
+
+174
+00:05:51,150 --> 00:05:53,340
+using<font color="#CCCCCC"> a gorilla pod before when I was</font>
+
+175
+00:05:53,340 --> 00:05:56,069
+filming on an SLR<font color="#E5E5E5"> which has a whole</font>
+
+176
+00:05:56,069 --> 00:05:58,380
+nother bunch of problems filming on an
+
+177
+00:05:58,380 --> 00:06:01,590
+SLR<font color="#E5E5E5"> but anyway I was using a gorilla pod</font>
+
+178
+00:06:01,590 --> 00:06:02,789
+it wasn't particularly sturdy but
+
+179
+00:06:02,789 --> 00:06:04,110
+they're great<font color="#CCCCCC"> for travel so this one</font>
+
+180
+00:06:04,110 --> 00:06:05,880
+works<font color="#CCCCCC"> pretty much ideally for</font><font color="#E5E5E5"> what I</font>
+
+181
+00:06:05,880 --> 00:06:06,990
+<font color="#E5E5E5">need</font><font color="#CCCCCC"> it for it does have a</font><font color="#E5E5E5"> quick-release</font>
+
+182
+00:06:06,990 --> 00:06:08,610
+<font color="#E5E5E5">hatch at the back so you can</font><font color="#CCCCCC"> release the</font>
+
+183
+00:06:08,610 --> 00:06:10,530
+camera<font color="#CCCCCC"> quickly if you need to as well</font><font color="#E5E5E5"> so</font>
+
+184
+00:06:10,530 --> 00:06:12,060
+that is pretty<font color="#E5E5E5"> much my</font><font color="#CCCCCC"> whole</font><font color="#E5E5E5"> setup</font><font color="#CCCCCC"> I do</font>
+
+185
+00:06:12,060 --> 00:06:13,500
+have some makeup brushes there as well
+
+186
+00:06:13,500 --> 00:06:14,849
+which aren't<font color="#E5E5E5"> always there but they are</font>
+
+187
+00:06:14,849 --> 00:06:17,880
+<font color="#E5E5E5">left over from a</font><font color="#CCCCCC"> tutorial</font><font color="#E5E5E5"> and I have my</font>
+
+188
+00:06:17,880 --> 00:06:19,979
+<font color="#CCCCCC">MacBook Pro which</font><font color="#E5E5E5"> I</font><font color="#CCCCCC"> used</font><font color="#E5E5E5"> to edit</font><font color="#CCCCCC"> all of</font>
+
+189
+00:06:19,979 --> 00:06:22,139
+<font color="#CCCCCC">my videos on and I just use iMovie the</font>
+
+190
+00:06:22,139 --> 00:06:24,120
+one that comes free<font color="#CCCCCC"> with it ok</font><font color="#E5E5E5"> so they</font>
+
+191
+00:06:24,120 --> 00:06:25,740
+are<font color="#E5E5E5"> my lights my camera my general</font><font color="#CCCCCC"> setup</font>
+
+192
+00:06:25,740 --> 00:06:27,630
+<font color="#CCCCCC">that I use</font><font color="#E5E5E5"> to film my videos for YouTube</font>
+
+193
+00:06:27,630 --> 00:06:30,719
+<font color="#CCCCCC">I hope you</font><font color="#E5E5E5"> guys found it useful watching</font>
+
+194
+00:06:30,719 --> 00:06:32,130
+this if you do make music<font color="#CCCCCC"> videos or</font>
+
+195
+00:06:32,130 --> 00:06:33,510
+interesting if you don't just to see
+
+196
+00:06:33,510 --> 00:06:34,560
+kind<font color="#E5E5E5"> of behind the scenes</font>
+
+197
+00:06:34,560 --> 00:06:36,840
+it does seem<font color="#CCCCCC"> like quite a big kind of</font>
+
+198
+00:06:36,840 --> 00:06:38,280
+<font color="#CCCCCC">setup now with the lights and everything</font>
+
+199
+00:06:38,280 --> 00:06:39,780
+it's kind<font color="#E5E5E5"> of strange how</font><font color="#CCCCCC"> it's evolved</font>
+
+200
+00:06:39,780 --> 00:06:41,730
+from<font color="#CCCCCC"> that over time because like</font><font color="#E5E5E5"> I</font><font color="#CCCCCC"> said</font>
+
+201
+00:06:41,730 --> 00:06:43,770
+I was literally<font color="#E5E5E5"> I started off sitting in</font>
+
+202
+00:06:43,770 --> 00:06:45,630
+front<font color="#E5E5E5"> of the window that's there with my</font>
+
+203
+00:06:45,630 --> 00:06:47,730
+<font color="#CCCCCC">laptop</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> just using my webcam</font><font color="#E5E5E5"> so I'm</font>
+
+204
+00:06:47,730 --> 00:06:48,990
+really<font color="#CCCCCC"> really happy</font><font color="#E5E5E5"> with the quality</font><font color="#CCCCCC"> of</font>
+
+205
+00:06:48,990 --> 00:06:50,760
+my videos<font color="#CCCCCC"> now</font><font color="#E5E5E5"> and the lighting and</font>
+
+206
+00:06:50,760 --> 00:06:53,220
+<font color="#CCCCCC">everything so</font><font color="#E5E5E5"> it kind of makes it so</font>
+
+207
+00:06:53,220 --> 00:06:55,889
+much<font color="#E5E5E5"> more</font><font color="#CCCCCC"> of a pleasure to film</font><font color="#E5E5E5"> when</font><font color="#CCCCCC"> you</font>
+
+208
+00:06:55,889 --> 00:06:57,930
+have perfect lighting<font color="#E5E5E5"> and you have a</font>
+
+209
+00:06:57,930 --> 00:06:59,639
+good<font color="#E5E5E5"> video camera</font><font color="#CCCCCC"> you can see yourself</font>
+
+210
+00:06:59,639 --> 00:07:00,960
+and<font color="#E5E5E5"> you can see what you're doing</font><font color="#CCCCCC"> it</font>
+
+211
+00:07:00,960 --> 00:07:02,669
+does<font color="#E5E5E5"> make it so much easier</font><font color="#CCCCCC"> so if you're</font>
+
+212
+00:07:02,669 --> 00:07:03,750
+thinking<font color="#CCCCCC"> about changing any of</font><font color="#E5E5E5"> your</font>
+
+213
+00:07:03,750 --> 00:07:04,860
+equipment<font color="#E5E5E5"> I would definitely recommend</font>
+
+214
+00:07:04,860 --> 00:07:06,750
+any of<font color="#E5E5E5"> the things that I have obviously</font>
+
+215
+00:07:06,750 --> 00:07:08,220
+<font color="#CCCCCC">depending on budget there are a few</font>
+
+216
+00:07:08,220 --> 00:07:09,870
+alternatives as well<font color="#CCCCCC"> but I'm gonna put</font>
+
+217
+00:07:09,870 --> 00:07:11,700
+<font color="#CCCCCC">links to everything</font><font color="#E5E5E5"> that I've</font><font color="#CCCCCC"> mentioned</font>
+
+218
+00:07:11,700 --> 00:07:13,500
+in the information bar<font color="#CCCCCC"> below where all</font>
+
+219
+00:07:13,500 --> 00:07:15,540
+of my<font color="#E5E5E5"> equipments from and links to</font><font color="#CCCCCC"> all</font>
+
+220
+00:07:15,540 --> 00:07:16,979
+the<font color="#CCCCCC"> specifications so you guys can check</font>
+
+221
+00:07:16,979 --> 00:07:19,020
+<font color="#E5E5E5">it</font><font color="#CCCCCC"> out</font><font color="#E5E5E5"> and see kind</font><font color="#CCCCCC"> of what</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> compare</font>
+
+222
+00:07:19,020 --> 00:07:20,610
+it to<font color="#E5E5E5"> like I said in the beginning</font><font color="#CCCCCC"> the</font>
+
+223
+00:07:20,610 --> 00:07:22,139
+camera<font color="#E5E5E5"> that I just film that on my</font>
+
+224
+00:07:22,139 --> 00:07:25,590
+<font color="#E5E5E5">excess 1000 HS is also really really</font>
+
+225
+00:07:25,590 --> 00:07:27,810
+<font color="#E5E5E5">good so if you are thinking of kind of</font>
+
+226
+00:07:27,810 --> 00:07:29,610
+buying a<font color="#E5E5E5"> camera to take</font><font color="#CCCCCC"> photos and maybe</font>
+
+227
+00:07:29,610 --> 00:07:30,960
+filming<font color="#CCCCCC"> a little bit as</font><font color="#E5E5E5"> well obviously</font>
+
+228
+00:07:30,960 --> 00:07:32,820
+this is<font color="#CCCCCC"> a really really</font><font color="#E5E5E5"> good option</font><font color="#CCCCCC"> let</font>
+
+229
+00:07:32,820 --> 00:07:34,110
+me know if you guys would<font color="#CCCCCC"> like to see</font>
+
+230
+00:07:34,110 --> 00:07:35,669
+any<font color="#E5E5E5"> more kind of in-depth reviews on</font>
+
+231
+00:07:35,669 --> 00:07:36,990
+<font color="#E5E5E5">either of my cameras or any of my</font>
+
+232
+00:07:36,990 --> 00:07:38,820
+<font color="#CCCCCC">equipment just let me know</font><font color="#E5E5E5"> in the</font>
+
+233
+00:07:38,820 --> 00:07:39,780
+<font color="#E5E5E5">comment section below if you have any</font>
+
+234
+00:07:39,780 --> 00:07:42,000
+questions or anything<font color="#E5E5E5"> and thanks for</font>
+
+235
+00:07:42,000 --> 00:07:42,870
+<font color="#E5E5E5">watching I hope</font><font color="#CCCCCC"> to see</font><font color="#E5E5E5"> you again</font><font color="#CCCCCC"> very</font>
+
+236
+00:07:42,870 --> 00:00:00,000
+soon<font color="#CCCCCC"> bye</font>
+

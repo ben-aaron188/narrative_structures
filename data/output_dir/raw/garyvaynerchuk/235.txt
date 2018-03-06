@@ -1,0 +1,2780 @@
+1
+00:00:00,140 --> 00:00:04,680
+hello<font color="#E5E5E5"> Hong Kong thanks for hanging</font>
+
+2
+00:00:04,680 --> 00:00:10,469
+<font color="#CCCCCC">around</font><font color="#E5E5E5"> I will try to deliver so one</font>
+
+3
+00:00:10,469 --> 00:00:11,910
+thing I've been thinking<font color="#CCCCCC"> a lot about as</font>
+
+4
+00:00:11,910 --> 00:00:14,820
+I've been spending<font color="#E5E5E5"> time walking</font><font color="#CCCCCC"> the</font>
+
+5
+00:00:14,820 --> 00:00:16,949
+conference<font color="#CCCCCC"> hall and spending the day</font>
+
+6
+00:00:16,949 --> 00:00:19,980
+today in Hong Kong<font color="#CCCCCC"> is just the diversity</font>
+
+7
+00:00:19,980 --> 00:00:23,580
+<font color="#CCCCCC">in</font><font color="#E5E5E5"> the audience of where we come from</font>
+
+8
+00:00:23,580 --> 00:00:26,820
+<font color="#E5E5E5">what we're trying to achieve</font><font color="#CCCCCC"> and I gave</font>
+
+9
+00:00:26,820 --> 00:00:28,410
+a lot of<font color="#CCCCCC"> thought to what do I really</font>
+
+10
+00:00:28,410 --> 00:00:32,040
+<font color="#CCCCCC">want</font><font color="#E5E5E5"> to deliver in this keynote</font><font color="#CCCCCC"> how do I</font>
+
+11
+00:00:32,040 --> 00:00:33,660
+bring value I think<font color="#E5E5E5"> one of the things</font>
+
+12
+00:00:33,660 --> 00:00:35,130
+that you know when I think<font color="#CCCCCC"> about</font>
+
+13
+00:00:35,130 --> 00:00:37,680
+<font color="#E5E5E5">products or services and definitely when</font>
+
+14
+00:00:37,680 --> 00:00:39,870
+I<font color="#E5E5E5"> speak or create content how do you</font>
+
+15
+00:00:39,870 --> 00:00:42,210
+bring value like what's the trade here
+
+16
+00:00:42,210 --> 00:00:44,399
+<font color="#E5E5E5">I'm getting</font><font color="#CCCCCC"> your attention I</font><font color="#E5E5E5"> want to</font>
+
+17
+00:00:44,399 --> 00:00:46,170
+<font color="#E5E5E5">bring you</font><font color="#CCCCCC"> value in return and the thing</font>
+
+18
+00:00:46,170 --> 00:00:49,950
+<font color="#CCCCCC">that</font><font color="#E5E5E5"> really stands out for me is the one</font>
+
+19
+00:00:49,950 --> 00:00:52,170
+thing<font color="#CCCCCC"> that I'm confident in</font><font color="#E5E5E5"> the one</font>
+
+20
+00:00:52,170 --> 00:00:53,699
+thing that I'm<font color="#CCCCCC"> absolutely confident in</font>
+
+21
+00:00:53,699 --> 00:00:57,840
+is what attaches<font color="#E5E5E5"> all of us what is the</font>
+
+22
+00:00:57,840 --> 00:00:59,550
+one common theme<font color="#E5E5E5"> whether you're a</font>
+
+23
+00:00:59,550 --> 00:01:01,739
+startup<font color="#E5E5E5"> whether you're a</font><font color="#CCCCCC"> professional</font>
+
+24
+00:01:01,739 --> 00:01:04,470
+<font color="#E5E5E5">with your student solo entrepreneur</font>
+
+25
+00:01:04,470 --> 00:01:07,380
+large company starting tomorrow<font color="#CCCCCC"> what</font><font color="#E5E5E5"> is</font>
+
+26
+00:01:07,380 --> 00:01:10,189
+the one thing<font color="#CCCCCC"> that guarantees</font><font color="#E5E5E5"> a</font>
+
+27
+00:01:10,189 --> 00:01:12,720
+connection point<font color="#CCCCCC"> that we can all agree</font>
+
+28
+00:01:12,720 --> 00:01:15,960
+on<font color="#E5E5E5"> and get value out</font><font color="#CCCCCC"> of the framework</font>
+
+29
+00:01:15,960 --> 00:01:18,030
+that<font color="#CCCCCC"> I create here</font><font color="#E5E5E5"> and I think</font><font color="#CCCCCC"> that</font>
+
+30
+00:01:18,030 --> 00:01:19,890
+<font color="#CCCCCC">comes down to one simple thing that</font><font color="#E5E5E5"> no</font>
+
+31
+00:01:19,890 --> 00:01:21,689
+matter what you're<font color="#E5E5E5"> doing in this room</font>
+
+32
+00:01:21,689 --> 00:01:23,670
+<font color="#E5E5E5">whether you're trying to raise money</font><font color="#CCCCCC"> for</font>
+
+33
+00:01:23,670 --> 00:01:26,220
+a<font color="#CCCCCC"> non-profit or you're trying</font><font color="#E5E5E5"> to sell a</font>
+
+34
+00:01:26,220 --> 00:01:29,369
+<font color="#CCCCCC">syntek product or trying to</font><font color="#E5E5E5"> raise</font>
+
+35
+00:01:29,369 --> 00:01:30,900
+capital for what you're trying<font color="#CCCCCC"> to</font>
+
+36
+00:01:30,900 --> 00:01:33,360
+<font color="#E5E5E5">achieve</font><font color="#CCCCCC"> the one thing</font><font color="#E5E5E5"> that we all trade</font>
+
+37
+00:01:33,360 --> 00:01:36,119
+on in this room<font color="#E5E5E5"> is attention the thing</font>
+
+38
+00:01:36,119 --> 00:01:40,350
+<font color="#E5E5E5">that allows me the luxury to stand here</font>
+
+39
+00:01:40,350 --> 00:01:42,840
+in front<font color="#CCCCCC"> of you guys</font><font color="#E5E5E5"> today is that I</font>
+
+40
+00:01:42,840 --> 00:01:45,720
+have had<font color="#CCCCCC"> a very successful</font><font color="#E5E5E5"> career over</font>
+
+41
+00:01:45,720 --> 00:01:48,540
+the<font color="#E5E5E5"> last 20 years on trading attention</font>
+
+42
+00:01:48,540 --> 00:01:52,649
+basically<font color="#CCCCCC"> all I ever think about is your</font>
+
+43
+00:01:52,649 --> 00:01:55,770
+<font color="#E5E5E5">attention where is it</font><font color="#CCCCCC"> and how do I</font>
+
+44
+00:01:55,770 --> 00:01:59,490
+create<font color="#E5E5E5"> content there to drive whatever</font>
+
+45
+00:01:59,490 --> 00:02:02,250
+I'm trying<font color="#E5E5E5"> to achieve so when I think</font>
+
+46
+00:02:02,250 --> 00:02:04,439
+about the connection point for<font color="#CCCCCC"> this</font>
+
+47
+00:02:04,439 --> 00:02:06,630
+audience<font color="#CCCCCC"> it's predicated on</font><font color="#E5E5E5"> attention</font>
+
+48
+00:02:06,630 --> 00:02:08,580
+<font color="#E5E5E5">where are the eyeballs where are the</font>
+
+49
+00:02:08,580 --> 00:02:11,819
+ears<font color="#CCCCCC"> where are they and how do you</font><font color="#E5E5E5"> trade</font>
+
+50
+00:02:11,819 --> 00:02:13,440
+on<font color="#E5E5E5"> them now the way</font>
+
+51
+00:02:13,440 --> 00:02:15,360
+<font color="#CCCCCC">we trade in the environment we</font><font color="#E5E5E5"> live on</font>
+
+52
+00:02:15,360 --> 00:02:19,020
+<font color="#E5E5E5">today is this is</font><font color="#CCCCCC"> it like</font><font color="#E5E5E5"> anybody who</font>
+
+53
+00:02:19,020 --> 00:02:21,120
+doesn't understand that<font color="#CCCCCC"> this is</font><font color="#E5E5E5"> the</font>
+
+54
+00:02:21,120 --> 00:02:23,430
+<font color="#E5E5E5">single most important thing on earth</font>
+
+55
+00:02:23,430 --> 00:02:26,370
+besides<font color="#CCCCCC"> your health is making enormous</font>
+
+56
+00:02:26,370 --> 00:02:28,710
+enormous mistakes now obviously<font color="#E5E5E5"> that's a</font>
+
+57
+00:02:28,710 --> 00:02:31,320
+hyperbolized statement but if you want
+
+58
+00:02:31,320 --> 00:02:33,990
+to be<font color="#CCCCCC"> relevant</font><font color="#E5E5E5"> if you're sitting in this</font>
+
+59
+00:02:33,990 --> 00:02:36,240
+conference<font color="#E5E5E5"> right now</font><font color="#CCCCCC"> and this</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> not</font>
+
+60
+00:02:36,240 --> 00:02:38,840
+your<font color="#E5E5E5"> religion you're in deep</font><font color="#CCCCCC"> and</font>
+
+61
+00:02:38,840 --> 00:02:41,790
+you're in deep because<font color="#E5E5E5"> every second</font>
+
+62
+00:02:41,790 --> 00:02:44,250
+that goes<font color="#CCCCCC"> by whatever the consumers</font>
+
+63
+00:02:44,250 --> 00:02:46,770
+attention<font color="#CCCCCC"> was on</font><font color="#E5E5E5"> it is</font><font color="#CCCCCC"> going here and</font>
+
+64
+00:02:46,770 --> 00:02:48,480
+will there<font color="#CCCCCC"> be a day</font><font color="#E5E5E5"> when this goes away</font>
+
+65
+00:02:48,480 --> 00:02:52,230
+<font color="#E5E5E5">absolutely but for now it all</font><font color="#CCCCCC"> comes down</font>
+
+66
+00:02:52,230 --> 00:02:54,510
+to trading attention in the reality of
+
+67
+00:02:54,510 --> 00:02:56,670
+<font color="#E5E5E5">the</font><font color="#CCCCCC"> moment we're in</font><font color="#E5E5E5"> and that reality</font>
+
+68
+00:02:56,670 --> 00:02:59,640
+sits on<font color="#E5E5E5"> that device and it sits on</font>
+
+69
+00:02:59,640 --> 00:03:02,040
+platforms that<font color="#E5E5E5"> have</font><font color="#CCCCCC"> been</font><font color="#E5E5E5"> able to become</font>
+
+70
+00:03:02,040 --> 00:03:05,670
+layers on<font color="#CCCCCC"> top of that device and in</font>
+
+71
+00:03:05,670 --> 00:03:07,200
+every<font color="#CCCCCC"> country whether it's mainland</font>
+
+72
+00:03:07,200 --> 00:03:09,180
+China<font color="#CCCCCC"> versus Russia versus the u.s.</font>
+
+73
+00:03:09,180 --> 00:03:12,330
+versus Indonesia<font color="#E5E5E5"> every country is going</font>
+
+74
+00:03:12,330 --> 00:03:14,130
+to<font color="#E5E5E5"> have its dynamics of which three to</font>
+
+75
+00:03:14,130 --> 00:03:16,920
+seven<font color="#CCCCCC"> to nine platforms were able to</font>
+
+76
+00:03:16,920 --> 00:03:19,530
+penetrate and layer themselves on top of
+
+77
+00:03:19,530 --> 00:03:21,450
+here<font color="#E5E5E5"> and then once that is</font><font color="#CCCCCC"> established</font>
+
+78
+00:03:21,450 --> 00:03:24,540
+<font color="#E5E5E5">it is everybody's job in here to</font><font color="#CCCCCC"> produce</font>
+
+79
+00:03:24,540 --> 00:03:28,500
+<font color="#E5E5E5">stories whether in</font><font color="#CCCCCC"> whren audio or video</font>
+
+80
+00:03:28,500 --> 00:03:31,260
+form<font color="#E5E5E5"> to be in those platforms to</font>
+
+81
+00:03:31,260 --> 00:03:33,360
+basically tell your story and you need
+
+82
+00:03:33,360 --> 00:03:36,330
+to<font color="#CCCCCC"> basically explain</font><font color="#E5E5E5"> to me the value</font>
+
+83
+00:03:36,330 --> 00:03:38,580
+prop of what you're<font color="#CCCCCC"> bringing to the</font>
+
+84
+00:03:38,580 --> 00:03:40,680
+<font color="#E5E5E5">table in</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> environment and the big</font>
+
+85
+00:03:40,680 --> 00:03:42,840
+vulnerability is if you've been a
+
+86
+00:03:42,840 --> 00:03:45,989
+marketer or<font color="#E5E5E5"> operator or entrepreneur for</font>
+
+87
+00:03:45,989 --> 00:03:48,690
+<font color="#E5E5E5">the last</font><font color="#CCCCCC"> 20 years like I have the</font>
+
+88
+00:03:48,690 --> 00:03:54,720
+changes in<font color="#E5E5E5"> 1996-1997</font><font color="#CCCCCC"> in the US market I</font>
+
+89
+00:03:54,720 --> 00:03:58,650
+created an e-commerce wine business<font color="#E5E5E5"> that</font>
+
+90
+00:03:58,650 --> 00:04:00,630
+was<font color="#E5E5E5"> smart because other wine stores</font>
+
+91
+00:04:00,630 --> 00:04:02,370
+<font color="#E5E5E5">weren't doing it then there was this</font>
+
+92
+00:04:02,370 --> 00:04:05,550
+thing<font color="#E5E5E5"> called email and I had how many</font>
+
+93
+00:04:05,550 --> 00:04:07,680
+people here<font color="#CCCCCC"> have done</font><font color="#E5E5E5"> email or do email</font>
+
+94
+00:04:07,680 --> 00:04:09,209
+<font color="#E5E5E5">marketing</font><font color="#CCCCCC"> for their business raise your</font>
+
+95
+00:04:09,209 --> 00:04:13,880
+hand<font color="#CCCCCC"> high raise</font><font color="#E5E5E5"> high don't be shy great</font>
+
+96
+00:04:13,880 --> 00:04:16,140
+so for<font color="#E5E5E5"> some</font><font color="#CCCCCC"> of us</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> have been doing</font>
+
+97
+00:04:16,140 --> 00:04:19,140
+it for<font color="#CCCCCC"> a little bit</font><font color="#E5E5E5"> longer</font><font color="#CCCCCC"> in 1997</font><font color="#E5E5E5"> I had</font>
+
+98
+00:04:19,140 --> 00:04:22,770
+<font color="#CCCCCC">90</font><font color="#E5E5E5"> percent open rates on a</font><font color="#CCCCCC"> 200 thousand</font>
+
+99
+00:04:22,770 --> 00:04:24,670
+person email newsletter
+
+100
+00:04:24,670 --> 00:04:26,530
+<font color="#E5E5E5">it wasn't because the email was so</font>
+
+101
+00:04:26,530 --> 00:04:28,450
+incredible<font color="#E5E5E5"> all I wanted to do was sell</font>
+
+102
+00:04:28,450 --> 00:04:31,570
+<font color="#E5E5E5">you Bordeaux it was that nobody else was</font>
+
+103
+00:04:31,570 --> 00:04:34,420
+<font color="#E5E5E5">doing</font><font color="#CCCCCC"> it and so the attention arbitrage</font>
+
+104
+00:04:34,420 --> 00:04:38,110
+was in my<font color="#CCCCCC"> favor if you read email</font><font color="#E5E5E5"> in the</font>
+
+105
+00:04:38,110 --> 00:04:39,850
+late 90s<font color="#E5E5E5"> there's a lot of</font><font color="#CCCCCC"> youngsters</font>
+
+106
+00:04:39,850 --> 00:04:43,390
+here<font color="#E5E5E5"> if you read</font><font color="#CCCCCC"> email in 1997 you read</font>
+
+107
+00:04:43,390 --> 00:04:49,300
+them all<font color="#CCCCCC"> and so that was my</font><font color="#E5E5E5"> first foray</font>
+
+108
+00:04:49,300 --> 00:04:51,430
+in getting an arbitrage then Google
+
+109
+00:04:51,430 --> 00:04:54,460
+AdWords came out and I bought<font color="#E5E5E5"> every wine</font>
+
+110
+00:04:54,460 --> 00:04:57,010
+term on Google<font color="#CCCCCC"> for five cents a click</font>
+
+111
+00:04:57,010 --> 00:04:58,900
+<font color="#E5E5E5">and Google</font><font color="#CCCCCC"> AdWords were grossly</font>
+
+112
+00:04:58,900 --> 00:05:01,930
+underpriced<font color="#CCCCCC"> the market underpriced the</font>
+
+113
+00:05:01,930 --> 00:05:04,510
+<font color="#E5E5E5">attention of people searching</font><font color="#CCCCCC"> for</font>
+
+114
+00:05:04,510 --> 00:05:06,460
+products<font color="#E5E5E5"> on Google or services or</font>
+
+115
+00:05:06,460 --> 00:05:08,260
+information<font color="#E5E5E5"> and I was able to make an</font>
+
+116
+00:05:08,260 --> 00:05:10,300
+arbitrage there and then it was<font color="#E5E5E5"> YouTube</font>
+
+117
+00:05:10,300 --> 00:05:12,310
+and then it was<font color="#E5E5E5"> Twitter and then it was</font>
+
+118
+00:05:12,310 --> 00:05:15,490
+Facebook<font color="#E5E5E5"> and an Instagram and it</font><font color="#CCCCCC"> done</font>
+
+119
+00:05:15,490 --> 00:05:18,670
+<font color="#CCCCCC">punchline</font><font color="#E5E5E5"> being very simple if you are</font>
+
+120
+00:05:18,670 --> 00:05:20,590
+not sitting<font color="#E5E5E5"> and debating on an everyday</font>
+
+121
+00:05:20,590 --> 00:05:25,150
+basis on how<font color="#CCCCCC"> you as a human</font><font color="#E5E5E5"> or as a</font>
+
+122
+00:05:25,150 --> 00:05:28,150
+<font color="#E5E5E5">company act like a modern day media</font>
+
+123
+00:05:28,150 --> 00:05:31,900
+publisher how you communicate whether in
+
+124
+00:05:31,900 --> 00:05:34,780
+<font color="#E5E5E5">written audio or video form and then</font>
+
+125
+00:05:34,780 --> 00:05:36,760
+which platforms are under priced and
+
+126
+00:05:36,760 --> 00:05:39,400
+<font color="#E5E5E5">overpriced</font><font color="#CCCCCC"> you're basing missing the</font>
+
+127
+00:05:39,400 --> 00:05:39,880
+punchline
+
+128
+00:05:39,880 --> 00:05:42,220
+it doesn't<font color="#E5E5E5"> matter how good bad or</font>
+
+129
+00:05:42,220 --> 00:05:44,230
+indifferent<font color="#CCCCCC"> your</font><font color="#E5E5E5"> products or services if</font>
+
+130
+00:05:44,230 --> 00:05:45,790
+nobody knows<font color="#CCCCCC"> about it</font>
+
+131
+00:05:45,790 --> 00:05:48,370
+you are<font color="#CCCCCC"> vulnerable and the thing that</font>
+
+132
+00:05:48,370 --> 00:05:51,130
+I'm curious<font color="#E5E5E5"> about is where everybody in</font>
+
+133
+00:05:51,130 --> 00:05:53,800
+this room is<font color="#E5E5E5"> on their lifecycle because</font>
+
+134
+00:05:53,800 --> 00:05:55,540
+if you've had success for three or<font color="#CCCCCC"> four</font>
+
+135
+00:05:55,540 --> 00:05:57,580
+<font color="#CCCCCC">years</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> might</font><font color="#E5E5E5"> have fallen in love</font><font color="#CCCCCC"> with</font>
+
+136
+00:05:57,580 --> 00:06:00,400
+<font color="#CCCCCC">what got you here the</font><font color="#E5E5E5"> biggest concern I</font>
+
+137
+00:06:00,400 --> 00:06:01,750
+have and<font color="#CCCCCC"> I see some heads nodding</font>
+
+138
+00:06:01,750 --> 00:06:05,040
+<font color="#E5E5E5">already is what</font><font color="#CCCCCC"> god you hear today</font><font color="#E5E5E5"> is</font>
+
+139
+00:06:05,040 --> 00:06:07,360
+<font color="#E5E5E5">always the thing that's not going to get</font>
+
+140
+00:06:07,360 --> 00:06:10,000
+<font color="#E5E5E5">you to tomorrow the problem is for</font>
+
+141
+00:06:10,000 --> 00:06:12,100
+<font color="#E5E5E5">anybody</font><font color="#CCCCCC"> that's had any level of success</font>
+
+142
+00:06:12,100 --> 00:06:15,250
+<font color="#CCCCCC">you become very romantic</font><font color="#E5E5E5"> and you fall in</font>
+
+143
+00:06:15,250 --> 00:06:17,320
+love with<font color="#CCCCCC"> the maneuver that got you here</font>
+
+144
+00:06:17,320 --> 00:06:21,280
+<font color="#CCCCCC">and so I have been fascinated and now as</font>
+
+145
+00:06:21,280 --> 00:06:24,490
+I project<font color="#E5E5E5"> the next two decades</font><font color="#CCCCCC"> it's</font>
+
+146
+00:06:24,490 --> 00:06:27,400
+<font color="#E5E5E5">fascinating how quickly our attention</font>
+
+147
+00:06:27,400 --> 00:06:30,700
+shifts for example for me if you<font color="#CCCCCC"> ask</font><font color="#E5E5E5"> me</font>
+
+148
+00:06:30,700 --> 00:06:31,090
+<font color="#E5E5E5">today</font>
+
+149
+00:06:31,090 --> 00:06:34,330
+<font color="#E5E5E5">what am I most paying attention to where</font>
+
+150
+00:06:34,330 --> 00:06:36,150
+do I see the<font color="#CCCCCC"> next arbic</font>
+
+151
+00:06:36,150 --> 00:06:39,960
+it's absolutely around<font color="#E5E5E5"> audio</font><font color="#CCCCCC"> I am</font>
+
+152
+00:06:39,960 --> 00:06:42,360
+<font color="#E5E5E5">obsessed with what's going in the</font><font color="#CCCCCC"> US</font>
+
+153
+00:06:42,360 --> 00:06:45,000
+<font color="#E5E5E5">market not only</font><font color="#CCCCCC"> around podcasts and this</font>
+
+154
+00:06:45,000 --> 00:06:48,419
+is<font color="#E5E5E5"> global</font><font color="#CCCCCC"> but especially</font><font color="#E5E5E5"> around</font><font color="#CCCCCC"> what's</font>
+
+155
+00:06:48,419 --> 00:06:51,660
+going<font color="#CCCCCC"> on with Alexa from Amazon Google</font>
+
+156
+00:06:51,660 --> 00:06:55,260
+<font color="#CCCCCC">home and the future Apple home pod when</font>
+
+157
+00:06:55,260 --> 00:06:58,320
+you think about<font color="#E5E5E5"> sound</font><font color="#CCCCCC"> you know one of</font>
+
+158
+00:06:58,320 --> 00:07:00,210
+the great mistakes<font color="#E5E5E5"> of my career was</font>
+
+159
+00:07:00,210 --> 00:07:03,330
+passing on the uber angel round at<font color="#E5E5E5"> four</font>
+
+160
+00:07:03,330 --> 00:07:06,479
+million<font color="#E5E5E5"> dollar valuation</font><font color="#CCCCCC"> twice when I</font>
+
+161
+00:07:06,479 --> 00:07:08,460
+<font color="#E5E5E5">later invested when it was a 50 million</font>
+
+162
+00:07:08,460 --> 00:07:11,760
+dollar<font color="#CCCCCC"> valuation the reason I invested</font>
+
+163
+00:07:11,760 --> 00:07:13,830
+was not because I saw anything<font color="#E5E5E5"> other</font>
+
+164
+00:07:13,830 --> 00:07:16,169
+than I realized that uber was selling
+
+165
+00:07:16,169 --> 00:07:20,400
+time not<font color="#E5E5E5"> transportation the one thing I</font>
+
+166
+00:07:20,400 --> 00:07:22,350
+<font color="#E5E5E5">promise you is that every single person</font>
+
+167
+00:07:22,350 --> 00:07:24,180
+<font color="#CCCCCC">here besides the</font><font color="#E5E5E5"> health and well-being</font>
+
+168
+00:07:24,180 --> 00:07:27,510
+of their family and money values<font color="#E5E5E5"> time</font>
+
+169
+00:07:27,510 --> 00:07:31,080
+and time is<font color="#E5E5E5"> emerging very quickly</font><font color="#CCCCCC"> if you</font>
+
+170
+00:07:31,080 --> 00:07:33,000
+take<font color="#CCCCCC"> a look and this</font><font color="#E5E5E5"> is extremely</font>
+
+171
+00:07:33,000 --> 00:07:34,889
+prevalent<font color="#E5E5E5"> through the Asian market</font>
+
+172
+00:07:34,889 --> 00:07:37,139
+<font color="#E5E5E5">European</font><font color="#CCCCCC"> markets</font><font color="#E5E5E5"> South American market</font>
+
+173
+00:07:37,139 --> 00:07:41,039
+US market<font color="#E5E5E5"> x value is exceeding on an</font>
+
+174
+00:07:41,039 --> 00:07:43,830
+<font color="#E5E5E5">everyday basis</font><font color="#CCCCCC"> as we become more busy we</font>
+
+175
+00:07:43,830 --> 00:07:45,740
+start valuing time tremendously
+
+176
+00:07:45,740 --> 00:07:49,349
+tremendously<font color="#E5E5E5"> that is what uber and other</font>
+
+177
+00:07:49,349 --> 00:07:51,930
+transportation apps<font color="#E5E5E5"> have</font><font color="#CCCCCC"> traded on</font><font color="#E5E5E5"> it's</font>
+
+178
+00:07:51,930 --> 00:07:54,240
+saving<font color="#CCCCCC"> you time</font><font color="#E5E5E5"> even the perception of</font>
+
+179
+00:07:54,240 --> 00:07:57,360
+<font color="#CCCCCC">time is</font><font color="#E5E5E5"> a good business model but</font><font color="#CCCCCC"> the</font>
+
+180
+00:07:57,360 --> 00:07:59,310
+thing<font color="#CCCCCC"> that I think</font><font color="#E5E5E5"> I'm very</font><font color="#CCCCCC"> fascinated</font>
+
+181
+00:07:59,310 --> 00:08:02,729
+<font color="#CCCCCC">by is how much sound and</font><font color="#E5E5E5"> audio will</font><font color="#CCCCCC"> be</font>
+
+182
+00:08:02,729 --> 00:08:06,150
+selling back to you time founded<font color="#E5E5E5"> that</font>
+
+183
+00:08:06,150 --> 00:08:08,400
+<font color="#E5E5E5">you used to not have when you watch a</font>
+
+184
+00:08:08,400 --> 00:08:10,380
+video which I think we<font color="#E5E5E5"> can all agree</font>
+
+185
+00:08:10,380 --> 00:08:13,199
+video content is scaling and<font color="#CCCCCC"> importance</font>
+
+186
+00:08:13,199 --> 00:08:15,750
+that<font color="#E5E5E5"> is absolutely in the prime of its</font>
+
+187
+00:08:15,750 --> 00:08:18,180
+medium right now when you're<font color="#CCCCCC"> looking at</font>
+
+188
+00:08:18,180 --> 00:08:21,000
+video it<font color="#CCCCCC"> is taking up your time audio is</font>
+
+189
+00:08:21,000 --> 00:08:24,510
+incredibly passive<font color="#CCCCCC"> and you are able to</font>
+
+190
+00:08:24,510 --> 00:08:26,220
+multitask<font color="#CCCCCC"> the other thing that is</font>
+
+191
+00:08:26,220 --> 00:08:28,410
+extremely<font color="#E5E5E5"> fascinating to me</font><font color="#CCCCCC"> is the first</font>
+
+192
+00:08:28,410 --> 00:08:30,840
+five to seven<font color="#E5E5E5"> minutes of every person</font>
+
+193
+00:08:30,840 --> 00:08:33,390
+<font color="#E5E5E5">hears morning and when I think about the</font>
+
+194
+00:08:33,390 --> 00:08:36,360
+potential<font color="#E5E5E5"> of sound devices interacting</font>
+
+195
+00:08:36,360 --> 00:08:38,580
+<font color="#E5E5E5">with us and giving us our briefings or</font>
+
+196
+00:08:38,580 --> 00:08:41,370
+<font color="#E5E5E5">our 10 things we need to</font><font color="#CCCCCC"> know</font><font color="#E5E5E5"> the reason</font>
+
+197
+00:08:41,370 --> 00:08:45,600
+I<font color="#CCCCCC"> choose</font><font color="#E5E5E5"> rise Hong Kong crowd the reason</font>
+
+198
+00:08:45,600 --> 00:08:49,170
+I chose to<font color="#CCCCCC"> focus on sound right away is</font>
+
+199
+00:08:49,170 --> 00:08:49,560
+I
+
+200
+00:08:49,560 --> 00:08:52,140
+obsessed<font color="#E5E5E5"> with figuring out how do I</font>
+
+201
+00:08:52,140 --> 00:08:54,090
+bring value while I stand<font color="#E5E5E5"> up here</font><font color="#CCCCCC"> today</font>
+
+202
+00:08:54,090 --> 00:08:57,330
+<font color="#E5E5E5">I'm aware and see very early clear</font>
+
+203
+00:08:57,330 --> 00:09:00,240
+indications by consumer behavior that<font color="#E5E5E5"> no</font>
+
+204
+00:09:00,240 --> 00:09:01,560
+<font color="#E5E5E5">matter what's going on with your</font>
+
+205
+00:09:01,560 --> 00:09:03,120
+<font color="#E5E5E5">business now whether you are the leader</font>
+
+206
+00:09:03,120 --> 00:09:05,730
+or<font color="#E5E5E5"> you are somebody who's trying to win</font>
+
+207
+00:09:05,730 --> 00:09:09,540
+<font color="#E5E5E5">marketplace the great flaw</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> so many</font>
+
+208
+00:09:09,540 --> 00:09:11,970
+businesses and<font color="#E5E5E5"> individuals here is they</font>
+
+209
+00:09:11,970 --> 00:09:14,730
+spend so much time trying<font color="#CCCCCC"> to catch up in</font>
+
+210
+00:09:14,730 --> 00:09:18,000
+the current game<font color="#E5E5E5"> they don't spend enough</font>
+
+211
+00:09:18,000 --> 00:09:20,250
+time anticipating the next<font color="#E5E5E5"> game and</font>
+
+212
+00:09:20,250 --> 00:09:22,020
+being a first mover one of the great
+
+213
+00:09:22,020 --> 00:09:25,260
+things about the era of social<font color="#E5E5E5"> media is</font>
+
+214
+00:09:25,260 --> 00:09:29,150
+if you sucked<font color="#E5E5E5"> at YouTube or Facebook</font>
+
+215
+00:09:29,150 --> 00:09:31,589
+<font color="#E5E5E5">inevitably snapchat and Instagram</font><font color="#CCCCCC"> are</font>
+
+216
+00:09:31,589 --> 00:09:34,020
+coming next<font color="#CCCCCC"> it's the great thing it's</font>
+
+217
+00:09:34,020 --> 00:09:37,710
+the<font color="#E5E5E5"> terrible thing it sucks having</font><font color="#CCCCCC"> a 20</font>
+
+218
+00:09:37,710 --> 00:09:39,060
+<font color="#E5E5E5">year career where you've been</font><font color="#CCCCCC"> write a</font>
+
+219
+00:09:39,060 --> 00:09:41,490
+lot and<font color="#E5E5E5"> you</font><font color="#CCCCCC"> know that it</font><font color="#E5E5E5"> only lasts for</font>
+
+220
+00:09:41,490 --> 00:09:43,350
+a little bit and that<font color="#E5E5E5"> something will</font>
+
+221
+00:09:43,350 --> 00:09:45,060
+emerge that<font color="#E5E5E5"> you have to be right about</font>
+
+222
+00:09:45,060 --> 00:09:47,640
+again because you will be armed out of
+
+223
+00:09:47,640 --> 00:09:49,410
+your leadership<font color="#E5E5E5"> role because the</font>
+
+224
+00:09:49,410 --> 00:09:51,600
+attention<font color="#E5E5E5"> of our consumer will shift</font>
+
+225
+00:09:51,600 --> 00:09:54,839
+it's exciting because<font color="#E5E5E5"> you</font><font color="#CCCCCC"> always know</font>
+
+226
+00:09:54,839 --> 00:09:56,790
+that<font color="#E5E5E5"> if</font><font color="#CCCCCC"> you struggled with the current</font>
+
+227
+00:09:56,790 --> 00:09:59,670
+landscape<font color="#CCCCCC"> you</font><font color="#E5E5E5"> have another chance in 24</font>
+
+228
+00:09:59,670 --> 00:10:02,250
+or 36<font color="#E5E5E5"> months as our attention continues</font>
+
+229
+00:10:02,250 --> 00:10:06,450
+to shift<font color="#E5E5E5"> what is always true and forever</font>
+
+230
+00:10:06,450 --> 00:10:10,530
+true is that quality<font color="#E5E5E5"> content will always</font>
+
+231
+00:10:10,530 --> 00:10:12,720
+have a competitive<font color="#CCCCCC"> advantage</font><font color="#E5E5E5"> what is</font>
+
+232
+00:10:12,720 --> 00:10:16,080
+completely misunderstood is you don't
+
+233
+00:10:16,080 --> 00:10:18,650
+get to<font color="#CCCCCC"> be</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> judge of quality</font><font color="#E5E5E5"> content</font>
+
+234
+00:10:18,650 --> 00:10:24,030
+the audacity of the media or thought
+
+235
+00:10:24,030 --> 00:10:26,820
+leaders or successful individuals or
+
+236
+00:10:26,820 --> 00:10:29,850
+just a person that<font color="#CCCCCC"> they get to judge</font>
+
+237
+00:10:29,850 --> 00:10:32,459
+what<font color="#CCCCCC"> is quality content has been the</font>
+
+238
+00:10:32,459 --> 00:10:35,370
+<font color="#CCCCCC">opening that so many people can</font><font color="#E5E5E5"> take</font>
+
+239
+00:10:35,370 --> 00:10:39,690
+<font color="#CCCCCC">advantage of content</font><font color="#E5E5E5"> is subjective the</font>
+
+240
+00:10:39,690 --> 00:10:43,140
+market decides what's good and<font color="#E5E5E5"> bad not</font>
+
+241
+00:10:43,140 --> 00:10:45,779
+you pondering what's good and<font color="#E5E5E5"> bad over a</font>
+
+242
+00:10:45,779 --> 00:10:48,660
+beer with<font color="#E5E5E5"> your best friends so we need</font>
+
+243
+00:10:48,660 --> 00:10:50,670
+to spend a lot less<font color="#E5E5E5"> time debating</font>
+
+244
+00:10:50,670 --> 00:10:53,370
+quality and we need to start<font color="#E5E5E5"> thinking</font><font color="#CCCCCC"> a</font>
+
+245
+00:10:53,370 --> 00:10:55,730
+lot<font color="#CCCCCC"> more about clear indicators that</font>
+
+246
+00:10:55,730 --> 00:10:59,190
+<font color="#E5E5E5">quantity</font><font color="#CCCCCC"> and distribution</font><font color="#E5E5E5"> really really</font>
+
+247
+00:10:59,190 --> 00:11:01,410
+matter if you were an artist<font color="#CCCCCC"> that</font>
+
+248
+00:11:01,410 --> 00:11:02,470
+produces<font color="#E5E5E5"> music</font>
+
+249
+00:11:02,470 --> 00:11:06,070
+it is now<font color="#E5E5E5"> only practical to produce a</font>
+
+250
+00:11:06,070 --> 00:11:08,230
+new song<font color="#CCCCCC"> every</font><font color="#E5E5E5"> week and put it on</font>
+
+251
+00:11:08,230 --> 00:11:10,480
+<font color="#E5E5E5">soundcloud and</font><font color="#CCCCCC"> spotify on every platform</font>
+
+252
+00:11:10,480 --> 00:11:13,570
+that you<font color="#CCCCCC"> can and so the thing that</font><font color="#E5E5E5"> I'm</font>
+
+253
+00:11:13,570 --> 00:11:15,610
+trying<font color="#E5E5E5"> to force down energy-wise</font>
+
+254
+00:11:15,610 --> 00:11:18,400
+in this keynote is the<font color="#E5E5E5"> following number</font>
+
+255
+00:11:18,400 --> 00:11:21,070
+one<font color="#CCCCCC"> no matter</font><font color="#E5E5E5"> what you do</font><font color="#CCCCCC"> for a living</font>
+
+256
+00:11:21,070 --> 00:11:24,250
+you need to think<font color="#CCCCCC"> of</font><font color="#E5E5E5"> yourself</font><font color="#CCCCCC"> as a media</font>
+
+257
+00:11:24,250 --> 00:11:26,740
+company<font color="#E5E5E5"> your</font><font color="#CCCCCC"> company if you were a SAS</font>
+
+258
+00:11:26,740 --> 00:11:30,280
+tech you are a media company<font color="#E5E5E5"> comma SAS</font>
+
+259
+00:11:30,280 --> 00:11:33,100
+<font color="#CCCCCC">tech</font><font color="#E5E5E5"> if you are a consumer social</font>
+
+260
+00:11:33,100 --> 00:11:35,970
+network you<font color="#CCCCCC"> are a media company</font><font color="#E5E5E5"> comma</font>
+
+261
+00:11:35,970 --> 00:11:39,160
+<font color="#E5E5E5">social network if you</font><font color="#CCCCCC"> are a human being</font>
+
+262
+00:11:39,160 --> 00:11:42,610
+<font color="#CCCCCC">you are a media company comma</font><font color="#E5E5E5"> human</font>
+
+263
+00:11:42,610 --> 00:11:44,290
+being<font color="#E5E5E5"> when you wrap your head around</font>
+
+264
+00:11:44,290 --> 00:11:47,260
+that<font color="#E5E5E5"> you start</font><font color="#CCCCCC"> understanding</font><font color="#E5E5E5"> what you</font>
+
+265
+00:11:47,260 --> 00:11:49,690
+should be<font color="#E5E5E5"> doing which is in your natural</font>
+
+266
+00:11:49,690 --> 00:11:53,140
+<font color="#CCCCCC">way producing</font><font color="#E5E5E5"> stories for people</font><font color="#CCCCCC"> to</font>
+
+267
+00:11:53,140 --> 00:11:55,330
+consume<font color="#E5E5E5"> to bring</font><font color="#CCCCCC"> awareness to what you</font>
+
+268
+00:11:55,330 --> 00:11:57,100
+do let me explain
+
+269
+00:11:57,100 --> 00:11:59,440
+number one you<font color="#CCCCCC"> have</font><font color="#E5E5E5"> to figure out which</font>
+
+270
+00:11:59,440 --> 00:12:02,860
+medium<font color="#CCCCCC"> /</font><font color="#E5E5E5"> indexes for you so many people</font>
+
+271
+00:12:02,860 --> 00:12:05,350
+are trying to<font color="#E5E5E5"> be something that they</font>
+
+272
+00:12:05,350 --> 00:12:07,930
+think is emerging<font color="#E5E5E5"> like a deal guys dear</font>
+
+273
+00:12:07,930 --> 00:12:11,200
+hard it is to live<font color="#E5E5E5"> stream</font><font color="#CCCCCC"> and keep</font>
+
+274
+00:12:11,200 --> 00:12:14,740
+people's attention<font color="#E5E5E5"> like it is difficult</font>
+
+275
+00:12:14,740 --> 00:12:17,500
+<font color="#E5E5E5">to be good enough on live video that's</font>
+
+276
+00:12:17,500 --> 00:12:19,840
+worth watching<font color="#CCCCCC"> and keeping people</font><font color="#E5E5E5"> there</font>
+
+277
+00:12:19,840 --> 00:12:22,120
+<font color="#E5E5E5">that takes an enormous amount</font><font color="#CCCCCC"> of skill</font>
+
+278
+00:12:22,120 --> 00:12:25,180
+<font color="#E5E5E5">so instead of worrying that video is</font>
+
+279
+00:12:25,180 --> 00:12:28,420
+emerging<font color="#CCCCCC"> because nobody nobody</font><font color="#E5E5E5"> 36 months</font>
+
+280
+00:12:28,420 --> 00:12:29,890
+ago said you know<font color="#E5E5E5"> what's going to get</font>
+
+281
+00:12:29,890 --> 00:12:34,630
+cool again<font color="#CCCCCC"> radio nobody saw</font><font color="#E5E5E5"> serial or</font>
+
+282
+00:12:34,630 --> 00:12:37,120
+podcast emerging at<font color="#E5E5E5"> the level globally</font>
+
+283
+00:12:37,120 --> 00:12:40,120
+<font color="#E5E5E5">that we've seen so one thing I can</font>
+
+284
+00:12:40,120 --> 00:12:41,740
+promise<font color="#CCCCCC"> you is nothing</font><font color="#E5E5E5"> new is going to</font>
+
+285
+00:12:41,740 --> 00:12:44,220
+happen the same mediums of communication
+
+286
+00:12:44,220 --> 00:12:46,840
+<font color="#E5E5E5">which are the framework</font><font color="#CCCCCC"> to awareness to</font>
+
+287
+00:12:46,840 --> 00:12:48,760
+any<font color="#E5E5E5"> product/service movement or anything</font>
+
+288
+00:12:48,760 --> 00:12:50,620
+else<font color="#CCCCCC"> will always stay the same what you</font>
+
+289
+00:12:50,620 --> 00:12:52,870
+<font color="#CCCCCC">need to do and your organization need to</font>
+
+290
+00:12:52,870 --> 00:12:55,180
+do is figure out<font color="#CCCCCC"> are you a writer</font>
+
+291
+00:12:55,180 --> 00:12:59,470
+are you a voice are you<font color="#CCCCCC"> a video producer</font>
+
+292
+00:12:59,470 --> 00:13:01,810
+<font color="#E5E5E5">and then really start focusing on that</font>
+
+293
+00:13:01,810 --> 00:13:04,390
+<font color="#CCCCCC">and the contextual platforms that allow</font>
+
+294
+00:13:04,390 --> 00:13:07,030
+<font color="#CCCCCC">you to distribute that message this</font><font color="#E5E5E5"> is</font>
+
+295
+00:13:07,030 --> 00:13:09,040
+<font color="#CCCCCC">the game and</font><font color="#E5E5E5"> this</font><font color="#CCCCCC"> game is not changing</font>
+
+296
+00:13:09,040 --> 00:13:10,690
+this game will<font color="#E5E5E5"> not change when</font><font color="#CCCCCC"> we go</font>
+
+297
+00:13:10,690 --> 00:13:13,210
+into an<font color="#CCCCCC"> augmented virtual reality world</font>
+
+298
+00:13:13,210 --> 00:13:15,580
+<font color="#CCCCCC">this</font><font color="#E5E5E5"> game</font><font color="#CCCCCC"> will</font><font color="#E5E5E5"> not change this is Hugh</font>
+
+299
+00:13:15,580 --> 00:13:18,040
+communication<font color="#E5E5E5"> the people that drew the</font>
+
+300
+00:13:18,040 --> 00:13:21,040
+best pictures in caves<font color="#CCCCCC"> won</font><font color="#E5E5E5"> the guy who</font>
+
+301
+00:13:21,040 --> 00:13:23,200
+did the<font color="#E5E5E5"> best smoke signals on a</font>
+
+302
+00:13:23,200 --> 00:13:26,470
+<font color="#CCCCCC">mountain</font><font color="#E5E5E5"> one and it's tried</font><font color="#CCCCCC"> and true</font>
+
+303
+00:13:26,470 --> 00:13:28,510
+over and<font color="#E5E5E5"> over again the</font><font color="#CCCCCC"> only thing that</font>
+
+304
+00:13:28,510 --> 00:13:30,910
+changes is<font color="#E5E5E5"> the mediums and the thing</font>
+
+305
+00:13:30,910 --> 00:13:32,590
+<font color="#CCCCCC">that everybody</font><font color="#E5E5E5"> has to</font><font color="#CCCCCC"> focus</font><font color="#E5E5E5"> on is not</font>
+
+306
+00:13:32,590 --> 00:13:33,700
+<font color="#E5E5E5">content</font>
+
+307
+00:13:33,700 --> 00:13:35,770
+everybody talks about content<font color="#E5E5E5"> is king</font>
+
+308
+00:13:35,770 --> 00:13:38,230
+<font color="#E5E5E5">meanwhile everybody is missing</font><font color="#CCCCCC"> that</font>
+
+309
+00:13:38,230 --> 00:13:42,310
+context is the<font color="#CCCCCC"> queen</font><font color="#E5E5E5"> and she runs the</font>
+
+310
+00:13:42,310 --> 00:13:45,430
+ household<font color="#E5E5E5"> and what we are not</font>
+
+311
+00:13:45,430 --> 00:13:48,280
+<font color="#E5E5E5">doing is respecting context enough in</font>
+
+312
+00:13:48,280 --> 00:13:50,500
+the current landscape<font color="#E5E5E5"> of communication</font>
+
+313
+00:13:50,500 --> 00:13:53,650
+and<font color="#E5E5E5"> that is where the magic sits</font><font color="#CCCCCC"> I have</font>
+
+314
+00:13:53,650 --> 00:13:55,930
+been able<font color="#E5E5E5"> to over index when I audited</font>
+
+315
+00:13:55,930 --> 00:13:58,180
+<font color="#E5E5E5">leases that are able</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> over index</font><font color="#CCCCCC"> they</font>
+
+316
+00:13:58,180 --> 00:14:00,670
+are respecting the context they don't
+
+317
+00:14:00,670 --> 00:14:02,470
+dismiss<font color="#CCCCCC"> hashtags</font>
+
+318
+00:14:02,470 --> 00:14:05,050
+<font color="#E5E5E5">they don't dismiss filters they don't</font>
+
+319
+00:14:05,050 --> 00:14:07,360
+dismiss the nuance<font color="#E5E5E5"> of how long is the</font>
+
+320
+00:14:07,360 --> 00:14:08,500
+read on medium
+
+321
+00:14:08,500 --> 00:14:10,090
+they don't dismiss the first<font color="#E5E5E5"> three</font>
+
+322
+00:14:10,090 --> 00:14:11,920
+seconds<font color="#E5E5E5"> of a YouTube video they don't</font>
+
+323
+00:14:11,920 --> 00:14:14,110
+dismiss<font color="#E5E5E5"> they don't dismiss they don't</font>
+
+324
+00:14:14,110 --> 00:14:17,170
+dismiss<font color="#E5E5E5"> I see a Facebook post</font><font color="#CCCCCC"> I see a</font>
+
+325
+00:14:17,170 --> 00:14:21,040
+<font color="#E5E5E5">post I analyze every piece of word in</font>
+
+326
+00:14:21,040 --> 00:14:23,500
+the copy the screenshot that<font color="#E5E5E5"> is the</font>
+
+327
+00:14:23,500 --> 00:14:26,740
+default<font color="#E5E5E5"> the engagement</font><font color="#CCCCCC"> all of it all of</font>
+
+328
+00:14:26,740 --> 00:14:29,740
+it matters and communication is what
+
+329
+00:14:29,740 --> 00:14:31,660
+<font color="#E5E5E5">brings awareness to what you have the</font>
+
+330
+00:14:31,660 --> 00:14:35,980
+best<font color="#E5E5E5"> way</font><font color="#CCCCCC"> to sell my friends is to have</font>
+
+331
+00:14:35,980 --> 00:14:39,010
+it come to you the<font color="#E5E5E5"> best way to have</font><font color="#CCCCCC"> it</font>
+
+332
+00:14:39,010 --> 00:14:41,620
+come to you is to produce<font color="#E5E5E5"> something</font><font color="#CCCCCC"> that</font>
+
+333
+00:14:41,620 --> 00:14:43,470
+<font color="#E5E5E5">is relevant to</font><font color="#CCCCCC"> your audience and</font>
+
+334
+00:14:43,470 --> 00:14:46,450
+understand how<font color="#CCCCCC"> to distribute</font><font color="#E5E5E5"> it and so</font>
+
+335
+00:14:46,450 --> 00:14:48,370
+that<font color="#CCCCCC"> is</font><font color="#E5E5E5"> the punchline</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> mean I'm going</font>
+
+336
+00:14:48,370 --> 00:14:50,230
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> be raw for a few minutes</font><font color="#E5E5E5"> I'll come</font>
+
+337
+00:14:50,230 --> 00:14:52,480
+back to it but<font color="#E5E5E5"> I want</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> try to check</font><font color="#CCCCCC"> a</font>
+
+338
+00:14:52,480 --> 00:14:55,000
+<font color="#E5E5E5">couple of</font><font color="#CCCCCC"> boxes here</font><font color="#E5E5E5"> while I'm here I</font>
+
+339
+00:14:55,000 --> 00:14:56,710
+want<font color="#CCCCCC"> to speak to the how</font><font color="#E5E5E5"> many people</font>
+
+340
+00:14:56,710 --> 00:14:58,570
+here are entrepreneurs and run their own
+
+341
+00:14:58,570 --> 00:15:02,740
+business raise your hands<font color="#E5E5E5"> perfect</font><font color="#CCCCCC"> I want</font>
+
+342
+00:15:02,740 --> 00:15:05,110
+<font color="#CCCCCC">to speak about this for a second</font><font color="#E5E5E5"> I think</font>
+
+343
+00:15:05,110 --> 00:15:07,030
+there's a couple<font color="#E5E5E5"> things I'd love you</font>
+
+344
+00:15:07,030 --> 00:15:08,770
+know<font color="#E5E5E5"> one man's point of view</font><font color="#CCCCCC"> just a</font>
+
+345
+00:15:08,770 --> 00:15:10,510
+couple of random<font color="#E5E5E5"> thoughts</font><font color="#CCCCCC"> number one one</font>
+
+346
+00:15:10,510 --> 00:15:15,400
+more<font color="#E5E5E5"> time entrepreneurs we have it so</font>
+
+347
+00:15:15,400 --> 00:15:19,270
+<font color="#E5E5E5">good this is the</font><font color="#CCCCCC"> greatest era of</font>
+
+348
+00:15:19,270 --> 00:15:22,300
+entrepreneurship<font color="#E5E5E5"> ever I want you to</font>
+
+349
+00:15:22,300 --> 00:15:24,250
+<font color="#E5E5E5">realize</font><font color="#CCCCCC"> how grateful you</font><font color="#E5E5E5"> should be</font>
+
+350
+00:15:24,250 --> 00:15:26,170
+<font color="#E5E5E5">because your grandparents and your</font>
+
+351
+00:15:26,170 --> 00:15:27,620
+great-grandparents didn't
+
+352
+00:15:27,620 --> 00:15:30,350
+have it this good<font color="#E5E5E5"> the practicality</font><font color="#CCCCCC"> of</font>
+
+353
+00:15:30,350 --> 00:15:33,140
+what the guys<font color="#E5E5E5"> we are under estimating</font>
+
+354
+00:15:33,140 --> 00:15:35,870
+<font color="#E5E5E5">the Internet to a level that would blow</font>
+
+355
+00:15:35,870 --> 00:15:37,370
+<font color="#CCCCCC">your mind off the internet</font><font color="#E5E5E5"> is the</font>
+
+356
+00:15:37,370 --> 00:15:40,400
+<font color="#CCCCCC">greatest thing that has ever happened</font><font color="#E5E5E5"> to</font>
+
+357
+00:15:40,400 --> 00:15:42,490
+the human<font color="#E5E5E5"> race</font><font color="#CCCCCC"> people will be</font>
+
+358
+00:15:42,490 --> 00:15:44,750
+<font color="#CCCCCC">pessimistic about</font><font color="#E5E5E5"> it but this is an</font>
+
+359
+00:15:44,750 --> 00:15:47,390
+incredible change about how many<font color="#E5E5E5"> people</font>
+
+360
+00:15:47,390 --> 00:15:49,040
+in this room<font color="#E5E5E5"> remember the world</font>
+
+361
+00:15:49,040 --> 00:15:51,339
+<font color="#E5E5E5">pre-internet raise your hand</font>
+
+362
+00:15:51,339 --> 00:15:55,460
+<font color="#E5E5E5">shit's crazy right like for the ones</font>
+
+363
+00:15:55,460 --> 00:15:57,529
+<font color="#E5E5E5">that don't you can't even wrap</font><font color="#CCCCCC"> your head</font>
+
+364
+00:15:57,529 --> 00:16:00,740
+around how big of a shift<font color="#E5E5E5"> this is so</font>
+
+365
+00:16:00,740 --> 00:16:02,540
+number one<font color="#CCCCCC"> to every entrepreneur here</font>
+
+366
+00:16:02,540 --> 00:16:04,700
+your<font color="#E5E5E5"> great grandmother wanted to be an</font>
+
+367
+00:16:04,700 --> 00:16:06,320
+<font color="#CCCCCC">entrepreneur - but it</font><font color="#E5E5E5"> wasn't practical</font>
+
+368
+00:16:06,320 --> 00:16:08,900
+<font color="#CCCCCC">because she had to pay the bills and do</font>
+
+369
+00:16:08,900 --> 00:16:11,150
+her thing<font color="#CCCCCC"> and she couldn't work on it at</font>
+
+370
+00:16:11,150 --> 00:16:13,520
+9:00 p.m.<font color="#E5E5E5"> at night</font><font color="#CCCCCC"> so how the world</font>
+
+371
+00:16:13,520 --> 00:16:16,670
+worked<font color="#CCCCCC"> someone if you are not taking</font>
+
+372
+00:16:16,670 --> 00:16:20,300
+<font color="#E5E5E5">this opportunity</font><font color="#CCCCCC"> for what it is</font>
+
+373
+00:16:20,300 --> 00:16:23,450
+you've already already put yourself in
+
+374
+00:16:23,450 --> 00:16:26,150
+second place<font color="#CCCCCC"> this is the</font><font color="#E5E5E5"> moment</font><font color="#CCCCCC"> number</font>
+
+375
+00:16:26,150 --> 00:16:29,870
+<font color="#CCCCCC">two entrepreneurship</font><font color="#E5E5E5"> got</font><font color="#CCCCCC"> popular</font><font color="#E5E5E5"> and</font>
+
+376
+00:16:29,870 --> 00:16:32,150
+that means it's dangerous<font color="#E5E5E5"> because</font>
+
+377
+00:16:32,150 --> 00:16:33,320
+<font color="#E5E5E5">there's a lot of people that raise your</font>
+
+378
+00:16:33,320 --> 00:16:34,730
+<font color="#E5E5E5">hands that have entrepreneurial</font>
+
+379
+00:16:34,730 --> 00:16:36,970
+tendencies<font color="#E5E5E5"> and aren't necessarily</font>
+
+380
+00:16:36,970 --> 00:16:39,050
+<font color="#CCCCCC">entrepreneurs</font><font color="#E5E5E5"> just because you say</font>
+
+381
+00:16:39,050 --> 00:16:40,670
+you're<font color="#CCCCCC"> an entrepreneur</font><font color="#E5E5E5"> doesn't</font><font color="#CCCCCC"> mean your</font>
+
+382
+00:16:40,670 --> 00:16:43,370
+next successful entrepreneur and<font color="#E5E5E5"> I the</font>
+
+383
+00:16:43,370 --> 00:16:44,779
+reason<font color="#E5E5E5"> I bring that up is not to be like</font>
+
+384
+00:16:44,779 --> 00:16:46,160
+I'm cool<font color="#CCCCCC"> you're now or anything of that</font>
+
+385
+00:16:46,160 --> 00:16:48,380
+nature<font color="#CCCCCC"> there's</font><font color="#E5E5E5"> just one very important</font>
+
+386
+00:16:48,380 --> 00:16:50,060
+<font color="#CCCCCC">thing that</font><font color="#E5E5E5"> is not being discussed enough</font>
+
+387
+00:16:50,060 --> 00:16:52,730
+<font color="#E5E5E5">we talked about</font><font color="#CCCCCC"> working smart</font><font color="#E5E5E5"> and having</font>
+
+388
+00:16:52,730 --> 00:16:54,260
+the<font color="#E5E5E5"> right strategy and having the right</font>
+
+389
+00:16:54,260 --> 00:16:58,940
+product<font color="#E5E5E5"> I'm stunned by how much</font><font color="#CCCCCC"> pushback</font>
+
+390
+00:16:58,940 --> 00:17:01,630
+there is when I<font color="#E5E5E5"> talk about working hard</font>
+
+391
+00:17:01,630 --> 00:17:08,030
+<font color="#E5E5E5">there is no zero people you know that</font>
+
+392
+00:17:08,030 --> 00:17:10,280
+<font color="#CCCCCC">have</font><font color="#E5E5E5"> built a successful business without</font>
+
+393
+00:17:10,280 --> 00:17:12,380
+working their face off<font color="#CCCCCC"> there are</font><font color="#E5E5E5"> people</font>
+
+394
+00:17:12,380 --> 00:17:15,589
+<font color="#E5E5E5">that have inherited money there are</font>
+
+395
+00:17:15,589 --> 00:17:18,199
+<font color="#E5E5E5">people that have</font><font color="#CCCCCC"> had that</font><font color="#E5E5E5"> dynamic but</font>
+
+396
+00:17:18,199 --> 00:17:21,410
+you know<font color="#E5E5E5"> nobody nor does the world that</font>
+
+397
+00:17:21,410 --> 00:17:22,790
+has started from zero and<font color="#CCCCCC"> build</font>
+
+398
+00:17:22,790 --> 00:17:24,890
+something substantial that<font color="#CCCCCC"> hasn't put in</font>
+
+399
+00:17:24,890 --> 00:17:28,189
+a disproportional amount of work to<font color="#CCCCCC"> get</font>
+
+400
+00:17:28,189 --> 00:17:30,620
+there it is the one uh<font color="#CCCCCC"> turley</font>
+
+401
+00:17:30,620 --> 00:17:33,410
+controllable aspect of our game<font color="#CCCCCC"> and if</font>
+
+402
+00:17:33,410 --> 00:17:36,260
+you really<font color="#E5E5E5"> want this please really start</font>
+
+403
+00:17:36,260 --> 00:17:38,510
+<font color="#E5E5E5">thinking about maximizing every minute</font>
+
+404
+00:17:38,510 --> 00:17:40,820
+that doesn't<font color="#E5E5E5"> mean neglecting your fan</font>
+
+405
+00:17:40,820 --> 00:17:43,759
+Emily that doesn't mean neglecting your
+
+406
+00:17:43,759 --> 00:17:46,460
+health<font color="#E5E5E5"> but</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> am stunned</font><font color="#CCCCCC"> as</font><font color="#E5E5E5"> somebody</font>
+
+407
+00:17:46,460 --> 00:17:47,750
+<font color="#E5E5E5">who's spending an enormous</font><font color="#CCCCCC"> amount of</font>
+
+408
+00:17:47,750 --> 00:17:49,669
+<font color="#E5E5E5">time in this ecosystem</font><font color="#CCCCCC"> by how many</font>
+
+409
+00:17:49,669 --> 00:17:53,269
+<font color="#E5E5E5">people have the ambition</font><font color="#CCCCCC"> and their mouth</font>
+
+410
+00:17:53,269 --> 00:17:54,830
+is<font color="#CCCCCC"> running</font><font color="#E5E5E5"> to what they're going to</font>
+
+411
+00:17:54,830 --> 00:17:57,049
+accomplish<font color="#E5E5E5"> and their actions don't map</font>
+
+412
+00:17:57,049 --> 00:17:57,889
+to it at all
+
+413
+00:17:57,889 --> 00:18:01,309
+and so I please I beg you<font color="#E5E5E5"> to realize how</font>
+
+414
+00:18:01,309 --> 00:18:04,850
+<font color="#CCCCCC">lucky you are to be in the game during</font><font color="#E5E5E5"> a</font>
+
+415
+00:18:04,850 --> 00:18:05,960
+time where there's so much
+
+416
+00:18:05,960 --> 00:18:08,210
+infrastructure<font color="#E5E5E5"> that gives us a great</font>
+
+417
+00:18:08,210 --> 00:18:12,049
+<font color="#CCCCCC">chance to</font><font color="#E5E5E5"> make</font><font color="#CCCCCC"> it practical and</font><font color="#E5E5E5"> I just</font>
+
+418
+00:18:12,049 --> 00:18:14,149
+want to remind everybody the global
+
+419
+00:18:14,149 --> 00:18:16,250
+economy has<font color="#CCCCCC"> been really good</font><font color="#E5E5E5"> for a while</font>
+
+420
+00:18:16,250 --> 00:18:19,070
+now<font color="#E5E5E5"> for</font><font color="#CCCCCC"> some of the other people in this</font>
+
+421
+00:18:19,070 --> 00:18:20,450
+room<font color="#CCCCCC"> that remember the world</font>
+
+422
+00:18:20,450 --> 00:18:22,970
+<font color="#E5E5E5">pre-internet</font><font color="#CCCCCC"> the good times don't last</font>
+
+423
+00:18:22,970 --> 00:18:23,840
+forever
+
+424
+00:18:23,840 --> 00:18:27,379
+<font color="#E5E5E5">this conference existed in 2000</font>
+
+425
+00:18:27,379 --> 00:18:29,659
+<font color="#E5E5E5">and everybody got a job after hit</font>
+
+426
+00:18:29,659 --> 00:18:32,600
+the fan<font color="#E5E5E5"> so please take advantage and go</font>
+
+427
+00:18:32,600 --> 00:18:35,480
+hard because when hits the fan<font color="#CCCCCC"> and</font>
+
+428
+00:18:35,480 --> 00:18:37,429
+there's no funding and you run out<font color="#CCCCCC"> of</font>
+
+429
+00:18:37,429 --> 00:18:41,240
+money<font color="#E5E5E5"> and you have to go work at UBS you</font>
+
+430
+00:18:41,240 --> 00:18:42,919
+would have wished that you would have
+
+431
+00:18:42,919 --> 00:18:46,659
+worked harder during<font color="#E5E5E5"> this era</font>
+
+432
+00:18:46,659 --> 00:18:51,200
+what else that's the big one<font color="#CCCCCC"> may</font><font color="#E5E5E5"> have</font>
+
+433
+00:18:51,200 --> 00:18:55,549
+<font color="#E5E5E5"> hype you know it's funny I</font>
+
+434
+00:18:55,549 --> 00:18:57,590
+appreciate that<font color="#E5E5E5"> one you know it's just</font>
+
+435
+00:18:57,590 --> 00:19:00,370
+really<font color="#E5E5E5"> practical like when it's good and</font>
+
+436
+00:19:00,370 --> 00:19:02,870
+<font color="#E5E5E5">when you have it on your side it's</font>
+
+437
+00:19:02,870 --> 00:19:04,759
+important to squeeze as hard and as<font color="#E5E5E5"> fast</font>
+
+438
+00:19:04,759 --> 00:19:06,950
+as<font color="#E5E5E5"> you can because it's hard to get to</font>
+
+439
+00:19:06,950 --> 00:19:09,379
+the other side<font color="#E5E5E5"> and there's you</font><font color="#CCCCCC"> know when</font>
+
+440
+00:19:09,379 --> 00:19:11,210
+I look around this<font color="#CCCCCC"> room there's so many</font>
+
+441
+00:19:11,210 --> 00:19:14,029
+youngsters<font color="#CCCCCC"> if you've never tasted the</font>
+
+442
+00:19:14,029 --> 00:19:16,159
+<font color="#CCCCCC">shitty era if you weren't operating in</font>
+
+443
+00:19:16,159 --> 00:19:17,960
+<font color="#CCCCCC">2008 and nine if</font><font color="#E5E5E5"> you weren't operating</font>
+
+444
+00:19:17,960 --> 00:19:20,629
+<font color="#CCCCCC">in year 2000 you just don't know it's</font>
+
+445
+00:19:20,629 --> 00:19:22,610
+not your fault<font color="#CCCCCC"> this is</font><font color="#E5E5E5"> the landscape</font>
+
+446
+00:19:22,610 --> 00:19:24,470
+<font color="#E5E5E5">that you've worked on this has been the</font>
+
+447
+00:19:24,470 --> 00:19:25,669
+environment for the last eight or nine
+
+448
+00:19:25,669 --> 00:19:27,799
+<font color="#CCCCCC">years it's</font><font color="#E5E5E5"> very difficult to know what</font>
+
+449
+00:19:27,799 --> 00:19:29,509
+the alternatives look like let me help
+
+450
+00:19:29,509 --> 00:19:31,340
+you<font color="#E5E5E5"> what the alternatives look like your</font>
+
+451
+00:19:31,340 --> 00:19:33,110
+ idea<font color="#CCCCCC"> is</font><font color="#E5E5E5"> now worth</font><font color="#CCCCCC"> four million</font>
+
+452
+00:19:33,110 --> 00:19:36,529
+<font color="#E5E5E5">dollars right you don't just</font><font color="#CCCCCC"> your be</font>
+
+453
+00:19:36,529 --> 00:19:39,350
+round isn't guys I invested in<font color="#E5E5E5"> tumblr in</font>
+
+454
+00:19:39,350 --> 00:19:42,169
+2009 in its be round at a<font color="#E5E5E5"> 14 million</font>
+
+455
+00:19:42,169 --> 00:19:44,960
+<font color="#CCCCCC">dollar valuation</font><font color="#E5E5E5"> you know it's a</font>
+
+456
+00:19:44,960 --> 00:19:46,879
+<font color="#E5E5E5">different landscape and it takes real</font>
+
+457
+00:19:46,879 --> 00:19:48,470
+skill to<font color="#E5E5E5"> navigate through those times so</font>
+
+458
+00:19:48,470 --> 00:19:49,820
+you have to take<font color="#CCCCCC"> advantage of</font><font color="#E5E5E5"> it right</font>
+
+459
+00:19:49,820 --> 00:19:51,860
+<font color="#CCCCCC">now a couple of things that</font><font color="#E5E5E5"> I'm really</font>
+
+460
+00:19:51,860 --> 00:19:54,320
+<font color="#E5E5E5">paying</font><font color="#CCCCCC"> attention</font><font color="#E5E5E5"> to</font>
+
+461
+00:19:54,320 --> 00:19:57,000
+the things that I am<font color="#E5E5E5"> passionate about</font>
+
+462
+00:19:57,000 --> 00:19:59,130
+being<font color="#CCCCCC"> underpriced which are social</font>
+
+463
+00:19:59,130 --> 00:20:02,340
+<font color="#CCCCCC">networks</font><font color="#E5E5E5"> that</font><font color="#CCCCCC"> have true marketplace ad</font>
+
+464
+00:20:02,340 --> 00:20:05,370
+platforms<font color="#E5E5E5"> so let me say it carefully</font>
+
+465
+00:20:05,370 --> 00:20:06,540
+<font color="#E5E5E5">because I know we a lot</font><font color="#CCCCCC"> of us</font><font color="#E5E5E5"> play in</font>
+
+466
+00:20:06,540 --> 00:20:08,160
+<font color="#E5E5E5">different markets if you</font><font color="#CCCCCC"> have</font><font color="#E5E5E5"> a social</font>
+
+467
+00:20:08,160 --> 00:20:10,740
+<font color="#CCCCCC">network at scale</font><font color="#E5E5E5"> where all of the</font>
+
+468
+00:20:10,740 --> 00:20:13,170
+pricing of<font color="#CCCCCC"> the ad inventory</font><font color="#E5E5E5"> is based on</font>
+
+469
+00:20:13,170 --> 00:20:15,690
+supply<font color="#E5E5E5"> and demand market dynamics the</font>
+
+470
+00:20:15,690 --> 00:20:17,010
+Facebook's and<font color="#E5E5E5"> the googles</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> the</font>
+
+471
+00:20:17,010 --> 00:20:18,960
+things of<font color="#CCCCCC"> their world</font><font color="#E5E5E5"> the thing that I</font>
+
+472
+00:20:18,960 --> 00:20:20,700
+want a lot of<font color="#CCCCCC"> the startups and</font>
+
+473
+00:20:20,700 --> 00:20:22,440
+entrepreneurs<font color="#CCCCCC"> to understand here is the</font>
+
+474
+00:20:22,440 --> 00:20:26,640
+following<font color="#E5E5E5"> the</font><font color="#CCCCCC"> fortune</font><font color="#E5E5E5"> 1000 the</font><font color="#CCCCCC"> 5,000</font>
+
+475
+00:20:26,640 --> 00:20:28,440
+biggest companies in<font color="#E5E5E5"> the world</font><font color="#CCCCCC"> are</font>
+
+476
+00:20:28,440 --> 00:20:31,590
+grossly<font color="#E5E5E5"> under spending on these</font>
+
+477
+00:20:31,590 --> 00:20:35,309
+platforms<font color="#E5E5E5"> they are grossly under</font>
+
+478
+00:20:35,309 --> 00:20:37,830
+spending<font color="#E5E5E5"> on these platforms</font><font color="#CCCCCC"> as</font><font color="#E5E5E5"> somebody</font>
+
+479
+00:20:37,830 --> 00:20:40,260
+who lived through the<font color="#E5E5E5"> word</font><font color="#CCCCCC"> whine</font><font color="#E5E5E5"> being</font>
+
+480
+00:20:40,260 --> 00:20:42,510
+<font color="#CCCCCC">five cents a click</font><font color="#E5E5E5"> and then being</font><font color="#CCCCCC"> nine</font>
+
+481
+00:20:42,510 --> 00:20:44,670
+<font color="#CCCCCC">dollars</font><font color="#E5E5E5"> let me explain to you what's</font>
+
+482
+00:20:44,670 --> 00:20:47,309
+<font color="#CCCCCC">going to happen over the</font><font color="#E5E5E5"> next 36 to 48</font>
+
+483
+00:20:47,309 --> 00:20:50,370
+months<font color="#CCCCCC"> as these</font><font color="#E5E5E5"> companies wake up and</font>
+
+484
+00:20:50,370 --> 00:20:53,040
+realize they're pouring good money down
+
+485
+00:20:53,040 --> 00:20:55,620
+the trash on television commercials and
+
+486
+00:20:55,620 --> 00:20:58,290
+<font color="#CCCCCC">billboards</font><font color="#E5E5E5"> and all this other horseshit</font>
+
+487
+00:20:58,290 --> 00:21:00,600
+<font color="#CCCCCC">in a 20-18 environment they're going</font><font color="#E5E5E5"> to</font>
+
+488
+00:21:00,600 --> 00:21:02,309
+take<font color="#E5E5E5"> that money and they're going to</font>
+
+489
+00:21:02,309 --> 00:21:05,250
+move it<font color="#E5E5E5"> to these</font><font color="#CCCCCC"> market places and the</font>
+
+490
+00:21:05,250 --> 00:21:08,220
+cost of you penetrating the end
+
+491
+00:21:08,220 --> 00:21:11,760
+consumers attention<font color="#E5E5E5"> will grossly excel</font>
+
+492
+00:21:11,760 --> 00:21:15,960
+in cost<font color="#E5E5E5"> deeming them less of a good deal</font>
+
+493
+00:21:15,960 --> 00:21:18,270
+than they are today<font color="#E5E5E5"> there will be a day</font>
+
+494
+00:21:18,270 --> 00:21:20,940
+when I go to rise or<font color="#CCCCCC"> Web Summit</font>
+
+495
+00:21:20,940 --> 00:21:24,750
+<font color="#E5E5E5">order</font><font color="#CCCCCC"> Patti tells me to go there</font>
+
+496
+00:21:24,750 --> 00:21:26,210
+will be a day where I stand<font color="#E5E5E5"> right</font><font color="#CCCCCC"> here</font>
+
+497
+00:21:26,210 --> 00:21:29,550
+<font color="#CCCCCC">and I</font><font color="#E5E5E5"> will say you're still doing social</font>
+
+498
+00:21:29,550 --> 00:21:32,850
+networks you're an idiot<font color="#CCCCCC"> not because of</font>
+
+499
+00:21:32,850 --> 00:21:34,920
+anything<font color="#E5E5E5"> other than</font><font color="#CCCCCC"> two dynamics will</font>
+
+500
+00:21:34,920 --> 00:21:37,140
+happen<font color="#E5E5E5"> number one we will be more</font>
+
+501
+00:21:37,140 --> 00:21:40,080
+conditioned to see dynamics and start
+
+502
+00:21:40,080 --> 00:21:43,230
+<font color="#E5E5E5">tuning out the ads and number two the</font>
+
+503
+00:21:43,230 --> 00:21:45,540
+proper level of<font color="#E5E5E5"> investment from</font><font color="#CCCCCC"> the</font>
+
+504
+00:21:45,540 --> 00:21:47,160
+biggest companies in<font color="#E5E5E5"> the world will go</font>
+
+505
+00:21:47,160 --> 00:21:50,160
+there deeming the platform appropriately
+
+506
+00:21:50,160 --> 00:21:52,860
+priced<font color="#E5E5E5"> not under priced once you put</font>
+
+507
+00:21:52,860 --> 00:21:54,510
+your<font color="#E5E5E5"> hole in where the water's coming</font>
+
+508
+00:21:54,510 --> 00:21:57,630
+<font color="#E5E5E5">out somewhere else will emerge for me as</font>
+
+509
+00:21:57,630 --> 00:21:59,580
+a<font color="#E5E5E5"> Russian immigrant who had a family</font>
+
+510
+00:21:59,580 --> 00:22:01,880
+<font color="#E5E5E5">business</font><font color="#CCCCCC"> we didn't have a lot of</font><font color="#E5E5E5"> money</font><font color="#CCCCCC"> i</font>
+
+511
+00:22:01,880 --> 00:22:04,200
+<font color="#CCCCCC">$13,000 an advertising budget for the</font>
+
+512
+00:22:04,200 --> 00:22:05,310
+entire<font color="#CCCCCC"> year</font>
+
+513
+00:22:05,310 --> 00:22:07,710
+every penny mattered<font color="#E5E5E5"> and that's why I</font>
+
+514
+00:22:07,710 --> 00:22:09,750
+<font color="#E5E5E5">found myself to email</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> Google</font><font color="#CCCCCC"> Adwords</font>
+
+515
+00:22:09,750 --> 00:22:11,910
+<font color="#E5E5E5">if I had</font><font color="#CCCCCC"> millions of</font><font color="#E5E5E5"> dollars</font><font color="#CCCCCC"> I would</font>
+
+516
+00:22:11,910 --> 00:22:13,410
+have bought the Wall Street<font color="#CCCCCC"> Journal and</font>
+
+517
+00:22:13,410 --> 00:22:15,390
+television<font color="#CCCCCC"> commercials</font><font color="#E5E5E5"> and all that</font>
+
+518
+00:22:15,390 --> 00:22:19,560
+<font color="#E5E5E5">other horseshit this dynamic for this</font>
+
+519
+00:22:19,560 --> 00:22:23,220
+room<font color="#E5E5E5"> matters tremendously</font><font color="#CCCCCC"> because</font><font color="#E5E5E5"> we are</font>
+
+520
+00:22:23,220 --> 00:22:25,920
+sitting<font color="#CCCCCC"> right now in the last</font><font color="#E5E5E5"> 20 years</font>
+
+521
+00:22:25,920 --> 00:22:29,250
+<font color="#E5E5E5">in one of</font><font color="#CCCCCC"> the great arbitrage moments</font>
+
+522
+00:22:29,250 --> 00:22:32,670
+<font color="#E5E5E5">right now</font><font color="#CCCCCC"> these</font><font color="#E5E5E5"> social networks at scale</font>
+
+523
+00:22:32,670 --> 00:22:35,190
+with market dynamic prices are grossly
+
+524
+00:22:35,190 --> 00:22:38,010
+underpriced<font color="#CCCCCC"> and number two and even</font><font color="#E5E5E5"> more</font>
+
+525
+00:22:38,010 --> 00:22:39,810
+extremely<font color="#E5E5E5"> under</font><font color="#CCCCCC"> price</font><font color="#E5E5E5"> depending on the</font>
+
+526
+00:22:39,810 --> 00:22:41,940
+<font color="#E5E5E5">market we are</font><font color="#CCCCCC"> living through the great</font>
+
+527
+00:22:41,940 --> 00:22:44,780
+boom of the early<font color="#E5E5E5"> influencer marketing</font>
+
+528
+00:22:44,780 --> 00:22:48,210
+<font color="#E5E5E5">dynamics where influencers are so under</font>
+
+529
+00:22:48,210 --> 00:22:50,820
+priced<font color="#E5E5E5"> after you take away the top</font><font color="#CCCCCC"> 1%</font>
+
+530
+00:22:50,820 --> 00:22:55,740
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> 99%</font><font color="#E5E5E5"> of influencers or Kol s or</font>
+
+531
+00:22:55,740 --> 00:22:56,970
+whatever the<font color="#CCCCCC"> you want to</font><font color="#E5E5E5"> call them</font>
+
+532
+00:22:56,970 --> 00:23:00,870
+are<font color="#E5E5E5"> so grossly underpriced right now</font>
+
+533
+00:23:00,870 --> 00:23:03,270
+that everybody will look back<font color="#CCCCCC"> to this 5</font>
+
+534
+00:23:03,270 --> 00:23:05,910
+to<font color="#CCCCCC"> 7 year era</font><font color="#E5E5E5"> and be sad</font><font color="#CCCCCC"> that they'd</font>
+
+535
+00:23:05,910 --> 00:23:08,310
+import more<font color="#E5E5E5"> money into</font><font color="#CCCCCC"> that price point</font>
+
+536
+00:23:08,310 --> 00:23:12,870
+<font color="#E5E5E5">into that ecosystem</font><font color="#CCCCCC"> and so for me</font><font color="#E5E5E5"> as I</font>
+
+537
+00:23:12,870 --> 00:23:16,350
+<font color="#CCCCCC">sit here</font><font color="#E5E5E5"> today I get excited because I</font>
+
+538
+00:23:16,350 --> 00:23:18,660
+know the<font color="#CCCCCC"> people that act</font><font color="#E5E5E5"> on these</font>
+
+539
+00:23:18,660 --> 00:23:20,040
+arbitrage<font color="#CCCCCC"> errs are going to</font>
+
+540
+00:23:20,040 --> 00:23:22,500
+<font color="#CCCCCC">disproportionately</font><font color="#E5E5E5"> win one thing that</font>
+
+541
+00:23:22,500 --> 00:23:25,080
+has never talked about<font color="#E5E5E5"> and will be in</font>
+
+542
+00:23:25,080 --> 00:23:27,360
+the<font color="#CCCCCC"> history books is how much amazon</font>
+
+543
+00:23:27,360 --> 00:23:29,280
+used<font color="#CCCCCC"> google adwords</font><font color="#E5E5E5"> to build their</font>
+
+544
+00:23:29,280 --> 00:23:31,350
+business one thing that is long
+
+545
+00:23:31,350 --> 00:23:34,830
+forgotten<font color="#E5E5E5"> is how much</font><font color="#CCCCCC"> ebay</font><font color="#E5E5E5"> used</font><font color="#CCCCCC"> google</font>
+
+546
+00:23:34,830 --> 00:23:37,230
+<font color="#CCCCCC">adwords to build their business we have</font>
+
+547
+00:23:37,230 --> 00:23:39,060
+these<font color="#E5E5E5"> moments and you need to take</font>
+
+548
+00:23:39,060 --> 00:23:41,040
+<font color="#CCCCCC">advantage of</font><font color="#E5E5E5"> that and so I</font><font color="#CCCCCC"> implore you</font>
+
+549
+00:23:41,040 --> 00:23:43,530
+<font color="#E5E5E5">that if you're still just headline</font>
+
+550
+00:23:43,530 --> 00:23:46,230
+reading<font color="#E5E5E5"> and you've made your</font><font color="#CCCCCC"> decision on</font>
+
+551
+00:23:46,230 --> 00:23:49,440
+<font color="#E5E5E5">the ROI of WeChat or Facebook or</font>
+
+552
+00:23:49,440 --> 00:23:52,620
+<font color="#E5E5E5">snapchat or whatever</font><font color="#CCCCCC"> may be that you get</font>
+
+553
+00:23:52,620 --> 00:23:54,780
+<font color="#CCCCCC">educated</font><font color="#E5E5E5"> because the amount of</font><font color="#CCCCCC"> people</font><font color="#E5E5E5"> in</font>
+
+554
+00:23:54,780 --> 00:23:56,550
+this<font color="#E5E5E5"> room</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> are headline readers and</font>
+
+555
+00:23:56,550 --> 00:23:59,820
+are not practitioners<font color="#E5E5E5"> is stunning we are</font>
+
+556
+00:23:59,820 --> 00:24:01,680
+in a complete ecosystem<font color="#E5E5E5"> right now of</font>
+
+557
+00:24:01,680 --> 00:24:03,750
+headline readers who read one or two
+
+558
+00:24:03,750 --> 00:24:05,460
+<font color="#E5E5E5">three things and they form their</font>
+
+559
+00:24:05,460 --> 00:24:07,380
+<font color="#E5E5E5">opinions</font><font color="#CCCCCC"> a lot of people here tonight</font>
+
+560
+00:24:07,380 --> 00:24:08,970
+over a<font color="#E5E5E5"> glass of wine are going to debate</font>
+
+561
+00:24:08,970 --> 00:24:10,560
+the value of something<font color="#E5E5E5"> that</font><font color="#CCCCCC"> they've</font>
+
+562
+00:24:10,560 --> 00:24:15,720
+<font color="#CCCCCC">never executed on</font><font color="#E5E5E5"> and in that in that</font>
+
+563
+00:24:15,720 --> 00:24:17,760
+human vulnerability<font color="#E5E5E5"> where you only</font>
+
+564
+00:24:17,760 --> 00:24:18,950
+headline read and you
+
+565
+00:24:18,950 --> 00:24:21,560
+talk about<font color="#CCCCCC"> you</font><font color="#E5E5E5"> don't know is the</font>
+
+566
+00:24:21,560 --> 00:24:27,470
+arbitrage so the current<font color="#E5E5E5"> ARB social</font>
+
+567
+00:24:27,470 --> 00:24:29,630
+network marketplace dynamics influencers
+
+568
+00:24:29,630 --> 00:24:32,810
+my intuition<font color="#E5E5E5"> on the emerging arbitrage</font>
+
+569
+00:24:32,810 --> 00:24:36,620
+<font color="#E5E5E5">voice between podcasting and skill based</font>
+
+570
+00:24:36,620 --> 00:24:39,590
+AI voice dynamics<font color="#CCCCCC"> super</font><font color="#E5E5E5"> interesting</font>
+
+571
+00:24:39,590 --> 00:24:43,750
+<font color="#E5E5E5">other than</font><font color="#CCCCCC"> that all</font><font color="#E5E5E5"> overpriced</font>
+
+572
+00:24:43,750 --> 00:24:46,220
+we've got billions<font color="#E5E5E5"> of dollars being</font>
+
+573
+00:24:46,220 --> 00:24:48,470
+poured into 30-second commercials<font color="#CCCCCC"> that</font>
+
+574
+00:24:48,470 --> 00:24:50,600
+nobody's watching we've got billions of
+
+575
+00:24:50,600 --> 00:24:52,700
+dollars being poured into programmatic
+
+576
+00:24:52,700 --> 00:24:55,310
+banner and pre-roll inventory that
+
+577
+00:24:55,310 --> 00:24:57,650
+nobody gives<font color="#E5E5E5"> a about and so we have</font>
+
+578
+00:24:57,650 --> 00:25:00,650
+a big disconnect<font color="#E5E5E5"> which means when you</font>
+
+579
+00:25:00,650 --> 00:25:03,410
+have<font color="#E5E5E5"> such a dynamic you have the biggest</font>
+
+580
+00:25:03,410 --> 00:25:05,450
+companies in<font color="#E5E5E5"> the</font><font color="#CCCCCC"> world wasting their</font>
+
+581
+00:25:05,450 --> 00:25:07,640
+money<font color="#CCCCCC"> this is when the opportunity for</font>
+
+582
+00:25:07,640 --> 00:25:10,160
+emergence is<font color="#E5E5E5"> and so we live through</font>
+
+583
+00:25:10,160 --> 00:25:12,230
+these<font color="#E5E5E5"> times with these dynamics and play</font>
+
+584
+00:25:12,230 --> 00:25:15,170
+<font color="#E5E5E5">while at the same</font><font color="#CCCCCC"> time both</font><font color="#E5E5E5"> of the US</font>
+
+585
+00:25:15,170 --> 00:25:17,090
+and<font color="#CCCCCC"> China we have</font><font color="#E5E5E5"> an incredibly</font>
+
+586
+00:25:17,090 --> 00:25:20,000
+<font color="#CCCCCC">interesting moment</font><font color="#E5E5E5"> that is an absolute</font>
+
+587
+00:25:20,000 --> 00:25:22,790
+fear<font color="#E5E5E5"> for a lot</font><font color="#CCCCCC"> of entrepreneurs which is</font>
+
+588
+00:25:22,790 --> 00:25:25,670
+the big incumbents have never been
+
+589
+00:25:25,670 --> 00:25:29,560
+quicker to copy features<font color="#E5E5E5"> to not allow</font>
+
+590
+00:25:29,560 --> 00:25:33,500
+startups to gain momentum<font color="#E5E5E5"> and what you</font>
+
+591
+00:25:33,500 --> 00:25:35,180
+see in<font color="#E5E5E5"> China and definitely in the US</font>
+
+592
+00:25:35,180 --> 00:25:37,250
+with Facebook<font color="#E5E5E5"> and Instagram</font><font color="#CCCCCC"> is now</font>
+
+593
+00:25:37,250 --> 00:25:39,200
+starting<font color="#CCCCCC"> to bleed into</font><font color="#E5E5E5"> the b2b</font>
+
+594
+00:25:39,200 --> 00:25:43,040
+<font color="#E5E5E5">environment and clearly into the b2c</font>
+
+595
+00:25:43,040 --> 00:25:44,780
+environment<font color="#E5E5E5"> so we have an era right now</font>
+
+596
+00:25:44,780 --> 00:25:47,960
+where the vulnerability<font color="#CCCCCC"> of a land grab</font>
+
+597
+00:25:47,960 --> 00:25:50,720
+<font color="#CCCCCC">of consumers</font><font color="#E5E5E5"> and attention is a</font>
+
+598
+00:25:50,720 --> 00:25:53,450
+difficult one<font color="#CCCCCC"> if the</font><font color="#E5E5E5"> incumbent leaders</font>
+
+599
+00:25:53,450 --> 00:25:55,730
+are viewing your business<font color="#CCCCCC"> as a feature</font>
+
+600
+00:25:55,730 --> 00:25:59,450
+<font color="#CCCCCC">versus an actual</font><font color="#E5E5E5"> business now to me</font>
+
+601
+00:25:59,450 --> 00:26:02,510
+that's<font color="#E5E5E5"> exactly</font><font color="#CCCCCC"> how it should</font><font color="#E5E5E5"> be this</font>
+
+602
+00:26:02,510 --> 00:26:05,210
+notion that<font color="#E5E5E5"> Facebook should have sat</font>
+
+603
+00:26:05,210 --> 00:26:07,820
+<font color="#CCCCCC">around</font><font color="#E5E5E5"> and let's snapchat grow is</font>
+
+604
+00:26:07,820 --> 00:26:10,790
+laughable there's never been a time when
+
+605
+00:26:10,790 --> 00:26:13,940
+<font color="#CCCCCC">a competitor goes oh that's</font><font color="#E5E5E5"> nice and had</font>
+
+606
+00:26:13,940 --> 00:26:16,160
+very little<font color="#E5E5E5"> cost to compete with it and</font>
+
+607
+00:26:16,160 --> 00:26:19,610
+they let<font color="#E5E5E5"> it</font><font color="#CCCCCC"> happen this romantic point</font>
+
+608
+00:26:19,610 --> 00:26:21,440
+of<font color="#E5E5E5"> view from a creative or a product</font>
+
+609
+00:26:21,440 --> 00:26:23,900
+standpoint<font color="#E5E5E5"> will no longer be in play in</font>
+
+610
+00:26:23,900 --> 00:26:26,570
+our ecosystem so as you navigate<font color="#CCCCCC"> your</font>
+
+611
+00:26:26,570 --> 00:26:28,610
+product and service<font color="#E5E5E5"> you've got to live</font>
+
+612
+00:26:28,610 --> 00:26:30,220
+under the dynamics<font color="#CCCCCC"> that</font>
+
+613
+00:26:30,220 --> 00:26:32,860
+the cat<font color="#E5E5E5"> is now out</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> the bag and</font><font color="#CCCCCC"> that</font>
+
+614
+00:26:32,860 --> 00:26:35,380
+you have to<font color="#CCCCCC"> move</font><font color="#E5E5E5"> even quicker to</font>
+
+615
+00:26:35,380 --> 00:26:37,480
+penetrate your<font color="#E5E5E5"> market that ever belong</font>
+
+616
+00:26:37,480 --> 00:26:40,179
+and so we live through an era<font color="#E5E5E5"> right now</font>
+
+617
+00:26:40,179 --> 00:26:44,140
+where speed is no question<font color="#E5E5E5"> the variable</font>
+
+618
+00:26:44,140 --> 00:26:46,240
+<font color="#E5E5E5">of success and that's</font><font color="#CCCCCC"> why I'm going to</font>
+
+619
+00:26:46,240 --> 00:26:48,730
+<font color="#E5E5E5">end with the following the most</font>
+
+620
+00:26:48,730 --> 00:26:51,760
+important thing for speed<font color="#CCCCCC"> for your</font>
+
+621
+00:26:51,760 --> 00:26:54,130
+company<font color="#E5E5E5"> and your service is your</font>
+
+622
+00:26:54,130 --> 00:26:58,090
+internal<font color="#E5E5E5"> culture the number one thing</font>
+
+623
+00:26:58,090 --> 00:27:01,530
+that<font color="#E5E5E5"> will make</font><font color="#CCCCCC"> your</font><font color="#E5E5E5"> company go fast is</font>
+
+624
+00:27:01,530 --> 00:27:05,830
+continuity<font color="#E5E5E5"> and lack of politics which</font>
+
+625
+00:27:05,830 --> 00:27:08,710
+means we are<font color="#CCCCCC"> on the dawn of</font><font color="#E5E5E5"> the</font><font color="#CCCCCC"> era</font>
+
+626
+00:27:08,710 --> 00:27:11,950
+where emotional intelligence is about to
+
+627
+00:27:11,950 --> 00:27:14,440
+become<font color="#CCCCCC"> the</font><font color="#E5E5E5"> single most important trade</font>
+
+628
+00:27:14,440 --> 00:27:17,890
+that skills through technology growth
+
+629
+00:27:17,890 --> 00:27:20,500
+will continue<font color="#CCCCCC"> on a daily basis</font><font color="#E5E5E5"> to be</font>
+
+630
+00:27:20,500 --> 00:27:23,140
+commoditized<font color="#E5E5E5"> but your emotional</font>
+
+631
+00:27:23,140 --> 00:27:25,419
+capabilities to interact<font color="#CCCCCC"> with others</font>
+
+632
+00:27:25,419 --> 00:27:29,740
+will become very<font color="#CCCCCC"> very important trade I</font>
+
+633
+00:27:29,740 --> 00:27:31,570
+highly<font color="#E5E5E5"> recommend how many people here</font>
+
+634
+00:27:31,570 --> 00:27:32,799
+<font color="#E5E5E5">have a company with more than</font><font color="#CCCCCC"> 10 people</font>
+
+635
+00:27:32,799 --> 00:27:37,679
+<font color="#E5E5E5">raise your hands</font><font color="#CCCCCC"> I highly highly</font><font color="#E5E5E5"> highly</font>
+
+636
+00:27:37,679 --> 00:27:40,480
+recommend<font color="#CCCCCC"> that</font><font color="#E5E5E5"> if you take anything away</font>
+
+637
+00:27:40,480 --> 00:27:43,120
+<font color="#CCCCCC">from my talk suck voice 5 suck</font><font color="#E5E5E5"> in</font>
+
+638
+00:27:43,120 --> 00:27:45,760
+arbitrage<font color="#E5E5E5"> take this one thing away from</font>
+
+639
+00:27:45,760 --> 00:27:46,179
+<font color="#CCCCCC">me</font>
+
+640
+00:27:46,179 --> 00:27:48,669
+you better go home<font color="#CCCCCC"> and audit every</font>
+
+641
+00:27:48,669 --> 00:27:50,770
+<font color="#E5E5E5">single employee you have and you better</font>
+
+642
+00:27:50,770 --> 00:27:52,990
+figure out<font color="#E5E5E5"> which employee makes the</font>
+
+643
+00:27:52,990 --> 00:27:55,450
+other employees miserable<font color="#CCCCCC"> I don't give a</font>
+
+644
+00:27:55,450 --> 00:27:57,039
+<font color="#CCCCCC"> if it's your number one</font><font color="#E5E5E5"> salesperson</font>
+
+645
+00:27:57,039 --> 00:27:59,799
+<font color="#CCCCCC">your best developer</font><font color="#E5E5E5"> or your</font>
+
+646
+00:27:59,799 --> 00:28:03,549
+co-founder cancer spreads with cancer
+
+647
+00:28:03,549 --> 00:28:06,820
+and politics comes lack of speed<font color="#CCCCCC"> your</font>
+
+648
+00:28:06,820 --> 00:28:08,620
+company will<font color="#E5E5E5"> get much slower because</font>
+
+649
+00:28:08,620 --> 00:28:11,169
+<font color="#CCCCCC">people are sitting around debating how</font>
+
+650
+00:28:11,169 --> 00:28:13,929
+miserable they<font color="#CCCCCC"> are or worried</font><font color="#E5E5E5"> to have</font>
+
+651
+00:28:13,929 --> 00:28:16,090
+<font color="#E5E5E5">meetings with other individuals your</font>
+
+652
+00:28:16,090 --> 00:28:18,520
+company will get<font color="#CCCCCC"> slow in a world where</font>
+
+653
+00:28:18,520 --> 00:28:21,820
+the speed of product output<font color="#E5E5E5"> features and</font>
+
+654
+00:28:21,820 --> 00:28:24,190
+how you interact<font color="#CCCCCC"> with your customers has</font>
+
+655
+00:28:24,190 --> 00:28:27,909
+never been greater<font color="#CCCCCC"> so I implore a tech</font>
+
+656
+00:28:27,909 --> 00:28:32,679
+centric<font color="#E5E5E5"> financial centric type a room</font>
+
+657
+00:28:32,679 --> 00:28:36,039
+like this<font color="#CCCCCC"> to go home and get really</font><font color="#E5E5E5"> in</font>
+
+658
+00:28:36,039 --> 00:28:39,280
+tune<font color="#E5E5E5"> with their feelings in my</font>
+
+659
+00:28:39,280 --> 00:28:42,039
+company the<font color="#E5E5E5"> number 2 person is not the</font>
+
+660
+00:28:42,039 --> 00:28:43,810
+CFO or the<font color="#E5E5E5"> CEO</font>
+
+661
+00:28:43,810 --> 00:28:46,180
+<font color="#CCCCCC">a CEO excuse me the number</font><font color="#E5E5E5"> two</font><font color="#CCCCCC"> person</font>
+
+662
+00:28:46,180 --> 00:28:47,050
+<font color="#E5E5E5">after me</font>
+
+663
+00:28:47,050 --> 00:28:50,400
+is<font color="#CCCCCC"> Claude silver she is the chief heart</font>
+
+664
+00:28:50,400 --> 00:28:53,560
+<font color="#E5E5E5">officer she's a head of HR call it what</font>
+
+665
+00:28:53,560 --> 00:28:57,010
+you<font color="#E5E5E5"> want</font><font color="#CCCCCC"> it is no</font><font color="#E5E5E5"> question the biggest</font>
+
+666
+00:28:57,010 --> 00:28:58,690
+<font color="#CCCCCC">variable to our success</font>
+
+667
+00:28:58,690 --> 00:29:02,680
+it is<font color="#E5E5E5"> never and I</font><font color="#CCCCCC"> mean ever been</font><font color="#E5E5E5"> more</font>
+
+668
+00:29:02,680 --> 00:29:04,990
+important<font color="#CCCCCC"> for you to care about the</font>
+
+669
+00:29:04,990 --> 00:29:08,320
+internal feelings culture let me tell
+
+670
+00:29:08,320 --> 00:29:10,900
+you how you do not<font color="#CCCCCC"> build culture you do</font>
+
+671
+00:29:10,900 --> 00:29:14,050
+not build culture<font color="#E5E5E5"> by having free snacks</font>
+
+672
+00:29:14,050 --> 00:29:17,590
+<font color="#E5E5E5">in your</font><font color="#CCCCCC"> cafeteria</font><font color="#E5E5E5"> let me tell you how</font>
+
+673
+00:29:17,590 --> 00:29:19,420
+you do<font color="#CCCCCC"> not build culture you do not</font>
+
+674
+00:29:19,420 --> 00:29:22,150
+build culture<font color="#E5E5E5"> by having a foosball table</font>
+
+675
+00:29:22,150 --> 00:29:26,170
+<font color="#CCCCCC">or open seating you build culture by</font>
+
+676
+00:29:26,170 --> 00:29:28,180
+actually<font color="#E5E5E5"> talking to people</font><font color="#CCCCCC"> one by one</font>
+
+677
+00:29:28,180 --> 00:29:30,160
+<font color="#CCCCCC">and understanding what they care about</font>
+
+678
+00:29:30,160 --> 00:29:32,710
+<font color="#E5E5E5">and what you learn is some people want</font>
+
+679
+00:29:32,710 --> 00:29:35,470
+<font color="#E5E5E5">money and some people</font><font color="#CCCCCC"> want time with</font>
+
+680
+00:29:35,470 --> 00:29:38,200
+<font color="#E5E5E5">their family and some people want title</font>
+
+681
+00:29:38,200 --> 00:29:41,080
+and some people want creativity and it
+
+682
+00:29:41,080 --> 00:29:43,210
+is your<font color="#E5E5E5"> job</font><font color="#CCCCCC"> how many people</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> see over</font>
+
+683
+00:29:43,210 --> 00:29:46,810
+the company it<font color="#E5E5E5"> is your job to know every</font>
+
+684
+00:29:46,810 --> 00:29:49,570
+single<font color="#CCCCCC"> one of</font><font color="#E5E5E5"> those things</font><font color="#CCCCCC"> about every</font>
+
+685
+00:29:49,570 --> 00:29:52,420
+<font color="#E5E5E5">single</font><font color="#CCCCCC"> person every single day</font><font color="#E5E5E5"> because</font>
+
+686
+00:29:52,420 --> 00:29:55,720
+<font color="#E5E5E5">23 year old Sally</font><font color="#CCCCCC"> at 27 wants different</font>
+
+687
+00:29:55,720 --> 00:29:59,530
+<font color="#E5E5E5"> 31 year old Charlie at 34 wants a</font>
+
+688
+00:29:59,530 --> 00:30:01,780
+different<font color="#E5E5E5"> it is time that</font><font color="#CCCCCC"> this</font>
+
+689
+00:30:01,780 --> 00:30:05,830
+ecosystem<font color="#E5E5E5"> starts paying attention to the</font>
+
+690
+00:30:05,830 --> 00:30:08,200
+<font color="#E5E5E5">human elements that will drive our</font>
+
+691
+00:30:08,200 --> 00:30:10,690
+businesses<font color="#E5E5E5"> to the</font><font color="#CCCCCC"> next level this is a</font>
+
+692
+00:30:10,690 --> 00:30:13,780
+conversation<font color="#CCCCCC"> we are not having and it is</font>
+
+693
+00:30:13,780 --> 00:30:17,760
+the conversation<font color="#CCCCCC"> in the next decade</font>
+
+694
+00:30:17,760 --> 00:30:19,550
+<font color="#E5E5E5">thank you</font>
+
+695
+00:30:19,550 --> 00:00:00,000
+[Applause]
+

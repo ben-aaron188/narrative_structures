@@ -1,0 +1,572 @@
+1
+00:00:02,929 --> 00:00:06,060
+<font color="#CCCCCC">hi</font><font color="#E5E5E5"> guys what up so today</font><font color="#CCCCCC"> is a special</font>
+
+2
+00:00:06,060 --> 00:00:08,790
+<font color="#E5E5E5">Sunday upload for</font><font color="#CCCCCC"> you because this is</font><font color="#E5E5E5"> a</font>
+
+3
+00:00:08,790 --> 00:00:11,370
+video<font color="#E5E5E5"> that we shot this week earlier on</font>
+
+4
+00:00:11,370 --> 00:00:14,340
+and I<font color="#E5E5E5"> wanted to upload today because the</font>
+
+5
+00:00:14,340 --> 00:00:15,870
+video that we're shooting today uploads
+
+6
+00:00:15,870 --> 00:00:17,369
+today<font color="#E5E5E5"> we're shooting</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> video right here</font>
+
+7
+00:00:17,369 --> 00:00:19,260
+with the stuff<font color="#E5E5E5"> behind me there's Keaton</font>
+
+8
+00:00:19,260 --> 00:00:21,779
+over there<font color="#E5E5E5"> there's Matt and we got a</font>
+
+9
+00:00:21,779 --> 00:00:23,699
+drone<font color="#E5E5E5"> right there</font><font color="#CCCCCC"> and what we're</font><font color="#E5E5E5"> going</font>
+
+10
+00:00:23,699 --> 00:00:25,320
+to do is we have the new phantom 4 drone
+
+11
+00:00:25,320 --> 00:00:26,880
+and we are going<font color="#CCCCCC"> to</font><font color="#E5E5E5"> try to crash it</font>
+
+12
+00:00:26,880 --> 00:00:29,130
+because it has object avoidance<font color="#E5E5E5"> and</font>
+
+13
+00:00:29,130 --> 00:00:31,019
+basically we're going<font color="#E5E5E5"> to test their</font>
+
+14
+00:00:31,019 --> 00:00:33,360
+object avoidance feature<font color="#E5E5E5"> so they called</font>
+
+15
+00:00:33,360 --> 00:00:34,500
+<font color="#CCCCCC">the two</font><font color="#E5E5E5"> optimist</font>
+
+16
+00:00:34,500 --> 00:00:35,760
+<font color="#CCCCCC">so we are</font><font color="#E5E5E5"> going to shoot this and I'm</font>
+
+17
+00:00:35,760 --> 00:00:36,780
+<font color="#E5E5E5">going</font><font color="#CCCCCC"> to just kind of show you how the</font>
+
+18
+00:00:36,780 --> 00:00:38,460
+shoot does we<font color="#E5E5E5"> are getting the drone set</font>
+
+19
+00:00:38,460 --> 00:00:39,660
+up right now looks like Keaton
+
+20
+00:00:39,660 --> 00:00:42,120
+struggling as usual that's the<font color="#CCCCCC"> Phantom 4</font>
+
+21
+00:00:42,120 --> 00:00:43,530
+that's<font color="#E5E5E5"> the one we're testing hey with</font>
+
+22
+00:00:43,530 --> 00:00:46,520
+good guys gear
+
+23
+00:01:26,400 --> 00:01:29,020
+what<font color="#CCCCCC"> motor in for our</font><font color="#E5E5E5"> first test</font><font color="#CCCCCC"> we're</font>
+
+24
+00:01:29,020 --> 00:01:31,120
+going<font color="#CCCCCC"> to try to fly it</font><font color="#E5E5E5"> into a tree we're</font>
+
+25
+00:01:31,120 --> 00:01:33,400
+in the regular mode so<font color="#E5E5E5"> obstacle</font>
+
+26
+00:01:33,400 --> 00:01:34,870
+avoidance is on I'm going<font color="#E5E5E5"> full force</font>
+
+27
+00:01:34,870 --> 00:01:37,860
+here<font color="#E5E5E5"> but it is not letting</font><font color="#CCCCCC"> me</font><font color="#E5E5E5"> fly it</font><font color="#CCCCCC"> in</font>
+
+28
+00:01:37,860 --> 00:01:42,090
+go<font color="#E5E5E5"> I try</font><font color="#CCCCCC"> to fly it again</font><font color="#E5E5E5"> to the tree it</font>
+
+29
+00:01:42,090 --> 00:01:44,040
+pulls back<font color="#CCCCCC"> where we're</font><font color="#E5E5E5"> gonna fly it into</font>
+
+30
+00:01:44,040 --> 00:01:46,610
+the<font color="#E5E5E5"> branches</font>
+
+31
+00:01:47,230 --> 00:01:49,950
+<font color="#CCCCCC">oh</font><font color="#E5E5E5"> my</font>
+
+32
+00:01:51,860 --> 00:01:54,830
+so first we tested uh just flying it
+
+33
+00:01:54,830 --> 00:01:56,930
+right into a tree<font color="#CCCCCC"> which didn't work</font><font color="#E5E5E5"> it</font>
+
+34
+00:01:56,930 --> 00:01:59,420
+<font color="#E5E5E5">pulls up pretty fast</font><font color="#CCCCCC"> no matter how fast</font>
+
+35
+00:01:59,420 --> 00:02:00,950
+you're<font color="#CCCCCC"> going on</font><font color="#E5E5E5"> their own and it will</font>
+
+36
+00:02:00,950 --> 00:02:03,080
+just kind<font color="#E5E5E5"> of stop and back up so we</font>
+
+37
+00:02:03,080 --> 00:02:04,700
+tried the<font color="#E5E5E5"> base of the tree</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> we try</font>
+
+38
+00:02:04,700 --> 00:02:06,440
+the tree branches<font color="#CCCCCC"> and as you</font><font color="#E5E5E5"> can see</font>
+
+39
+00:02:06,440 --> 00:02:08,990
+it's<font color="#E5E5E5"> it's not doing anything so now what</font>
+
+40
+00:02:08,990 --> 00:02:12,650
+<font color="#E5E5E5">are we</font><font color="#CCCCCC"> trying</font><font color="#E5E5E5"> next tripod set a few</font>
+
+41
+00:02:12,650 --> 00:02:14,270
+foxes<font color="#CCCCCC"> that will buy you new one</font><font color="#E5E5E5"> always</font>
+
+42
+00:02:14,270 --> 00:02:15,680
+gonna try<font color="#E5E5E5"> to plot</font><font color="#CCCCCC"> okay right at the</font>
+
+43
+00:02:15,680 --> 00:02:17,750
+tripod if I<font color="#CCCCCC"> gotta see the legs yeah</font>
+
+44
+00:02:17,750 --> 00:02:19,190
+because<font color="#E5E5E5"> the tripods like thin so I guess</font>
+
+45
+00:02:19,190 --> 00:02:20,540
+we're<font color="#E5E5E5"> going to try to fly in to drop</font><font color="#CCCCCC"> out</font>
+
+46
+00:02:20,540 --> 00:02:22,490
+<font color="#E5E5E5">next</font><font color="#CCCCCC"> are you guys I wrecked my tripod is</font>
+
+47
+00:02:22,490 --> 00:02:23,840
+<font color="#CCCCCC">that what's happening I was</font><font color="#E5E5E5"> like this is</font>
+
+48
+00:02:23,840 --> 00:02:25,250
+<font color="#E5E5E5">like this is</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> real test</font>
+
+49
+00:02:25,250 --> 00:02:27,140
+and the drone<font color="#E5E5E5"> and see instead like</font>
+
+50
+00:02:27,140 --> 00:02:32,470
+boxing yeah like you<font color="#E5E5E5"> could miss</font><font color="#CCCCCC"> us</font>
+
+51
+00:02:41,780 --> 00:02:43,840
+<font color="#CCCCCC">you</font>
+
+52
+00:03:04,060 --> 00:03:07,250
+what is it doing we just<font color="#E5E5E5"> took out</font><font color="#CCCCCC"> the</font>
+
+53
+00:03:07,250 --> 00:03:10,430
+drone that<font color="#CCCCCC"> was right okay it's</font><font color="#E5E5E5"> on</font>
+
+54
+00:03:10,430 --> 00:03:13,159
+<font color="#CCCCCC">oh no well there</font><font color="#E5E5E5"> goes half our $1</font>
+
+55
+00:03:13,159 --> 00:03:16,730
+alright so that was fucking insane<font color="#E5E5E5"> so we</font>
+
+56
+00:03:16,730 --> 00:03:20,299
+just crashed<font color="#E5E5E5"> the drunk object avoidance</font>
+
+57
+00:03:20,299 --> 00:03:22,700
+<font color="#E5E5E5">didn't work with the tripod we tried to</font>
+
+58
+00:03:22,700 --> 00:03:24,590
+have yeah it worked<font color="#E5E5E5"> and then you went</font>
+
+59
+00:03:24,590 --> 00:03:26,780
+past<font color="#E5E5E5"> and then went back and it totally</font>
+
+60
+00:03:26,780 --> 00:03:28,760
+missed it<font color="#CCCCCC"> and we chewed up one of the</font>
+
+61
+00:03:28,760 --> 00:03:30,109
+<font color="#E5E5E5">different propellers so we fucked up</font>
+
+62
+00:03:30,109 --> 00:03:32,720
+this propeller and this propeller<font color="#E5E5E5"> it</font>
+
+63
+00:03:32,720 --> 00:03:33,919
+legit just didn't even<font color="#E5E5E5"> see</font><font color="#CCCCCC"> the dry</font>
+
+64
+00:03:33,919 --> 00:03:35,269
+bought it was too I think<font color="#CCCCCC"> it's too thin</font>
+
+65
+00:03:35,269 --> 00:03:38,000
+and weird of a shaped object but I mean
+
+66
+00:03:38,000 --> 00:03:40,579
+it's an<font color="#E5E5E5"> object and it didn't avoid it so</font>
+
+67
+00:03:40,579 --> 00:03:42,680
+that's<font color="#E5E5E5"> pretty insane</font><font color="#CCCCCC"> we didn't wreck it</font>
+
+68
+00:03:42,680 --> 00:03:44,329
+because we have<font color="#E5E5E5"> extra propellers so</font>
+
+69
+00:03:44,329 --> 00:03:46,579
+we'll keep trying on<font color="#CCCCCC"> something it</font><font color="#E5E5E5"> was</font>
+
+70
+00:03:46,579 --> 00:03:51,409
+<font color="#CCCCCC">$40</font><font color="#E5E5E5"> so sad</font><font color="#CCCCCC"> I</font><font color="#E5E5E5"> tiger from - Brown - I</font>
+
+71
+00:03:51,409 --> 00:03:52,790
+think<font color="#E5E5E5"> this might</font><font color="#CCCCCC"> be</font><font color="#E5E5E5"> my favorite part of</font>
+
+72
+00:03:52,790 --> 00:03:54,950
+the day<font color="#E5E5E5"> so</font><font color="#CCCCCC"> we're gonna try</font><font color="#E5E5E5"> to</font><font color="#CCCCCC"> fly the</font>
+
+73
+00:03:54,950 --> 00:03:57,260
+drone<font color="#CCCCCC"> into keet now because you</font><font color="#E5E5E5"> know</font>
+
+74
+00:03:57,260 --> 00:03:58,669
+it's he's got to<font color="#E5E5E5"> take a sacrifice so</font>
+
+75
+00:03:58,669 --> 00:04:00,530
+we're gonna sacrifice his body for<font color="#E5E5E5"> the</font>
+
+76
+00:04:00,530 --> 00:04:04,159
+drone<font color="#E5E5E5"> hopefully it hits him so now we</font>
+
+77
+00:04:04,159 --> 00:04:06,169
+replace<font color="#E5E5E5"> the propellers</font><font color="#CCCCCC"> keen just</font>
+
+78
+00:04:06,169 --> 00:04:07,549
+manually<font color="#CCCCCC"> because we had backup</font>
+
+79
+00:04:07,549 --> 00:04:09,500
+<font color="#E5E5E5">propellers so</font><font color="#CCCCCC"> keen</font><font color="#E5E5E5"> manually put on some</font>
+
+80
+00:04:09,500 --> 00:04:12,849
+new propellers now the target is that<font color="#CCCCCC"> I</font>
+
+81
+00:04:12,849 --> 00:04:15,169
+music<font color="#CCCCCC"> say</font><font color="#E5E5E5"> I'm not looking forward to</font>
+
+82
+00:04:15,169 --> 00:04:17,570
+<font color="#E5E5E5">those guys like say a prayer rest in</font>
+
+83
+00:04:17,570 --> 00:04:19,159
+peace we're<font color="#E5E5E5"> not gonna fly too fast and</font>
+
+84
+00:04:19,159 --> 00:04:20,570
+it's plastic he's not going to<font color="#E5E5E5"> get hurt</font>
+
+85
+00:04:20,570 --> 00:04:22,970
+<font color="#E5E5E5">but</font><font color="#CCCCCC"> uh</font><font color="#E5E5E5"> this is a little</font><font color="#CCCCCC"> risky and</font><font color="#E5E5E5"> I'm</font>
+
+86
+00:04:22,970 --> 00:04:24,590
+<font color="#E5E5E5">interested to see what</font><font color="#CCCCCC"> happens I</font><font color="#E5E5E5"> really</font>
+
+87
+00:04:24,590 --> 00:04:26,180
+think that a human being<font color="#CCCCCC"> should</font>
+
+88
+00:04:26,180 --> 00:04:27,889
+definitely be something<font color="#E5E5E5"> that it avoids</font><font color="#CCCCCC"> I</font>
+
+89
+00:04:27,889 --> 00:04:29,300
+don't know though this is fucking
+
+90
+00:04:29,300 --> 00:04:31,690
+interesting
+
+91
+00:04:38,020 --> 00:04:40,050
+<font color="#E5E5E5">ah</font>
+
+92
+00:04:42,340 --> 00:04:45,770
+dude if you get my head me don't get my
+
+93
+00:04:45,770 --> 00:04:49,030
+head<font color="#CCCCCC"> Jewish I talk</font>
+
+94
+00:04:50,880 --> 00:04:53,720
+I know
+
+95
+00:04:55,360 --> 00:04:58,360
+easy
+
+96
+00:05:01,100 --> 00:05:05,570
+using me<font color="#CCCCCC"> depth</font><font color="#E5E5E5"> is me</font>
+
+97
+00:05:06,490 --> 00:05:09,490
+easy
+
+98
+00:05:13,600 --> 00:05:15,880
+he knows
+
+99
+00:05:15,880 --> 00:05:19,300
+you probably<font color="#E5E5E5"> coming in from the side</font>
+
+100
+00:05:19,300 --> 00:05:23,500
+oh my god that felt so scary<font color="#CCCCCC"> the fact</font>
+
+101
+00:05:23,500 --> 00:05:27,120
+that it just<font color="#CCCCCC"> really liked one Hickey</font>
+
+102
+00:05:28,150 --> 00:05:30,070
+<font color="#CCCCCC">Keane's all the way the fuck down</font>
+
+103
+00:05:30,070 --> 00:05:32,050
+<font color="#E5E5E5">they're getting a sign right now we're</font>
+
+104
+00:05:32,050 --> 00:05:33,850
+gonna test the time<font color="#CCCCCC"> because I</font><font color="#E5E5E5"> would love</font>
+
+105
+00:05:33,850 --> 00:05:37,860
+to keep<font color="#CCCCCC"> flies through the song</font><font color="#E5E5E5"> yeah yeah</font>
+
+106
+00:05:37,860 --> 00:05:40,360
+yeah a couple<font color="#E5E5E5"> of guys trying to</font><font color="#CCCCCC"> cause</font><font color="#E5E5E5"> it</font>
+
+107
+00:05:40,360 --> 00:05:41,800
+<font color="#E5E5E5">down in the parking yes yeah he's on the</font>
+
+108
+00:05:41,800 --> 00:05:44,880
+phone who the fuck is<font color="#E5E5E5"> he calling right</font>
+
+109
+00:05:56,889 --> 00:05:58,969
+really one last test is we're going<font color="#CCCCCC"> to</font>
+
+110
+00:05:58,969 --> 00:06:01,099
+<font color="#E5E5E5">try to have</font><font color="#CCCCCC"> that fly in a directly</font>
+
+111
+00:06:01,099 --> 00:06:03,079
+<font color="#CCCCCC">straight line pretty fast Keens gonna</font>
+
+112
+00:06:03,079 --> 00:06:04,459
+throw the drone case right<font color="#CCCCCC"> in its path</font>
+
+113
+00:06:04,459 --> 00:06:07,459
+<font color="#CCCCCC">it'd be funny be</font><font color="#E5E5E5"> like a</font><font color="#CCCCCC"> pansy</font><font color="#E5E5E5"> funny keen</font>
+
+114
+00:06:07,459 --> 00:06:09,769
+be funny come on<font color="#CCCCCC"> alright</font><font color="#E5E5E5"> so no but</font>
+
+115
+00:06:09,769 --> 00:06:11,479
+anyone can pinpoint<font color="#E5E5E5"> that thing into</font><font color="#CCCCCC"> like</font>
+
+116
+00:06:11,479 --> 00:06:16,299
+<font color="#E5E5E5">a tiny box it's</font><font color="#CCCCCC"> bad right oh yeah yeah</font>
+
+117
+00:06:19,470 --> 00:06:24,200
+<font color="#E5E5E5">oh my god we want it right like</font>
+
+118
+00:06:29,910 --> 00:06:34,350
+Oh keep<font color="#E5E5E5"> it survives that keeps you</font>
+
+119
+00:06:34,350 --> 00:06:39,170
+covering<font color="#E5E5E5"> nobody held its ground</font>
+
+120
+00:06:47,770 --> 00:07:02,539
+he knows<font color="#CCCCCC"> love you Heaton fucking oh my</font>
+
+121
+00:07:02,539 --> 00:07:05,330
+god the batteries<font color="#CCCCCC"> out</font><font color="#E5E5E5"> there goes our</font><font color="#CCCCCC"> job</font>
+
+122
+00:07:05,330 --> 00:07:07,039
+<font color="#CCCCCC">wait you have that footage I think I</font>
+
+123
+00:07:07,039 --> 00:07:08,569
+think Matt got it no but I think<font color="#CCCCCC"> Matt</font>
+
+124
+00:07:08,569 --> 00:07:09,080
+got it
+
+125
+00:07:09,080 --> 00:07:10,819
+Keaton literally just fucking Horrell
+
+126
+00:07:10,819 --> 00:07:14,000
+that box at the throne and destroyed it
+
+127
+00:07:14,000 --> 00:07:16,099
+guys obviously<font color="#CCCCCC"> you</font><font color="#E5E5E5"> got to go check out</font>
+
+128
+00:07:16,099 --> 00:07:18,229
+<font color="#E5E5E5">their video I'm gonna put in the</font>
+
+129
+00:07:18,229 --> 00:07:19,639
+description there's gonna be<font color="#CCCCCC"> a I button</font>
+
+130
+00:07:19,639 --> 00:07:21,080
+up there<font color="#E5E5E5"> so I'm pretty sure it's a wrap</font>
+
+131
+00:07:21,080 --> 00:07:23,479
+right now guys<font color="#E5E5E5"> this drone</font><font color="#CCCCCC"> is fairly</font>
+
+132
+00:07:23,479 --> 00:07:25,430
+<font color="#E5E5E5">wrecked but it was good time and I'm</font>
+
+133
+00:07:25,430 --> 00:07:27,020
+<font color="#E5E5E5">glad I got</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> watch this shit go down</font>
+
+134
+00:07:27,020 --> 00:07:28,960
+<font color="#CCCCCC">because this</font><font color="#E5E5E5"> is time should I like MIT</font>
+
+135
+00:07:28,960 --> 00:07:31,400
+anyway thank you<font color="#E5E5E5"> guys</font><font color="#CCCCCC"> for watching a</font>
+
+136
+00:07:31,400 --> 00:07:33,050
+<font color="#E5E5E5">special Sunday behind-the-scenes vlog of</font>
+
+137
+00:07:33,050 --> 00:07:35,120
+<font color="#CCCCCC">Keenan Matt's</font><font color="#E5E5E5"> techsmartt test of the</font>
+
+138
+00:07:35,120 --> 00:07:37,400
+drone<font color="#E5E5E5"> obviously you guys</font><font color="#CCCCCC"> are gonna go</font>
+
+139
+00:07:37,400 --> 00:07:39,349
+<font color="#E5E5E5">check that</font><font color="#CCCCCC"> out next right right</font><font color="#E5E5E5"> I mean</font>
+
+140
+00:07:39,349 --> 00:07:41,330
+<font color="#E5E5E5">really right props like we're gonna</font>
+
+141
+00:07:41,330 --> 00:07:42,710
+start<font color="#CCCCCC"> flying</font><font color="#E5E5E5"> again but it's probably</font>
+
+142
+00:07:42,710 --> 00:07:47,169
+<font color="#E5E5E5">gonna fucking die anyway thanks Roger</font>
+
+143
+00:07:51,860 --> 00:00:00,000
+you
+

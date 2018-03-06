@@ -1,0 +1,4603 @@
+- What up blog, hope
+everyone's doing super well.
+This is a keynote that I gave in Singapore
+that really struck.
+There's a bunch of stuff
+in management and running
+operations, a lot of my stuff
+is for early entrepreneurs.
+I think for everybody
+who is running a business
+with several employees or
+seven figures in revenue
+are gonna get a lot out of this one.
+So, I hope you enjoy it,
+and I hope you like my sweater.
+♪ We're unstoppable ♪
+- I'm really excited to be
+here, thank you so much.
+So, we have a lot of time
+together, which is amazing,
+and so, I will take
+full advantage of that,
+and to be very honest, I wanna
+get into the Q and A part
+and start throwing this out
+to you guys to ask questions,
+so I'm gonna try to get to
+that as quickly as possible,
+because I think, for me, when I speak,
+and what I think has
+allowed me to have a nice
+speaking career is I'm
+obsessed with bringing in
+as much value to the audience as possible.
+My origin story of Belarus
+and lemonade stands
+and baseball cards is
+something that you can see
+on YouTube over and over and over again,
+and as I continue through
+my career of speaking,
+I wanna do less of that,
+and to be very frank,
+the reason I wrote a
+book called AskGaryVee
+is it's my great ambition
+to build enough brand
+where I could come to
+an environment like this
+and just go right into Q and A,
+because at the end of the day,
+I think that's where the biggest value
+happens in a keynote,
+and so, what I'll do,
+because I'm gonna assume
+some of you and many
+of you may not know who I am.
+I'll try to at least
+deliver on the promise
+of giving a keynote, but
+please rest assured that
+I'm ready to go into Q and
+A as soon as you guys are.
+So, look, I think the thing that,
+regardless if you're
+a B2B or B2C marketer,
+regardless if you're
+starting on your first day
+or you've got a $100 million company,
+I think the thing that
+will really be important
+for us to chat about first is
+the thing that we're all connected by,
+which is my obsession with attention.
+Right, before you can tell
+me how great your product is
+or how charismatic you are,
+or why you're so right about what you have
+to say to the world, whether
+as a person or as a business,
+you have to get the person's
+attention to tell your story.
+To me, this is the most fascinating thing
+that's happening right now in our society,
+is that attention has never been more
+changing, has never been harder to grasp,
+I think for a lot of us
+that have been in business
+for a long time it's very
+difficult to grab the current
+changing landscape of
+attention at the speed
+of which it changes.
+I spend eight, 10, 12, 15 hours a day
+trying to audit and understand attention,
+and even for me, there's so
+many things still happening
+that I haven't been able to
+completely grab my hands on,
+whether it's the depth of eSports,
+arbitrage as a cultural phenomenon,
+whether it's the blockchain,
+whether it's all the
+opportunity within AI and ML,
+whether it's the emerging
+AR infrastructure
+in the Apple updates and
+Google infrastructure,
+whether it's voice, which I
+speak a lot about right now,
+on the Alexa, Google, and Apple fronts,
+we're talking about a very different world
+than our grandparents
+and parents grew up in
+as businessmen and women,
+and more importantly,
+as marketers and executors
+and most importantly,
+as actual practitioners of the craft.
+I think the thing that
+fascinates me the most
+is how many people in here, I mean, to me,
+when I think about how
+many of you flew to be here
+or are here to see me speak,
+we, including myself,
+we're so much further ahead
+in understanding these things
+because of our interest in it,
+regardless of your success
+at this point in it.
+If you're sitting in this conference,
+your intuition or curiosity or execution
+around the modern day attention graph
+and the opportunities
+within it is so much further
+accelerated than the 99%,
+and to me, that's super interesting to me,
+that we have such an
+incredible opportunity in front
+of us to trade on this opportunity,
+and so, my question becomes,
+how much of what you believe
+and know about this moment
+is around you reading
+or consuming content,
+and how much of it is that you're
+actually executing within it?
+If I can do anything to
+start this keynote off with,
+if I can lead with anything,
+if I can impact you in any shape or form
+to have one action item,
+it would be for you to start
+doing more of the thing.
+Let me explain.
+There's a lot of people in
+this room who understand
+the concept of KOLs or Facebook ads,
+but yet, I don't think enough are actually
+executing within those environments.
+You know, it's unbelievable
+how many of you have opinions
+on these ad products and platforms,
+yet aren't spending
+and executing yourself.
+I think the thing that
+I spend so much time on
+is I produce content and do social media,
+because I wanna stay a practitioner.
+I think of it as being
+a mason or a carpenter
+versus being an architect.
+If you look at that industry,
+a lot of architects grow up
+getting their hands dirty,
+and over time, they get
+separated too much from the work,
+where they lose a pulse on the reality
+of the current infrastructure.
+I'm fascinated by that.
+That is the thing that I
+try to stay grounded in.
+If I can get everybody
+here to make one more ad,
+to create one more piece of content,
+to A/B test six different
+headlines on the same picture
+in a Facebook, Instagram,
+WeChat environment.
+These are very important variables that
+not enough of us are talking about.
+And so, at the most high level,
+I would hope to inspire
+people to become practitioners
+instead of pontificators in
+the craft of the opportunity.
+There is only one reason I
+stand up here at this keynote
+and have people wanna
+hear what I have to say.
+It's because no matter what
+has been happening to me,
+I've not lost my pulse on
+the craft of what I do.
+How many people here
+have been following me
+for longer than
+a year?
+So, one more time,
+hands, I just wanna see.
+Great, almost all of you.
+Most of you, 60, 70% of you.
+I'm a simple dude.
+I basically only believe
+in 10 or 12 things,
+and I pump out an obnoxious
+amount of content,
+which means that over
+the course of a year,
+you're gonna pretty much
+grasp what my pillars are.
+I think the only thing that allows me
+the luxury of keeping your
+attention over the long haul
+is my ability to stay relevant
+to where the opportunities are.
+The only reason after a year or two
+that it's worth your
+time to give to me versus
+something else, it's because
+I've had a good career
+for 20 years of having enough intuition
+on what consumers are gonna
+do, but way more importantly,
+I don't talk about Alexa
+skills and briefings,
+I make an Alexa skill and briefing
+so that I understand it,
+and I would tell you, there's
+a huge lesson in that.
+I think a lot of people,
+especially if they get a level of success,
+start getting too far away from the craft,
+and you start building around
+the raising the capital,
+the exiting of the company,
+the writing of the book,
+you know, the speaking on the keynote,
+you just get away from the work,
+and I would argue that it's
+never been more important
+to stay on top of the work,
+because every day it's changing, right?
+To me, I'm running late this
+morning to our first meetings,
+and I quickly go on Instagram Live
+because they just created a new update
+where it allows you to
+bring people into your
+Livestream that are watching you,
+and I did not feel
+comfortable being here today
+without trying and tasting
+it and understanding
+the functionality in case one of you asked
+me a question about it.
+I mean, it's an important insight.
+It's an important insight,
+and it is the absolute opportunity,
+because when you think about
+the way I think about it,
+I talk about day trading attention,
+and when you talk about
+day trading attention,
+I'm not a Wall Street guy,
+I'm not a capitals guy,
+but I understand the difference between
+day trading and putting
+something into a mutual fund
+and watching it grow, right?
+There's a very different speed,
+there's a very different understanding,
+and that's how I think about it.
+My sign now says day trading attention.
+A year ago it used to say marketing
+in the year that we live in.
+Why did I change it from
+marketing in the year
+that we live in to day trading attention,
+it was because I realized, oh my God,
+everything we're about to talk about
+is happening even faster,
+that even if you believe
+in something for that year,
+within that year, it's changing too much,
+influencer marketing, and
+Facebook, and YouTube,
+and Twitter, and LINE, and WeChat,
+this stuff is changing too fast
+and we are not keeping up
+with the subtle features,
+because if you really understand this,
+you know, you look at something
+like Instagram Stories
+or Facebook Watch or all these subtleties,
+in those little sub-arbitrages, polling,
+in an Instagram, in those little features,
+in those little updates
+are oftentimes the marginal
+opportunity that is the
+biggest difference between
+growing your business and not.
+And so, it's exhausting
+and it's difficult,
+but I have one very important
+statement around this
+for everybody, tough luck.
+You know, no matter
+how we want it, listen,
+I wish that we never evolved from email.
+In 1996, I had 90% open
+rates on my email newsletter.
+I was crushing it, life was good.
+I had figured out email.
+Then in the early 2000s, I
+figured out Google AdWords.
+I wish that never
+changed, I figured it out.
+I won on that, then YouTube came out.
+I had one of the first long
+form shows on YouTube in 2006.
+I figured it out.
+I liked it, I wish Twitter
+didn't come along, but it did,
+and then I spent 15 hours
+a day tweeting all of you,
+and then I grew into one
+of the most followed people
+on Twitter, and then Facebook evolved.
+And, like, Instagram came
+up, and Snapchat came.
+Like, this is a never
+ending game of attention,
+distribution, and arbitrage,
+and so I think the biggest
+thing you need to understand is
+the best product will always
+win if people know about it.
+Right, and so, I think
+the thing that I spend
+a lot of time on is I'm a
+marketer, I like to market,
+I understand marketing,
+I'm a business builder,
+I've built businesses.
+I think there's an
+incredible, interesting,
+kind of graph between the
+quality of your product
+and how many people know about it.
+So, for example, if
+you're a great marketer,
+and you listen to everything that I say,
+and you get a lot of attention,
+and your business isn't working,
+a lot of times it happens to
+do with your products sucking.
+We don't spend enough time
+talking about the product
+or service you're selling, you know?
+So, please, if you're
+sitting in the audience
+and you're looking for the magic pill,
+or if you think that you're gonna be able
+to siphon some information
+that's gonna allow you
+to play in the edges of the
+arbitrage of opportunity,
+please make sure you're
+looking at your product
+and service to make sure it delivers,
+because if you follow my blueprint,
+if you get results from
+my ideas that you then
+become an executor of,
+if your product sucks,
+all that I'm gonna do is
+expose your product faster
+and you're gonna go
+out of business faster.
+So, please start there, but after that,
+please understand the following.
+This is a golden era of
+marketing for one simple reason.
+The places where our
+attention and our consumers'
+attention are, are now
+driven by marketplace bidding
+dynamics, not by writing an
+upfront check to get the ads.
+Please understand this.
+Please understand that
+the biggest difference
+for us as communicators
+is we don't need millions
+of dollars to do television and print
+and outdoor and direct mail to hit mass,
+we are trading on
+marketplaces, Google, Facebook,
+Snapchat, these are biddable marketplaces.
+The reason this is the best time
+is because those
+marketplaces are underpriced.
+Those marketplaces are
+underpriced right now
+because the biggest companies in the world
+are not spending enough money on them.
+You have to understand, when
+there's a come to Jesus moment,
+and the biggest brands in
+the world properly spend
+in everything that I talk about,
+everything I talk about
+becomes null and void.
+When you have to spend
+$48 CPMs to get in front
+of potentially 1,000 people
+in a feed instead of $7,
+the mathematics don't work out as nice
+for why I'm so excited.
+When influencers and KOLs
+start charging the proper price
+for their product
+placement and endorsement,
+it won't be as fun of an opportunity.
+And so, I continue to yell
+at the top of my lungs
+right now, how many people
+here actually have been
+following me for eight years?
+Raise your hands, there's
+not gonna be a lot,
+but I'm just curious, go a
+little higher, eight years?
+First of all, thank you
+for the eight of you.
+Second of all, second of all,
+you eight have a unique understanding
+of me that many others
+won't, and let me explain,
+for you eight, that, I can
+see two of you right now,
+that you understand.
+I was very loud, Gary Vee, in 2009, 2010,
+but then I got very quiet for my standards
+in 2011, '12, '13, and then I
+started getting louder again
+in '14, '15, '15, '16, '17, right?
+For everybody else, there's a reason.
+I am my most excited when I think
+there's an arbitrage at scale.
+If I had been making content in 1996,
+I would've been talking and making videos
+and audio and written word about email
+until I put you into nausea.
+Then I would've gotten quiet in '99,
+'cause email had caught up,
+and then somewhere around 2001,
+I would have probably spent
+24 months yelling at you
+that this Google AdWords
+thing is incredible,
+intent marketing's incredible,
+if somebody's searching to drink wine,
+that's probably good to
+buy for five cents a click,
+and I would have yelled and screamed
+for two to three years on Google AdWords,
+and then somewhere around
+2006, '07, it corrected.
+Ah, dit, dit, dit, dit, dit, dit, dah.
+Every single person in this conference
+is going to regret not spending more money
+on Facebook and Instagram.
+Every single person in this,
+I'm talking, and by the way,
+I know some of you have
+a B2B SaaS business
+that you haven't been able to figure out
+how to do Facebook ads,
+but I know tons of B2B SaaS
+businesses that are selling
+top of the funnel and
+conversion based sales every day
+on Facebook at scale because
+they're trying harder than you
+to figure out the creative that
+is the variable of success.
+Please understand that the creative is the
+absolute variable of success.
+That it may be the word or
+the picture or the video
+that hasn't let you be successful
+in Facebook, not Facebook.
+And so, I sit here with,
+as you guys can tell,
+a different demeanor than
+sometimes when I speak,
+because I think it's very serious.
+I think this is an enormous opportunity,
+and I very honestly am excited that I know
+three of you are gonna
+email me in four years
+and it's gonna be like,
+Gary, you were right,
+I didn't spend enough on
+Facebook, God damn it.
+So, now that we've established that,
+I wanna talk about the thing that
+excites me the most right
+now, which is voice.
+A lot of you have heard me
+yell and scream about voice.
+How many people here
+have seen my enthusiasm
+for voice, raise your hands, great.
+I'm awfully passionate about it,
+and I'm passionate about it because
+of one of the more interesting
+chapters in my career,
+which is when I passed on Uber, twice.
+At a four million dollar evaluation.
+In the angel round for one of
+my best friends in the space.
+The reason I passed was, first,
+'cause it was a side project
+for Garrett and Travis,
+but second, 'cause I didn't see it.
+But why did I invest a year
+later, before it exploded?
+It was because I understood that Uber
+was selling time, not transportation.
+And more importantly,
+the perception of time,
+because if you've ever been
+to New York City like me,
+there's nothing more humbling than waiting
+for your Uber and watching 500 cabs
+that are empty drive by you.
+Now.
+Audio.
+How many people here, in the last year,
+have started spending more time listening
+to my podcast and watching
+less video because of it,
+raise your hands.
+Raise it high, I want
+everybody to look around.
+This is the insight that
+matters to me the most.
+Right?
+The reason they've done that is because
+what audio allows that video
+doesn't is passive consumption.
+You can listen to the podcast
+while doing something else.
+You can listen to the podcast in a shower,
+while you're driving,
+while you're working out,
+it's time arbitrage.
+Audio will be a huge
+explosion for all of us,
+in every one of our businesses,
+because when you're communicating,
+and hopefully you're bringing value
+and not running a radio commercial,
+when you're communicating
+and bringing value
+to your audience and building
+awareness for yourself,
+you're gonna be doing it in a
+way that respects their time.
+The reason I hate modern day advertising
+is 'cause it steals time.
+A pop up banner on your
+phone steals your time.
+You have to hit the X,
+it's too small, it pops up,
+it opens up, you're pissed
+off, you try to exit,
+and now you've wasted four seconds, which,
+oh, by the way, means a lot to you.
+It would be stunning to you
+for you to realize how much
+slower your internet that
+you're used to in your office
+or home has to be for you to feel it.
+It's staggeringly a little.
+And so, time only with health and money
+and religion are now on the pedestal
+of things that we care about the most,
+and every technology that I
+see that sells you back time
+in exchange for your attention
+will be the things that I bet on the most.
+And that is why I am obnoxiously
+bullish on voice, and when I say voice,
+I mean I think everybody
+here should start a podcast.
+I just do, and in the Q and A,
+I'll show you an example of
+any one of your businesses,
+how it could be a podcast,
+if you'd like to ask me,
+and two, I think everybody
+here should start thinking
+about what it looks like to
+develop a briefing or a skill
+inside of Amazon, Facebook, excuse me,
+Amazon, Google, Apple, whatever
+Facebook comes out with,
+whatever the tech giants
+from China come out with,
+it is going to be the way you search.
+In the next five years,
+five years from today,
+I promise you, you will
+be blown away by how much
+of your search behavior
+is done with your voice.
+As a matter of fact, one of
+the most interesting stats
+that I'm paying attention to is that one
+in every four searches on
+Google on a mobile device
+is done through voice.
+And if you have young children that play
+in a YouTube environment on an iPad,
+my son, when he was at three,
+could navigate the
+entire web through voice.
+So,
+look.
+My point here is very simple.
+We are ridiculously lucky,
+because we get to navigate
+through this time.
+For anybody over 30, and
+especially if you're over 40,
+you really recognize that,
+because, for the over 40 crowd in here,
+we lived pre-internet in a lot of ways.
+The scale is remarkable,
+the impact is high,
+the upside's enormous,
+and to be very honest,
+I think most of us are
+just taking it for granted.
+I don't think we understand the impact
+of how much the opportunity is real,
+and for me, it becomes
+disproportionately compounded
+because you're actually
+at this conference.
+You're actually part of a
+very small interesting group
+for me, which is, I know
+how big the opportunity is,
+I know that 99% of people
+have no idea it's happening,
+you do, so you're part
+of 1% of the whole thing
+that understands it's happening,
+now it's yours to lose.
+I would argue that if you are not able
+to achieve what you
+want to achieve in life,
+and you're at this
+conference during this time,
+then you really mis-executed.
+Then you really got into the things that
+I worry about when I put out content,
+which is you worry way too much about
+stuff that does not matter.
+That you're worried way too much
+about other people's opinions,
+which is the biggest reason
+you don't take chances,
+because you worry about how
+people judge your failures,
+then you're doing a lot of other things
+that are leading to huge levels
+of missed shots and missed opportunities,
+and so that's why I speak so much
+about being insular,
+having the right intent,
+because literally, fundamentally,
+if you synthesize
+everything I've just said,
+non-action is the fundamental reason
+that most of you will fail, at this point,
+being in this room, at this
+conference, during this time,
+and understanding quite a bit
+of what's actually happening.
+Non-action, which if you
+take all the way to the seed
+of a human being is insecurity.
+Which,
+is probably the biggest
+reason that I create content,
+because I hope that you use me
+as your shield to do shit,
+period.
+So, that's what I think is happening.
+Audio's super interesting to me.
+Feed dynamics and a mobile
+device are the currency today,
+it will continue to be for a little while.
+Enormous things are happening around us
+on blockchain and AR and
+things of that nature,
+they're all coming, they're
+all circling around,
+some things are much further
+away than people realize,
+I am very, very anti-consumer
+VR in the short term.
+If you asked me, this
+great phenomenon that I'm
+so obsessed with called the internet,
+the only thing that
+arbitrages it out is VR.
+If we live in a full VR
+world, then now what, right?
+Cool, but nobody here
+knows a single human being
+that spends an hour in VR in a week.
+Not for non-business purposes,
+consumer behavior's not there.
+My friends, for the people
+that are the smartest
+when it comes to tech in here,
+the biggest thing that stops
+you from being successful
+is you understand that the tech is ready,
+but you haven't factored
+in consumer behavior.
+The biggest reason that
+so many super smart
+technologists fail with their products
+is they anticipate techs and
+they understand that it works,
+there's so many things that work right now
+that are four, seven, nine years away,
+because we're not ready
+to use it that way.
+Online dating worked
+in 1996,
+but it took another decade
+before there was a stigma
+removed from it that allowed
+it to start having some legs,
+and 10 years after that,
+now it's mainstream, right?
+That is basically what I do for a living,
+day trading attention,
+understanding behavior around it,
+what are people gonna do
+today that's meaningful
+to the goals that we have?
+Couple things that I wanna throw out
+before we go into Q and A.
+One thing that has come
+up quite a bit today
+since I've been doing
+interviews and interacting
+with people on social here in Singapore is
+because I have a personal brand,
+which, oh, by the way, is
+such an interesting word,
+'cause it gets people very
+emotional in both directions,
+I just wanna remind people that
+hate people with personal brands,
+it's just a slang term
+for your reputation.
+So, people that have a
+reputation or a personal brand,
+there's a lot of people asking me
+if that's a requirement to
+build a successful business,
+and I find that laughable,
+because I wanna remind everybody,
+I wanna remind everybody
+that 99% of businesses
+don't have a personal
+brand in front of them.
+You know, I think that
+it's a great to have,
+I think if you are
+charismatic or narcissistic,
+or enjoy the attention,
+it's a nice to have,
+I super love it, I love
+taking selfies with you
+as much as you love taking it with me,
+it brings awareness, it's branding,
+but it is far from the reason why one
+would be successful and it's
+definitely not a requirement
+to be successful in today's
+business environment.
+The requirement to be
+successful is very simple.
+Is your product good enough,
+and do people know about it,
+and do you have the
+structure to get people
+to know about it better than
+the people you compete with
+for the same share of attention
+and money for that product.
+It's very, very, very, very basic.
+The biggest issue is, slash opportunity,
+is the speed in which
+it turns and changes.
+And so, couple of the
+things I wanna talk about.
+Let's make it contextual to this audience.
+I wanna remind most of you that you have
+a disproportionate advantage
+from most entrepreneurs
+in the U.S., which is,
+oftentimes, not always, because
+of cultural differences,
+but oftentimes, you get to see a preview
+of what's happening before it happened.
+When I think about my
+friends that have built
+successful businesses in southeast Asia
+by simply paying attention of
+what's happening in America
+and then replicating some
+version of it in the market,
+it is literally the dream come true.
+American entrepreneurs got mad
+at those brothers in Germany,
+right, who would rip off the
+ideas and build a business.
+I always was so upset about that.
+I mean, I think Facebook has proven
+that there's no ripping
+off if it's a feature,
+and I think I would also argue that
+ripping off by looking
+at a different business
+in a different market
+and then interpreting it
+into your market is far from ripping off,
+I think it's called smart.
+So, I would highly recommend,
+I don't know if it's pride,
+which I think holds back a lot of people,
+but please take advantage
+for the disadvantages
+one could think they have,
+there's only five million here,
+if you wanna do it in Indonesia,
+there's a lot of people but
+there's so many microclimates,
+so that's, so many
+different segmentations,
+mainly in China, whatever you
+would deem a disadvantage,
+please understand you have
+the greatest advantage,
+which is 90% of things
+are human, not cultural.
+90% of things are human, not cultural.
+If you're capable of
+understanding the culture
+of your consumer and
+layer the cultural context
+on top of the human thing
+that is happening in America,
+you are halfway home.
+An unbelievable advantage
+to be an entrepreneur in this region,
+and watch things play out,
+by the way, for free, no report needed,
+no hiring Boston Consulting
+or Bain and McKinsey,
+by reading and watching
+videos and downloading apps,
+something that I don't believe most people
+in this conference are
+taking full advantage of,
+or respecting enough of
+how big of an advantage
+that is, and to me, very honestly,
+I'm quite selfish when I speak,
+I dream in three years
+from now, you email me,
+nothing would make me happier than
+getting an email from
+somebody here who said
+they had a $50 million
+exit, because, you know,
+they just looked at what
+was working in America,
+and they built the replica-ish of it here.
+Please do that, please understand
+how big of a deal that is,
+and I would argue it is your
+singular biggest advantage
+in this market to be able
+to be shown what will work,
+and then allow you to interpret it,
+oftentimes with very
+little change in the model.
+Cool?
+Cool.
+What else is interesting to me?
+You know what's super interesting to me?
+LinkedIn.
+Let me talk about LinkedIn for a second.
+How many people here are on LinkedIn?
+Good, this will work.
+LinkedIn's interesting to me.
+I think LinkedIn is up to something
+that I think will be
+beneficial for a lot of us.
+First of all, how many
+people are in B2B marketing?
+Raise your hands.
+So, look, raise them higher,
+because I see a lot of
+half assed hands, higher.
+Great, two hands, nice.
+B2B.
+I've said this before, I'll say it again,
+'cause I'm not sure
+how many have heard it.
+Here's how I think about B2B marketing.
+In every one of our B2B spaces,
+there's usually a magazine or two
+that is the leading B2B
+magazine in our sector, right?
+There's just a B2B magazine
+that our customers read.
+I think that's the thing
+that you should attack.
+I think you, as a company and a service,
+should look at the B2B
+magazine and deem that
+your competitor, more than
+people you compete with
+to sell contracts to
+clients, let me explain.
+It is my belief that everybody in here
+is no longer an advertiser,
+but that everybody in
+here is a media company.
+So, I know a lot of you have heard me say
+don't listen to what I'm
+saying, watch what I'm doing.
+I don't advertise, I act
+like a media company,
+and then from that, I
+have top of the funnel
+brand awareness that leads to my business.
+I don't buy ads on Ad Age,
+I don't sponsor things that can,
+I produce content with my points of view,
+act like a media company,
+and they funnel into an
+environment where I built
+$125 million in revenue in AdWorld
+without winning a single RFP.
+Right?
+So, I don't know what all of
+you do in your B2B business,
+but I would look at why
+people read the B2B magazine,
+and I would argue that
+you need to start becoming
+a media company for the sector,
+and then trading off of the
+top of the funnel awareness.
+Let me explain again.
+In 2006, this happened to me intuitively.
+I started a wine show on YouTube
+less than a year after
+YouTube was launched.
+I thought that I was
+gonna make infomercials.
+I thought my main plan when
+there was a camera like that
+in my office for episode one was
+I was gonna sit there and sell you wine.
+Something very interesting happened,
+if you wanna go on YouTube
+and watch episode one
+of Wine Library TV, somewhere
+in the first three minutes,
+you can even see my face
+take a little weird turn,
+you can see me thinking,
+because I realized that
+this would never go away,
+that this video would live forever,
+and I realized that if I was shilling wine
+that I didn't believe in,
+that I could be exposed.
+So, somewhere within
+the first three minutes
+of me ever producing a piece
+of content for the internet
+in my life, I switched
+from being a salesman
+to being a media company.
+I would argue that most of the behavior
+in the way that you produce content
+has short term sales DNA
+versus long term media DNA.
+And this is the vulnerability
+of why you're not getting
+the returns that you're looking
+for from this environment.
+So, I would, please, implore
+a lot of you to realize that
+I believe one of the first
+hires of your business
+in the future is your editor
+in chief of your business.
+An actual media editor for a SaaS product,
+or a consultancy firm, or whatever you do,
+and so, this media mindset
+is super fascinating.
+Let me explain it in an
+even more historical nature.
+Do you guys know that
+the Michelin Tire Company
+in the early 1900s
+decided to start writing reviews
+of hotels and restaurants
+in the countrysides of
+Europe because people
+weren't driving enough
+and using up the tires
+and stopping in their gas stations,
+so they started reviewing
+restaurants and inns
+positively if they were further
+away from London and Paris
+to get the wealthy to drive out there
+and stop by their stations
+and use up their tires,
+and that is why we, to this day,
+have restaurants rated
+three stars Michelin,
+because the Michelin Tire
+Company, 100 years ago,
+executed on my thesis.
+In the same vein, Guinness beer company,
+after declining in pubs for the first time
+around the same time,
+realized that a lot of people were
+talking about trivia at the bar,
+and literally created the
+Guinness Book of World Records
+to get you to talk about
+crazy records and trivia
+in a pub and use the word Guinness,
+so that you would subconsciously reorder
+a Guinness in the pub.
+This is super interesting to me.
+I'm a very big believer that the future
+has all of its seeds in the past.
+And so, I implore all of
+you to become much better
+historians around how to use media
+as a top of the funnel gateway
+to sales around your business.
+Once you understand that,
+you will find far more success in LinkedIn
+if you write a white
+paper that helps lawyers
+run their business and
+then it's a gateway drug
+to what you sell them,
+than if you were to try to
+just sell them an ad saying
+free consultation if you use my firm.
+Media DNA versus advertising DNA.
+Media, again, you want
+distribution in retail stores?
+Write a white paper on LinkedIn,
+15 things that retailers
+need to do in 2018,
+brought to you by your brand,
+I promise you, you'll
+be stunned by how much
+inbound opportunity you
+have in that environment.
+Media, not advertising.
+So, those are some of the
+top of the funnel things
+that are really on my mind.
+I continue to execute, I continue to do,
+I'm very fascinated by how much time
+people spend dwelling and debating,
+I think we glorify strategy
+and we underestimate execution.
+I feel like if you look historically
+and rewind the biggest successes,
+the strategy came from the execution,
+and you did some Monday
+morning quarterback,
+I'm a real genius, in hindsight,
+because I can manipulate how
+I got there after the fact.
+I'm gonna talk about so many
+things in different ways
+than the intent that it was at first,
+because you don't even
+realize that your strategy
+came from it, because when you're doing,
+the strategy is happening in realtime,
+you almost forget why you were
+doing it in the first place,
+and so I promise you,
+indecisiveness and debate
+and pontificating and ultimately, ego,
+is stopping so many people
+from being successful.
+And while I'm on that,
+how many people have
+more than 10 employees,
+raise your hand.
+Great, I think it's worth bringing up.
+Hiring.
+I'm super passionate about hiring.
+How many people have
+more than 10 employees,
+raise your hands.
+I think one of the biggest
+flaws in most of your companies
+is your own ego wrapped
+up in being somebody
+that's good at hiring.
+I wanna tell this story,
+'cause I think it's one of the most
+fascinating things happening
+in small businesses.
+I'm stunned by how many small businesses,
+CEOs, founders, or owners
+think they're good at hiring,
+and have made this a thing.
+They've made it a thing
+'cause they wrap their pride
+in hiring, and here's what happens.
+I feel like my EQ and people
+skills are off the charts.
+I am baffled by how many horrible hires
+I've made in the last 20 years.
+A lot.
+So, when I think about my
+intuition and ability and process
+and deploy that against the masses,
+I know a lot of you have made huge
+amounts of mistakes hiring.
+I so don't give a crap
+what you think about me,
+that I'm very comfortable
+and excited about
+admitting that I was wrong
+and firing very quickly.
+Most people sit on
+people for a year or two,
+because they don't wanna be exposed
+at making a wrong
+decision, and in that time,
+enormous amounts of bad stuff
+happens to your business.
+So, and a completely random thing
+from what I've been talking about,
+if I can get one person
+here to fire the person
+they should be firing in
+their business right now,
+after today, I will feel very accomplished
+on my entire trip to Singapore.
+Who's got a question?
+Great.
+You see that, that was good accuracy.
+What's your name?
+-  Melvin.
+- Melvin.
+-  Yeah, and first
+off, I would wanna say,
+Gary, thank you so much,
+because of what you did,
+you changed my life.
+If you remember, slightly
+earlier this year,
+you started a contest on TV--
+- 2017 Flip Challenge?
+-  No, the GV, GV Podcast Contest.
+- Yes.
+- Yes.
+So, at the point, I'm almost in the U.S.,
+and I knew that by the time
+that that thing's gonna happen,
+I will be in New Jersey, New York,
+so I was hustling really hard to get you
+to pay attention me,
+obviously it didn't happen.
+- Yes.
+- Yeah, alright, but,
+but the good part was that what I did was
+I did exactly what you told me to do,
+or what you had been saying.
+So, I had the hashtag,
+I started tweeting everyone
+who submitted their entry,
+and I said, congratulations, I asked them,
+this is my favorite Gary
+Vee quote, what's yours,
+and then I started getting reply.
+And so, that was when I got a reply,
+and that was when I restarted
+my vlogging journey again,
+so this is the third time I've
+started my vlogging journey.
+So, this time when I
+started my vlogging journey,
+boom, it happened.
+People started paying attention,
+I think you know him, Chris
+Brogan, pay attention to me,
+he tweet a lot my videos,
+he even jump on a call with me
+to do an interview, so that was great.
+- That's awesome, he's a good guy.
+-  Yeah, so, first off,
+I wanted to thank you for ignoring me,
+because if you hadn't ignored me,
+I wouldn't have thought of that.
+- I love it.
+-  Yeah, so that's one.
+Now, number two is that I think there are
+three things that we have in common.
+Number one, we have the
+same favorite number.
+- Five.
+- Number,
+number two, we have this, we
+are born in the same month.
+- Nice, November.
+- Yeah, alright,
+so, the other thing is,
+I wanna say is that,
+when I started my vlogging
+again, this time around.
+- Third time.
+- I started getting attention,
+and I started getting discovered,
+and now companies start calling me,
+people start calling me and say that
+can you do videos for me?
+So, now I'm here today,
+and I'm devastated.
+Why, because you are talking about audio.
+(everyone laughing)
+Alright?
+- Yes.
+-  So, my question is, right now,
+I'm beginning to crush it,
+if you know this actually,
+I said to you earlier on
+Twitter that I'm not coming here
+because I'm executing on what
+you say and I'm crushing it,
+I have no time, but I'm here
+today because I wanna see you,
+I wanna say thank you to you.
+- Thank you.
+- And so,
+my question to you, it's basically this.
+For someone who is really getting traction
+in terms of video, people
+started paying attention.
+- Both.
+- Well, yeah,
+yeah, I know.
+- Both.
+-  But would I be, would I be,
+so what would the--
+- Both.
+-  Strategy be?
+- Both.
+-  What would the strategy be,
+what would I do with podcasts?
+- I don't know.
+(audience laughing)
+- Okay.
+- But let's talk about it.
+- Okay.
+- First answer is both.
+-  Okay, obviously.
+- Now, let me rephrase, it
+depends on your ambition.
+First of all, I love
+going deep on what works.
+Just 'cause audio's rising
+doesn't mean video's dead.
+You know, it's so funny,
+we've been the same for a very long time.
+We, as humans, consume
+content in written form,
+in audio, and in video.
+Whether it's TV, newspaper, or radio,
+or blogs, podcasts, and YouTube,
+it's the same game.
+So, nothing's gonna die.
+If you have real ambition
+to build a personal brand
+that you wanna arbitrage opportunities on,
+my answer is both,
+because in 16 hours,
+you can get a lot done.
+You know, people always
+say to me, do you sleep,
+and this and that, Gary's
+always pushing no sleep,
+I mean, if you follow me carefully,
+I talk about six, seven,
+eight hours, sleep!
+I'm not worried about you sleeping,
+I'm worried about what you're
+doing when you're awake.
+16 hours is a lot of time to do damage,
+and so, what would you do on your podcast?
+Look what I did at first.
+I believed in audio about
+a year and a half ago,
+I wanted to get in, I was busy,
+I didn't have the
+infrastructure I have now,
+so what did I do?
+I transcribed the Ask Gary
+Vee video show into audio,
+right, then I watched it,
+it wasn't enough value add,
+and it was made for video, so
+it wasn't contextual to audio,
+so my podcast was not
+doing as well as it could.
+Then on vacation, where I
+had a little time to think,
+I decided to rebrand it to
+the Gary Vee Audio Experience,
+which gave me a lot more flexibility
+to give you guys original
+content that you didn't
+hear anywhere else, keynotes,
+different things, and it took off.
+You have to look at yourself
+of what you're capable
+of doing, especially when
+you're a one man band,
+and I don't know if you have
+anybody helping you yet.
+-  Not yet, right now.
+- So, as a one man band, what I would do,
+is if you're vlogging, every day,
+I would take 10 minutes of
+something that you're doing
+or talking about, not
+show it in video form,
+rip the audio, and make that your podcast.
+-  Got it.
+Thank you.
+- You're welcome.
+- Thank you.
+- Can you pass it on to the next question?
+Question?
+Your aim is not where we're the same.
+(audience laughing)
+-  Hi, Gary.
+-  How are you?
+-  My name is Kenneth, so.
+-  How are you?
+-  I'm very good,
+very good, how about you?
+-  Super.
+- Good to see you here,
+I would like to say a
+big thank you to you,
+although I did not follow you for years,
+but in the past six months,
+a lot of things have changed.
+I'm writing a book, it's
+called Modern Industrialist.
+I, in fact, emailed you, but
+I guess I have not hustled
+enough to email you a lot of times,
+but because of that,
+of you ignoring again,
+I realized that I need to do something,
+and I took the action of
+document versus create.
+Because, for me, I'm a
+marketer, marketing consultant,
+I always think of crazy ideas, but,
+and I don't go into documenting.
+So what I did is, because of
+my book, Modern Industrialist,
+I interviewed 15 mompreneurs that I put
+into my book that I personally know,
+and because moms love to share,
+they start referring mom,
+other mompreneurs, but I could
+not put them into the book,
+and that's where I created
+my Facebook Live With Lee
+every Monday, and I
+document it, document it,
+and I interview them, and
+it's growing and growing.
+So, my question to you
+is how should I bring it,
+scale it up from there, and personally,
+I own a creative marketing company,
+so how do I put it together?
+- So, you wanna figure out
+how to use the leverage
+of the weekly show to build on top of?
+-  Yep.
+- What would you like to happen?
+Would you like it to be a gateway drug
+to your creative shop,
+do you wanna build a SaaS
+product for mompreneurs?
+Or do you wanna become a personal brand
+and live as being the human
+that makes enough dollars?
+I think you have a lot of
+flexibility of what you can do,
+but this is where you
+have to start backwards.
+So, for me, the reason
+I think I'm winning is,
+for me, backwards, I'm more
+interested in my legacy
+than making money, which
+is why all of you like me,
+because I'm trying to win
+you over by giving you value,
+not get a short term sale,
+which is why it's building legacy.
+So, all my behaviors work backwards.
+I just gave you in one
+second three viable options
+on the back of this,
+do you have a clear answer to that,
+or is that something you need to debate?
+-  I,
+because there's a lot
+options that I could do,
+which I'm working on,
+but it's not coming back
+to me as fast, because.
+- How long have you been
+doing the live show?
+-  I'm doing episode 15,
+so I'm going for my 16 of
+doing on a weekly basis.
+- Hold on, one, five?
+-  One, five, yes, yes.
+I just started, yeah.
+So, because of that, yeah.
+So, I'm going on and on, I'm not stopping,
+and it's growing, and
+it's not just locally,
+it's also into U.S. and a lot of traction,
+people start referring.
+- Yeah, it's called Facebook.
+- Yes.
+Yeah, so, I'm continuing that,
+and getting a lot of traction,
+getting partners coming,
+and also to sponsor for my book,
+so that's what I'm working towards,
+and I would also like
+what you have mentioned,
+is to put it as a media, so
+I'm also attracting partners,
+companies, to come in, to maybe, like,
+mompreneurs, they have their own business.
+- Can I give you a good piece
+of advice that's good for everybody?
+-  Yep.
+- The sooner you monetize,
+the quicker you give up the leverage.
+-  The question
+is how to monetize.
+- Yeah, I understand.
+So, and the answer is,
+I really wish you didn't give a shit
+about monetizing just yet.
+So, you know, there's a
+lot of ways to monetize.
+You just rattled off several,
+and I rattled off several.
+So, I don't think you have an,
+are you having trouble
+closing the opportunities?
+-  I guess
+the struggle is because
+I wanna bring up value,
+I wanna push this mompreneur
+movement all around,
+and to drive this, rather than
+focusing on the monetizing,
+but monetizing is still
+our bread and butter.
+That's why--
+- But they're very
+different things, right?
+One of the things that
+really works for me is
+I don't wanna monetize any of you,
+I have an agency that works
+with the top 100 brands, right?
+So, couldn't you monetize
+with what you're doing
+and continue to build equity
+with the mompreneur community?
+-  I could do that, just that,
+I have to speed up, and also.
+- But why speed up?
+Dude, you've done 15 episodes.
+You're four seconds in.
+What are you trying, where are you going?
+What's the rush?
+I mean, that's the punchline.
+Right?
+Do you think it's gonna go away,
+do you think you found some
+sort of rare, you know,
+pot at the end of the rainbow
+that's gonna disappear?
+I'm asking.
+-  I feel that's unique,
+coming from a man, coming from a dad,
+interviewing mompreneurs.
+- So, what, are you scared about a bunch
+of dudes here trying to
+talk to the mompreneurs?
+-  No.
+So, I guess it's to, to
+find out, to find out what,
+because I have my own
+creative marketing company,
+it's like what you've
+been doing, VaynerMedia,
+you're doing your
+business, at the same time,
+I feel that being an
+author, writing my book,
+interviewing mompreneurs, is
+kind of like my Superman time,
+that I get to do all this
+thing, which I love to do it,
+but at the same time, I
+have to be Clark Kent,
+I have to do all the work
+and get my bills paid,
+which is fine, but.
+- The problem is,
+you can't monetize
+Superman to be Superman.
+You followed?
+- Yes.
+- That's the problem.
+You're trying to sell a
+logo on Superman's suit,
+and it's gonna look really stupid.
+You following, or no?
+-  Yep.
+I get it.
+- The answer is, you don't monetize it.
+-  Got it.
+Thanks.
+- Because,
+because two things will happen.
+One, you're still gonna
+monetize as Clark Kent.
+I spent, do you watch Daily Vee at all?
+-  Yes, yes.
+- You know how I always talk about, like,
+you're not seeing any of
+it, 'cause you're not.
+13 hours a day that you see nothing of,
+me in meetings with clients,
+sometimes I'll do a fast
+music and, just to show you,
+just to remind you I'm
+actually doing, but,
+I don't think it's super fun content,
+I think it's a waste of
+your time to watch me
+in B roll be in 11 hours of meetings.
+You know, I'm very good
+at being Clark Kent,
+and I have no interest
+in monetizing Superman,
+you're trying to monetize Superman,
+which is gonna be the undoing of both.
+-  Got it, yep, I understand.
+- Cool.
+- Okay.
+-  Hey, hi, Gary, my name is Radul.
+- How are you?
+-  Very pleased to be here,
+and also, I need to start
+by saying big thank you,
+because I've been following
+you for about one year, maybe?
+- Thank you.
+-  But really needed
+some of those principles.
+Maybe I read too many bullshit stories
+of get rich overnight and kind of,
+I was having that illusion in my brain
+that it's supposed to be fast,
+and I think that the top
+thing that I took from you
+is that, look, it takes time.
+- Yeah, it's really interesting, right,
+because my personality,
+and I'm sure some of you
+felt this the first time
+you saw me, my personality
+seems so bullshit.
+(audience laughing)
+And it's ended up being
+my biggest strength.
+Because I have that kind of pizazz that
+all the bullshit people say
+it's gonna happen fast have,
+I'm able to get your attention,
+and then I trick you into going slow.
+And then you actually get what you want.
+-  Yeah.
+It works.
+I guarantee.
+- Sure does.
+-  So, thank
+you very much for that.
+My question is, and I'll work through it,
+'cause I'm not sure I have
+it clearly in my head.
+So, basically, I've been
+doing headhunting and
+human resources, executive
+search, for about four years.
+- I like it.
+-  Very specific to a field,
+which is supply chain and logistics.
+- I like that, too.
+-  I started a podcast about
+two or three months ago,
+which is going really well.
+- That makes sense.
+- It's called Leaders
+in Supply Chain, so I'm
+trying to do what you--
+- Let me tell you why I think that,
+notice how I said that
+makes sense, super narrow,
+you know what's so funny, it's
+how I think about Singapore.
+I think having five million citizens
+is the advantage, not the disadvantage.
+Everybody's so quick to build here,
+and then go and do
+Indonesia and other parts,
+that you forget that if you win the entire
+five million market, you
+have a real business.
+I love podcasts in,
+in very narrow, supply
+chain, are you kidding,
+nobody, everybody thinks
+they have to make, like,
+consumer, the meanwhile is,
+if you get the right 800
+people listening to your, 800,
+if you get the right 800 people listening
+to your podcast, your headhunting
+business is gonna explode.
+-  Yeah, and it's starting,
+but I guess it's just the, so,
+I think it will need a
+little bit more time,
+but it's happening because I'm engaging
+with really C level people that,
+'cause it's also creating that platform
+that this industry
+doesn't have, currently.
+- It also is media, so your
+ability to email somebody
+who's the decision maker
+at a company to be a guest,
+who nobody would ask to
+be a guest of anything,
+and now they become aware
+of what you do on the side,
+give Superman away for free,
+watch Clark Kent make money.
+-  Yeah.
+So, I guess all of this is happening,
+I think it needs still a bit
+of time, a lot more time.
+- Of course.
+-  But I guess where I'm,
+I'm kind of struggling over,
+I guess what my question
+is, so, on one side,
+we are selling headhunting.
+So, basically, you recruit
+the best for your business.
+- I understand.
+- Which is HR.
+Then, on the other side,
+I'm specialist in an industry
+which is logistics supply chain.
+So then I'm kind of, 'cause
+sometimes also people,
+especially if it's very senior level,
+so I've been getting
+with some board levels,
+but I went on the side
+of the podcast to them,
+and then they don't necessarily remember,
+they remember, okay,
+that's the podcast guy,
+they don't remember you
+as the headhunting guy.
+- Yep.
+-  So, during the podcast,
+I do the bit on the industry,
+I do the bit on the HR, how
+do you recruit your people,
+and I try to make that connection.
+So, I guess where I'm struggling with,
+and I don't know what's the
+best way moving forward,
+I think it's gonna work if I keep it
+to supply chain and logistics,
+I'm also considering,
+shall I keep it to Asia,
+so, expanded, and saying,
+doing business in Asia,
+to make it a little bit broader.
+- I mean, you mean the show?
+-  Yeah.
+And also the business, then I can also,
+I can then bring the headhunting business
+to expand, as well.
+- Do you feel like your
+business is ready to do that?
+-  I don't know.
+- Yeah, I feel like it isn't.
+-  Yeah, probably not, yeah.
+- Right.
+(audience laughing)
+You see what's happening, right?
+It's the same reasoning,
+like, the get, quick, fast,
+it's his question, guys,
+it's the same shit.
+It's everybody, it's the same
+game over and over and over.
+I get it, and even when you
+have some level of success,
+it's hard, I get it.
+I get it.
+I live it.
+I have way more opportunity than you
+could ever wrap your head around.
+But I stay disciplined on what I can do.
+Why didn't, we've been
+registered to do business
+in Singapore for three years.
+Why is VaynerMedia not
+here, we weren't ready.
+Was my brand ready, yes.
+Would we get business, yes.
+Would it deliver at the
+level that I thought
+I needed to to create 20 year success, no.
+You're on to something,
+and this is what happens
+to a lot of businesses,
+I look at it everyday.
+You're on to something,
+and now you're tasting blood in the water
+and you're getting greedy.
+Because you see it,
+and especially if you're
+hearing it from something
+like this, and you're like,
+wait a minute, this is gonna,
+you know, like, you're
+compounding your confidence,
+which is making you go wide
+when you should be going deeper.
+- Thank you.
+- You're welcome.
+- Hello?
+- Hello.
+-  Hi, hi Gary, my name is Moshad,
+and like what you said,
+80% of your content today
+is more or less on YouTube,
+that's that 30% I kind of absorb,
+I actually collected this box for my mom,
+but firstly, I wanna tell you,
+I'm actually gonna quit my
+job to do something like
+DRock or Word of Mouth Marketing Company,
+but before I pass this on to my mom,
+is that your new K-Swiss
+shoes, that's my question.
+- These are my new K-Swiss shoes.
+-  Alright, awesome,
+awesome, awesome, thanks.
+-  Hi, Gary, I'm Camillia.
+- Hey, Camillia.
+- My son got me onto you.
+I didn't even know you were around.
+- Thanks a lot, Camillia.
+(audience laughing)
+I'm kidding.
+- Sorry about that.
+Well, I.
+- Good news,
+99% of people don't, so, go ahead.
+-  It's okay,
+the word is getting around.
+- They will.
+- Right.
+I'm a WOMologist, and a lot
+of people ask me what I do,
+I'm actually a specialist
+in word of mouth marketing.
+- Word of mouth.
+-  Word of mouth, offline,
+because I'm not an online person.
+I've never been, and, but
+he's gonna get me on it
+because of you, okay,
+so, thank you for that.
+- Thank you.
+-  But, what do you call it,
+it has always been a stigma
+that for many entrepreneurs
+that word of mouth marketing
+is a very weak activity,
+and yet, a lot of, what do you call it,
+material says that it is the most powerful
+form of marketing, and I took it on.
+For the last four years, I did research,
+I started a business group for it,
+and I found out why it
+was the most powerful.
+But my question to you would be
+where do you see it in the
+next three to five years?
+How does, how would it
+grow, how would it evolve?
+Word of mouth marketing in the market,
+especially for entrepreneurs.
+- So, word of mouth marketing
+is what social media is.
+-  Right.
+- All that social media is,
+is the plumbing and infrastructure
+that has created word of mouth marketing
+to hit the scale that it's always had
+in the invisible nature
+of the conversations
+that we have with each other in real life.
+So, even my first book that
+put me on to the world,
+Crush It!, that I wrote in 2008,
+most of it refers to word of mouth,
+and then the book I wrote
+in 2011, Thank You Economy,
+is basically just about
+word of mouth marketing.
+It's about being extraordinary
+to force word of mouth marketing.
+I believe nothing sells
+product and services
+more than another human
+being to another human being.
+Where it lives, I think will continue
+to go into this device,
+not us talking, and I think that's great.
+I think too many people want
+us to talk to each other,
+so I find platforms fascinating.
+I find it fascinating that
+we put a pen and paper,
+somebody writing a letter, today,
+as this incredibly great gesture,
+even though we do it on here all the time.
+We're putting pen and paper on a pedestal,
+not the words that we're
+exchanging with each other.
+And so, I think word of mouth marketing
+is basically the old school
+term for social media.
+I'm a buyer, to the end of time.
+Until the robots kill us, I'm a fan.
+(Camillia laughing)
+-  Thank you, Gary.
+- You're welcome.
+- Thank you.
+(Gary laughing)
+- Nice pass.
+How are you?
+- Hi, how are you?
+Okay, I have this question,
+okay, first of all,
+I've been following you
+for a few years now,
+I think back from 2014, and
+you completely changed my life,
+and how I operated my business.
+It was really tiny back then,
+but we managed to have
+really healthy growth
+year after year, thanks to you.
+- Thank you, thanks to you.
+-  And the question is,
+we're at a point where
+we're in that crossroad
+where we have to decide where we want
+to either grow organically,
+or we also have the option
+to grow rapidly, as well,
+because we have interest.
+- And if you grow rapidly,
+you have to take investment?
+-  Yeah, because
+we have interested parties
+wanting to offer that to us, as well, and.
+- Do you own the business?
+- Yes.
+- 100%?
+-  So, that's the thing.
+I'm, I just wanted to
+hear your take in that,
+like, if you have options to grow.
+- Do you own the business 100%?
+-  Yes.
+- Do you wanna have a boss?
+-  Not, it depends,
+it depends on the angle,
+because I do have a certain
+angle that I want to get to,
+so I'm just, I just wanted
+to hear your take in this of,
+do you, how do you feel
+about growing consistently,
+organically, on your own, but
+it'll take really long time,
+and somebody else might come in
+and take away the opportunity, and.
+- Do you believe that?
+-  You never know.
+I feel like I have a
+certain value to offer,
+and there's nothing like it at this point,
+so I feel like I have that certain value,
+and I have that following,
+I have the trust and the loyal
+of our customers, as well.
+- If you can raise capital
+to speed up your process
+and to create bigger distance
+between somebody copying you,
+that's meaningful, and
+you don't give up control,
+it's a worthwhile debate.
+80% of 100 million's better
+than 100% of 40 million
+from a dollar standpoint.
+Just don't think that
+just 'cause you sold off
+20% of your company doesn't mean
+that you're not gonna be held accountable.
+Let me give you an example.
+When AJ and I sold a piece of
+VaynerMedia to Stephen Ross,
+one of the things that I made required
+is that I never had to have a meeting
+to tell them how the business was doing.
+-  Alright.
+- You like that?
+-  Yeah!
+- It's a good one, right?
+Now, he was worth eight billion dollars,
+so he could give a crap ass.
+You need to make sure,
+whether you sell 1%,
+you could sell 1% of your company,
+and that investor might take up
+a disproportionate amount of your time.
+The biggest issue is time
+when you sell a piece of your company.
+Do you really wanna
+prep for an entire week
+every 90 days for an investor meeting
+so you can justify your behavior?
+-  Yeah, but the thing is,
+I'm quite keen on taking that offer,
+because it's much more
+of a strategy partnership
+that will bring up value to me.
+- So let's talk about that for a minute.
+Is it a human or is it a company?
+-  Both.
+Because, it's a company, yeah.
+- Is the human that you're excited about
+being a strategic value
+prop to you an employee
+of the company or owns the company?
+-  Owns the company.
+- Okay.
+So you feel you'll get
+value from this individual?
+-  Yeah, both sides,
+because they wanted to
+invest because they wanted
+to have us under their property as well.
+- Sure.
+- 'Cause that could bring
+certain value to them, as well,
+so that's why they want it, so.
+- Of course.
+- Yeah.
+- How, I mean, you know,
+as you can see, as we're digging,
+there's no right answer to this question.
+-  Yeah, there's
+no right at all, yeah.
+- I think the question
+becomes how comfortable
+you feel with them.
+I think you need to make sure
+you over talk expectations.
+Young entrepreneurs often make the mistake
+of only seeing the good
+side of an investment.
+And there's, nobody's giving you lots
+of money 'cause they think you're awesome.
+And so, you just need to be thoughtful.
+The amount of people that
+I've seen raise capital
+when they didn't need to and
+it destroyed their business,
+is more than I'd like to say.
+At the same token,
+there's a ton of people
+who would have failed
+and gone out of business
+without a strategic investment,
+and then it turned into a huge success.
+Here's what I would say.
+Everything that's in your stomach
+that you wanna ask and talk about,
+do it before you sign that contract.
+That's the mistake.
+You sit on two or three
+things that you just
+think will work themselves out,
+bring them to the forefront.
+- Okay.
+- Make sense?
+- Yeah, it makes sense.
+- I'm sure there's one
+to two things that are in your head.
+-  Yeah, a few things,
+like you were saying
+there's no right or wrong,
+it's just, I have a certain angle
+that I wanted to get to, and.
+- What does angle mean?
+Dollar amount?
+-  No, no, no.
+It's in, itself, the impact of the company
+that I wanted to, because
+the kind of impact I wanted
+to get, I wanted to have
+that certain impact,
+the level that I wanted to
+have it, I need a partner.
+And that's what.
+- Can I ask you a question?
+- Yeah.
+- The impact that you
+want the company to have,
+could you get to that
+impact 11 years from now?
+-  Yeah.
+- So, then you have to ask yourself,
+are you trying to get
+to the impact sooner,
+and you're putting that as a romantic
+point of view in your head,
+and are you giving up too
+much to get there sooner,
+because it's just one
+bigger version of patience,
+this is why I'm pounding
+patience down people's throats.
+And more importantly, is this impact real,
+or is it manifested in your
+head as a romantic thing,
+you know, you gotta
+think about those things.
+-  No, it's real,
+because the thing is,
+with our company, we're
+super engaged, because,
+customers and our followers,
+they don't see us as brands,
+they see us as a friend.
+So, that's how we built, like.
+- Be careful, because, at scale,
+that tends to go away.
+- Yeah, I get that, yeah.
+That's the thing,
+we have to have a
+certain balance somewhat,
+yeah, as we scale.
+- That was probably the thing
+that scared me the most,
+because,
+if that's how your consumers feel,
+it's almost impossible for
+somebody investing in you
+to being comfortable with
+you doing the behavior
+that makes that 100% pure.
+They are thinking about the scale of that,
+which then dilutes the energy of that.
+-  It's not my voice,
+it's the company's voice.
+So, they don't see the brand as a person,
+it's just, they feel like--
+- I understand.
+- Yeah, yeah.
+- I understand.
+-  When they see the, like,
+the people that runs this
+company has a certain value
+that they resonate to, so, yeah.
+- Let me ask one last
+question, and we'll move on.
+Does the investor have any
+say after the transaction?
+-  No, not really.
+- Good, then do it.
+-  Yeah, alright.
+(audience laughing)
+- But just make sure you
+define the not really part.
+-  Yeah, because, no,
+because they do have a certain,
+they, based on the
+conversations that we have,
+they do wanted to offer advice,
+try to bring up a certain value for us,
+but, Gary Vee, ultimately,
+it's still my decision,
+'cause that's what they, they told.
+- Ownership.
+- Yeah.
+- Good luck.
+- Thank you so much.
+- You're welcome.
+Did we lose it?
+There we go.
+-  Hi, Gary.
+- How are you?
+-  I'm good,
+I'm good, and yourself?
+Okay, I'm Shawn, I'm a digital
+marketer from Malaysia.
+First off, I took your advice,
+and I started vlogging not too long ago,
+and I'm already seeing work,
+doors that I could never
+imagine are starting
+to open for me, and I only
+have you to thank you for that.
+I have a two part question,
+first, my father owns a
+traditional billboard business
+with about 1,000 sites,
+mostly along the highway.
+I'm persuading him to
+invest into it digitally,
+I don't work for his business yet,
+but I assume I will in the future.
+Given your expertise,
+if we became partners
+today in this business,
+how would you focus your resources,
+and what would you, what
+would your first steps be?
+- What kind of business is it?
+-  A traditional
+billboard business.
+- Traditional what?
+- Billboard.
+- Billboard.
+- Yeah.
+- So, your dad owns billboards.
+-  Yes, 1,000
+sites along the highway.
+- Which is rad, is it, are they digital?
+-  No.
+It's too early.
+- So,
+I would probably make the capital invest,
+if I took over my dad's
+business or became his partner,
+I'd probably take the
+capital risk up front
+to take them digital,
+'cause I think that's gonna be required
+to get the value out of that outdoor.
+I would also look to diversify,
+'cause I'd be too fearful,
+you're a young dude,
+I'm too fearful about self-driving cars
+and all the things that
+happen over the next
+20, 30 years that would disproportionately
+decrease the value of
+the asset that you have.
+So, my intuition is
+that I would diversify,
+I would either sell off half the boards
+and then put it into
+building a media company,
+or I would reinvest all
+the profits each year
+into building some sort
+of digital complement
+to a traditional product like that.
+-  Okay, got it.
+The second part to the question is
+as an extension to my vlogging,
+I plan to start a series
+of interview videos
+of podcast sessions with
+people within the same field
+to talk about what they do,
+and I was wondering, this
+is, starting my luck here,
+would be my first guest to officiate this?
+- So, I won't, but.
+-  Ouch, see, that hurts.
+- But, if you do 15
+episodes, I'll be your 16th.
+-  Okay.
+I already have 22.
+- What's that?
+-  I started my
+vlog, like, 22 episodes,
+but I will start 15 interviews after that,
+and you'll be my 16th?
+- You've done 22 vlog episodes.
+-  Vlogs.
+- But if I was listening carefully,
+you asked me to be a
+guest on your new podcast.
+-  Right, okay, got it.
+- So, that, I'll wait 'til I'm the 16th.
+-  Got it, thank you very much.
+- You're welcome.
+- Hello?
+- Hello.
+-  Yeah, hi,
+Gary, my name is Terrance,
+and I'm 20 this year.
+So, just one question for you,
+I've been listening to
+you for about a year now,
+and I'm just trying to figure out,
+as a 20 year old without any experience
+in my parents' business,
+I've wanted to build a video, a blog,
+an audio podcast, but I
+don't have the experience
+to actually do it.
+So, which answer should I focus on,
+building up the experience in a business,
+or should I go direct to
+help market a company?
+- Well, listen, if you started
+a podcast and a video blog
+about being experienced in the craft,
+that would be bad,
+faking it.
+But if your podcast was about
+the experience of learning the craft,
+you'd probably have a lot of
+20 year olds following you.
+So, I don't think it's about
+getting the experience,
+when I talk about I built
+a business for 15 years
+before I came out, right?
+I say that because that's what happened,
+but I have a funny feeling
+if the internet was around
+when I was a kid, like this,
+I might have started documenting
+my journey right away.
+I just wouldn't be walking around
+like I was a business building guy,
+I would be talking about being a young,
+ambitious guy who used
+to sell baseball cards
+and now I'm about to do it for wine,
+and I would take people
+along with my journey,
+that's my biggest problem with people
+that don't have experience, they're lying.
+They're lying that
+they're business experts,
+or my favorite, you're a
+20 year old life coach.
+'Cause, you know, you've lived life.
+So, to me, I think you
+can start the podcast
+and the video blog, I
+mean, I wish I did that,
+because I, there was, I
+probably cried, cried,
+50 times in the first 10 years
+that I worked with my dad,
+'cause they were very painful fights.
+And that would have
+been incredible content
+that I wish you guys could watch
+if you're in a family business,
+because it turned out okay,
+and it would have been really cool
+to see how that happened and why,
+and how I was able to
+give more than I took,
+and how I loved my dad
+more than the money,
+and how I thought about what I could do
+in my 30s and 40s and it's
+okay to lose in my 20s,
+but I wouldn't have walked around and said
+I was a marketing genius because
+I thought I was gonna be.
+-  Yeah.
+So, start documenting my journey
+to becoming a businessman?
+- Hell yeah.
+-  Got it.
+- If you think that's interesting.
+Maybe you're not comfortable
+enough in your own skin
+to talk about all the failures,
+which is the most interesting part
+of documenting being a
+20 year old businessman.
+But if you are,
+there's some people that are gonna listen.
+The truth always wins, my friend.
+That's all you need to know.
+-  Alright.
+Can I get a hug?
+- A hug?
+- Yeah.
+- Sure!
+-  Awesome!
+(everyone cheering)
+-  Are we gonna
+take a picture of the hug?
+(audience laughing)
+- Let's start a vlog now, okay.
+So, my journey to becoming a businessman.
+- He's liar, he said
+he was gonna do a hug,
+and now he's doing a vlog.
+- Okay, okay,
+I'm sorry!
+(audience laughing)
+Thank you so much, Gary.
+- You're welcome, you're welcome.
+Alright, after this question,
+let's send it over there,
+'cause they're about to start a coup.
+Go ahead.
+-  Thank you, Gary,
+I flew in from Malaysia to see you.
+- Thank you.
+- Okay.
+So, okay, I am a little
+bit of confused right now
+in our business, because,
+we're in the hosting business.
+- Hosting?
+- Yes.
+- Hosting websites.
+- Not only websites.
+- Right.
+- But several hosting.
+- Understood.
+-  Kind of services.
+So, when we are saying,
+because Google, Amazon,
+IBM, all the big giant out there,
+and when you're saying marketing budget,
+we can't compete.
+- No way.
+- And if
+we can't afford the content,
+the blogs, the video,
+they are everywhere, so,
+do you have any advice for this?
+- Well, who, who's using you now?
+-  Okay.
+What we are doing is--
+- How many customers
+do you have?
+-  Okay, about 500.
+- Okay, great, so we have
+a great situation here.
+The first thing that, if
+I was your new partner,
+and I was brought in to do
+the marketing as the partner,
+the first thing I would
+do is figure out why
+those 500 people are using us,
+and then that would be the
+content that I would distribute.
+Don't ever mistake money
+as a competitive advantage.
+Because plenty of big
+companies throw money
+directly in the trash.
+So, there's a reason 500
+people are using you.
+Now, it may be that you're very good at DR
+and intent based marketing
+and you're winning on
+Google AdWords, I don't know,
+then, after I figure out
+why you have 500 customers,
+then I would ask you the next question,
+which is, how long have
+you been in business?
+-  About five years.
+- Great, and how many
+customers do you have
+that have been with you
+for three years or more?
+-  I do not have the exact numbers,
+but I guess it's somewhere about 50.
+- Great, then I would survey them.
+And listen, they may stay
+with you because it's passive,
+once you're on a server,
+you don't wanna mess it,
+but I would look for the insight.
+Is it the homegrown, you
+know, high touch, small,
+I don't know, but once
+I understood why people
+were coming to us and staying with us,
+I would make all my
+communication around that.
+I'm never worried about
+who's got more money.
+When I had a liquor store
+doing three million dollars
+a year, 10% gross profit,
+300,000 before expenses,
+my marketing budget in
+year one was $14,000.
+For the year.
+And https://www.wine.com,
+the first version,
+raised $130 million.
+The amount of days that
+I spent worry about them
+was this.
+Fuck Google.
+-  (laughing) Okay.
+So, essentially what you're saying is when
+I'm going to look into the insights,
+and the next step, still
+content marketing, is it?
+- Content always, so, are
+you doing conversion based,
+like, is that how you're
+getting your customers?
+-  Okay, we are just
+ranked organically on Google,
+and recently, we started blogging.
+So, that's what we are really doing,
+is a little bit of Google
+AdWords and Facebook marketing,
+but they don't really work so well for us.
+- Have you done Facebook ads against
+employees of companies
+that you wanna get on?
+-  Sorry, I don't get that meaning.
+- When you run a Facebook
+ad, you have to target it.
+It's not putting a piece of
+content and hitting boost,
+that's 17 years ago.
+It's making a piece of
+content and targeting
+who you wanna reach.
+Do you do the marketing?
+-  Yes, I'm the one who,
+doing it, yeah.
+- Good.
+So, when you've done Facebook,
+you said it doesn't work for you.
+When you post it, are you
+running ads against the content?
+-  No, we do it
+directly to the landing page.
+- I understand, but when
+you post it in Facebook,
+are you just posting it organically
+to the 30 fans you have?
+-  No, we run ads, certainly.
+- Good, who are you targeting?
+-  Okay, we figure
+out who are our customers,
+so, okay, one of the major
+customer is the Forex Trader.
+- Is the what?
+- Forex Trader.
+- Okay.
+- Because they run robots.
+Okay, they use our service, so,
+we target exactly what
+that ad interest are,
+the Forex signal, the MetaTrader
+4, those kind of thing,
+but they--
+- Have you,
+have you,
+have you done influencer
+marketing on Instagram
+since so many of those Forex people
+wanna build personal brands?
+-  That's the next
+step I'm going to do,
+after listening what.
+- You should definitely
+pay all these characters
+that think they're building
+a personal brand in Forex,
+and I would do sponsorships
+with them as human beings.
+It's gonna work.
+-  Okay.
+- Good.
+- Alright, thank you.
+- You got it.
+(audience applauding)
+Pass it over there,
+okay, this guy stole it.
+He broke the rule.
+-  I, I've actually
+tried to contact DRock
+and the whole thing, Gary Vee,
+and of course I know that you're coming,
+but I volunteered to
+actually be the personal
+Uber and tour guide to
+tour you around Singapore,
+but I didn't get a reply,
+similarly to audience before.
+- DRock's a really bad guy.
+-  But Ben actually replied to me,
+but he said no, but it's okay,
+but I still rented a car,
+and I'm with the rented car today.
+So, I have a few questions.
+So, I'm actually a content
+creator, my name's Yurt, so,
+I've met many businesses,
+especially in the FM BIM industry,
+that still don't understand
+the importance of social media.
+I know it's a simple no
+brainer to many people here,
+but, can I ask you,
+what will you tell them,
+in a one minute kind of pitch to tell them
+the importance of--
+- Let me give you
+a good piece of advice.
+-  Thank you.
+- Never sell the unsellable.
+I would tell them that it works better
+than anything in the world,
+and then if that took more
+than a couple of minutes,
+I would go knock on the next door.
+The biggest problem is, guys
+and gals like you and I,
+we get caught up in trying
+to convince somebody.
+I've never spent a minute trying
+to convince somebody of anything.
+We're in a place where
+a lot of people still
+don't know that this works,
+or they ran one Facebook
+ad and it didn't work,
+and now they've decided
+Facebook doesn't work.
+My answer is I don't.
+I don't try to convince people.
+I tell them it works,
+I tell them millions of businesses have
+made it work for them,
+and then I hope that they're
+interested in, if you,
+are you trying to get people as clients?
+- Yep.
+- Good.
+There's unlimited clients.
+-  Got it.
+- So, what too many
+people do is they dwell,
+and they try to convince nine clients,
+and that would have taken up the time
+for them to ask for 500
+other people if they were
+interested, and they would
+have landed four clients
+while they're waiting to get nine of them
+to still debate with them
+on their fourth meeting,
+trying to convince them.
+Got it?
+- Got it.
+And can I have one more request,
+I actually bought one of your
+Jab, Jab, Jab, Right-Hook,
+can I get a signature from you right now?
+- You can if you pass
+it over to that section.
+(audience laughing)
+Anybody in that section.
+-  Pass it to them and come forward?
+- Correct.
+- Awesome.
+- Hello.
+Go ahead, it'll start working.
+Go ahead.
+-  Yeah, I have a
+professional service firm.
+I'm doing B2B market research,
+I started interest in
+researching in TALON,
+and then I expand into Indonesia in 2015.
+- Hold on one second, go ahead.
+-  And now it's time for me
+to expand my business again.
+But because I'm in the
+professional services,
+when I have to expand my business,
+I also have to add accounts.
+And I actually prioritized
+two options for me right now.
+The first option for me
+is to expand into Vietnam,
+and the second option is to,
+you are pay, okay,
+the second option is to
+start a tech startup.
+- What?
+-  A tech startup.
+- Why is that your second option?
+-  Because I think
+it's a big opportunity,
+and it's the area that
+many clients are focused,
+it's the pinpoint, and nobody
+has actually looked into that.
+- Okay, if you start the tech company,
+are you gonna bring in a tech co-founder?
+-  Yes.
+- And give them 50% of the business?
+-  No.
+- Okay, so let me tell you
+the most fascinating thing
+when people decide to go from something
+linear to a tech company.
+They wanna do a tech company,
+and usually they hire
+somebody to build the tech,
+'cause they don't wanna
+give up any of the equity.
+This is the number one mistake
+that entrepreneurs make
+when they go into the tech business.
+They hire a firm because they
+don't wanna give up equity,
+but when you're in the tech business,
+you're in the tech business,
+and you better have a real tech partner,
+and unless your tech
+partner has minimumly 20%,
+up to 50%, they're not gonna care enough,
+and you also have to understand that they
+have disproportionate leverage,
+because they're the tech
+co-founder in a tech company.
+-  You mean if I have to give them
+half of the shares to make it work?
+- I would tell you that you don't have to,
+but I have seen an unbelievable amount
+call it, now, maybe 5,000 businesses
+in the last 10 years that
+have gone from I do this,
+but now I'm gonna do this tech product,
+'cause I see the pain in my business,
+I'm gonna hire this little
+firm to build my app
+or product, or I'm gonna have a CTO,
+but I'm gonna pay her or him
+and I'm not gonna give them equity,
+and what most people
+don't understand when they
+go into the tech business
+and build a tech product,
+they're at the mercy of the tech.
+Tech is great on paper.
+It's a very different business
+when you're actually in it.
+So I just wanna make sure,
+and the reason I'm going down this path,
+is I wanna make sure that you realize
+that if you're going in the tech business,
+you're gonna lose the leverage.
+Unless you're a developer.
+Does that make sense?
+-  So, as a
+professional service company,
+is there any other option
+to scale the business?
+- Yeah, so, I think if you're
+gonna build a tech platform,
+that's a great way to scale the business,
+I just wanna make sure you're
+going in eyes wide open,
+that you're going into a
+totally different business.
+Building a tech platform
+in any professional service
+is completely different than being
+in the professional service business.
+Right, having an agency
+that builds websites
+for clients is very different
+than starting WordPress.
+So, I'm cool with it,
+as long as you really know
+what you're going into,
+and I've just seen too many
+people lose their first business
+by trying to build a scalable business,
+when they have no idea what
+they're actually going into.
+And I'm just trying to
+make sure you wrapped
+your head around, I'm
+now in the tech business,
+servicing the professional
+service industry
+that I know well, which
+means that you do not
+have the leverage anymore,
+the architect and executor of the tech
+does, 'cause what if they
+build something for a year
+or two and then they leave?
+Like, it's very important you get there.
+Or, you go into another market, right?
+Which is more of what you know,
+other than you have to
+contextualize the market
+that you're now in.
+Both are viable, just don't
+be naive about the first one,
+because most people are.
+-  Yeah, but it had
+been something in my mind
+for so long time, I wanted
+to do it so many times,
+and I actually went to a master degree in
+big data analytics to learn how to code,
+so that I could start it.
+- That helps.
+-  It helps, it's
+actually give me a very good
+connection the right
+tech guys that I should.
+-  I love that.
+-  I should partner with them.
+-  Okay, so let's
+go back to the open,
+now that I have that data,
+you're debating between
+expansion to a new market
+or building the product?
+-  Right.
+-  And it seems like if
+you don't build the product,
+you'll always regret it?
+-  Yes.
+-  So, let me give
+you a good piece of advice.
+I'd rather you be broke than be regretful.
+-  I don't want to regret.
+I just wanna do it.
+It's like, no matter what, no lie,
+my choice already go to,
+like, building a tech product,
+I already make decision,
+I just wanted to hear what other
+people would think about, because.
+-  Why?
+-  Because, it's like.
+-  Who gives a
+shit about my opinion?
+You've already made the decision.
+-  Yeah, but at
+least you can give me
+a good perspective on which
+I should be careful about.
+-  I'll give you a good perspective,
+I 100% believe in
+building the tech product.
+-  Okay, you just
+confirmed my decision,
+thank you so much.
+(audience laughing)
+-  First things first,
+thank you very much, Gary Vee.
+You really, really changed my life.
+The first time I actually saw your video
+was the 5 Minute Plea To Do.
+Prior to that, I've been giving myself
+a lot of excuses for failing
+and for not taking action
+and for procrastinating,
+but after I saw that video,
+I went 100%, 200% into
+just focusing on doing.
+Now, my question is, as a
+freelance digital marketer,
+I face this challenge of
+getting a lot of information,
+and having to keep myself up to date on
+what's happening on each and
+every one of the platform
+in order to deliver a lot of value
+to my customers, and so on.
+So, how do you actually do that,
+how do you stay on top of
+things, and yet, deliver value?
+- By working a lot.
+(audience laughing)
+-  So, how do you manage that,
+within 24 hours a day, how
+do you split your time,
+do you organize, do you
+systemize, what do you do?
+- I'm definitely not organized.
+I, this is the biggest reason
+I built my personal brand,
+the number one reason, to
+stay being a practitioner.
+I don't have the luxury
+of reading a headline
+about Instagram Stories
+or Snapchat filters
+or Facebook Live without using it,
+because I have too much
+to gain on that side,
+so it's a self-fulfilling prophecy, right?
+I built my brand by being a practitioner,
+which makes me a better strategist,
+which makes VaynerMedia better,
+and it just keeps feeding each other.
+So, A, have you started
+building your own profile,
+are you interested in that, or no?
+-  Yes, I am.
+- That would be my biggest advice.
+Every time you see something new,
+make sure you build a
+profile on everything,
+and then every time
+you hear a new feature,
+use it immediately, which
+will then systematically
+make you a very good strategist.
+You know, and then the other
+thing I would tell you,
+is don't beat yourself up.
+You need time for your family,
+you need vacation time,
+you don't have to hustle like Gary Vee,
+don't beat yourself up.
+Do the best you can.
+I don't know everything about everything.
+I probably know a lot more about a lot
+of this stuff than most people,
+but you don't have to be
+everything to everything,
+you just have to be
+better than the next girl.
+Do you know what I mean?
+What people make a huge mistake about
+is they create a fake
+standard in their head.
+The way to win in business
+is the same way to win in sports.
+You just have to be a little
+bit faster than the other guy.
+Right, I don't have to be
+100% on 100% on everything,
+I just have to be a better alternative
+for the same money than somebody else.
+So, I would tell you to be very,
+and then you gotta think about how much
+deal flow you have, how satisfied you are,
+I think the biggest thing is
+that people beat themselves up,
+they hold themselves
+to some fake standard,
+just make sure you're being
+reasonable with yourself.
+-  Alright, thank you.
+- You're welcome.
+-  How's this, sir?
+Gary, how's it going?
+- Super well.
+-  Awesome, thank you for being here.
+So, quick question for you.
+With our brand, we have a,
+we run luxury fitness
+gyms and beauty clinics,
+and we're fortunate enough
+to have a pretty big budget,
+our budget for digital marketing
+is about $100,000 a month,
+so it allows us to test a lot, right?
+My question for you is, ultimately,
+we're trying to drive
+sales and revenue, right?
+- How much, how many,
+how much of the 100,000 is being done on
+bottom of the funnel transactional
+membership versus brand?
+- Are you ready?
+- Yes.
+-  All of it!
+- That's the problem.
+(audience laughing)
+No, that's the problem.
+- No, no, no,
+I agree with you, too,
+that's where I'm going, so.
+- I figured.
+-  We have about, a
+cost of revenue KPI of 10%,
+meaning, if we spend 10
+grand, we make 100 grand,
+which is reasonably
+efficient, my question is,
+we're in agreement, our company,
+that we have to spend
+more on top of the funnel,
+and we do have a lot of KOLs,
+we do have a PR network,
+we have celebrity ambassadors
+and stuff like that.
+- Can I give you the answer
+to what you're looking for?
+-  Yes.
+- Make the 80 cents on the dollar work
+like the last 100 cents on the dollar,
+so that you have no risk
+on the 20 cents of a dollar
+to do the high risk,
+high reward activity that
+you need to take it to the next level.
+The answer always in this situation,
+is taking a step back and
+scrutinizing your own ability
+to go on the real DR focused dollars
+to cut 20 cents off the top,
+and make the 80 cents work
+like the prior dollar worked,
+and then you're basically in
+no risk, high reward zone,
+and then you cruise.
+So, it's not mindlessly saying, okay,
+we're gonna take this framework,
+it's about becoming
+way better at the thing
+that got you here to
+give you the error cover
+to the take the risks that
+will get you to the next place.
+-  So, what you're saying is,
+for short term loss on
+conversions and revenue
+for long term brand building
+and more top of the funnel then, right?
+- No, what I'm saying is don't lose any
+short term sales conversion,
+just get 20% better at that,
+so that you have the 20% to play with.
+-  So, reallocate the other 20%
+once we're able to grow
+for more top of the funnel.
+- Correct, take 20 cents on the dollar,
+and spend 20,000 a month making a video
+that is your Dollar Shave Club,
+that could then take your CAC
+on your DR stuff way down,
+because you've built a brand,
+but still make your 80 cents on the dollar
+convert at the 10X, now it has to be 12X,
+to make the old numbers work,
+then there's no pressure from your CFO,
+your ambassadors, or your CEO,
+because now you've bought
+yourself the freedom
+to take risks, because
+you made the 80 cents
+act like the former dollar.
+-  Cool, thank you.
+One more question, can
+I get a selfie with you?
+- Yep.
+-  Alright, here we go.
+And who am I giving this to?
+- Whoever you decide to.
+-  I'm gonna be biased and give
+it to our account manager on Facebook.
+- That was very inside baseball.
+-  Former account manager, actually.
+- Hey, man.
+-  Hey, Gary, I'm Vlad.
+- Hey, Vlad.
+-  Thanks a lot
+for being in Singapore,
+it's awesome to have you here.
+My question is, so, you've
+been spending quite a bit
+of time in Asia lately,
+Hong Kong, Singapore,
+so, in your opinion,
+where does the next wave
+of media and tech innovation come from?
+Does it come from Asia,
+a lot of people say,
+say a lot about China, does
+it come from the U.S. still,
+somewhere else, where do
+you see the world going
+in this respect?
+- Can I ask you a question?
+-  Yeah.
+- If, whatever the answer
+is, what are you trying,
+let me go a little bit, the
+answer is from everywhere.
+You know, I don't know,
+I'm fascinated by the
+stardom of entrepreneurship,
+and what it means, for example,
+I'm fascinated with this
+dream I keep having,
+that there's some 13 year
+old girl in India right now
+that so looks up to Elon
+Musk that she's gonna
+do something so crazy, and
+I'm so pumped about that,
+that's so incredible, right?
+Anyway, the answer is everywhere.
+The places that it's conducive
+to happen is mainly America,
+mainly mainland China,
+a little bit of Europe,
+a little bit of southeast Asia,
+a tiny bit of South America,
+so it's gonna be kind of
+a lot of the same players,
+because of the financial impacts,
+the entrepreneurial branding
+within those ecosystems,
+the macro and micro economic scenarios,
+there's a lot of different
+things that are happening.
+But I think the more
+interesting question for me is
+why are you asking?
+-  Gotcha, so, I
+guess for those of us who
+build our businesses it's
+important to know where
+to focus on, do you
+focus on the U.S. market,
+do you focus on the China market?
+For those of us who are
+employees and have careers,
+where do you build your career towards,
+to U.S., to China.
+- I see.
+So, look, I think they're
+two very different,
+if we're talking about the
+two kind of superpowers,
+they're both very different,
+and both very similar.
+They have a lot of things going for them,
+and they have plenty of
+shortcomings behind the scenes,
+right, and for America now,
+in front of the scenes, right?
+So, I think,
+I think the thing that
+you need to debate is
+what feels more natural to you as a human.
+What are you more comfortable with?
+Are you more comfortable with
+an aging superpower empire that
+is more purebred capitalist,
+but is at maybe somewhere
+between the third
+or fourth quarter of its empire years,
+or are you more interested in China,
+which is in the beginning
+of its empire run,
+but has, your name's Vlad?
+- Yeah.
+- You know,
+it's very hard for guys
+named Genazi and Vlad
+to completely be super
+comfortable with any
+level of communism, even if
+it's disguised as capitalism,
+right?
+- Yep.
+So, you just have to make
+a decision for yourself,
+as a human, my parents,
+I've never been back to the Soviet Union,
+because there's such negative feelings
+for what went down there for my family,
+that I would never, I
+don't feel, even though,
+so, I think China runs its country
+like most successful businesses.
+Some mix of capitalism, and
+when needed, dictatorship.
+VaynerMedia is far more
+similar to China than it is
+to the United States.
+As for the human question,
+you just have to ask yourself
+where you'd rather live.
+Both are gonna be just fine
+by the time you die.
+(audience laughing)
+-  Gotcha, thanks a lot.
+- You got it.
+(audience members yelling)
+(Gary laughing)
+-  I finally caught one.
+Hey, Gary.
+- How are you?
+-  I'm good, thank you, I'm Harry.
+We're from Malaysia.
+We're actually aesthetic company.
+- A static?
+- Aesthetic.
+Like, beauty clinic.
+- Got it, got it.
+-  We've been running
+the business for four years.
+For the past three years,
+we've been using traditional
+marketing, and this year--
+- What do you defer,
+what you consider traditional
+marketing, direct mail?
+-  Like, word of
+mouth, brochures, agents,
+and this year, we're starting
+to get into digital marketing.
+- And what do you call digital?
+Social or Google or banner
+or programmatic or what?
+-  We are actually
+trying to go into Google,
+YouTubes,
+SEO,
+and social media
+at once.
+Right now, we're actually working on it,
+with where we sell knowledge about it,
+and I have these questions for you,
+I would like to get some advice from you
+on how can we podcast
+our thing.
+- Podcast?
+- Podcast, like,
+any advice on the trends on podcasts.
+- And so, you want a podcast, why?
+-  Like, a video.
+- But why do you wanna do it?
+-  Well, we wanted to, like,
+showcase to our consumer.
+- What you're doing?
+-  Yeah, what we're doing,
+and to make them understand
+better than what we've
+been trying to do, back demand.
+- Okay, so the first thing is,
+the way you've been doing
+marketing traditionally,
+is far more sales oriented.
+You've had an agent resell,
+you've done brochures,
+you're doing selling.
+A podcast is the furthest
+thing from selling that I know.
+It's over here, it's called branding.
+Sellers,
+for four years or three
+years, hate branding.
+You know why?
+It costs money up front,
+and nothing good happens.
+For the first year.
+So, first and foremost, I
+wanna make sure that you
+know what you're getting yourself into,
+which is, if you start a podcast,
+it's gonna take up a lot of time,
+it's gonna cost some money,
+and very little is gonna
+happen in the first year.
+So, somewhere around nine
+months after you start
+your podcast, you two are
+gonna look at each other
+and say, Gary Vee is an asshole.
+(Harry laughing)
+As long as you know that,
+then I'm excited for you to do a podcast,
+because that over time branding,
+if you do and execute a good podcast,
+will have very big effects,
+but before you jump into podcasts,
+since you've never even
+done digital marketing,
+I don't want you to go too far out
+and just do it because
+I said audio's good,
+I want you to be grounded in
+what you're doing and how.
+You're such a heavy sales organization,
+that I wanna make sure that you know
+what you're going into, do
+I think the sales on digital
+can do better than your brochures, 100%.
+Do I think the agents are
+reselling right and referring?
+I would triple down on that,
+'cause that's always a good sales engine.
+Right, yes, they get a piece of the pie,
+but they're basically a workforce, right?
+But I would get really good
+at Facebook conversion ads,
+and very good at SCO, and mainly SCM,
+to be honest, more than SCO,
+but before you begin to really
+be committed to podcasts,
+now, if you've got the
+money to do all of it,
+and you're okay with
+wasting money and time
+and year one on the podcast
+to have a little bit more
+opportunity in year two,
+then that's great, but
+you have to be smart,
+and think about it from
+a practical standpoint,
+not an ideological standpoint.
+-  I have another question.
+- Sure.
+-  Well, we're trying
+to figure out our budget
+into digital marketing into.
+- As much as you can afford.
+-  As much as we can afford.
+Should we spend it equally in Google?
+- You should spend 50% of it up front,
+tasting everything and then
+double down on what's working.
+So, if you're gonna spend 100,000,
+spend 50,000 in the
+first three, four months,
+try a lot of different things,
+and become good at
+understanding what's happening,
+and then double down.
+-  Do you think it's recommended
+if we use YouTube as a channel
+to do the conversion rate,
+do you think it's possible using YouTube
+to, for convert?
+- Sure.
+I mean, of course, but it's difficult.
+Now, there is a product
+that you should look at.
+There's a way to target people with
+a YouTube pre-roll video,
+that is based on what
+they searched on Google.
+I think it's an incredible
+product for all of you.
+Google, YouTube has a
+pre-roll video product
+that you can target against what people
+are searching for on Google.
+So, as you can imagine,
+if I'm searching on
+Google how to drink wine,
+or wine things, even if I go to YouTube
+and watch Jets football videos,
+it's gonna service me wine ads up front.
+If somebody's on Google
+searching beauty or spas
+or the words you know, your video,
+even if they're watching
+kitten videos on YouTube,
+being a pre-roll is gonna convert better.
+This is what I mean about
+being a practitioner
+versus a headline reader.
+Gotta know these nuances to be successful.
+-  Can I have a last request?
+We would like to have a wefie.
+Is it possible?
+- A what?
+-  A wefie.
+- A wefie, like,
+we, in a selfie?
+- We, together, yes.
+- Yes, okay, that sounds cool.
+Bring the mic up, oh,
+you're gonna ask a question?
+Then I'm gonna have you bring it up.
+Anybody over there want, okay.
+Go ahead.
+Yeah, we can do it now.
+-  Okay, so, first
+thing that I want to say,
+is a big thank you.
+- Thank you.
+-  So, for everything
+that you've been doing,
+the content that you've been putting out,
+so inspirational that first
+thing to express on this,
+this exchange is gratitude.
+- Thank you, brother.
+What's your name?
+-  My name is Elkar,
+I'm from Brazil with
+business here in Singapore.
+-  I'm listening.
+-  Okay, so, we're
+running a VR startup
+here in Singapore.
+- Okay.
+- B2B.
+- Okay, good.
+-  And it focus
+on the luxury market,
+and as you may know, VR
+is so in the early stages,
+and we don't have, even
+in the world or U.S.,
+big success cases, large scale,
+that can make sales a
+little bit challenging.
+If you're doing, we're doing well,
+we just want to see if you
+have any thoughts to say.
+- I do, I have some
+real thoughts on B2B VR.
+I'm very much a big fan
+of you tying your business
+very close to experiential
+and event marketing.
+The place where you can find budget
+is when brands and businesses
+are activating in real life
+at big events where VR
+experiences are the draw
+for them to get people
+to come to their booth
+or their exposition or their,
+it is the only place that
+I think is really viable
+in a B2B environment for VR.
+-  So, that's where we're going,
+because we're selling boats, yachts,
+so, the big advantage point is boat shows,
+so there's a place for us to, so we try,
+we've been in Europe, like to talk to.
+- Or, or, to be a little more creative,
+as well, just high luxury,
+high affluent areas where
+you can do activations.
+Art Basel is a place
+where a brand or company
+may wanna activate a VR yacht experience,
+just because of the rich
+people that are running around,
+so you should map the 100
+biggest rich people events,
+and then reach out to the people that have
+exhibited there in the past and see
+if they want a hook to draw people in.
+-  Okay, that's a great idea.
+When are we talking to the
+shipbuilder, for instance,
+right, so one of the
+challenges is actually
+to express other VR
+cases, because, for them,
+I think that it is completely new, right,
+so, it's difficult for us
+to see, to prove our pitch.
+Any ideas how can we
+bring those guys on board,
+even though we don't have
+other cases, U.S. or.
+- You mean they're
+looking for case studies
+of other people that did it?
+Yeah, I mean, this has
+been my whole career.
+The answer is you don't have them.
+Same answer I gave that nice Uber driver.
+As soon as they say, I need
+a case study to move forward,
+they're not in the VR business.
+Got it?
+-  Yeah, makes sense.
+- Make a big list.
+When you're selling the future,
+the answer is always make a big list,
+'cause you're gonna get a
+lot more nos than yeses.
+-  Okay, thank you so much.
+Just one last thing, you
+have the VaynerBeta program,
+can you show a little
+bit more about it, or.
+- It's $25,000 a month
+for us to do the marketing
+for small businesses,
+and it's a very watered down version
+of what VaynerMedia does
+for the biggest brands.
+But it finally got to a place where
+I believed enough in
+it to actually sell it.
+So, I think it's ROI
+positive in a $300,000 macro
+for small and medium sized businesses,
+but obviously, not that small.
+$300,000 for content and
+distribution in social networks
+is for a business doing some real revenue.
+- Thanks, thanks so much.
+- Awesome.
+Can you give me the mic?
+-  Gary, Gary, five more minutes.
+- Oh, you have, what?
+- Five more minutes.
+- Okay, good, this way, here,
+give it to me, 'cause
+I wanna give it, yeah.
+Yep.
+Nice.
+-  Or if you would
+like to take it longer,
+it's okay, it's up to you.
+- Hey, Gary.
+- Hey, brother.
+-  Speaking of that product,
+there is a lot of, for me,
+on social media, there's a lot of,
+sorry, I fucking hate
+public speaking, by the way.
+- No worries, nobody's judging.
+-  So there's a lot
+of shit that I see on
+social media, it just
+seems like people are just
+churning and churning
+and churning content.
+I can see the reason why
+people are hiring you
+for their product, when
+would you advise people
+to kind of step back and hone their skills
+and sharpen the sword, versus just, like,
+it was a big thing that
+everyone said today
+is take action, take action, take action,
+but there's obviously a time to sharpen.
+- To be thoughtful.
+- Yeah, yeah, yeah, yeah.
+How do you make that.
+- Let's make it a little
+bit more selfish for you,
+what are you trying to figure out?
+-  Alright, so I was, I
+transitioned recently from,
+I was in the fitness space,
+I was a fitness influencer,
+I was one of the, in the U.K.,
+amongst the first kind of
+young people to get really big,
+and that kind of took off
+on Instagram, on Twitter.
+I then got sick of that industry,
+and transitioned into the
+content based, so, film and media,
+previous to that, just
+a prerequisite that,
+I created a business,
+like, an app for discounts,
+a niche discount app in
+the U.K., and it blew up.
+Got bored of that, so, like,
+got bored of fitness,
+got bored of the app.
+Transitioning,
+and,
+I kind of, I'm at the
+point where I'm like,
+right now I get up at four a.m. every day,
+I'm studying film, I'm studying media,
+and everyone around me is just like
+always create, create, create, but, to me,
+this is a time for me to sharpen my sword
+and get my content to a level where it can
+actually gain attention.
+- I like it.
+-  I just wanna know when,
+when, when, when you have done that,
+'cause you pulled back on your
+content body for eight years,
+when are you deciding
+to pull back and learn
+and then to execute.
+- For me, based on the
+content I'm putting out,
+it's when I feel like there's something
+really meaningful to talk
+about, then I wanna get louder.
+Right, like I talked about earlier.
+For you, it sounds like you're
+doing original creative,
+I'm asking.
+- Yeah, yes.
+- It's more like nonfiction?
+-  Yeah, nonfiction.
+- To me then, it would be
+when you feel it's ready.
+Right, I don't think your,
+now, what I will say is,
+don't be scared to put
+a little bit out there,
+remember how I, or I did
+that in an interview,
+I didn't say it on stage yet.
+Nobody remembers your losses.
+George Lucas had movies before Star Wars.
+You know, so I wouldn't
+be super duper scared
+of putting some stuff out there,
+we're not gonna judge, that was crappy,
+now you can't win on the next thing.
+The other thing is you
+could be very thoughtful,
+and put out little pieces of content that
+are parts of the story, Tim
+Ferriss sold 4-Hour Workweek
+because he used Google and
+tested six different titles,
+or four, I don't remember the story,
+but he saw consumers'
+intent around that title,
+and it really worked.
+I see a lot of the same happening
+in original content online.
+You could run really smart shit,
+I would create a fake Facebook page,
+some other brand that's not
+gonna be your coming out party,
+put some content there, run
+$50 worth of ads against
+the demo you think you're reaching,
+and look at the quantitative
+and qualitative feedback,
+and it might give you some insight
+if the sword is sharp enough
+to take out of the shed.
+See what I mean?
+- Yeah, no, I get it.
+- I think there's a way for
+you to use it as offense
+instead of looking at it as detrimental.
+-  That makes sense.
+- Because, to your point, and
+it's using your own words,
+there's so much being put out now
+that people are forgetting,
+like, our attention span is so zero,
+there's very little damage
+you can do to the IP,
+compared to the way it
+plays out in your head.
+I always tell all my friends,
+nobody really gives a shit.
+You know, you do, 'cause it's your baby.
+It's why I put out so much content.
+I think it's all good enough,
+and if it's not the greatest
+thing for the world,
+that's okay, learn from it, I'm
+putting it out there, right?
+For me, I wanna get it out there, but,
+you know, I think you
+should use it as an offense.
+-  Nice, I appreciate
+that, thank you.
+- You got it.
+-  Hi, Gary.
+- How are you?
+-  I'm good, thank you.
+I'm Michael, from Perth, in
+Australia, three of us came out.
+- That's awesome, thank you.
+Know it well, grew up
+in the wine business,
+been there plenty of times.
+-  The Swan
+Valley to Margaret River?
+Beautiful, beautiful.
+- I know it well.
+-  This one's
+a little bit off topic,
+a little bit, over the last year or so,
+I've been going down a bit
+of a philosophical road,
+thinking about life,
+could be a midlife thing,
+I don't know, and I notice that you,
+I think that you're
+probably one of the great
+philosophers of our modern age, I think,
+away from branding, away from marketing,
+and I've loved your
+content with Ryan Holiday
+and stuff like that.
+I'm wondering if, at some stage,
+you may write a book,
+away from, as I said,
+the marketing and social media stuff,
+and more about sort of your life lessons,
+like the famous three
+words, you're gonna die,
+that sort of stuff.
+- Yeah.
+-  Good.
+I'll buy it.
+- I think yes, and I think you clearly
+kind of see what's going on.
+I think I, look, I'm writing a book
+called Perfectly Parented,
+it's a parenting book.
+-  So it's, you are writing.
+- I am writing that.
+I think of doing some pretty
+hardcore philosophies,
+and then blending it
+down into a little bit
+more tactical in subject matter,
+I think I'm gonna evolve, right?
+I think even if you look
+at early Wine Library TV,
+I'm starting to throw
+life lessons into the,
+it's a wine show and I was doing it,
+right now I'm into this marketing thing,
+but my intuition is yes.
+-  Yeah, that's great,
+'cause I think 500 years
+from now, whenever,
+I think you'll be
+remembered as a philosopher
+more than a marketer, I think.
+- You know, I think my ego's
+very happy with you right now.
+(audience laughing)
+-  Ego is the enemy, remember?
+- But I would tell you that
+it's how I think of myself much more.
+I think my stuff is very
+heavy, philosophical,
+what saved me from being too
+heavy is my love of execution,
+and I think I've forced
+myself lower down the funnel
+of my philosophies to make
+them tangible and useful,
+but yeah, I think I have
+heavy themes in that world,
+which is why it feels native to you,
+and I do think that the people that,
+if you listen carefully to even today,
+people are getting a lot more value out
+of my structure of thinking
+than I gave you some tidbit,
+you know, I love when people are like,
+Gary Vee, you suck, you know, I love this,
+this is my favorite, why
+don't you give us like,
+an actual piece of advice,
+enough of this hustle and go,
+and la la la, and I always
+laugh, I'm like, dude,
+and I reply, 'cause I love
+it, I'm like, dude, Google it.
+You can Google anything tangible.
+You wanna learn how to use hashtags,
+you wanna learn how to
+edit YouTube videos,
+you wanna learn how to
+create Snapchat filters?
+You don't need a guru to
+sell you an $80 eBook.
+It's free, it's called
+https://www.google.com.
+To me, I think the stuff
+we talk about philosophical
+is imperative, 'cause it
+becomes your life's strategy,
+which then dictates your activities,
+like, him not being
+impatient and going wide
+is disproportionately more
+valuable for his business
+than me telling him to use, you know,
+RED in a post on LinkedIn
+that will convert
+you know, 1% higher.
+That matters too, but
+nowhere close to the stuff
+we were talking about earlier.
+So, I appreciate it.
+-  No worries, and,
+I've got on my phone the You're Gonna Die,
+it's a very hard one to
+explain to the kids sometimes,
+though, when they see it.
+- It's powerful, right?
+-  Yeah, oh, it is, it is, yes.
+- It's, I don't know what
+everybody here is thinking,
+the reason that lovely lady in the back
+with the tech product, right,
+I'd rather her fail on her tech product
+than regret never doing it,
+because the regret is gonna eat her alive.
+And that's why I think about
+you're gonna die, like,
+I don't know what you guys are thinking,
+but whatever the hell you wanna do,
+I highly recommend you do it,
+because if you spend time
+with old people like I do,
+you will figure out real fast,
+it is your biggest vulnerability.
+It will be the thing that kills you
+when you can't do anything about it.
+Regret is scary.
+It's as scary as it gets.
+-  Is it okay to get a Perth crew
+kind of selfie with the
+three of us and yourself?
+- Sure.
+- Cool, thank you.
+- Cool.
+One more, are we done, or?
+-  Hi, Gary.
+- How are you?
+-  I'm fine, I'm Jack
+from Take Charge dot Asia,
+so, we actually very
+passionate on education.
+So, I would like to get your view,
+how do you see we can evolve the education
+from now to it's, to the future.
+-  You got it, so, one more time,
+the education is what, one more time?
+-  How do we evolve the education?
+- Which education, what kind of education?
+-  Higher education.
+- Higher education.
+So, I think higher education
+is in a very vulnerable place,
+because I think most
+people in higher education
+don't understand that the only thing
+they're trading on is brand,
+and as we start seeing
+the biggest and best
+universities in the world start creating
+these products that are
+diluting their brand,
+right, which we're seeing a lot of now,
+Stanford and Harvard selling courses where
+people can say on
+LinkedIn they went there,
+even though they took a course.
+I think the way higher
+education is gonna evolve
+is the professors
+themselves are gonna start
+getting huge leverage to
+go direct to consumer,
+and start trading in that way.
+So, I think, if you have
+passion for the institution,
+versus the actual education,
+the money making entity
+known as a university,
+well, then I would change the
+business model very quickly,
+because it's got a real vulnerability
+over the next decade because
+of the decentralization
+of information, right?
+So, I guess my question is,
+is your passion lie in
+the university itself
+being successful or education
+itself being successful?
+-  It's actually the 100
+years old education system,
+we want to make a change,
+even we are small, yeah.
+- For what purpose?
+-  I just feel that
+the youth, or the millennial,
+they just somehow need
+some guidance along the way
+to actually discover
+what they desire in life.
+- And you feel that modern universities
+and intuitions are good at that?
+-  No.
+- Right, so,
+so,
+do you think it has anything
+to do with the financial
+benefits of being a university?
+Because that's the question, right?
+I think we all agree that this notion that
+four years at university is becoming
+this amazing guiding light for millennials
+to find what they're passionate about
+has 100 years of being
+proven to not be true.
+So, my question becomes,
+with higher education,
+is what's the purpose?
+I default into the
+purpose is to make money.
+Which is not in the vested
+interest of the user,
+which is a vulnerable model.
+If your passion is to help young
+people find their passions,
+I have a funny feeling
+your default wouldn't be
+into saving the institutions
+known as universities.
+Now, that's the interesting debate, right?
+I feel that,
+unfortunately, universities
+have manifested
+into incredibly self-serving machines,
+and they're so broken that
+I've gone so on the other side,
+and I can't speak to
+other parts of the world,
+but in America, they've become
+the worst thing on Earth.
+Kids are getting
+unbelievable amounts of debt
+that they can't get out of,
+and aren't being put in
+a position to recoup it
+within the first 20 years
+of them being out of it.
+Now, I know there's other
+rules in other places,
+so, I know a lot of us
+are from different places,
+but if you're,
+if you're telling me your
+passion is to help kids
+find their passions, I would
+use a blank piece of paper,
+and reinvent a new model,
+I have a funny feeling that
+whatever you come up with
+is not gonna be something
+that the traditional
+universities are gonna like,
+because it's gonna break
+their financial system.
+-  Yes, exactly.
+- So, now the question is,
+do you wanna find a new business model
+for a traditional institution
+because that's what
+you do for a living right now,
+or do you wanna go on a quest
+to reinvent the opportunity,
+those are two very different things.
+- Quest to reinvent.
+- Good.
+So, I'm an investor in a
+startup called MissionU,
+which is a different business
+model where they educate,
+right, and for free,
+but in return, the students
+give 15% of their salary
+the first three years of their career.
+I think what Adam's doing there is trying
+to rethink the way this is all played out.
+But I still think it's
+self-serving interest, right,
+produce people that, if
+you think about that model,
+produce people that will
+actually make money,
+so that I can get back my 15%.
+You know, I question the whole thing.
+Now, I question the whole thing 'cause
+I was a terrible student,
+I was super self-aware of who I was.
+I would tell you, if you
+really wanna achieve your goal,
+you need to create a model that
+gets to six to 10 year olds,
+and you start finding a way
+to teach self-awareness.
+If you can figure that out,
+you will achieve your goal.
+-  Okay.
+Thank you, Gary.
+- You're welcome.
+I'll go more.
+-  Okay, but, you
+know, maybe you know this,
+all these guys want to
+have a picture with you.
+- Listen, I'll stand here
+until tomorrow and just leave,
+and then.
+- No, no, no,
+all these guys want to
+have a picture with you.
+- Yeah, but if, you're in charge, not me,
+I'm, I'm just.
+- Okay, so.
+Do your job.
+- So, which one do you want me to do?
+Okay, good, hello.
+-  Hi Gary, hi Gary.
+- Hi.
+-  Okay, in every businesses,
+there's the supply and the demand side.
+- The most interesting thing
+that I've heard somebody
+say in a long time,
+'cause you're 100% right,
+and it blows my mind that
+almost nobody talks about it.
+-  Okay, so, here's my issue.
+I don't have any problem
+with the demand portion.
+Okay, the minute I go out there,
+I open my mouth, I'll get the business.
+- You don't know how to fill the pipe.
+-  Yes, and I don't
+know how to duplicate myself.
+- Because you can't.
+- I can't!
+- I don't know if you heard.
+(audience laughing)
+-  Yes, I know that, but I need to,
+I really, really need
+to automate my business
+and duplicate myself,
+so that I can go home and have a holiday!
+- I understand.
+- So, what, do you.
+- There's only two
+things holding you back.
+Your inability to operate, or your ego.
+So we just have to dissect
+it with a couple questions.
+What do you sell?
+- I'm in consulting.
+- Great.
+Why haven't you hired
+more people to consult?
+- I have.
+- Good.
+-  But they're just not up to it.
+They're just not up to the level,
+they're not, and--
+- Hold on, hold on.
+Up to whose level, yours or the clients'?
+-  The level that I set as a basis
+to benchmark as what I go
+for, it's money service.
+- So, so, you, real quick,
+who's hiring these people?
+-  Me.
+- Okay, so let's play this game together.
+(audience laughing)
+-  Alright.
+- What's about to happen is you're about
+to get exposed to yourself,
+and then you'll be able to win.
+You're playing the very fun game
+of you've got a big fucking ego.
+I mean it.
+You've gotta wrap your head around this.
+You're hiring, you've created an arbitrary
+benchmark that nobody's hitting
+because you have put
+yourself on a pedestal
+at the mercy and the detriment
+of building a bigger business,
+because you wanna self-fulfill
+that you're so much better.
+Play with me.
+You can't, think about what you, go ahead.
+-  I'm not willing
+to lower my standards.
+- So don't, don't scale, then.
+Be a one woman show.
+-  I believe I can do more,
+I believe we should duplicate this.
+I mean, I've got the models,
+I've got everything there.
+I've basically templated
+everything that I do.
+So, all you need to do
+is take the template,
+follow the SOP, and let's
+go out, hit the market.
+- How many employees have
+you had at the height?
+-  12.
+- And how many do you have now?
+-  Two.
+- And was it customers firing or,
+them?
+- Me.
+- You.
+-  And at one point,
+early this year, everyone left,
+and I'm fine with that.
+- Why?
+-  Because they realized that it
+was the wrong place for them to be.
+And I realized that I can't,
+there's no point for me to keep anyone
+when they can't do the
+job, and I'm, I'm prepared.
+- Have you thought about the possibility
+of you being a great
+consultant but a terrible boss?
+I'm asking, I'm asking.
+-  I have that reputation, I know.
+- Okay.
+(audience laughing)
+So, thanks for answering.
+Look, I think you have,
+I'm being serious with you,
+and the reason I went right
+at it, I want you to win.
+It's a game of ego, and
+what people don't understand
+is that is the problem for all the,
+the reason I've been able
+to scale VaynerMedia,
+many think that I have an
+ego, I play on confidence,
+which is what allows me to scale,
+because I don't hold
+everybody to an arbitrary
+metric that has no reality other than
+what's playing in my own head.
+To me, if you're the one firing,
+or they're quitting 'cause
+the work environment
+is exhausting because you
+keep pounding the drum
+of some fake Mendoza
+line of quality needed
+that you are the judge and jury of,
+and it's some interpretation
+of how you decide
+they follow the template,
+you're just scratching your
+own ego of how great you are
+at the detriment of your business.
+The reason I have 800
+employees and high retention
+is I don't hold any of
+them to my standard,
+because they don't need to be me
+to build an actual business.
+You need to decide if you wanna build
+a one woman shop or an actual business.
+And can I tell you something?
+There's nothing wrong
+with the one woman shop.
+The way you'll scale is
+you may charge for content,
+you may write a book,
+you may start getting paid more to speak.
+You don't, maybe you don't,
+you know what I mean?
+And even when I say it,
+when I see you react,
+you don't need to build a
+40 person consulting shop,
+because maybe you don't like it.
+It's not that you're a bad person,
+it's that you don't wanna
+lower your standards,
+and if you're stuck in that,
+well, then monetize a different way
+by expanding more around you,
+versus trying to build up the
+actual business around it.
+You know what I mean, and that's okay,
+it doesn't make you a bad person,
+as a matter of fact, you'll
+probably be disproportionately
+more successful, 'cause
+you're being self-aware,
+and enjoying being the one person band
+and making your money that way.
+You don't have to build VaynerMedia,
+you don't have to build Bain and McKinsey,
+be you, and be your best
+self your way, and enjoy it.
+-  Thank you.
+- You're welcome.
+-  Would you mind,
+would you help me video this?
+Hi, Gary.
+- How are you?
+-  I am doing
+great, my name is Rayson,
+and I'm actually a
+psychiatric nurse in practice,
+and also a founder of
+this brand called Raygacy,
+because Raygacy means Rayson's legacy, so,
+I wanna create my own legacy.
+So, now that, now that
+I'm actually in doing
+freelance coaching,
+training, and speaking,
+motivational speaking, I
+would like to actually ask you
+if you and me, within the
+next two to three years,
+because I plan to leave nursing,
+because I find that I
+have a lot of potential,
+and I believe I can do even more,
+not just helping the mentally ill,
+and even my mother, who
+suffers from schizophrenia,
+I want to help people around
+and impact lives, as well,
+inspire them, what would you suggest,
+or what would you do if
+you were in my position?
+- And you wanna leave
+in two or three years.
+-  Yes.
+- I would save money.
+-  Save money.
+- Save money.
+And produce content to create
+awareness for when you leave,
+and I wouldn't spend money on dumb stuff,
+because when you go make that jump,
+you wanna be in the most safe
+place financially, right?
+So, I would save money
+and produce content.
+-  I have been producing content,
+which is what I call the Raygacy Show,
+so the Raygacy Show is
+actually where I interview
+entrepreneurs, successful
+entrepreneurs, actors even,
+even just now I actually
+interviewed a chef, as well,
+and I interview a lot of people.
+I already have done only
+11 episodes for now,
+but I am doing more,
+because I'm actually using
+Facebook Live to do it,
+because I feel that Facebook
+Live has always been
+a negative component where
+people actually use it
+to see people jumping down, or accidents,
+and stuff like that, so I
+wanted to use it as a value,
+adding content, so I use
+it, and then after that,
+I convert it to YouTube
+and then I will share it
+on YouTube and let people watch, as well.
+So, yeah, so, this is
+the thing that I'm doing,
+and one thing is I want
+to actually scale it up.
+I want to have more people to watch it,
+I want to have more viewers and.
+- Well, there's two things you have to do.
+Make more shows, and be more interesting.
+Because, don't forget,
+you're doing something
+very interesting to me.
+You said that you have the potential
+to be very motivational,
+that you wanna help people,
+this, that, the other thing,
+but then your first execution in media
+is to trade off other people's equity.
+It's an insight, there's
+nothing wrong with it.
+No different than the
+last conversation we had.
+There's nothing wrong with
+anything if you have good intent,
+but you have to be
+thoughtful and ask yourself,
+if you have so much potential
+to be so motivational
+and bring value, why
+did you go down the path
+of having guests, which is
+always the quickest tell
+to needing something else to drive content
+versus just being on yourself and up here.
+And it's important for you
+to be honest with yourself.
+Maybe you're trying to get
+your legs underneath you,
+there's nothing wrong with it,
+but the way you framed it up,
+where you converted your name into legacy,
+and your first move is to
+interview other people,
+which is the real driver of it, you have,
+the first thing I would say is do not jump
+until you're ready at a place where you
+can command an audience by yourself
+without leveraging somebody else.
+The reason I knew that I was gonna win
+in business content in podcast,
+was 99% of podcasts were people
+interviewing other people,
+which means the host is the commodity
+and the guest is the draw.
+There's so many subtleties in everything
+that we're doing here.
+You gotta look for them,
+because they're really interesting tells
+to what's really going on, right?
+Like the last wonderful,
+the lady next to you,
+but I'm excited, to me,
+that's gonna be the thing
+I think about on the flight, I'm like,
+I think she's gonna win.
+You have to get to that
+place where you realize
+if you're the one making the rules
+and nobody can hit it, that
+needs to be thought about.
+What does that mean?
+Same for you, if you're
+gonna make that jump,
+especially when you have the audacity
+to convert your name into legacy.
+(audience laughing)
+That you need to be good
+enough before you jump
+into not being at the
+mercy of somebody else.
+-  Okay, okay, thank you.
+- You're welcome.
+-  Do you mind if
+I have a photo with you?
+- Sure.
+- Thank you.
+- Last one?
+-  Gary, I would just wanna get
+as close as possible because
+I still can't believe
+I'm talking to you.
+- Thank you.
+-  Okay, and this is
+the last question, guys.
+- Sure, I got you.
+-  Gary, you talk a
+lot about self-awareness.
+- Also, if you're gonna go for legacy,
+you're gonna have to
+learn how to take selfies.
+Just kidding.
+Awesome, thank you, my
+friend, good luck to you.
+Yes, sir.
+-  Gary, among all the
+things that you talk about,
+being branding, marketing,
+and all of that,
+the thing which hits me hard
+the most is self-awareness,
+because you always talk
+about self-awareness,
+and the reason why that's so is because
+I've got a brother who was
+born with cerebral palsy.
+He was born with cerebral
+palsy, he was a breech baby,
+and doctors said that he wouldn't be able
+to live for more than 24 hours.
+But then, he's gone on, he's
+achieved some good things,
+he's even written a book that's
+titled Better Than Normal,
+it's the t-shirt that I'm wearing,
+and he wants to become a speaker,
+he wants to go on and inspire life,
+our big mission to, our dream
+is to inspire 50 million
+people by 2050, and
+coming to the question,
+do you think, because
+you are super successful,
+you're a super successful entrepreneur,
+everything that you are,
+we all wanna be you,
+I wanna be you.
+Do you think you would
+have been this successful
+if you were born with
+some kind of disability,
+or if you were born, I know
+you had some disadvantages
+in your life, but do you
+think you would have been
+this successful if you were
+born with a disability,
+something that you cannot
+change about yourself,
+something physical.
+- I don't know.
+I don't know.
+I think it would be crazy for
+me to answer that question.
+Here's what I would say.
+I think that disadvantages
+are the ultimate advantage.
+I think adversity is a
+humongous advantage in life,
+but when you go into real diseases or
+things that could create
+huge insecurities,
+if you're born without an eye, as a child,
+having a glass eye could
+have created such a complex
+that maybe the confidence
+would have never been there.
+So, I think it's crazy for
+me to even take a stab at
+judging what would have been.
+I think that would be inappropriate.
+-  And the reason why I say that,
+because although our brand
+is Better Than Normal,
+if you ask Hitesh, he's
+not here today because
+he's in India doing his
+therapy and we are doing
+a movement in India because
+the market is bigger,
+but he's gotta do
+therapy every single day,
+six to eight hours of
+it just to maintain his,
+just to maintain his state,
+and if you ask Hitesh,
+even though we want to
+inspire 50 million by 2050
+to become better than
+normal, if you ask him,
+Hitesh, before you die, what
+is the one thing that you want,
+the irony of it is that he will tell you
+that he wants to be normal.
+- Of course.
+Because that's his truth.
+You know, instead of some
+arbitrary number of 50,
+I mean, 50 million people in 2050
+is an arbitrary thing
+that you guys stumbled on
+that has zero anything.
+I think the, to me, I've
+always thought about it as.
+(clicking)
+Best way to get to 50 million
+is to focus at one at a time.
+The second I hear 2050,
+50, I'm like, finished.
+Finished.
+Right, like, so, that makes sense,
+and I think it's super
+awesome to see the love
+you have for your brother,
+I think, couple things.
+You need to do me one favor.
+A, have no interest in being me,
+B, have no interest in
+wrapping yourself up
+in your brother's story,
+because you're just
+gonna end up resentful,
+and you need to,
+ironically, you started
+with self-awareness,
+you need to go inside yourself and really
+figure out what you're doing here.
+How much are you using
+this for your own want,
+how much are you doing this
+for him, you need to get,
+the way you structured all this,
+this could get real bad real fast.
+And so, I want you to promise
+me to just be thoughtful,
+because a lot of times,
+it's the same way I see,
+like, I spend a lot of
+time in this dynamic,
+you need to be careful.
+-  My main purpose
+in my life I feel is
+I want him to be independent,
+physically, emotionally, mentally,
+that's what I really want,
+regardless of the brand,
+regardless of whether we make any money,
+I want him to be independent.
+- If that's your number one.
+- That's my number one.
+- Then that has nothing to do with the way
+you're positioning everything
+that you're talking about.
+There's nothing you said that even comes
+remotely to mapping to that truth.
+-  I want him to know that,
+I don't think he knows that,
+that that's my number one.
+- So, go tell him.
+-  I told him that a million times,
+but he somehow believes that
+it's not my responsibility
+for him to be independent.
+- That would make sense.
+You need to be thoughtful.
+Promise me, because this
+scenario turns out bad a lot.
+You end up with nothing.
+Not your brother, not
+the brand, just be smart.
+-  And I know you
+don't read a lot of books,
+and you've probably read
+only four books in your life,
+but I would just like
+to give this one to you,
+maybe for your kids, maybe
+some time when you have.
+- Sure.
+- Thank you so much, Gary.
+- Welcome.
+- Thank you very much, guys.
+Thank you, Gary!
+Put your hands together
+for Gary Vaynerchuk,
+ladies and gentlemen!
+- Thank you.
+Cool, cool, cool, as
+Marcus Krzastek would say,
+great character at VaynerMedia.
+Anyway, nonetheless, hope
+that went well for you,
+and would love your comment below
+of your favorite question
+from the keynote,
+not your favorite thing that I said
+or the thing you learned,
+but your favorite question,
+and why, from this keynote, see you.
+(intriguing music)

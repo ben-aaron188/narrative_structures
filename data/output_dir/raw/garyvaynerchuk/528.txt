@@ -1,0 +1,3904 @@
+1
+00:00:01,850 --> 00:00:05,839
+so this is<font color="#CCCCCC"> the</font><font color="#E5E5E5"> beginnings of the</font>
+
+2
+00:00:05,839 --> 00:00:08,519
+business offices will come back<font color="#CCCCCC"> and tour</font>
+
+3
+00:00:08,519 --> 00:00:12,120
+this home this got redone a couple<font color="#E5E5E5"> years</font>
+
+4
+00:00:12,120 --> 00:00:15,000
+ago yeah it looks nice yeah yes<font color="#E5E5E5"> yes I'm</font>
+
+5
+00:00:15,000 --> 00:00:17,369
+not GM<font color="#E5E5E5"> eleventh i'll be twenty years</font><font color="#CCCCCC"> in</font>
+
+6
+00:00:17,369 --> 00:00:20,850
+this piece so I run own phone flex is
+
+7
+00:00:20,850 --> 00:00:23,130
+digital yes well there's<font color="#E5E5E5"> producers radio</font>
+
+8
+00:00:23,130 --> 00:00:26,730
+show so yeah we don't we tossed me for
+
+9
+00:00:26,730 --> 00:00:29,480
+some really good things in<font color="#E5E5E5"> our state's</font>
+
+10
+00:00:29,480 --> 00:00:39,030
+hey hey buddy hey sup man soon greetings
+
+11
+00:00:39,030 --> 00:00:41,520
+textures welcome to hot and tech the
+
+12
+00:00:41,520 --> 00:00:43,950
+number one tech show in hip hop brought
+
+13
+00:00:43,950 --> 00:00:46,020
+to you by the birthplace of<font color="#E5E5E5"> hip hop hot</font>
+
+14
+00:00:46,020 --> 00:00:49,110
+97 facts i'm jessie kay this<font color="#CCCCCC"> is</font><font color="#E5E5E5"> my</font>
+
+15
+00:00:49,110 --> 00:00:52,079
+co-host tat wizza aka the hip<font color="#E5E5E5"> hop tech</font>
+
+16
+00:00:52,079 --> 00:00:54,660
+wizard was good be today we've got<font color="#CCCCCC"> the</font>
+
+17
+00:00:54,660 --> 00:00:57,480
+ultimate hustler in digital period he's
+
+18
+00:00:57,480 --> 00:00:59,340
+got his hands in everything behind the
+
+19
+00:00:59,340 --> 00:01:01,800
+scenes but is quickly becoming the face
+
+20
+00:01:01,800 --> 00:01:04,920
+of business tech mr. gary vaynerchuk
+
+21
+00:01:04,920 --> 00:01:07,439
+<font color="#E5E5E5">gary much good mob dude</font><font color="#CCCCCC"> i'm good guys</font>
+
+22
+00:01:07,439 --> 00:01:08,939
+thank you so much for having me oh thank
+
+23
+00:01:08,939 --> 00:01:13,200
+you<font color="#CCCCCC"> for</font><font color="#E5E5E5"> coming what a year 2016 the best</font>
+
+24
+00:01:13,200 --> 00:01:15,240
+<font color="#CCCCCC">guy you love everybody's like this the</font>
+
+25
+00:01:15,240 --> 00:01:17,040
+worst year I can't wait for<font color="#CCCCCC"> this year to</font>
+
+26
+00:01:17,040 --> 00:01:18,869
+<font color="#E5E5E5">be over i love this year yeah it's been</font>
+
+27
+00:01:18,869 --> 00:01:20,369
+<font color="#E5E5E5">a great year for you</font><font color="#CCCCCC"> i'm talking about</font>
+
+28
+00:01:20,369 --> 00:01:22,439
+it's<font color="#E5E5E5"> always a greater if you're alive</font>
+
+29
+00:01:22,439 --> 00:01:24,930
+it's a great<font color="#CCCCCC"> year you could decide it's</font>
+
+30
+00:01:24,930 --> 00:01:27,420
+a bad year but<font color="#E5E5E5"> as my right now there's</font>
+
+31
+00:01:27,420 --> 00:01:28,860
+not the best<font color="#E5E5E5"> business year</font><font color="#CCCCCC"> i've ever had</font>
+
+32
+00:01:28,860 --> 00:01:31,049
+but it's<font color="#E5E5E5"> the best year because what's</font>
+
+33
+00:01:31,049 --> 00:01:34,799
+the<font color="#E5E5E5"> alternative i love your energy i</font>
+
+34
+00:01:34,799 --> 00:01:37,320
+<font color="#E5E5E5">preciate it so many times I'm out here</font>
+
+35
+00:01:37,320 --> 00:01:39,600
+telling people like yo um you know get
+
+36
+00:01:39,600 --> 00:01:41,610
+<font color="#CCCCCC">up pull your bootstraps get up here get</font>
+
+37
+00:01:41,610 --> 00:01:42,899
+out and do<font color="#CCCCCC"> something with</font><font color="#E5E5E5"> yourself</font>
+
+38
+00:01:42,899 --> 00:01:45,329
+because there's no limit<font color="#E5E5E5"> it's you to</font>
+
+39
+00:01:45,329 --> 00:01:47,250
+stop in yourself and I see that<font color="#CCCCCC"> in</font><font color="#E5E5E5"> your</font>
+
+40
+00:01:47,250 --> 00:01:49,950
+messages all the time to me I always<font color="#CCCCCC"> get</font>
+
+41
+00:01:49,950 --> 00:01:52,439
+an extra bolt when I'm around<font color="#CCCCCC"> hip hop</font>
+
+42
+00:01:52,439 --> 00:01:55,979
+and urban demo because they understand
+
+43
+00:01:55,979 --> 00:01:58,380
+it better like it's unbelievable how
+
+44
+00:01:58,380 --> 00:02:00,990
+much I in my brain<font color="#E5E5E5"> and a there's a</font>
+
+45
+00:02:00,990 --> 00:02:02,520
+forewarning all of you are about<font color="#E5E5E5"> to say</font>
+
+46
+00:02:02,520 --> 00:02:05,250
+you<font color="#E5E5E5"> know it's unbelievable how much in</font>
+
+47
+00:02:05,250 --> 00:02:09,360
+<font color="#CCCCCC">my brain I think</font><font color="#E5E5E5"> that my son white kid</font>
+
+48
+00:02:09,360 --> 00:02:11,360
+Upper East Side rich is<font color="#E5E5E5"> that</font>
+
+49
+00:02:11,360 --> 00:02:13,980
+<font color="#CCCCCC">disadvantaged over</font>
+
+50
+00:02:13,980 --> 00:02:19,140
+minority from<font color="#E5E5E5"> Harlem if that kid if she</font>
+
+51
+00:02:19,140 --> 00:02:23,430
+or he understood what eating dirt how
+
+52
+00:02:23,430 --> 00:02:25,440
+much<font color="#CCCCCC"> of an advantage that actually is I</font>
+
+53
+00:02:25,440 --> 00:02:28,500
+lived it I<font color="#CCCCCC"> came from nothing so I hey I</font>
+
+54
+00:02:28,500 --> 00:02:29,970
+wish they knew and so every time I'm in
+
+55
+00:02:29,970 --> 00:02:31,920
+a setting like this versus a but you
+
+56
+00:02:31,920 --> 00:02:33,480
+know I'm in a suit which is as<font color="#CCCCCC"> you guys</font>
+
+57
+00:02:33,480 --> 00:02:34,739
+know everybody's making jokes today
+
+58
+00:02:34,739 --> 00:02:36,930
+twice a<font color="#CCCCCC"> year funeral and had to be at</font>
+
+59
+00:02:36,930 --> 00:02:38,959
+<font color="#E5E5E5">the New</font><font color="#CCCCCC"> York Stock Exchange today like</font>
+
+60
+00:02:38,959 --> 00:02:42,000
+it's unbelievable to me how much people
+
+61
+00:02:42,000 --> 00:02:43,709
+<font color="#CCCCCC">don't get it and realize how much</font>
+
+62
+00:02:43,709 --> 00:02:45,510
+opportunities and when you come from
+
+63
+00:02:45,510 --> 00:02:48,840
+zero you have<font color="#E5E5E5"> an advantage in 2017 NOS</font>
+
+64
+00:02:48,840 --> 00:02:50,730
+not a disadvantage and<font color="#CCCCCC"> i'm trying to get</font>
+
+65
+00:02:50,730 --> 00:02:52,650
+people through sheer will and putting
+
+66
+00:02:52,650 --> 00:02:54,900
+out content to understand that fact<font color="#E5E5E5"> you</font>
+
+67
+00:02:54,900 --> 00:02:57,780
+first got on my radar when you were one
+
+68
+00:02:57,780 --> 00:03:00,000
+of<font color="#E5E5E5"> your</font><font color="#CCCCCC"> companies</font><font color="#E5E5E5"> Wine Library TV wasn't</font>
+
+69
+00:03:00,000 --> 00:03:01,590
+hopping on YouTube yep and you came<font color="#CCCCCC"> out</font>
+
+70
+00:03:01,590 --> 00:03:03,359
+<font color="#E5E5E5">with this rant talking about the</font>
+
+71
+00:03:03,359 --> 00:03:05,489
+entrepreneurial spirit of tech being
+
+72
+00:03:05,489 --> 00:03:07,230
+very like<font color="#CCCCCC"> the early days in hip hop and</font>
+
+73
+00:03:07,230 --> 00:03:09,090
+I remember that this guy is one of us
+
+74
+00:03:09,090 --> 00:03:11,940
+<font color="#E5E5E5">she's you know he's he's talking</font><font color="#CCCCCC"> hip hop</font>
+
+75
+00:03:11,940 --> 00:03:13,530
+and tech at the same time but that was
+
+76
+00:03:13,530 --> 00:03:15,840
+<font color="#E5E5E5">like eight years ago 2008 I made a video</font>
+
+77
+00:03:15,840 --> 00:03:18,690
+2009 i made a video that said tech is
+
+78
+00:03:18,690 --> 00:03:20,760
+about to be what hip-hop 85 was you know
+
+79
+00:03:20,760 --> 00:03:22,950
+I<font color="#CCCCCC"> grew up in Jersey and Edison so you</font>
+
+80
+00:03:22,950 --> 00:03:24,840
+know I'm I'm cliche white kid that<font color="#CCCCCC"> was</font>
+
+81
+00:03:24,840 --> 00:03:26,669
+affected by yo mtv raps part of that
+
+82
+00:03:26,669 --> 00:03:29,370
+first generation adidas know you know ty
+
+83
+00:03:29,370 --> 00:03:30,930
+you know that's what I<font color="#CCCCCC"> grew up in a lot</font>
+
+84
+00:03:30,930 --> 00:03:33,780
+<font color="#CCCCCC">of diversity back then and so you know I</font>
+
+85
+00:03:33,780 --> 00:03:36,000
+remember when I thought the fat boys or
+
+86
+00:03:36,000 --> 00:03:37,829
+Beastie Boys or Karis one we're famous
+
+87
+00:03:37,829 --> 00:03:40,980
+but I knew that<font color="#E5E5E5"> the world did it and and</font>
+
+88
+00:03:40,980 --> 00:03:42,660
+now the biggest rappers in the world are
+
+89
+00:03:42,660 --> 00:03:45,599
+the most famous right and so that's what
+
+90
+00:03:45,599 --> 00:03:48,389
+<font color="#E5E5E5">i saw in tech when kevin rose and sucks</font>
+
+91
+00:03:48,389 --> 00:03:51,000
+and and sokka and<font color="#E5E5E5"> f</font><font color="#CCCCCC"> williams</font><font color="#E5E5E5"> like okay</font><font color="#CCCCCC"> i</font>
+
+92
+00:03:51,000 --> 00:03:52,410
+know they're going to<font color="#E5E5E5"> be big and they're</font>
+
+93
+00:03:52,410 --> 00:03:54,239
+cool but the world doesn't yet<font color="#E5E5E5"> i</font>
+
+94
+00:03:54,239 --> 00:03:55,739
+remember<font color="#CCCCCC"> telling Kevin Rose who was the</font>
+
+95
+00:03:55,739 --> 00:03:57,450
+founder of digg com which was the big
+
+96
+00:03:57,450 --> 00:03:59,669
+site back in the day I said you<font color="#E5E5E5"> need to</font>
+
+97
+00:03:59,669 --> 00:04:01,709
+understand that we're gonna be<font color="#E5E5E5"> like the</font>
+
+98
+00:04:01,709 --> 00:04:03,480
+baseball<font color="#CCCCCC"> players from</font><font color="#E5E5E5"> the 50s and 60s</font>
+
+99
+00:04:03,480 --> 00:04:05,579
+where they made less money in<font color="#E5E5E5"> their Hulk</font>
+
+100
+00:04:05,579 --> 00:04:07,410
+Willie Mays like made less money in his
+
+101
+00:04:07,410 --> 00:04:09,660
+whole career than an average baseball
+
+102
+00:04:09,660 --> 00:04:11,730
+player makes in a year now<font color="#E5E5E5"> but one of</font>
+
+103
+00:04:11,730 --> 00:04:13,500
+the legends in<font color="#CCCCCC"> the game and so I said</font>
+
+104
+00:04:13,500 --> 00:04:14,519
+<font color="#E5E5E5">the Kevin I said you're gonna be a</font>
+
+105
+00:04:14,519 --> 00:04:15,840
+legend in the game<font color="#CCCCCC"> because he was a web</font>
+
+106
+00:04:15,840 --> 00:04:17,488
+two point O legend I said but you need
+
+107
+00:04:17,488 --> 00:04:19,500
+to understand one thing the next<font color="#CCCCCC"> you in</font>
+
+108
+00:04:19,500 --> 00:04:21,000
+seven years is gonna be dating
+
+109
+00:04:21,000 --> 00:04:23,280
+supermodels and we were mate I was
+
+110
+00:04:23,280 --> 00:04:24,990
+making that joke and sure enough you
+
+111
+00:04:24,990 --> 00:04:27,720
+know<font color="#E5E5E5"> evan spiegel marry a super</font>
+
+112
+00:04:27,720 --> 00:04:29,940
+model so i think<font color="#E5E5E5"> it's a you're right</font>
+
+113
+00:04:29,940 --> 00:04:31,500
+that was the video<font color="#E5E5E5"> where i first kind of</font>
+
+114
+00:04:31,500 --> 00:04:33,090
+like put that out there and<font color="#CCCCCC"> i'm</font>
+
+115
+00:04:33,090 --> 00:04:35,760
+impressed<font color="#E5E5E5"> that you sniffed out that what</font>
+
+116
+00:04:35,760 --> 00:04:37,110
+I was<font color="#CCCCCC"> up to that's how</font><font color="#E5E5E5"> you got on my</font>
+
+117
+00:04:37,110 --> 00:04:38,760
+radar you've been steady grindin ever
+
+118
+00:04:38,760 --> 00:04:41,610
+since now and prior it feels<font color="#E5E5E5"> like this</font>
+
+119
+00:04:41,610 --> 00:04:43,620
+year though with maybe the rise of
+
+120
+00:04:43,620 --> 00:04:45,690
+snapchat and maybe your content engine
+
+121
+00:04:45,690 --> 00:04:47,220
+heating up that<font color="#CCCCCC"> you've really kind</font><font color="#E5E5E5"> of</font>
+
+122
+00:04:47,220 --> 00:04:48,930
+become a household name in this space
+
+123
+00:04:48,930 --> 00:04:51,540
+yeah this was the very big year for me
+
+124
+00:04:51,540 --> 00:04:53,520
+like if you<font color="#E5E5E5"> look even at basic vanity</font>
+
+125
+00:04:53,520 --> 00:04:55,530
+numbers of growth of like my social
+
+126
+00:04:55,530 --> 00:04:57,720
+numbers between<font color="#CCCCCC"> D</font><font color="#E5E5E5"> rock and I getting</font>
+
+127
+00:04:57,720 --> 00:04:59,700
+serious you know<font color="#E5E5E5"> yesterday or day before</font>
+
+128
+00:04:59,700 --> 00:05:01,440
+was the one year anniversary dailyvee
+
+129
+00:05:01,440 --> 00:05:03,780
+the document the thing that I do you
+
+130
+00:05:03,780 --> 00:05:05,640
+<font color="#CCCCCC">know we</font><font color="#E5E5E5"> got we got serious I got to</font>
+
+131
+00:05:05,640 --> 00:05:06,990
+place where vaynermedia for a lot of you
+
+132
+00:05:06,990 --> 00:05:08,070
+that don't know I have a company that
+
+133
+00:05:08,070 --> 00:05:10,230
+does social media advertising and
+
+134
+00:05:10,230 --> 00:05:11,340
+digital advertising for the biggest
+
+135
+00:05:11,340 --> 00:05:12,840
+brands in the world it got big enough
+
+136
+00:05:12,840 --> 00:05:15,210
+<font color="#E5E5E5">where I could afford me being the face</font>
+
+137
+00:05:15,210 --> 00:05:17,280
+of it to put some dollars into people
+
+138
+00:05:17,280 --> 00:05:19,680
+against my brand and yeah this year
+
+139
+00:05:19,680 --> 00:05:21,690
+everything changed in in a pretty
+
+140
+00:05:21,690 --> 00:05:25,290
+significant way so I first saw you and
+
+141
+00:05:25,290 --> 00:05:27,120
+forgive me for just catching up but I
+
+142
+00:05:27,120 --> 00:05:29,070
+<font color="#CCCCCC">worries</font><font color="#E5E5E5"> a little back to</font><font color="#CCCCCC"> this point most</font>
+
+143
+00:05:29,070 --> 00:05:30,750
+people are just catching up a little
+
+144
+00:05:30,750 --> 00:05:33,330
+less than<font color="#E5E5E5"> a year ago right after CES my</font>
+
+145
+00:05:33,330 --> 00:05:36,750
+first<font color="#CCCCCC"> episode dailyvee 003 a friend</font><font color="#E5E5E5"> of</font>
+
+146
+00:05:36,750 --> 00:05:38,370
+mine from<font color="#E5E5E5"> Silicon Valley said hey you</font>
+
+147
+00:05:38,370 --> 00:05:39,810
+remind me of somebody I want you to
+
+148
+00:05:39,810 --> 00:05:41,850
+check out Gary Vee<font color="#CCCCCC"> yeah so I watched</font>
+
+149
+00:05:41,850 --> 00:05:44,280
+this episode while driving in my car and
+
+150
+00:05:44,280 --> 00:05:46,320
+you said something<font color="#CCCCCC"> that just took me I</font>
+
+151
+00:05:46,320 --> 00:05:48,450
+was like<font color="#E5E5E5"> you are this is the guy it's</font>
+
+152
+00:05:48,450 --> 00:05:51,300
+about<font color="#CCCCCC"> to get crazy honestly in a</font>
+
+153
+00:05:51,300 --> 00:05:53,129
+different way DJ
+
+154
+00:05:53,129 --> 00:05:57,029
+is the Ashton Kutcher moment for 20 you
+
+155
+00:05:57,029 --> 00:06:00,479
+said dj khaled was the<font color="#CCCCCC"> Ashland</font><font color="#E5E5E5"> kushner</font>
+
+156
+00:06:00,479 --> 00:06:02,519
+for snapchat<font color="#E5E5E5"> measuring what</font><font color="#CCCCCC"> assen</font>
+
+157
+00:06:02,519 --> 00:06:04,619
+<font color="#CCCCCC">krishna was to Twitter yes introducing</font>
+
+158
+00:06:04,619 --> 00:06:07,349
+it to people and get a salad was the
+
+159
+00:06:07,349 --> 00:06:09,719
+snapchat and I knew like county is a
+
+160
+00:06:09,719 --> 00:06:11,399
+really<font color="#E5E5E5"> good friend of mine I'll</font><font color="#CCCCCC"> even say</font>
+
+161
+00:06:11,399 --> 00:06:13,739
+and<font color="#E5E5E5"> I'll put this out there right before</font>
+
+162
+00:06:13,739 --> 00:06:16,169
+Khaled exploded on snapchat he was in
+
+163
+00:06:16,169 --> 00:06:18,269
+New York and we were snapchatting in the
+
+164
+00:06:18,269 --> 00:06:20,789
+studio he was here he he had just popped
+
+165
+00:06:20,789 --> 00:06:23,610
+the term major key yeah<font color="#CCCCCC"> mid flex</font><font color="#E5E5E5"> a hot</font>
+
+166
+00:06:23,610 --> 00:06:27,059
+97 yep and we were using snapchat and he
+
+167
+00:06:27,059 --> 00:06:29,219
+went back and figured<font color="#E5E5E5"> out</font><font color="#CCCCCC"> how do you</font>
+
+168
+00:06:29,219 --> 00:06:31,649
+snap chat for him and became<font color="#CCCCCC"> the king a</font>
+
+169
+00:06:31,649 --> 00:06:34,019
+hundred percent<font color="#CCCCCC"> me so when I saw you say</font>
+
+170
+00:06:34,019 --> 00:06:36,659
+that I was like does this guy you knew
+
+171
+00:06:36,659 --> 00:06:38,279
+that<font color="#E5E5E5"> I knew right because</font><font color="#CCCCCC"> it was still</font>
+
+172
+00:06:38,279 --> 00:06:39,599
+early that was still that was<font color="#E5E5E5"> January</font>
+
+173
+00:06:39,599 --> 00:06:41,729
+fifth yes you know<font color="#CCCCCC"> Khaled really popped</font>
+
+174
+00:06:41,729 --> 00:06:43,529
+I mean I'm really in my shit you know
+
+175
+00:06:43,529 --> 00:06:45,209
+that<font color="#E5E5E5"> can I curse on this of course okay</font>
+
+176
+00:06:45,209 --> 00:06:48,959
+got you uh November<font color="#CCCCCC"> 1316 that's when his</font>
+
+177
+00:06:48,959 --> 00:06:50,490
+stuff really started getting going<font color="#E5E5E5"> so</font>
+
+178
+00:06:50,490 --> 00:06:52,800
+he's six weeks in but cuz<font color="#E5E5E5"> I was there</font>
+
+179
+00:06:52,800 --> 00:06:54,899
+for with<font color="#E5E5E5"> Ashton and I was there</font><font color="#CCCCCC"> I was</font>
+
+180
+00:06:54,899 --> 00:06:57,479
+like okay<font color="#CCCCCC"> this is the guy and this</font><font color="#E5E5E5"> is</font>
+
+181
+00:06:57,479 --> 00:06:59,459
+the platform<font color="#E5E5E5"> and by the way I've been</font>
+
+182
+00:06:59,459 --> 00:07:01,860
+pressuring back to<font color="#CCCCCC"> music back to</font><font color="#E5E5E5"> all</font>
+
+183
+00:07:01,860 --> 00:07:03,689
+your homies somebody's gonna be that for
+
+184
+00:07:03,689 --> 00:07:05,969
+musically there still isn't a mainstream
+
+185
+00:07:05,969 --> 00:07:08,399
+celebrity that just decided to oh and
+
+186
+00:07:08,399 --> 00:07:10,619
+it's so crazy musically such a thing to
+
+187
+00:07:10,619 --> 00:07:12,569
+win for a musician because<font color="#CCCCCC"> you could win</font>
+
+188
+00:07:12,569 --> 00:07:15,649
+the entire 11 to 16 year old girl
+
+189
+00:07:15,649 --> 00:07:18,179
+ecosystem and I'm just like yelling at
+
+190
+00:07:18,179 --> 00:07:19,949
+some of my famous music friends like do
+
+191
+00:07:19,949 --> 00:07:22,589
+this do this so<font color="#E5E5E5"> khaled was the guy that</font>
+
+192
+00:07:22,589 --> 00:07:24,449
+figured i had a story tell on a platform
+
+193
+00:07:24,449 --> 00:07:25,669
+that was<font color="#E5E5E5"> about to become mainstream</font>
+
+194
+00:07:25,669 --> 00:07:28,229
+Ashton did that on Twitter and subbies
+
+195
+00:07:28,229 --> 00:07:29,399
+gonna do that musically and then house
+
+196
+00:07:29,399 --> 00:07:30,719
+party or<font color="#E5E5E5"> something else or something</font>
+
+197
+00:07:30,719 --> 00:07:31,679
+that's<font color="#E5E5E5"> gonna be a method next year</font>
+
+198
+00:07:31,679 --> 00:07:33,509
+there's always gonna be a Christopher
+
+199
+00:07:33,509 --> 00:07:36,029
+Columbus and I know you're tight with
+
+200
+00:07:36,029 --> 00:07:39,689
+him<font color="#CCCCCC"> dig economics are crazy the amount</font>
+
+201
+00:07:39,689 --> 00:07:41,849
+of<font color="#E5E5E5"> money</font><font color="#CCCCCC"> callins Macon's retarded</font>
+
+202
+00:07:41,849 --> 00:07:44,339
+knowing how hard he's worked i'm also i
+
+203
+00:07:44,339 --> 00:07:47,129
+pay attention<font color="#E5E5E5"> of the grind the spinning</font>
+
+204
+00:07:47,129 --> 00:07:48,779
+night after night the grind and he
+
+205
+00:07:48,779 --> 00:07:51,779
+doesn't fly the grinder grind to think
+
+206
+00:07:51,779 --> 00:07:53,759
+about the endorsement deals and the biz
+
+207
+00:07:53,759 --> 00:07:55,439
+dev deals and the money that's being
+
+208
+00:07:55,439 --> 00:07:57,779
+pumped into his world it's a lesson<font color="#E5E5E5"> for</font>
+
+209
+00:07:57,779 --> 00:07:59,459
+everybody listening<font color="#E5E5E5"> as you know and this</font>
+
+210
+00:07:59,459 --> 00:08:01,169
+<font color="#E5E5E5">isn't just for people that have</font><font color="#CCCCCC"> khaled</font>
+
+211
+00:08:01,169 --> 00:08:03,479
+same all the aspiring hip-hop artists
+
+212
+00:08:03,479 --> 00:08:06,389
+like pop where everybody actually is and
+
+213
+00:08:06,389 --> 00:08:06,720
+then you
+
+214
+00:08:06,720 --> 00:08:10,380
+shot so we're gonna talk about 2017 this
+
+215
+00:08:10,380 --> 00:08:12,210
+episode is gonna be futurists you have
+
+216
+00:08:12,210 --> 00:08:14,190
+talked what's<font color="#E5E5E5"> coming next starting with</font>
+
+217
+00:08:14,190 --> 00:08:16,830
+CES werecat just first learned about you
+
+218
+00:08:16,830 --> 00:08:19,890
+last year what do you see for 2017 CES
+
+219
+00:08:19,890 --> 00:08:21,300
+how does<font color="#E5E5E5"> that set the pad you know</font>
+
+220
+00:08:21,300 --> 00:08:23,160
+what's funny especially<font color="#CCCCCC"> cuz i know a lot</font>
+
+221
+00:08:23,160 --> 00:08:24,360
+of people<font color="#E5E5E5"> just be learning about me</font>
+
+222
+00:08:24,360 --> 00:08:27,420
+right now I'm<font color="#E5E5E5"> not Nostradamus right like</font>
+
+223
+00:08:27,420 --> 00:08:29,640
+I love<font color="#E5E5E5"> people that think I am but I'm</font>
+
+224
+00:08:29,640 --> 00:08:31,890
+not and so the answer is i'm<font color="#CCCCCC"> not sure</font>
+
+225
+00:08:31,890 --> 00:08:33,479
+i'll tell you what<font color="#E5E5E5"> i'm paying attention</font>
+
+226
+00:08:33,479 --> 00:08:36,000
+to right now there's three after school
+
+227
+00:08:36,000 --> 00:08:38,219
+you<font color="#E5E5E5"> know for high school kids house</font>
+
+228
+00:08:38,219 --> 00:08:41,099
+party i<font color="#E5E5E5"> already mentioned it marco polo</font>
+
+229
+00:08:41,099 --> 00:08:44,070
+there's things that are popping but
+
+230
+00:08:44,070 --> 00:08:47,280
+anchor and peach and you know yucky ack
+
+231
+00:08:47,280 --> 00:08:49,320
+there's always been these things there's
+
+232
+00:08:49,320 --> 00:08:53,130
+nothing yet that is like 100 person i
+
+233
+00:08:53,130 --> 00:08:55,320
+<font color="#E5E5E5">was paying attention</font><font color="#CCCCCC"> to and talking</font>
+
+234
+00:08:55,320 --> 00:08:57,420
+about<font color="#E5E5E5"> snapchat for two and a half years</font>
+
+235
+00:08:57,420 --> 00:08:59,760
+before i got loud you saw the fat me in
+
+236
+00:08:59,760 --> 00:09:02,070
+2012 talking about maybe like i was i
+
+237
+00:09:02,070 --> 00:09:04,110
+was like so there's<font color="#E5E5E5"> nothing that is like</font>
+
+238
+00:09:04,110 --> 00:09:05,760
+there's nothing<font color="#CCCCCC"> at least</font><font color="#E5E5E5"> right this</font>
+
+239
+00:09:05,760 --> 00:09:08,100
+second that I would put my name on
+
+240
+00:09:08,100 --> 00:09:12,300
+saying 2017 s the year of I mean I
+
+241
+00:09:12,300 --> 00:09:13,560
+didn't know that Instagram was gonna
+
+242
+00:09:13,560 --> 00:09:16,170
+follow<font color="#E5E5E5"> and copy features from snack like</font>
+
+243
+00:09:16,170 --> 00:09:18,390
+you<font color="#E5E5E5"> never know just what I think I'm</font>
+
+244
+00:09:18,390 --> 00:09:20,760
+good at and what you've probably seen
+
+245
+00:09:20,760 --> 00:09:24,180
+the last decade is when I taste it I'm
+
+246
+00:09:24,180 --> 00:09:26,280
+like a shark with blood you know<font color="#E5E5E5"> sharks</font>
+
+247
+00:09:26,280 --> 00:09:29,339
+are crazy like a little like<font color="#CCCCCC"> a mile</font><font color="#E5E5E5"> ago</font>
+
+248
+00:09:29,339 --> 00:09:32,250
+like a mile out like a like a little
+
+249
+00:09:32,250 --> 00:09:34,560
+little speck of blood and like that's
+
+250
+00:09:34,560 --> 00:09:36,750
+what I'm good at when I feel that when I
+
+251
+00:09:36,750 --> 00:09:39,000
+taste that blood in the water I'm so
+
+252
+00:09:39,000 --> 00:09:42,830
+fucking on it it's 24 I shut down in
+
+253
+00:09:42,830 --> 00:09:46,110
+December on my family vacation and spent
+
+254
+00:09:46,110 --> 00:09:49,589
+every minute dissecting snapchat cuz I
+
+255
+00:09:49,589 --> 00:09:51,540
+knew<font color="#E5E5E5"> Khalid had popped they're like wait</font>
+
+256
+00:09:51,540 --> 00:09:52,740
+a minute if Cal it's pop and this is
+
+257
+00:09:52,740 --> 00:09:55,740
+really double good for me because the
+
+258
+00:09:55,740 --> 00:09:57,660
+way he rolls that's kind of similar to
+
+259
+00:09:57,660 --> 00:09:59,490
+<font color="#E5E5E5">like the way</font><font color="#CCCCCC"> we got our differences but</font>
+
+260
+00:09:59,490 --> 00:10:00,750
+like the thing that the kids are
+
+261
+00:10:00,750 --> 00:10:02,339
+attaching to that<font color="#CCCCCC"> motivation</font><font color="#E5E5E5"> like I'm</font>
+
+262
+00:10:02,339 --> 00:10:04,050
+like I'm living that right like for real
+
+263
+00:10:04,050 --> 00:10:08,070
+I only do that<font color="#E5E5E5"> I don't ND j that is me</font>
+
+264
+00:10:08,070 --> 00:10:10,650
+that<font color="#E5E5E5"> is what i do and so I think</font><font color="#CCCCCC"> that um</font>
+
+265
+00:10:10,650 --> 00:10:12,780
+that's what I'm paying attention to I
+
+266
+00:10:12,780 --> 00:10:15,089
+don't know what's next<font color="#E5E5E5"> but I'm always</font>
+
+267
+00:10:15,089 --> 00:10:17,130
+circling those waters and don't let
+
+268
+00:10:17,130 --> 00:10:19,020
+somebody drop a little ounce of blood
+
+269
+00:10:19,020 --> 00:10:20,790
+because I'm going<font color="#E5E5E5"> 24seven at</font>
+
+270
+00:10:20,790 --> 00:10:23,400
+once I taste it facts<font color="#E5E5E5"> so that was</font>
+
+271
+00:10:23,400 --> 00:10:24,990
+leading into the next question right I
+
+272
+00:10:24,990 --> 00:10:27,060
+was going<font color="#E5E5E5"> to</font><font color="#CCCCCC"> ask you snapchat or</font>
+
+273
+00:10:27,060 --> 00:10:29,850
+Instagram<font color="#E5E5E5"> what do you do both and we</font>
+
+274
+00:10:29,850 --> 00:10:31,590
+kind of figured you'd say that so what
+
+275
+00:10:31,590 --> 00:10:34,710
+do you do first both at the same<font color="#CCCCCC"> time</font>
+
+276
+00:10:34,710 --> 00:10:36,810
+you're<font color="#E5E5E5"> not you're not going snapchat</font>
+
+277
+00:10:36,810 --> 00:10:38,580
+then taking that video and put<font color="#CCCCCC"> it on</font>
+
+278
+00:10:38,580 --> 00:10:40,680
+Instagram honestly that's just a cadence
+
+279
+00:10:40,680 --> 00:10:42,630
+that's a moment<font color="#CCCCCC"> in time like that's a</font>
+
+280
+00:10:42,630 --> 00:10:44,700
+however you feel like which one you like
+
+281
+00:10:44,700 --> 00:10:46,080
+but anybody who's listening right now
+
+282
+00:10:46,080 --> 00:10:47,430
+that wants to make something<font color="#E5E5E5"> happen</font>
+
+283
+00:10:47,430 --> 00:10:48,960
+you're gonna build the<font color="#E5E5E5"> next biggest</font>
+
+284
+00:10:48,960 --> 00:10:51,570
+clothing line both right you want<font color="#E5E5E5"> to get</font>
+
+285
+00:10:51,570 --> 00:10:53,400
+some new<font color="#E5E5E5"> customers for</font><font color="#CCCCCC"> your bakery shop</font>
+
+286
+00:10:53,400 --> 00:10:55,770
+both you want to get a job interview at
+
+287
+00:10:55,770 --> 00:10:57,690
+a social<font color="#E5E5E5"> media shop both like if you</font>
+
+288
+00:10:57,690 --> 00:11:00,120
+have ambition your actions have to match
+
+289
+00:11:00,120 --> 00:11:01,890
+that and too<font color="#CCCCCC"> many people are just like</font>
+
+290
+00:11:01,890 --> 00:11:04,650
+not putting in the work their mouth is
+
+291
+00:11:04,650 --> 00:11:06,570
+right ahead of their fucking<font color="#E5E5E5"> ryu no</font>
+
+292
+00:11:06,570 --> 00:11:09,240
+actions like really you're gonna be the
+
+293
+00:11:09,240 --> 00:11:11,580
+<font color="#CCCCCC">greatest NBA player of all time why cuz</font>
+
+294
+00:11:11,580 --> 00:11:13,260
+you<font color="#CCCCCC"> think you got</font><font color="#E5E5E5"> a little handle on the</font>
+
+295
+00:11:13,260 --> 00:11:15,300
+weekends you need to shoot 15,000 free
+
+296
+00:11:15,300 --> 00:11:18,330
+throws before school every day facts and
+
+297
+00:11:18,330 --> 00:11:21,510
+so you know<font color="#E5E5E5"> to me to me the answer is</font>
+
+298
+00:11:21,510 --> 00:11:23,250
+both and it's not even if like when
+
+299
+00:11:23,250 --> 00:11:24,720
+people in business like if you're a
+
+300
+00:11:24,720 --> 00:11:27,750
+normal person if my brother-in-law alex
+
+301
+00:11:27,750 --> 00:11:29,880
+klein is like what should i do for my
+
+302
+00:11:29,880 --> 00:11:32,310
+life<font color="#E5E5E5"> i don't care one or the other but</font>
+
+303
+00:11:32,310 --> 00:11:33,810
+if you're a business person or you've
+
+304
+00:11:33,810 --> 00:11:35,130
+ambitions or you want<font color="#E5E5E5"> to run for office</font>
+
+305
+00:11:35,130 --> 00:11:37,410
+or whatever you want<font color="#E5E5E5"> to do both always</font>
+
+306
+00:11:37,410 --> 00:11:40,860
+end use every<font color="#E5E5E5"> s and Twitter and Facebook</font>
+
+307
+00:11:40,860 --> 00:11:45,270
+<font color="#CCCCCC">and YouTube and SoundCloud and and and</font>
+
+308
+00:11:45,270 --> 00:11:48,030
+and do you think<font color="#CCCCCC"> the spectacles will</font>
+
+309
+00:11:48,030 --> 00:11:50,940
+help snapchat I do I<font color="#E5E5E5"> think here's here's</font>
+
+310
+00:11:50,940 --> 00:11:54,570
+my big macro POV<font color="#CCCCCC"> on this snapchat is the</font>
+
+311
+00:11:54,570 --> 00:11:57,360
+first social network<font color="#E5E5E5"> that has a chance</font>
+
+312
+00:11:57,360 --> 00:12:00,540
+to<font color="#E5E5E5"> be a brand people think about</font>
+
+313
+00:12:00,540 --> 00:12:03,000
+snapchat the way they think about yeezys
+
+314
+00:12:03,000 --> 00:12:05,610
+the way they think about<font color="#CCCCCC"> SoulCycle the</font>
+
+315
+00:12:05,610 --> 00:12:07,770
+way they think about starbucks it's a
+
+316
+00:12:07,770 --> 00:12:10,470
+brand and that's what these glasses
+
+317
+00:12:10,470 --> 00:12:12,030
+these spectacles have a chance of doing
+
+318
+00:12:12,030 --> 00:12:15,060
+if they pop and they hold Wall Street
+
+319
+00:12:15,060 --> 00:12:16,710
+business people the people that roll
+
+320
+00:12:16,710 --> 00:12:18,690
+with me are<font color="#E5E5E5"> not just going</font><font color="#CCCCCC"> to think and</font>
+
+321
+00:12:18,690 --> 00:12:19,920
+compare it<font color="#E5E5E5"> to Instagram and Facebook</font>
+
+322
+00:12:19,920 --> 00:12:21,690
+they're going<font color="#E5E5E5"> to compare to Instagram</font>
+
+323
+00:12:21,690 --> 00:12:24,870
+and Facebook and under armour and that's
+
+324
+00:12:24,870 --> 00:12:26,160
+a<font color="#E5E5E5"> place where they want to be because</font>
+
+325
+00:12:26,160 --> 00:12:28,770
+then all of a sudden money goes up then
+
+326
+00:12:28,770 --> 00:12:30,210
+all of a sudden<font color="#CCCCCC"> the company's worth more</font>
+
+327
+00:12:30,210 --> 00:12:32,400
+money and so to me as a company that has
+
+328
+00:12:32,400 --> 00:12:34,290
+IPO ambitions and one
+
+329
+00:12:34,290 --> 00:12:35,339
+to be on the stock market next year
+
+330
+00:12:35,339 --> 00:12:38,430
+<font color="#E5E5E5">that's a big deal so saw that with the</font>
+
+331
+00:12:38,430 --> 00:12:41,399
+lines they<font color="#E5E5E5"> were crazy and they</font><font color="#CCCCCC"> worked</font>
+
+332
+00:12:41,399 --> 00:12:44,130
+really<font color="#E5E5E5"> well we love them I'm super big</font>
+
+333
+00:12:44,130 --> 00:12:46,589
+into consumer gadget rehab<font color="#CCCCCC"> um so I I</font>
+
+334
+00:12:46,589 --> 00:12:49,199
+think that they are what Google glass
+
+335
+00:12:49,199 --> 00:12:51,420
+should have<font color="#E5E5E5"> been to consumers but the</font>
+
+336
+00:12:51,420 --> 00:12:53,579
+reason they were is google and this is
+
+337
+00:12:53,579 --> 00:12:55,230
+for everybody who's listening this<font color="#CCCCCC"> is a</font>
+
+338
+00:12:55,230 --> 00:12:57,180
+great segue and<font color="#CCCCCC"> i'll take</font><font color="#E5E5E5"> it to</font><font color="#CCCCCC"> a macro</font>
+
+339
+00:12:57,180 --> 00:12:59,670
+level this<font color="#E5E5E5"> is about knowing your DNA</font>
+
+340
+00:12:59,670 --> 00:13:01,649
+this is where you have to know yourself
+
+341
+00:13:01,649 --> 00:13:05,040
+let me explain google was started by two
+
+342
+00:13:05,040 --> 00:13:08,970
+nerds hmm so when they made a consumer
+
+343
+00:13:08,970 --> 00:13:11,220
+product<font color="#E5E5E5"> it was nerdy you ever see</font><font color="#CCCCCC"> the</font>
+
+344
+00:13:11,220 --> 00:13:12,569
+picture like like if you're<font color="#CCCCCC"> listening</font>
+
+345
+00:13:12,569 --> 00:13:16,230
+right now google google glass like you
+
+346
+00:13:16,230 --> 00:13:19,759
+don't want to hang<font color="#CCCCCC"> with that</font><font color="#E5E5E5"> kid yeah</font>
+
+347
+00:13:19,759 --> 00:13:23,220
+snapchat snap may expect that's made by
+
+348
+00:13:23,220 --> 00:13:25,649
+<font color="#E5E5E5">evan spiegel he's dating a supermodel he</font>
+
+349
+00:13:25,649 --> 00:13:28,050
+was a cool la kid he went you know like
+
+350
+00:13:28,050 --> 00:13:31,110
+he's 25 like the way they rolled it out
+
+351
+00:13:31,110 --> 00:13:33,720
+the vending machines like it was a PR
+
+352
+00:13:33,720 --> 00:13:36,000
+play it was like marketing its branding
+
+353
+00:13:36,000 --> 00:13:38,550
+it had a hell of a<font color="#E5E5E5"> lot more nike in it</font>
+
+354
+00:13:38,550 --> 00:13:41,760
+than it had apple right and even apples
+
+355
+00:13:41,760 --> 00:13:43,440
+crossed over<font color="#E5E5E5"> and it has that but like</font>
+
+356
+00:13:43,440 --> 00:13:45,240
+<font color="#E5E5E5">snapchats out a whole different level</font>
+
+357
+00:13:45,240 --> 00:13:48,779
+and so I mean straight up if snapchat is
+
+358
+00:13:48,779 --> 00:13:51,060
+successful with this at scale and every
+
+359
+00:13:51,060 --> 00:13:53,550
+16 to 26 year old is wearing them and<font color="#E5E5E5"> is</font>
+
+360
+00:13:53,550 --> 00:13:56,449
+into them and the real play is is
+
+361
+00:13:56,449 --> 00:13:59,610
+definitely summer jam and Coachella and
+
+362
+00:13:59,610 --> 00:14:01,740
+like when when the summer comes around
+
+363
+00:14:01,740 --> 00:14:03,839
+if East Coast kids are wearing those
+
+364
+00:14:03,839 --> 00:14:05,880
+glasses to their vacation then they've
+
+365
+00:14:05,880 --> 00:14:07,500
+got it and now all of a sudden you got a
+
+366
+00:14:07,500 --> 00:14:09,389
+debate are in the same way that nobody
+
+367
+00:14:09,389 --> 00:14:11,040
+thought that Nike would get knocked off
+
+368
+00:14:11,040 --> 00:14:13,980
+by<font color="#CCCCCC"> easies like our snap sneakers the</font>
+
+369
+00:14:13,980 --> 00:14:16,620
+hottest thing<font color="#E5E5E5"> in 24 months that's why</font>
+
+370
+00:14:16,620 --> 00:14:18,269
+this matters so much<font color="#E5E5E5"> because they're</font>
+
+371
+00:14:18,269 --> 00:14:20,880
+going<font color="#E5E5E5"> into brand not just tech platform</font>
+
+372
+00:14:20,880 --> 00:14:22,769
+and especially in the context of the
+
+373
+00:14:22,769 --> 00:14:23,850
+people<font color="#E5E5E5"> that would listen to something</font>
+
+374
+00:14:23,850 --> 00:14:25,529
+<font color="#E5E5E5">like</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> people that listen to</font>
+
+375
+00:14:25,529 --> 00:14:26,819
+something<font color="#E5E5E5"> like this they understand</font>
+
+376
+00:14:26,819 --> 00:14:28,709
+flavor they understand swag and that's
+
+377
+00:14:28,709 --> 00:14:31,230
+<font color="#E5E5E5">not just about how good a product is and</font>
+
+378
+00:14:31,230 --> 00:14:33,420
+that matters yeah can we<font color="#E5E5E5"> talk a little</font>
+
+379
+00:14:33,420 --> 00:14:35,370
+about<font color="#E5E5E5"> Amazon and then we can talk about</font>
+
+380
+00:14:35,370 --> 00:14:37,740
+anything you want my<font color="#E5E5E5"> man the echoes you</font>
+
+381
+00:14:37,740 --> 00:14:39,660
+got me echo has<font color="#E5E5E5"> been huge for the</font>
+
+382
+00:14:39,660 --> 00:14:41,699
+holidays I love it sell a great where
+
+383
+00:14:41,699 --> 00:14:43,620
+how does it end the drone culture that
+
+384
+00:14:43,620 --> 00:14:45,480
+<font color="#CCCCCC">Amazon's building</font><font color="#E5E5E5"> Amazon's Amazon's a</font>
+
+385
+00:14:45,480 --> 00:14:47,540
+beast chillin things
+
+386
+00:14:47,540 --> 00:14:49,399
+think that the echo changes the game and
+
+387
+00:14:49,399 --> 00:14:52,220
+I sure do yeah easy when you're brushing
+
+388
+00:14:52,220 --> 00:14:54,170
+your teeth and you're down to the last
+
+389
+00:14:54,170 --> 00:14:56,259
+piece of<font color="#E5E5E5"> your toothpaste and you say</font>
+
+390
+00:14:56,259 --> 00:14:59,329
+<font color="#E5E5E5">Alexa reorder my toothpaste whoever</font>
+
+391
+00:14:59,329 --> 00:15:01,220
+amazon made the deal with<font color="#CCCCCC"> on the other</font>
+
+392
+00:15:01,220 --> 00:15:03,170
+side is gonna sell you that toothpaste
+
+393
+00:15:03,170 --> 00:15:06,079
+and that is worth good drill<font color="#CCCCCC"> ians that's</font>
+
+394
+00:15:06,079 --> 00:15:07,490
+<font color="#E5E5E5">more than billions that's more than</font>
+
+395
+00:15:07,490 --> 00:15:10,130
+trillions that's good drill<font color="#CCCCCC"> ians and so</font>
+
+396
+00:15:10,130 --> 00:15:13,850
+for me<font color="#E5E5E5"> it's huge</font><font color="#CCCCCC"> AI voice activation</font>
+
+397
+00:15:13,850 --> 00:15:15,949
+like here's the thing that a lot<font color="#E5E5E5"> of</font>
+
+398
+00:15:15,949 --> 00:15:17,000
+youngsters if you're listening you're
+
+399
+00:15:17,000 --> 00:15:18,560
+under 25 that<font color="#E5E5E5"> you can't know because</font>
+
+400
+00:15:18,560 --> 00:15:20,420
+this has always been your life but old
+
+401
+00:15:20,420 --> 00:15:22,730
+cats like me 40 like need to understand
+
+402
+00:15:22,730 --> 00:15:27,889
+right we just started like does
+
+403
+00:15:27,889 --> 00:15:29,149
+everybody understand what's going on
+
+404
+00:15:29,149 --> 00:15:33,079
+<font color="#E5E5E5">here we've</font><font color="#CCCCCC"> just started technologies not</font>
+
+405
+00:15:33,079 --> 00:15:35,480
+going backwards<font color="#CCCCCC"> thanks like all these</font>
+
+406
+00:15:35,480 --> 00:15:36,800
+parents that don't want their kids and
+
+407
+00:15:36,800 --> 00:15:39,470
+iPads I want my kid and iPad 24 7 365
+
+408
+00:15:39,470 --> 00:15:42,319
+day not<font color="#CCCCCC"> only do they learn faster what</font>
+
+409
+00:15:42,319 --> 00:15:44,209
+world do you<font color="#CCCCCC"> think they're gonna live in</font>
+
+410
+00:15:44,209 --> 00:15:46,550
+yeah like<font color="#E5E5E5"> what</font><font color="#CCCCCC"> would you run outside and</font>
+
+411
+00:15:46,550 --> 00:15:48,350
+play you're giving<font color="#E5E5E5"> them a disadvantage</font>
+
+412
+00:15:48,350 --> 00:15:51,709
+by 1900 early hundred look what do<font color="#E5E5E5"> you</font>
+
+413
+00:15:51,709 --> 00:15:53,089
+think your kids are gonna<font color="#CCCCCC"> be doing</font><font color="#E5E5E5"> so I</font>
+
+414
+00:15:53,089 --> 00:15:56,839
+think<font color="#E5E5E5"> I think voice aia r vr all that</font>
+
+415
+00:15:56,839 --> 00:15:58,610
+stuff is coming I don't think<font color="#E5E5E5"> it's at</font>
+
+416
+00:15:58,610 --> 00:16:00,829
+scale I think Alexa is the first
+
+417
+00:16:00,829 --> 00:16:02,750
+consumer product that has scale so i
+
+418
+00:16:02,750 --> 00:16:04,970
+think<font color="#CCCCCC"> a lot you know it's fun now it's</font>
+
+419
+00:16:04,970 --> 00:16:06,410
+fun to<font color="#E5E5E5"> walk in and be like yo put on</font>
+
+420
+00:16:06,410 --> 00:16:07,940
+that chance album and they do that's
+
+421
+00:16:07,940 --> 00:16:10,069
+cool that's funny that's like we haven't
+
+422
+00:16:10,069 --> 00:16:12,500
+<font color="#CCCCCC">had that before but it's gonna get way</font>
+
+423
+00:16:12,500 --> 00:16:14,269
+more serious<font color="#CCCCCC"> than that alexa fill up my</font>
+
+424
+00:16:14,269 --> 00:16:16,880
+car with gas now<font color="#E5E5E5"> of a sudden who's gonna</font>
+
+425
+00:16:16,880 --> 00:16:19,339
+invent the uber for gas where you<font color="#CCCCCC"> don't</font>
+
+426
+00:16:19,339 --> 00:16:21,170
+<font color="#E5E5E5">have to go to a station but gas comes to</font>
+
+427
+00:16:21,170 --> 00:16:22,730
+you and the reason you did that was<font color="#E5E5E5"> cuz</font>
+
+428
+00:16:22,730 --> 00:16:24,319
+<font color="#E5E5E5">of lexus see how i'm thinking i didn't</font>
+
+429
+00:16:24,319 --> 00:16:25,760
+<font color="#CCCCCC">even think it of course not that's why</font>
+
+430
+00:16:25,760 --> 00:16:27,500
+<font color="#E5E5E5">I'm the bet not just gonna go no best</font>
+
+431
+00:16:27,500 --> 00:16:28,910
+<font color="#E5E5E5">Liana on a very but this sound like</font>
+
+432
+00:16:28,910 --> 00:16:31,699
+brain thinks I think to chess moves like
+
+433
+00:16:31,699 --> 00:16:34,790
+I know what's in front of us right but
+
+434
+00:16:34,790 --> 00:16:38,540
+what's that<font color="#CCCCCC"> I met my wife on JD in 2003</font>
+
+435
+00:16:38,540 --> 00:16:40,040
+if you went on<font color="#E5E5E5"> internet dating you were</font>
+
+436
+00:16:40,040 --> 00:16:42,260
+the biggest weirdest nerd live in your
+
+437
+00:16:42,260 --> 00:16:44,449
+mom's basement I wasn't<font color="#E5E5E5"> scared cuz I</font>
+
+438
+00:16:44,449 --> 00:16:46,040
+already played the chess games and said
+
+439
+00:16:46,040 --> 00:16:48,709
+everybody's gonna do this got it yeah
+
+440
+00:16:48,709 --> 00:16:51,230
+and so that's it like that like<font color="#E5E5E5"> that's</font>
+
+441
+00:16:51,230 --> 00:16:52,970
+what everybody listening has to do if if
+
+442
+00:16:52,970 --> 00:16:54,829
+you want to make money you pay<font color="#CCCCCC"> attention</font>
+
+443
+00:16:54,829 --> 00:16:56,540
+if you want to be rich<font color="#CCCCCC"> you pay attention</font>
+
+444
+00:16:56,540 --> 00:16:58,189
+to what's going on now if you want<font color="#E5E5E5"> to be</font>
+
+445
+00:16:58,189 --> 00:17:01,340
+wealthy like all time wealthy
+
+446
+00:17:01,340 --> 00:17:02,390
+you need to understand what's gonna
+
+447
+00:17:02,390 --> 00:17:04,849
+happen next after this and so we need to
+
+448
+00:17:04,849 --> 00:17:06,680
+understand what happens with these norms
+
+449
+00:17:06,680 --> 00:17:08,569
+and so I think Alexis a big deal I think
+
+450
+00:17:08,569 --> 00:17:10,130
+<font color="#E5E5E5">anybody who's lucky enough to be able to</font>
+
+451
+00:17:10,130 --> 00:17:11,630
+<font color="#E5E5E5">afford</font><font color="#CCCCCC"> that because that's</font><font color="#E5E5E5"> a luxury in</font>
+
+452
+00:17:11,630 --> 00:17:14,030
+their home and uses<font color="#CCCCCC"> it</font><font color="#E5E5E5"> we'll see how</font>
+
+453
+00:17:14,030 --> 00:17:16,250
+their behavior changes and then what's
+
+454
+00:17:16,250 --> 00:17:17,540
+gonna happen is the same reason<font color="#E5E5E5"> my</font>
+
+455
+00:17:17,540 --> 00:17:19,160
+five-year-old<font color="#CCCCCC"> myford a</font><font color="#E5E5E5"> half year old</font>
+
+456
+00:17:19,160 --> 00:17:21,230
+comes to TV screen and swipes it and is
+
+457
+00:17:21,230 --> 00:17:22,790
+blown away by why it's not doing
+
+458
+00:17:22,790 --> 00:17:24,530
+something everybody listening right now
+
+459
+00:17:24,530 --> 00:17:27,800
+in six years is not gonna accept things
+
+460
+00:17:27,800 --> 00:17:29,870
+not being voice-activated you're gonna
+
+461
+00:17:29,870 --> 00:17:31,760
+text<font color="#E5E5E5"> that way you're gonna talk that way</font>
+
+462
+00:17:31,760 --> 00:17:32,750
+you're gonna order like you're gonna
+
+463
+00:17:32,750 --> 00:17:34,340
+mean the headphone listen the headphones
+
+464
+00:17:34,340 --> 00:17:35,510
+around now like I<font color="#E5E5E5"> don't have me a like</font>
+
+465
+00:17:35,510 --> 00:17:36,890
+they're out and about right like it's
+
+466
+00:17:36,890 --> 00:17:38,810
+gonna be voice activated cuz all we care
+
+467
+00:17:38,810 --> 00:17:40,790
+about is speed and if I<font color="#E5E5E5"> could say it</font>
+
+468
+00:17:40,790 --> 00:17:43,100
+faster than<font color="#E5E5E5"> i text it then I'm good yeah</font>
+
+469
+00:17:43,100 --> 00:17:45,080
+yeah it's<font color="#E5E5E5"> comforting Lily that's why</font>
+
+470
+00:17:45,080 --> 00:17:47,120
+texting exploded it's faster than
+
+471
+00:17:47,120 --> 00:17:49,160
+talking yeah but if you're<font color="#E5E5E5"> just walking</font>
+
+472
+00:17:49,160 --> 00:17:51,320
+or if you're<font color="#CCCCCC"> driving and you need to</font>
+
+473
+00:17:51,320 --> 00:17:53,900
+pick<font color="#E5E5E5"> up</font><font color="#CCCCCC"> your kid or do the laundry if</font>
+
+474
+00:17:53,900 --> 00:17:56,570
+you've<font color="#CCCCCC"> got your earpieces in and say you</font>
+
+475
+00:17:56,570 --> 00:17:59,270
+know<font color="#E5E5E5"> Siri order my laundry or you know</font>
+
+476
+00:17:59,270 --> 00:18:00,560
+everybody's gonna have<font color="#E5E5E5"> a basically an</font>
+
+477
+00:18:00,560 --> 00:18:02,750
+assistant at their fingertips you're
+
+478
+00:18:02,750 --> 00:18:03,770
+never gonna forget anything anymore
+
+479
+00:18:03,770 --> 00:18:05,630
+you're gonna get<font color="#CCCCCC"> everything done it's</font>
+
+480
+00:18:05,630 --> 00:18:07,670
+gonna<font color="#E5E5E5"> be unstoppable with</font><font color="#CCCCCC"> Google home</font>
+
+481
+00:18:07,670 --> 00:18:09,260
+coming into this space to you can even
+
+482
+00:18:09,260 --> 00:18:12,500
+ask why people Facebook Apple Amazon the
+
+483
+00:18:12,500 --> 00:18:14,330
+these four or five six seven biggest
+
+484
+00:18:14,330 --> 00:18:16,340
+tech companies they're all gonna be
+
+485
+00:18:16,340 --> 00:18:17,990
+playing yeah they're all competing gets
+
+486
+00:18:17,990 --> 00:18:19,160
+each other you know there'll be a
+
+487
+00:18:19,160 --> 00:18:20,690
+Facebook home and a<font color="#E5E5E5"> Google home and an</font>
+
+488
+00:18:20,690 --> 00:18:22,040
+apple they're all gonna fight for it
+
+489
+00:18:22,040 --> 00:18:24,290
+yeah that Google just got into the<font color="#E5E5E5"> game</font>
+
+490
+00:18:24,290 --> 00:18:26,420
+with<font color="#E5E5E5"> a devices and their whole different</font>
+
+491
+00:18:26,420 --> 00:18:29,540
+systems<font color="#E5E5E5"> other and and I just think it's</font>
+
+492
+00:18:29,540 --> 00:18:31,490
+amazing it's great but i've also been
+
+493
+00:18:31,490 --> 00:18:33,890
+preaching caution like okay yes you have
+
+494
+00:18:33,890 --> 00:18:36,260
+to<font color="#E5E5E5"> do this</font><font color="#CCCCCC"> but you</font><font color="#E5E5E5"> have to do it you</font>
+
+495
+00:18:36,260 --> 00:18:37,910
+have to learn it the best way<font color="#E5E5E5"> and how it</font>
+
+496
+00:18:37,910 --> 00:18:39,200
+<font color="#E5E5E5">works for you so you're not just out</font>
+
+497
+00:18:39,200 --> 00:18:41,810
+here giving<font color="#CCCCCC"> away your information or</font>
+
+498
+00:18:41,810 --> 00:18:43,730
+you're just<font color="#E5E5E5"> not out here doing it the</font>
+
+499
+00:18:43,730 --> 00:18:45,500
+wrong way and looking like<font color="#E5E5E5"> a fool oh</font>
+
+500
+00:18:45,500 --> 00:18:47,120
+<font color="#E5E5E5">wait that's everything right like yeah</font>
+
+501
+00:18:47,120 --> 00:18:48,620
+I'm<font color="#E5E5E5"> glad you're giving</font><font color="#CCCCCC"> that advice but</font>
+
+502
+00:18:48,620 --> 00:18:49,850
+when people ask me about that stuff I'm
+
+503
+00:18:49,850 --> 00:18:51,740
+<font color="#E5E5E5">like well let's talk about alcohol yeah</font>
+
+504
+00:18:51,740 --> 00:18:53,840
+let me give you advice don't drink<font color="#CCCCCC"> 80</font>
+
+505
+00:18:53,840 --> 00:18:56,360
+fucking<font color="#E5E5E5"> 40s you know like in one night</font>
+
+506
+00:18:56,360 --> 00:18:57,320
+like you know what I mean<font color="#CCCCCC"> like</font>
+
+507
+00:18:57,320 --> 00:18:59,450
+everything in modern how long did<font color="#E5E5E5"> it</font>
+
+508
+00:18:59,450 --> 00:19:00,920
+take people to learn it though you know
+
+509
+00:19:00,920 --> 00:19:03,020
+<font color="#E5E5E5">you had prohibition where everybody for</font>
+
+510
+00:19:03,020 --> 00:19:05,720
+to join any word that was religion well
+
+511
+00:19:05,720 --> 00:19:07,490
+yeah<font color="#CCCCCC"> buddy</font><font color="#E5E5E5"> but I think</font><font color="#CCCCCC"> you're right and</font>
+
+512
+00:19:07,490 --> 00:19:09,080
+that's<font color="#E5E5E5"> exactly right but the other thing</font>
+
+513
+00:19:09,080 --> 00:19:11,600
+that<font color="#E5E5E5"> you learn is people are good in the</font>
+
+514
+00:19:11,600 --> 00:19:13,490
+last 15<font color="#CCCCCC"> years all of us giving away our</font>
+
+515
+00:19:13,490 --> 00:19:14,909
+data doing all this
+
+516
+00:19:14,909 --> 00:19:17,159
+there wasn't as much bad right it's no
+
+517
+00:19:17,159 --> 00:19:18,779
+sure that everything's like this is back
+
+518
+00:19:18,779 --> 00:19:20,039
+to the opening line of<font color="#CCCCCC"> this</font><font color="#E5E5E5"> interview</font>
+
+519
+00:19:20,039 --> 00:19:22,830
+things are good you want to<font color="#E5E5E5"> talk</font><font color="#CCCCCC"> about</font>
+
+520
+00:19:22,830 --> 00:19:25,349
+and mainstream media wants to talk<font color="#CCCCCC"> about</font>
+
+521
+00:19:25,349 --> 00:19:28,139
+and<font color="#E5E5E5"> people want to talk about the small</font>
+
+522
+00:19:28,139 --> 00:19:30,659
+percentage of bad yeah I'm thrilled and
+
+523
+00:19:30,659 --> 00:19:32,249
+<font color="#E5E5E5">by the way there's plenty</font><font color="#CCCCCC"> of bad there's</font>
+
+524
+00:19:32,249 --> 00:19:34,259
+<font color="#E5E5E5">always gonna be sexism and racism and</font>
+
+525
+00:19:34,259 --> 00:19:35,879
+religion persecution there's always
+
+526
+00:19:35,879 --> 00:19:37,320
+gonna be that that's how humans<font color="#E5E5E5"> roll</font>
+
+527
+00:19:37,320 --> 00:19:39,570
+nature but anybody that wants to level
+
+528
+00:19:39,570 --> 00:19:41,249
+this conversation<font color="#E5E5E5"> up with me at a macro</font>
+
+529
+00:19:41,249 --> 00:19:45,960
+level it's better yes 1945 was not as
+
+530
+00:19:45,960 --> 00:19:48,029
+good<font color="#CCCCCC"> as today yeah if you were alive 10</font>
+
+531
+00:19:48,029 --> 00:19:50,849
+years ago<font color="#E5E5E5"> in cognizant then you know the</font>
+
+532
+00:19:50,849 --> 00:19:52,799
+difference a hundred percent yeah this
+
+533
+00:19:52,799 --> 00:19:54,210
+is<font color="#CCCCCC"> also a great year for the music</font>
+
+534
+00:19:54,210 --> 00:19:56,369
+business its sweetest rending up I love
+
+535
+00:19:56,369 --> 00:19:58,470
+<font color="#E5E5E5">that it's great to see that final every</font>
+
+536
+00:19:58,470 --> 00:20:01,200
+aspect of music is growing a lot of has
+
+537
+00:20:01,200 --> 00:20:03,200
+to do the streaming Wars you know
+
+538
+00:20:03,200 --> 00:20:06,899
+Spotify title<font color="#E5E5E5"> Apple music it art which</font>
+
+539
+00:20:06,899 --> 00:20:09,090
+one are you leaning towards<font color="#CCCCCC"> which one do</font>
+
+540
+00:20:09,090 --> 00:20:11,340
+you got music is a place where<font color="#CCCCCC"> I don't</font>
+
+541
+00:20:11,340 --> 00:20:13,830
+like to<font color="#E5E5E5"> talk a lot about because I think</font>
+
+542
+00:20:13,830 --> 00:20:14,849
+<font color="#E5E5E5">one of the great things that have</font>
+
+543
+00:20:14,849 --> 00:20:16,320
+happened to me in the last four years is
+
+544
+00:20:16,320 --> 00:20:18,269
+I<font color="#E5E5E5"> don't talk about shit I don't know and</font>
+
+545
+00:20:18,269 --> 00:20:21,029
+it's may be real popular people pay
+
+546
+00:20:21,029 --> 00:20:22,649
+<font color="#CCCCCC">attention because you know what I talk</font>
+
+547
+00:20:22,649 --> 00:20:24,210
+no reason a time when I'm talking about
+
+548
+00:20:24,210 --> 00:20:25,799
+<font color="#CCCCCC">MA you want to</font><font color="#E5E5E5"> talk about Alexa you</font>
+
+549
+00:20:25,799 --> 00:20:27,029
+won't talk about<font color="#E5E5E5"> Facebook you want talk</font>
+
+550
+00:20:27,029 --> 00:20:29,489
+<font color="#E5E5E5">about Instagram I will I'm bring up</font>
+
+551
+00:20:29,489 --> 00:20:31,379
+bring anybody here put sucks in here
+
+552
+00:20:31,379 --> 00:20:33,330
+bring them all you want<font color="#E5E5E5"> talk about</font><font color="#CCCCCC"> music</font>
+
+553
+00:20:33,330 --> 00:20:34,739
+there's a lot of<font color="#E5E5E5"> people that understand</font>
+
+554
+00:20:34,739 --> 00:20:35,879
+it better than I do I've always
+
+555
+00:20:35,879 --> 00:20:37,379
+historically stayed away from music
+
+556
+00:20:37,379 --> 00:20:39,210
+because of all the legalities<font color="#E5E5E5"> and things</font>
+
+557
+00:20:39,210 --> 00:20:40,799
+of that nature and it made it scary for
+
+558
+00:20:40,799 --> 00:20:43,590
+me look it's tough to bet against Apple
+
+559
+00:20:43,590 --> 00:20:45,330
+because when you have<font color="#E5E5E5"> all the money in</font>
+
+560
+00:20:45,330 --> 00:20:46,590
+the world sitting in your bank account
+
+561
+00:20:46,590 --> 00:20:48,989
+you<font color="#E5E5E5"> could buy Spotify</font><font color="#CCCCCC"> entitle 44 times</font>
+
+562
+00:20:48,989 --> 00:20:51,330
+over right so that's one thing<font color="#CCCCCC"> that I</font>
+
+563
+00:20:51,330 --> 00:20:52,590
+think<font color="#E5E5E5"> about to actually</font><font color="#CCCCCC"> give you an</font>
+
+564
+00:20:52,590 --> 00:20:55,349
+answer not stay away from it I you know
+
+565
+00:20:55,349 --> 00:20:57,239
+it's funny<font color="#E5E5E5"> I never thought music was in</font>
+
+566
+00:20:57,239 --> 00:20:59,279
+trouble I thought the music<font color="#E5E5E5"> business</font>
+
+567
+00:20:59,279 --> 00:21:01,649
+that was built where people that were
+
+568
+00:21:01,649 --> 00:21:03,330
+taking too much of the cut was in
+
+569
+00:21:03,330 --> 00:21:06,539
+trouble<font color="#E5E5E5"> and that's good I like that I</font>
+
+570
+00:21:06,539 --> 00:21:08,609
+want the artists to have more leverage
+
+571
+00:21:08,609 --> 00:21:10,229
+artists have more leverage today than
+
+572
+00:21:10,229 --> 00:21:11,970
+ever because distributions been
+
+573
+00:21:11,970 --> 00:21:14,009
+commoditized the game's changed so you
+
+574
+00:21:14,009 --> 00:21:16,139
+go through it<font color="#E5E5E5"> 10 20 year period where</font>
+
+575
+00:21:16,139 --> 00:21:19,049
+it's scary people cry but on the other
+
+576
+00:21:19,049 --> 00:21:22,769
+<font color="#E5E5E5">side of it it's better and so I'm you</font>
+
+577
+00:21:22,769 --> 00:21:25,139
+know of course music<font color="#E5E5E5"> to me music is</font>
+
+578
+00:21:25,139 --> 00:21:27,179
+<font color="#E5E5E5">always great you know why it's one of</font>
+
+579
+00:21:27,179 --> 00:21:28,440
+<font color="#CCCCCC">the four or</font>
+
+580
+00:21:28,440 --> 00:21:31,650
+I've cultural pillars of society it will
+
+581
+00:21:31,650 --> 00:21:33,720
+always be<font color="#E5E5E5"> here people always care about</font>
+
+582
+00:21:33,720 --> 00:21:35,880
+music people always care about sports
+
+583
+00:21:35,880 --> 00:21:38,370
+people always care about religion people
+
+584
+00:21:38,370 --> 00:21:40,350
+always care about sex they're like only
+
+585
+00:21:40,350 --> 00:21:42,330
+a couple of<font color="#CCCCCC"> things</font><font color="#E5E5E5"> that people always</font>
+
+586
+00:21:42,330 --> 00:21:44,430
+care about musics one of them music
+
+587
+00:21:44,430 --> 00:21:46,050
+crosses over all even all those
+
+588
+00:21:46,050 --> 00:21:47,280
+boundaries some people might not like
+
+589
+00:21:47,280 --> 00:21:49,500
+sports some people might not be religion
+
+590
+00:21:49,500 --> 00:21:51,240
+segregations your passion is what you're
+
+591
+00:21:51,240 --> 00:21:52,980
+into<font color="#CCCCCC"> its it's one</font><font color="#E5E5E5"> of the</font><font color="#CCCCCC"> things that's</font>
+
+592
+00:21:52,980 --> 00:21:54,630
+what he's saying if you're passionate
+
+593
+00:21:54,630 --> 00:21:56,880
+<font color="#CCCCCC">about music then you dive and all in but</font>
+
+594
+00:21:56,880 --> 00:21:58,530
+you may<font color="#E5E5E5"> be passionate about sports or</font>
+
+595
+00:21:58,530 --> 00:22:00,600
+religion or whatever the case<font color="#E5E5E5"> is and you</font>
+
+596
+00:22:00,600 --> 00:22:02,730
+<font color="#E5E5E5">voice hashing about tech yeah and you've</font>
+
+597
+00:22:02,730 --> 00:22:05,340
+always been a music fan obviously but
+
+598
+00:22:05,340 --> 00:22:07,350
+I'm a funny fan like I'm not as educate
+
+599
+00:22:07,350 --> 00:22:08,580
+you know it's<font color="#E5E5E5"> funny that Boyd here like</font>
+
+600
+00:22:08,580 --> 00:22:11,400
+when Boyd became AJ's friend and college
+
+601
+00:22:11,400 --> 00:22:12,870
+I was like okay cool some kid that
+
+602
+00:22:12,870 --> 00:22:14,640
+really knows hip-hop and I'll really be
+
+603
+00:22:14,640 --> 00:22:18,300
+on top of<font color="#CCCCCC"> it early like I love music for</font>
+
+604
+00:22:18,300 --> 00:22:21,240
+escapism so the reason I like hip-hop as
+
+605
+00:22:21,240 --> 00:22:23,310
+a person is far more because I like
+
+606
+00:22:23,310 --> 00:22:24,930
+storytelling like I'll give you good one
+
+607
+00:22:24,930 --> 00:22:26,460
+I don't really give a shit about beats
+
+608
+00:22:26,460 --> 00:22:28,710
+all that much like the<font color="#E5E5E5"> melodies like the</font>
+
+609
+00:22:28,710 --> 00:22:31,560
+hard like I I like the story like biggie
+
+610
+00:22:31,560 --> 00:22:34,350
+one me because he told a story yeah like
+
+611
+00:22:34,350 --> 00:22:36,690
+I need storytelling like I understood I
+
+612
+00:22:36,690 --> 00:22:38,430
+don't when I was in the Kendrick Lamar I
+
+613
+00:22:38,430 --> 00:22:40,980
+don't love like the muse like I<font color="#E5E5E5"> don't</font>
+
+614
+00:22:40,980 --> 00:22:43,140
+need<font color="#E5E5E5"> to like listen to</font><font color="#CCCCCC"> it 50 times I</font>
+
+615
+00:22:43,140 --> 00:22:45,030
+<font color="#E5E5E5">wanna know who produced it I don't what</font>
+
+616
+00:22:45,030 --> 00:22:46,770
+he's doing it my way I'm very<font color="#CCCCCC"> aware of</font>
+
+617
+00:22:46,770 --> 00:22:49,110
+how important how other people only go
+
+618
+00:22:49,110 --> 00:22:51,810
+with producing and only the music I need
+
+619
+00:22:51,810 --> 00:22:53,940
+<font color="#CCCCCC">the story I need the lyrics in the words</font>
+
+620
+00:22:53,940 --> 00:22:56,250
+and what does it<font color="#E5E5E5"> mean and whereas she or</font>
+
+621
+00:22:56,250 --> 00:22:59,580
+he going and so but what music does for
+
+622
+00:22:59,580 --> 00:23:03,120
+me is when I go<font color="#E5E5E5"> on you know</font><font color="#CCCCCC"> a flight</font>
+
+623
+00:23:03,120 --> 00:23:06,150
+like Sabah right I'm all about Sabah
+
+624
+00:23:06,150 --> 00:23:07,950
+right now and so like I'll listen to<font color="#E5E5E5"> the</font>
+
+625
+00:23:07,950 --> 00:23:10,110
+same to sabha from his last<font color="#E5E5E5"> thing you</font>
+
+626
+00:23:10,110 --> 00:23:11,940
+<font color="#CCCCCC">just dropped I'll listen to same two</font>
+
+627
+00:23:11,940 --> 00:23:14,220
+songs the whole six hours to LA tomorrow
+
+628
+00:23:14,220 --> 00:23:16,050
+that's what's gonna<font color="#CCCCCC"> happen so I know a</font>
+
+629
+00:23:16,050 --> 00:23:17,100
+<font color="#E5E5E5">lot of people listening especially</font>
+
+630
+00:23:17,100 --> 00:23:18,510
+because it's hot<font color="#CCCCCC"> now he</font><font color="#E5E5E5"> said like love</font>
+
+631
+00:23:18,510 --> 00:23:21,030
+music like all my moves my friend moves
+
+632
+00:23:21,030 --> 00:23:22,560
+at Mount Ida college it was a real hip
+
+633
+00:23:22,560 --> 00:23:24,570
+hop and<font color="#E5E5E5"> put me on to Scarface was super</font>
+
+634
+00:23:24,570 --> 00:23:26,610
+into the Houston seen two to three years
+
+635
+00:23:26,610 --> 00:23:28,200
+before master p and everybody started
+
+636
+00:23:28,200 --> 00:23:30,720
+learning the south he wouldn't we listen
+
+637
+00:23:30,720 --> 00:23:33,330
+to a song once and then cherish it he
+
+638
+00:23:33,330 --> 00:23:36,560
+would cherish it for like four weeks<font color="#CCCCCC"> I</font>
+
+639
+00:23:36,560 --> 00:23:38,580
+heard first of the month by bone thugs
+
+640
+00:23:38,580 --> 00:23:41,210
+and played it 47 thousand times
+
+641
+00:23:41,210 --> 00:23:44,070
+so I know that<font color="#CCCCCC"> I listen to music in a</font>
+
+642
+00:23:44,070 --> 00:23:46,080
+way that hardcore music people don't
+
+643
+00:23:46,080 --> 00:23:48,000
+respect as much and i know<font color="#E5E5E5"> that i get</font>
+
+644
+00:23:48,000 --> 00:23:49,799
+that i love that i watch football I'll
+
+645
+00:23:49,799 --> 00:23:51,539
+watch football tonight the Jets have a
+
+646
+00:23:51,539 --> 00:23:53,100
+Monday night game of the one we're
+
+647
+00:23:53,100 --> 00:23:54,510
+taping this and I'm<font color="#CCCCCC"> gonna watch</font>
+
+648
+00:23:54,510 --> 00:23:58,320
+offensive<font color="#CCCCCC"> Lyman's block technique I know</font>
+
+649
+00:23:58,320 --> 00:24:00,750
+<font color="#E5E5E5">people don't watch football that way so</font>
+
+650
+00:24:00,750 --> 00:24:02,789
+you know it's what you you<font color="#CCCCCC"> know music</font>
+
+651
+00:24:02,789 --> 00:24:04,890
+much like the<font color="#E5E5E5"> other ones obviously you</font>
+
+652
+00:24:04,890 --> 00:24:06,809
+some people go extremely deep and really
+
+653
+00:24:06,809 --> 00:24:10,020
+kind<font color="#E5E5E5"> of know it but even me who's not</font>
+
+654
+00:24:10,020 --> 00:24:12,360
+deep needs it it's a part of his life
+
+655
+00:24:12,360 --> 00:24:14,640
+and that's what I<font color="#E5E5E5"> love about it we</font>
+
+656
+00:24:14,640 --> 00:24:16,380
+<font color="#E5E5E5">should have a guy here named</font><font color="#CCCCCC"> ebro ebro</font>
+
+657
+00:24:16,380 --> 00:24:18,360
+in the morn he's also on beats one yeah
+
+658
+00:24:18,360 --> 00:24:20,250
+the big guy yeah he recently said
+
+659
+00:24:20,250 --> 00:24:22,530
+something<font color="#CCCCCC"> that a snapchat was in trouble</font>
+
+660
+00:24:22,530 --> 00:24:25,440
+now I<font color="#E5E5E5"> kinda was wondering that as well</font>
+
+661
+00:24:25,440 --> 00:24:27,360
+with Instagram doing what they did<font color="#E5E5E5"> and</font>
+
+662
+00:24:27,360 --> 00:24:29,789
+we asked about the spectacles<font color="#E5E5E5"> I do think</font>
+
+663
+00:24:29,789 --> 00:24:31,289
+that is going to<font color="#E5E5E5"> bring it back because</font>
+
+664
+00:24:31,289 --> 00:24:33,059
+his views are down on snapchat cuz
+
+665
+00:24:33,059 --> 00:24:35,700
+everybody's views are right right but my
+
+666
+00:24:35,700 --> 00:24:37,320
+real question is everybody's really
+
+667
+00:24:37,320 --> 00:24:38,880
+talking about<font color="#CCCCCC"> how Twitter's in trouble</font>
+
+668
+00:24:38,880 --> 00:24:41,870
+could Twitter become my space yes ooh
+
+669
+00:24:41,870 --> 00:24:46,289
+that's scary for Twitter was scary for
+
+670
+00:24:46,289 --> 00:24:48,720
+me<font color="#CCCCCC"> to uh I'm gotten used to getting my</font>
+
+671
+00:24:48,720 --> 00:24:50,760
+news<font color="#E5E5E5"> from Twitter great people used to</font>
+
+672
+00:24:50,760 --> 00:24:54,350
+<font color="#E5E5E5">get their news from the radio</font><font color="#CCCCCC"> fax fax</font>
+
+673
+00:24:54,350 --> 00:24:56,820
+<font color="#E5E5E5">right I was used to getting</font><font color="#CCCCCC"> my music</font>
+
+674
+00:24:56,820 --> 00:24:59,159
+from MTV so we<font color="#E5E5E5"> just gotta realign and</font>
+
+675
+00:24:59,159 --> 00:25:00,539
+get our news from snapchat or Instagram
+
+676
+00:25:00,539 --> 00:25:03,900
+yep okay Twitter's in trouble shit and
+
+677
+00:25:03,900 --> 00:25:05,280
+by the<font color="#E5E5E5"> way twitter is the reason I'm</font>
+
+678
+00:25:05,280 --> 00:25:07,169
+even sitting<font color="#CCCCCC"> here as you know</font><font color="#E5E5E5"> Twitter</font>
+
+679
+00:25:07,169 --> 00:25:09,000
+was<font color="#CCCCCC"> the first time I really popped back</font>
+
+680
+00:25:09,000 --> 00:25:10,470
+in the day I<font color="#CCCCCC"> was doing my wine show I</font>
+
+681
+00:25:10,470 --> 00:25:11,760
+jumped on Twitter I thought it was<font color="#E5E5E5"> gonna</font>
+
+682
+00:25:11,760 --> 00:25:13,230
+be<font color="#E5E5E5"> big it was it not being way bigger</font>
+
+683
+00:25:13,230 --> 00:25:15,659
+and I really popped and transitioned in
+
+684
+00:25:15,659 --> 00:25:17,280
+the business<font color="#E5E5E5"> content said a wine content</font>
+
+685
+00:25:17,280 --> 00:25:20,640
+and so I love Twitter Twitter's like the
+
+686
+00:25:20,640 --> 00:25:22,140
+first girl I ever hooked up with<font color="#E5E5E5"> you you</font>
+
+687
+00:25:22,140 --> 00:25:23,130
+know what I<font color="#CCCCCC"> mean there's that always</font>
+
+688
+00:25:23,130 --> 00:25:25,470
+that peace in my soul and so it makes
+
+689
+00:25:25,470 --> 00:25:27,000
+it's hard<font color="#E5E5E5"> for me to say</font><font color="#CCCCCC"> that by the way</font>
+
+690
+00:25:27,000 --> 00:25:28,860
+I sit on<font color="#CCCCCC"> a lot of Twitter stock i sold a</font>
+
+691
+00:25:28,860 --> 00:25:30,090
+lot<font color="#E5E5E5"> of it but i still</font><font color="#CCCCCC"> have a lot and</font><font color="#E5E5E5"> i</font>
+
+692
+00:25:30,090 --> 00:25:32,250
+have a<font color="#E5E5E5"> lot of economics do they gotta</font>
+
+693
+00:25:32,250 --> 00:25:34,320
+change you got involved like Madonna did
+
+694
+00:25:34,320 --> 00:25:36,960
+it right she reinvented herself 14 times
+
+695
+00:25:36,960 --> 00:25:39,330
+that's why<font color="#CCCCCC"> she had a long career you</font>
+
+696
+00:25:39,330 --> 00:25:40,620
+know<font color="#E5E5E5"> like you've got to reinvent</font>
+
+697
+00:25:40,620 --> 00:25:42,240
+yourself uni prot Twitter didn't make
+
+698
+00:25:42,240 --> 00:25:44,130
+product changes for six years in<font color="#E5E5E5"> its</font>
+
+699
+00:25:44,130 --> 00:25:46,320
+prime yeah you know so I let's talk
+
+700
+00:25:46,320 --> 00:25:47,640
+about sports when you're the best
+
+701
+00:25:47,640 --> 00:25:49,679
+athlete and you're like the guy and
+
+702
+00:25:49,679 --> 00:25:51,179
+you're like one of top 15 players
+
+703
+00:25:51,179 --> 00:25:53,400
+basketball look at a dunk you know at
+
+704
+00:25:53,400 --> 00:25:54,990
+dunkin<font color="#E5E5E5"> in</font><font color="#CCCCCC"> surrey i'll give you some</font>
+
+705
+00:25:54,990 --> 00:25:56,850
+he's got one<font color="#E5E5E5"> of the big basketball count</font>
+
+706
+00:25:56,850 --> 00:25:58,080
+so<font color="#E5E5E5"> I'm thinking about that I think about</font>
+
+707
+00:25:58,080 --> 00:25:59,429
+basketball players draymond Green he's
+
+708
+00:25:59,429 --> 00:26:01,380
+my buddy dreama really worked<font color="#E5E5E5"> on his</font>
+
+709
+00:26:01,380 --> 00:26:03,870
+game yeah every offseason you know uh
+
+710
+00:26:03,870 --> 00:26:06,780
+Ricky Rubio<font color="#CCCCCC"> the flashy point guard from</font>
+
+711
+00:26:06,780 --> 00:26:09,870
+Minnesota if he developed his outside
+
+712
+00:26:09,870 --> 00:26:12,150
+shot he would<font color="#E5E5E5"> have been a much bigger</font>
+
+713
+00:26:12,150 --> 00:26:14,429
+player he had all the passing skills the
+
+714
+00:26:14,429 --> 00:26:17,190
+quickness he's got<font color="#CCCCCC"> everything if instead</font>
+
+715
+00:26:17,190 --> 00:26:20,190
+of going to Ibiza and fucking chicks in
+
+716
+00:26:20,190 --> 00:26:22,830
+the<font color="#CCCCCC"> offseason he worked on his 18-foot</font>
+
+717
+00:26:22,830 --> 00:26:25,620
+jumper he'd be in<font color="#CCCCCC"> the game Twitter was</font>
+
+718
+00:26:25,620 --> 00:26:27,480
+banging chicks in<font color="#E5E5E5"> the summer got it yeah</font>
+
+719
+00:26:27,480 --> 00:26:29,790
+but they're seemingly like that resident
+
+720
+00:26:29,790 --> 00:26:32,970
+algae they love<font color="#CCCCCC"> it like that that's what</font>
+
+721
+00:26:32,970 --> 00:26:35,640
+<font color="#E5E5E5">happened and guess</font><font color="#CCCCCC"> what and then you</font>
+
+722
+00:26:35,640 --> 00:26:38,760
+deserve to lose cuz some other kid isn't
+
+723
+00:26:38,760 --> 00:26:40,740
+yeah some<font color="#E5E5E5"> other kid is sitting in the</font>
+
+724
+00:26:40,740 --> 00:26:44,190
+rain on July sixteenth taking 55,000
+
+725
+00:26:44,190 --> 00:26:46,170
+shots and that's what snapchat and
+
+726
+00:26:46,170 --> 00:26:48,059
+Instagram did and that's what happened
+
+727
+00:26:48,059 --> 00:26:49,440
+I'm<font color="#CCCCCC"> not gonna lie that's why I respect</font>
+
+728
+00:26:49,440 --> 00:26:51,360
+Mark<font color="#E5E5E5"> Zuckerberg so much cuz he's not a</font>
+
+729
+00:26:51,360 --> 00:26:55,080
+sir he's the best you think he's letting
+
+730
+00:26:55,080 --> 00:26:57,150
+some happen and then even<font color="#CCCCCC"> before they</font>
+
+731
+00:26:57,150 --> 00:26:58,800
+make change his months back he<font color="#E5E5E5"> buys</font>
+
+732
+00:26:58,800 --> 00:27:00,990
+masquerade the<font color="#CCCCCC"> people</font><font color="#E5E5E5"> that made the</font>
+
+733
+00:27:00,990 --> 00:27:02,820
+snapchat filters and you're like oh they
+
+734
+00:27:02,820 --> 00:27:04,260
+got some shit coming and then he drop
+
+735
+00:27:04,260 --> 00:27:05,760
+all this other stuff he hasn't<font color="#E5E5E5"> even</font>
+
+736
+00:27:05,760 --> 00:27:07,679
+dropped that yet he's a<font color="#E5E5E5"> long-term player</font>
+
+737
+00:27:07,679 --> 00:27:10,470
+he's a beast he stick you know it's the
+
+738
+00:27:10,470 --> 00:27:11,880
+same way I thought<font color="#CCCCCC"> about Hillary Clinton</font>
+
+739
+00:27:11,880 --> 00:27:13,770
+like when I was like uh I would<font color="#CCCCCC"> always</font>
+
+740
+00:27:13,770 --> 00:27:14,910
+<font color="#E5E5E5">say about Hillary Clinton I was like</font>
+
+741
+00:27:14,910 --> 00:27:17,970
+yeah but Hillary will go to Russia go to
+
+742
+00:27:17,970 --> 00:27:20,760
+a meeting with Putin slices throat walk
+
+743
+00:27:20,760 --> 00:27:23,490
+out Putin's dead and Hillier enter and
+
+744
+00:27:23,490 --> 00:27:25,380
+Hillary's like I<font color="#CCCCCC"> don't</font><font color="#E5E5E5"> know and I'm like</font>
+
+745
+00:27:25,380 --> 00:27:26,880
+shit I want that<font color="#E5E5E5"> on my team and</font><font color="#CCCCCC"> that's</font>
+
+746
+00:27:26,880 --> 00:27:28,710
+how sucks is sucks doesn't look the part
+
+747
+00:27:28,710 --> 00:27:30,300
+like<font color="#E5E5E5"> no nobody who's listening or</font>
+
+748
+00:27:30,300 --> 00:27:32,370
+watching right now scared of sucks curly
+
+749
+00:27:32,370 --> 00:27:33,990
+hair jus kid walking in look you will
+
+750
+00:27:33,990 --> 00:27:35,790
+meet your purpose he will kill you yeah
+
+751
+00:27:35,790 --> 00:27:37,559
+like when it comes<font color="#E5E5E5"> to business what he</font>
+
+752
+00:27:37,559 --> 00:27:40,830
+does he will kill you you owe you copied
+
+753
+00:27:40,830 --> 00:27:43,410
+my shit<font color="#E5E5E5"> and yeah do something about it</font>
+
+754
+00:27:43,410 --> 00:27:45,210
+uh-huh you want to<font color="#E5E5E5"> talk about real like</font>
+
+755
+00:27:45,210 --> 00:27:47,280
+you want to convey it into<font color="#CCCCCC"> hip-hop he</font>
+
+756
+00:27:47,280 --> 00:27:49,320
+rolled up on you the street punk you
+
+757
+00:27:49,320 --> 00:27:50,850
+took your fucking wallet looked in your
+
+758
+00:27:50,850 --> 00:27:53,429
+face and<font color="#CCCCCC"> said do something yeah that's</font>
+
+759
+00:27:53,429 --> 00:27:55,620
+what Instagram just did now it's Evans
+
+760
+00:27:55,620 --> 00:27:57,809
+call now Evan either doesn't<font color="#CCCCCC"> do</font>
+
+761
+00:27:57,809 --> 00:27:59,820
+something<font color="#E5E5E5"> and then that's how it ends we</font>
+
+762
+00:27:59,820 --> 00:28:01,740
+all know that<font color="#CCCCCC"> Laurie</font><font color="#E5E5E5"> does we're about to</font>
+
+763
+00:28:01,740 --> 00:28:04,530
+<font color="#CCCCCC">find out object before</font><font color="#E5E5E5"> instagram did</font>
+
+764
+00:28:04,530 --> 00:28:06,690
+<font color="#CCCCCC">this they answered everything so fast</font>
+
+765
+00:28:06,690 --> 00:28:08,669
+and he haven't answered<font color="#CCCCCC"> instagram yes</font>
+
+766
+00:28:08,669 --> 00:28:11,129
+<font color="#E5E5E5">I know they got some plus it's a</font><font color="#CCCCCC"> three</font>
+
+767
+00:28:11,129 --> 00:28:12,690
+because it's<font color="#E5E5E5"> different snapshot was</font>
+
+768
+00:28:12,690 --> 00:28:17,009
+innovating yeah now interim copied now
+
+769
+00:28:17,009 --> 00:28:18,359
+they<font color="#E5E5E5"> have to counter but they did like</font>
+
+770
+00:28:18,359 --> 00:28:20,460
+the glasses of real thing so like it's a
+
+771
+00:28:20,460 --> 00:28:24,419
+real battle sucks have you<font color="#CCCCCC"> know Kevin</font>
+
+772
+00:28:24,419 --> 00:28:25,379
+Systrom you're talking about real
+
+773
+00:28:25,379 --> 00:28:27,179
+winners this is a real fight yeah
+
+774
+00:28:27,179 --> 00:28:29,009
+there's a real fight hmm like you know
+
+775
+00:28:29,009 --> 00:28:31,409
+this isn't like oh you hear like<font color="#E5E5E5"> a rap</font>
+
+776
+00:28:31,409 --> 00:28:32,669
+battle you're like this guy versus this
+
+777
+00:28:32,669 --> 00:28:34,320
+guy like I you know like no this is a
+
+778
+00:28:34,320 --> 00:28:36,210
+good one yeah not everybody<font color="#E5E5E5"> sure what's</font>
+
+779
+00:28:36,210 --> 00:28:38,100
+gonna happen<font color="#E5E5E5"> and the truth is both are</font>
+
+780
+00:28:38,100 --> 00:28:40,230
+big enough to win so that's a whole
+
+781
+00:28:40,230 --> 00:28:42,450
+nother thing like everybody loves you
+
+782
+00:28:42,450 --> 00:28:44,700
+know when to artists<font color="#E5E5E5"> get into a battle</font>
+
+783
+00:28:44,700 --> 00:28:47,669
+who wins both oh yeah unless<font color="#E5E5E5"> you get</font>
+
+784
+00:28:47,669 --> 00:28:49,799
+completely punked home addresses in a
+
+785
+00:28:49,799 --> 00:28:52,559
+song he tried<font color="#CCCCCC"> to kill 50 cent yeah but</font>
+
+786
+00:28:52,559 --> 00:28:54,179
+he was good enough<font color="#E5E5E5"> like that's what's so</font>
+
+787
+00:28:54,179 --> 00:28:56,249
+<font color="#CCCCCC">great about business it's so similar to</font>
+
+788
+00:28:56,249 --> 00:28:59,070
+<font color="#E5E5E5">hip-hop if you're good enough you will</font>
+
+789
+00:28:59,070 --> 00:29:01,200
+stay yeah and<font color="#E5E5E5"> if you're not you won't</font>
+
+790
+00:29:01,200 --> 00:29:03,629
+like that like that's it so if<font color="#CCCCCC"> Meeks</font>
+
+791
+00:29:03,629 --> 00:29:06,419
+good enough he'll he'll stay maybe you
+
+792
+00:29:06,419 --> 00:29:08,340
+didn't respond fast enough maybe people
+
+793
+00:29:08,340 --> 00:29:10,019
+that aren't isn't deep into it as you
+
+794
+00:29:10,019 --> 00:29:12,299
+are think it's still over cuz that's<font color="#E5E5E5"> the</font>
+
+795
+00:29:12,299 --> 00:29:14,730
+real issue with from a speeding buddy
+
+796
+00:29:14,730 --> 00:29:16,649
+but I<font color="#E5E5E5"> I think that's right and that's</font>
+
+797
+00:29:16,649 --> 00:29:18,149
+and that's how I think<font color="#CCCCCC"> about</font><font color="#E5E5E5"> it and so</font>
+
+798
+00:29:18,149 --> 00:29:20,369
+like when I talk about<font color="#CCCCCC"> 34 years ago</font>
+
+799
+00:29:20,369 --> 00:29:23,519
+liking Bezos and sucks more than Steve
+
+800
+00:29:23,519 --> 00:29:25,289
+Jobs people got mad at me because<font color="#E5E5E5"> he was</font>
+
+801
+00:29:25,289 --> 00:29:28,200
+such a pedestal but to me like they're
+
+802
+00:29:28,200 --> 00:29:29,999
+the next generation entrepreneurs and
+
+803
+00:29:29,999 --> 00:29:32,009
+both of them have had monster three four
+
+804
+00:29:32,009 --> 00:29:34,440
+years and I<font color="#CCCCCC"> don't and</font><font color="#E5E5E5"> that's not gonna</font>
+
+805
+00:29:34,440 --> 00:29:36,509
+go away because if you're good you're
+
+806
+00:29:36,509 --> 00:29:38,279
+good you touched on something right a
+
+807
+00:29:38,279 --> 00:29:41,940
+eyes and a show just finished<font color="#CCCCCC"> westworld</font>
+
+808
+00:29:41,940 --> 00:29:43,649
+did<font color="#E5E5E5"> you see Wes world no but I know</font>
+
+809
+00:29:43,649 --> 00:29:44,820
+everybody's watching but I don't watch
+
+810
+00:29:44,820 --> 00:29:47,309
+TV<font color="#E5E5E5"> okay well as well pretty much at the</font>
+
+811
+00:29:47,309 --> 00:29:51,119
+end of the day is about<font color="#E5E5E5"> uh a is becoming</font>
+
+812
+00:29:51,119 --> 00:29:53,100
+self-aware and then take over and kill
+
+813
+00:29:53,100 --> 00:29:55,169
+us you pretty much that's gonna happen
+
+814
+00:29:55,169 --> 00:29:57,419
+so Skynet is real yep we're gonna die
+
+815
+00:29:57,419 --> 00:30:00,389
+like don't<font color="#E5E5E5"> be scared of the crazy guy</font><font color="#CCCCCC"> in</font>
+
+816
+00:30:00,389 --> 00:30:02,220
+the corner of<font color="#E5E5E5"> your</font><font color="#CCCCCC"> street be scared of</font>
+
+817
+00:30:02,220 --> 00:30:03,269
+some robot that's going to slice your
+
+818
+00:30:03,269 --> 00:30:04,950
+throat in the middle night that used to
+
+819
+00:30:04,950 --> 00:30:06,929
+pick up<font color="#CCCCCC"> your laundry so do some survival</font>
+
+820
+00:30:06,929 --> 00:30:09,509
+packing now I mean it's far away yeah
+
+821
+00:30:09,509 --> 00:30:12,059
+look what I don't know is when it flips
+
+822
+00:30:12,059 --> 00:30:16,259
+but come this is just<font color="#CCCCCC"> tell yourself you</font>
+
+823
+00:30:16,259 --> 00:30:18,029
+know what virtual reality porn looks
+
+824
+00:30:18,029 --> 00:30:20,879
+like let<font color="#E5E5E5"> me save you guys time no dudes</font>
+
+825
+00:30:20,879 --> 00:30:22,410
+leaving the house and Finn
+
+826
+00:30:22,410 --> 00:30:24,900
+teen years<font color="#E5E5E5"> ever again we will be a world</font>
+
+827
+00:30:24,900 --> 00:30:26,820
+with no dudes<font color="#CCCCCC"> yeah they're all just</font>
+
+828
+00:30:26,820 --> 00:30:29,100
+<font color="#E5E5E5">gonna be home porn up in Boing Boing</font>
+
+829
+00:30:29,100 --> 00:30:31,110
+they already got a 360 channel ready
+
+830
+00:30:31,110 --> 00:30:33,360
+<font color="#E5E5E5">it's way beyond</font><font color="#CCCCCC"> that when you really</font>
+
+831
+00:30:33,360 --> 00:30:35,340
+play it out when<font color="#CCCCCC"> you actually think it's</font>
+
+832
+00:30:35,340 --> 00:30:39,540
+happening yeah it's<font color="#E5E5E5"> over it's over yeah</font>
+
+833
+00:30:39,540 --> 00:30:42,960
+they have the the<font color="#CCCCCC"> bluetooth accessories</font>
+
+834
+00:30:42,960 --> 00:30:45,510
+to go with it now so you do it that's
+
+835
+00:30:45,510 --> 00:30:47,610
+exactly<font color="#E5E5E5"> right like it's over and so like</font>
+
+836
+00:30:47,610 --> 00:30:49,140
+people really that's so weird that's so
+
+837
+00:30:49,140 --> 00:30:51,750
+bad true go dig up somebody who<font color="#E5E5E5"> died in</font>
+
+838
+00:30:51,750 --> 00:30:54,810
+1854 show them the way we<font color="#E5E5E5"> live our lives</font>
+
+839
+00:30:54,810 --> 00:30:56,610
+and they would<font color="#E5E5E5"> think it's the craziest</font>
+
+840
+00:30:56,610 --> 00:30:59,100
+shit they've ever seen yeah the craziest
+
+841
+00:30:59,100 --> 00:31:00,990
+like I have no like these are people
+
+842
+00:31:00,990 --> 00:31:02,220
+that electric like what do you<font color="#E5E5E5"> think</font>
+
+843
+00:31:02,220 --> 00:31:04,800
+they think<font color="#E5E5E5"> like forget about cable TV or</font>
+
+844
+00:31:04,800 --> 00:31:06,450
+<font color="#CCCCCC">Internet no they didn't have electrician</font>
+
+845
+00:31:06,450 --> 00:31:08,160
+like they<font color="#CCCCCC"> don't even know what a phone</font>
+
+846
+00:31:08,160 --> 00:31:10,170
+was like they wanted to do something
+
+847
+00:31:10,170 --> 00:31:12,780
+they like walk 30 miles or like jump out
+
+848
+00:31:12,780 --> 00:31:14,420
+a fuckin horse like like you know like
+
+849
+00:31:14,420 --> 00:31:18,300
+so yes that's<font color="#E5E5E5"> what happens but we need</font>
+
+850
+00:31:18,300 --> 00:31:20,490
+to figure out as businessman as
+
+851
+00:31:20,490 --> 00:31:22,620
+entrepreneurs as human beings what are
+
+852
+00:31:22,620 --> 00:31:24,750
+we<font color="#E5E5E5"> actually gonna see and what aren't we</font>
+
+853
+00:31:24,750 --> 00:31:26,550
+<font color="#E5E5E5">I do think that happens what I don't</font>
+
+854
+00:31:26,550 --> 00:31:28,050
+know cuz I'm not<font color="#E5E5E5"> educated enough is is</font>
+
+855
+00:31:28,050 --> 00:31:29,790
+that 50 years away or is<font color="#E5E5E5"> that two</font>
+
+856
+00:31:29,790 --> 00:31:31,860
+hundred years away is that but but all
+
+857
+00:31:31,860 --> 00:31:34,320
+the trends point to a very very very
+
+858
+00:31:34,320 --> 00:31:36,780
+different<font color="#E5E5E5"> world IBM Watson is smarter</font>
+
+859
+00:31:36,780 --> 00:31:39,120
+than<font color="#CCCCCC"> you like it's these are real things</font>
+
+860
+00:31:39,120 --> 00:31:41,220
+Watson<font color="#E5E5E5"> just helped write lyrics to a</font>
+
+861
+00:31:41,220 --> 00:31:43,290
+song and it became a pop hit it's nice
+
+862
+00:31:43,290 --> 00:31:45,870
+of course cuz<font color="#CCCCCC"> Wonsan has all the data to</font>
+
+863
+00:31:45,870 --> 00:31:47,610
+know<font color="#CCCCCC"> exactly</font><font color="#E5E5E5"> what we actually react to</font>
+
+864
+00:31:47,610 --> 00:31:49,440
+so here the<font color="#E5E5E5"> last eight thousand hot</font>
+
+865
+00:31:49,440 --> 00:31:51,990
+songs and Watson says got it got it got
+
+866
+00:31:51,990 --> 00:31:54,900
+it<font color="#E5E5E5"> okay here's a song yeah hey AJ to</font>
+
+867
+00:31:54,900 --> 00:31:57,060
+whiz kid or something like that there
+
+868
+00:31:57,060 --> 00:31:58,920
+was something<font color="#CCCCCC"> that uh somebody</font><font color="#E5E5E5"> I always</font>
+
+869
+00:31:58,920 --> 00:32:00,630
+<font color="#CCCCCC">talk</font><font color="#E5E5E5"> about eq like my big advantages</font>
+
+870
+00:32:00,630 --> 00:32:01,920
+emotional intelligence<font color="#E5E5E5"> it's any other</font>
+
+871
+00:32:01,920 --> 00:32:04,950
+thing<font color="#E5E5E5"> and somebody send me a tweet or DM</font>
+
+872
+00:32:04,950 --> 00:32:06,480
+somewhere that showed that<font color="#E5E5E5"> computers now</font>
+
+873
+00:32:06,480 --> 00:32:08,370
+have more eq than<font color="#E5E5E5"> then humans and I'm</font>
+
+874
+00:32:08,370 --> 00:32:10,050
+like crap there goes my advantage like
+
+875
+00:32:10,050 --> 00:32:12,120
+<font color="#E5E5E5">technology is gonna keep taking people's</font>
+
+876
+00:32:12,120 --> 00:32:14,220
+advantages away and so<font color="#E5E5E5"> we need to</font>
+
+877
+00:32:14,220 --> 00:32:16,080
+understand<font color="#CCCCCC"> that yeah it's fun when</font>
+
+878
+00:32:16,080 --> 00:32:18,240
+you're benefiting it's fun when you use
+
+879
+00:32:18,240 --> 00:32:19,680
+the internet<font color="#CCCCCC"> to build the biggest wine</font>
+
+880
+00:32:19,680 --> 00:32:22,620
+store but then when wine grapes are
+
+881
+00:32:22,620 --> 00:32:24,510
+being like turned into molecules and
+
+882
+00:32:24,510 --> 00:32:26,130
+people just like a stamp and it's like
+
+883
+00:32:26,130 --> 00:32:27,300
+drinking wine and I'm like you know like
+
+884
+00:32:27,300 --> 00:32:29,220
+it's<font color="#E5E5E5"> always fun when you're on the right</font>
+
+885
+00:32:29,220 --> 00:32:30,720
+side<font color="#CCCCCC"> of this it's</font><font color="#E5E5E5"> not fun when you're on</font>
+
+886
+00:32:30,720 --> 00:32:32,580
+<font color="#CCCCCC">the other side my big point</font><font color="#E5E5E5"> of view to</font>
+
+887
+00:32:32,580 --> 00:32:34,020
+everybody who's listening and watching
+
+888
+00:32:34,020 --> 00:32:35,820
+is figure out how to be<font color="#CCCCCC"> on the</font>
+
+889
+00:32:35,820 --> 00:32:38,100
+right side of<font color="#E5E5E5"> it stay woke</font><font color="#CCCCCC"> ah that's</font>
+
+890
+00:32:38,100 --> 00:32:40,320
+such a yes how he says that smoke that's
+
+891
+00:32:40,320 --> 00:32:44,490
+it so 2017 what are you focused<font color="#E5E5E5"> on</font>
+
+892
+00:32:44,490 --> 00:32:46,320
+what's Gary V personally focused on we
+
+893
+00:32:46,320 --> 00:32:48,330
+talked a lot about trends listening to
+
+894
+00:32:48,330 --> 00:32:51,420
+<font color="#E5E5E5">people this is gonna air you're gonna</font>
+
+895
+00:32:51,420 --> 00:32:53,970
+tell me and I'm gonna watch everybody's
+
+896
+00:32:53,970 --> 00:32:56,340
+reaction what part did<font color="#CCCCCC"> they like oh they</font>
+
+897
+00:32:56,340 --> 00:32:57,480
+thought it was<font color="#E5E5E5"> cool and I said</font><font color="#CCCCCC"> Twitter</font>
+
+898
+00:32:57,480 --> 00:32:59,040
+was fucking chicks in the summer good I
+
+899
+00:32:59,040 --> 00:33:01,380
+may<font color="#E5E5E5"> use that again oh they thought like</font>
+
+900
+00:33:01,380 --> 00:33:02,820
+why did I wear a suit that looks shit oh
+
+901
+00:33:02,820 --> 00:33:04,200
+shit i'll never wear<font color="#CCCCCC"> a suit like</font><font color="#E5E5E5"> like</font>
+
+902
+00:33:04,200 --> 00:33:07,050
+I'm a counter-puncher what am I gonna do
+
+903
+00:33:07,050 --> 00:33:09,570
+in 2017 the same thing I did in 2007
+
+904
+00:33:09,570 --> 00:33:12,840
+1997 and 1987 I'm gonna watch people's
+
+905
+00:33:12,840 --> 00:33:14,400
+reactions you know I sold a lot<font color="#E5E5E5"> of</font>
+
+906
+00:33:14,400 --> 00:33:15,930
+baseball cards I see your handsome
+
+907
+00:33:15,930 --> 00:33:17,670
+partner Ryan here in the back right
+
+908
+00:33:17,670 --> 00:33:20,190
+because I would go and watch how people
+
+909
+00:33:20,190 --> 00:33:22,410
+reacted to other people's tables and I
+
+910
+00:33:22,410 --> 00:33:24,030
+would<font color="#E5E5E5"> it would take me three hours to</font>
+
+911
+00:33:24,030 --> 00:33:25,980
+set up my baseball card table because I
+
+912
+00:33:25,980 --> 00:33:27,750
+<font color="#CCCCCC">figured</font><font color="#E5E5E5"> out the UI and the UX of my</font>
+
+913
+00:33:27,750 --> 00:33:29,850
+table and what people<font color="#CCCCCC"> were selling and</font>
+
+914
+00:33:29,850 --> 00:33:31,290
+buying stuff where I didn't even<font color="#E5E5E5"> open up</font>
+
+915
+00:33:31,290 --> 00:33:33,360
+shop I walk the<font color="#E5E5E5"> floor of the convention</font>
+
+916
+00:33:33,360 --> 00:33:35,970
+for four or five hours and<font color="#E5E5E5"> I tasted Oh</font>
+
+917
+00:33:35,970 --> 00:33:37,890
+everybody's pumped about the<font color="#CCCCCC"> bo Jackson</font>
+
+918
+00:33:37,890 --> 00:33:39,600
+black and<font color="#E5E5E5"> white scorecard cool i'll</font>
+
+919
+00:33:39,600 --> 00:33:41,730
+raise the price Oh everybody's selling
+
+920
+00:33:41,730 --> 00:33:44,070
+the<font color="#CCCCCC"> McGuire you know USA I'm gonna</font><font color="#E5E5E5"> do</font>
+
+921
+00:33:44,070 --> 00:33:46,380
+that oh the 86 87<font color="#CCCCCC"> fuller basketball</font>
+
+922
+00:33:46,380 --> 00:33:48,240
+cards keep going up let me not sell them
+
+923
+00:33:48,240 --> 00:33:51,120
+this weekend I react I always react and
+
+924
+00:33:51,120 --> 00:33:53,850
+so what I'll do in 2017 is I'll pay
+
+925
+00:33:53,850 --> 00:33:56,580
+attention if snapchats really in trouble
+
+926
+00:33:56,580 --> 00:33:59,640
+they're really<font color="#CCCCCC"> in trouble if 15 and 19</font>
+
+927
+00:33:59,640 --> 00:34:01,950
+and 23 year olds get off they're not
+
+928
+00:34:01,950 --> 00:34:04,290
+really<font color="#E5E5E5"> in trouble if the views that</font><font color="#CCCCCC"> you</font>
+
+929
+00:34:04,290 --> 00:34:06,330
+lost were from 45 year olds that<font color="#E5E5E5"> were</font>
+
+930
+00:34:06,330 --> 00:34:07,380
+coming on they need to figure that out
+
+931
+00:34:07,380 --> 00:34:10,320
+but<font color="#CCCCCC"> they're not in trouble got it so</font>
+
+932
+00:34:10,320 --> 00:34:12,449
+what I'm gonna do is one of the reasons
+
+933
+00:34:12,449 --> 00:34:13,980
+to your point<font color="#E5E5E5"> Jesse earlier is that I'm</font>
+
+934
+00:34:13,980 --> 00:34:15,750
+putting out a<font color="#CCCCCC"> lot of content I've even</font>
+
+935
+00:34:15,750 --> 00:34:18,090
+gone<font color="#CCCCCC"> daily v's now daily right you know</font>
+
+936
+00:34:18,090 --> 00:34:20,040
+and that's a reaction Casey the best
+
+937
+00:34:20,040 --> 00:34:21,389
+video blogger in a game good friend of
+
+938
+00:34:21,389 --> 00:34:23,250
+mine<font color="#E5E5E5"> I invest in this company he stops I</font>
+
+939
+00:34:23,250 --> 00:34:25,920
+start the next day doing daily because<font color="#E5E5E5"> I</font>
+
+940
+00:34:25,920 --> 00:34:27,780
+knew his audience how to find people I
+
+941
+00:34:27,780 --> 00:34:29,310
+knew a lot of<font color="#E5E5E5"> those 15 year old girls</font>
+
+942
+00:34:29,310 --> 00:34:31,230
+weren't gonna love me that way cuz they
+
+943
+00:34:31,230 --> 00:34:32,340
+didn't care about the business that's
+
+944
+00:34:32,340 --> 00:34:34,080
+fine but if I took a percentage of that
+
+945
+00:34:34,080 --> 00:34:36,420
+that was me reacting I didn't know Casey
+
+946
+00:34:36,420 --> 00:34:38,250
+was going to retire from vlogging this
+
+947
+00:34:38,250 --> 00:34:40,230
+year so that's a<font color="#CCCCCC"> reaction to</font><font color="#E5E5E5"> an</font>
+
+948
+00:34:40,230 --> 00:34:41,760
+opportunity and that's the way to do<font color="#CCCCCC"> it</font>
+
+949
+00:34:41,760 --> 00:34:44,040
+yes what you're doing is you're staying
+
+950
+00:34:44,040 --> 00:34:45,600
+woke and you're<font color="#E5E5E5"> doing</font><font color="#CCCCCC"> your due diligence</font>
+
+951
+00:34:45,600 --> 00:34:49,650
+I woke for the rest of<font color="#E5E5E5"> my life 24 7 365</font>
+
+952
+00:34:49,650 --> 00:34:51,870
+facts that's the truth that's like it's
+
+953
+00:34:51,870 --> 00:34:53,280
+you know want to<font color="#E5E5E5"> talk tech nerd terms</font>
+
+954
+00:34:53,280 --> 00:34:55,080
+you know there's programs that run in
+
+955
+00:34:55,080 --> 00:34:56,370
+<font color="#E5E5E5">the back of your computer at all times</font>
+
+956
+00:34:56,370 --> 00:34:59,610
+that's what I do I'm<font color="#E5E5E5"> running in the back</font>
+
+957
+00:34:59,610 --> 00:35:03,780
+of culture<font color="#E5E5E5"> 24-7 and what's really cool</font>
+
+958
+00:35:03,780 --> 00:35:05,670
+for<font color="#E5E5E5"> me is I'll be dangerous enough to</font>
+
+959
+00:35:05,670 --> 00:35:07,110
+come<font color="#CCCCCC"> here and make some references that</font>
+
+960
+00:35:07,110 --> 00:35:08,280
+make everybody know that I know what's
+
+961
+00:35:08,280 --> 00:35:10,920
+going<font color="#E5E5E5"> on I can do the same thing in 800</font>
+
+962
+00:35:10,920 --> 00:35:13,080
+different little subcultures this one's
+
+963
+00:35:13,080 --> 00:35:14,040
+a little more fun for<font color="#E5E5E5"> me because it's</font>
+
+964
+00:35:14,040 --> 00:35:16,260
+true you know but that's what I do
+
+965
+00:35:16,260 --> 00:35:19,560
+that's<font color="#E5E5E5"> fire I love you Alex for having</font>
+
+966
+00:35:19,560 --> 00:35:21,600
+me listen we can bring you back anything
+
+967
+00:35:21,600 --> 00:35:23,850
+around this time I'm gonna talk about
+
+968
+00:35:23,850 --> 00:35:25,110
+<font color="#E5E5E5">the same thing we're gonna see what</font>
+
+969
+00:35:25,110 --> 00:35:27,060
+happened and<font color="#E5E5E5"> we're gonna try to work on</font>
+
+970
+00:35:27,060 --> 00:35:28,200
+my Nostradamus skills to give you
+
+971
+00:35:28,200 --> 00:35:30,840
+something<font color="#CCCCCC"> for 2018 big summer jam yeah</font>
+
+972
+00:35:30,840 --> 00:35:32,160
+yes we were talking before<font color="#E5E5E5"> we try to</font>
+
+973
+00:35:32,160 --> 00:35:33,390
+film it let's come up with something
+
+974
+00:35:33,390 --> 00:35:34,830
+we're gonna do something really doe all
+
+975
+00:35:34,830 --> 00:35:36,950
+right
+
+976
+00:35:42,800 --> 00:00:00,000
+you
+

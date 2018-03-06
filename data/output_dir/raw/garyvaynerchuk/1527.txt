@@ -1,0 +1,1400 @@
+1
+00:00:00,000 --> 00:00:02,340
+everybody's gary vaynerchuk caravan trip
+
+2
+00:00:02,340 --> 00:00:04,859
+<font color="#CCCCCC">com um so a lot of people are always</font>
+
+3
+00:00:04,859 --> 00:00:07,589
+asking me well step by step you<font color="#CCCCCC"> talk</font>
+
+4
+00:00:07,589 --> 00:00:09,929
+about<font color="#E5E5E5"> doing what you love right and you</font>
+
+5
+00:00:09,929 --> 00:00:11,759
+talk about passion<font color="#CCCCCC"> and you talk about</font>
+
+6
+00:00:11,759 --> 00:00:14,190
+you know monetizing talking about ROI
+
+7
+00:00:14,190 --> 00:00:16,139
+you down with<font color="#CCCCCC"> me yeah</font><font color="#E5E5E5"> you know I took</font>
+
+8
+00:00:16,139 --> 00:00:17,580
+about a lot<font color="#CCCCCC"> of stuff and</font><font color="#E5E5E5"> a lot of its in</font>
+
+9
+00:00:17,580 --> 00:00:19,800
+general um I think I<font color="#E5E5E5"> get more specific</font>
+
+10
+00:00:19,800 --> 00:00:21,270
+than a lot of<font color="#CCCCCC"> people it's what I pride</font>
+
+11
+00:00:21,270 --> 00:00:23,420
+myself that's why I do so much QA at
+
+12
+00:00:23,420 --> 00:00:25,410
+conferences but I thought I'd you
+
+13
+00:00:25,410 --> 00:00:27,869
+something really<font color="#E5E5E5"> neat my you like that</font>
+
+14
+00:00:27,869 --> 00:00:30,449
+meat today I'm gonna give you an example
+
+15
+00:00:30,449 --> 00:00:33,020
+of a show that<font color="#E5E5E5"> has run through my head</font>
+
+16
+00:00:33,020 --> 00:00:35,219
+I'm not<font color="#E5E5E5"> gonna do this show so you're</font>
+
+17
+00:00:35,219 --> 00:00:37,110
+more than welcome to do this and do<font color="#CCCCCC"> it</font>
+
+18
+00:00:37,110 --> 00:00:38,280
+on<font color="#E5E5E5"> your own and I hope you make a</font>
+
+19
+00:00:38,280 --> 00:00:40,410
+gazillion dollars I'm gonna do a show
+
+20
+00:00:40,410 --> 00:00:44,129
+and break down every element about the
+
+21
+00:00:44,129 --> 00:00:46,140
+show and how you turn it into<font color="#E5E5E5"> a business</font>
+
+22
+00:00:46,140 --> 00:00:48,270
+this should<font color="#CCCCCC"> be really neat</font><font color="#E5E5E5"> I'm really</font>
+
+23
+00:00:48,270 --> 00:00:49,289
+<font color="#E5E5E5">excited about this i don't even know</font>
+
+24
+00:00:49,289 --> 00:00:51,030
+<font color="#E5E5E5">what's about to happen it's been an idea</font>
+
+25
+00:00:51,030 --> 00:00:52,469
+of<font color="#E5E5E5"> running through a mine my show is</font>
+
+26
+00:00:52,469 --> 00:00:54,059
+going to<font color="#CCCCCC"> be</font><font color="#E5E5E5"> this it's gonna be called</font>
+
+27
+00:00:54,059 --> 00:00:56,640
+<font color="#E5E5E5">the baseball card</font><font color="#CCCCCC"> our I thought of this</font>
+
+28
+00:00:56,640 --> 00:00:59,250
+even you can come in<font color="#CCCCCC"> ian's prepping Wine</font>
+
+29
+00:00:59,250 --> 00:01:02,520
+Library TV my idea is you would call<font color="#E5E5E5"> it</font>
+
+30
+00:01:02,520 --> 00:01:04,379
+the baseball card<font color="#E5E5E5"> show right we're to</font>
+
+31
+00:01:04,379 --> 00:01:06,090
+baseball card our and what you<font color="#CCCCCC"> would</font><font color="#E5E5E5"> do</font>
+
+32
+00:01:06,090 --> 00:01:08,280
+<font color="#E5E5E5">is five days a week you would open up an</font>
+
+33
+00:01:08,280 --> 00:01:10,619
+<font color="#E5E5E5">old school pack of cards why I like this</font>
+
+34
+00:01:10,619 --> 00:01:12,510
+idea number one I think<font color="#CCCCCC"> the investment</font>
+
+35
+00:01:12,510 --> 00:01:14,610
+would<font color="#CCCCCC"> be very minimal here's why I think</font>
+
+36
+00:01:14,610 --> 00:01:17,220
+that if you<font color="#E5E5E5"> got about 10 to 15 to 25</font>
+
+37
+00:01:17,220 --> 00:01:19,229
+episodes in that you'd be able<font color="#CCCCCC"> to get</font>
+
+38
+00:01:19,229 --> 00:01:21,270
+sponsors fans would send you in packs
+
+39
+00:01:21,270 --> 00:01:23,729
+and you could buy so many cheap packs on
+
+40
+00:01:23,729 --> 00:01:25,170
+ebay this day so that's<font color="#E5E5E5"> what I was</font>
+
+41
+00:01:25,170 --> 00:01:26,610
+<font color="#E5E5E5">thinking about you can go on and buy box</font>
+
+42
+00:01:26,610 --> 00:01:28,439
+of cards for four or five bucks you know
+
+43
+00:01:28,439 --> 00:01:30,600
+<font color="#E5E5E5">that gives you 24 packs that's 24 shows</font>
+
+44
+00:01:30,600 --> 00:01:32,610
+four weeks right for ten fifteen dollar
+
+45
+00:01:32,610 --> 00:01:34,049
+investment of course you want a little
+
+46
+00:01:34,049 --> 00:01:35,640
+variety but you could be<font color="#E5E5E5"> just one pack</font>
+
+47
+00:01:35,640 --> 00:01:37,530
+but what's really neat is<font color="#E5E5E5"> I think</font>
+
+48
+00:01:37,530 --> 00:01:39,000
+quickly you would have fans sending
+
+49
+00:01:39,000 --> 00:01:40,920
+impacts my fans sent me in these packs
+
+50
+00:01:40,920 --> 00:01:42,930
+which I have a<font color="#E5E5E5"> couple more of the NP you</font>
+
+51
+00:01:42,930 --> 00:01:44,220
+do me favor grab some<font color="#E5E5E5"> of the boxes that</font>
+
+52
+00:01:44,220 --> 00:01:46,920
+i have up back there behind the couch so
+
+53
+00:01:46,920 --> 00:01:48,600
+a fancy mean that's how i started doing
+
+54
+00:01:48,600 --> 00:01:50,460
+it on the show the idea that showed<font color="#CCCCCC"> me</font>
+
+55
+00:01:50,460 --> 00:01:51,869
+the baseball<font color="#CCCCCC"> card hours you'd open up a</font>
+
+56
+00:01:51,869 --> 00:01:54,119
+pack of cards each day of course not
+
+57
+00:01:54,119 --> 00:01:56,100
+knowing so the suspense factor for<font color="#CCCCCC"> the</font>
+
+58
+00:01:56,100 --> 00:01:58,020
+show<font color="#E5E5E5"> i think</font><font color="#CCCCCC"> would be very cool thanks</font>
+
+59
+00:01:58,020 --> 00:02:00,750
+see the best man so you see<font color="#E5E5E5"> I</font><font color="#CCCCCC"> had a fan</font>
+
+60
+00:02:00,750 --> 00:02:02,880
+send me some fleer past<font color="#CCCCCC"> skybox for</font>
+
+61
+00:02:02,880 --> 00:02:04,200
+basketball 91 upper deck which I in
+
+62
+00:02:04,200 --> 00:02:07,520
+front<font color="#CCCCCC"> of me and some for for sport pack</font>
+
+63
+00:02:07,520 --> 00:02:10,080
+<font color="#E5E5E5">palmas up from Washington this is the</font>
+
+64
+00:02:10,080 --> 00:02:12,060
+package<font color="#CCCCCC"> you sent a great guy Mike</font>
+
+65
+00:02:12,060 --> 00:02:14,099
+right Mike's first name anyway anyway
+
+66
+00:02:14,099 --> 00:02:16,739
+<font color="#E5E5E5">you open a package day and yet you can</font>
+
+67
+00:02:16,739 --> 00:02:18,150
+see one fan set me up in a situation
+
+68
+00:02:18,150 --> 00:02:19,470
+where I've got probably two months<font color="#E5E5E5"> worth</font>
+
+69
+00:02:19,470 --> 00:02:21,690
+of shows you open up<font color="#E5E5E5"> the pack and you</font>
+
+70
+00:02:21,690 --> 00:02:23,400
+<font color="#E5E5E5">talk about the players that</font><font color="#CCCCCC"> are in the</font>
+
+71
+00:02:23,400 --> 00:02:25,590
+pack you get a lot<font color="#CCCCCC"> of</font><font color="#E5E5E5"> old school people</font>
+
+72
+00:02:25,590 --> 00:02:27,150
+that are into this is a lot of kids in
+
+73
+00:02:27,150 --> 00:02:30,500
+my age group works kids you know<font color="#CCCCCC"> 31 32</font>
+
+74
+00:02:30,500 --> 00:02:33,780
+probably them sweet<font color="#E5E5E5"> spot is 25 to 35</font>
+
+75
+00:02:33,780 --> 00:02:36,330
+year old males great demo to advertise
+
+76
+00:02:36,330 --> 00:02:37,709
+against if you start getting a following
+
+77
+00:02:37,709 --> 00:02:40,349
+much more broad than wine is than what
+
+78
+00:02:40,349 --> 00:02:42,150
+i'm<font color="#CCCCCC"> doing cuz this is sports really for</font>
+
+79
+00:02:42,150 --> 00:02:43,260
+example like hey everybody this is gary
+
+80
+00:02:43,260 --> 00:02:45,209
+vaynerchuk for the<font color="#CCCCCC"> baseball card</font><font color="#E5E5E5"> out now</font>
+
+81
+00:02:45,209 --> 00:02:47,040
+again<font color="#E5E5E5"> on animated you don't have to be</font>
+
+82
+00:02:47,040 --> 00:02:49,110
+you could be hey<font color="#E5E5E5"> everybody Tom Stevens</font>
+
+83
+00:02:49,110 --> 00:02:51,209
+again here for the<font color="#CCCCCC"> baseball card our and</font>
+
+84
+00:02:51,209 --> 00:02:52,350
+today we're gonna be opening a pack of
+
+85
+00:02:52,350 --> 00:02:53,819
+<font color="#E5E5E5">1991 to protect maybe do a little</font>
+
+86
+00:02:53,819 --> 00:02:56,040
+homework you say you know 1991 upper
+
+87
+00:02:56,040 --> 00:02:58,170
+deck was the<font color="#CCCCCC"> second third year for upper</font>
+
+88
+00:02:58,170 --> 00:02:59,910
+deck they start in 1989 they were a
+
+89
+00:02:59,910 --> 00:03:01,680
+company that revolutionized the baseball
+
+90
+00:03:01,680 --> 00:03:02,940
+card<font color="#E5E5E5"> industry because they were the</font>
+
+91
+00:03:02,940 --> 00:03:04,980
+<font color="#E5E5E5">first people to come out with packs that</font>
+
+92
+00:03:04,980 --> 00:03:07,049
+were<font color="#E5E5E5"> over two dollars a pack or dollar</font>
+
+93
+00:03:07,049 --> 00:03:08,970
+pack our members probably like<font color="#E5E5E5"> two bucks</font>
+
+94
+00:03:08,970 --> 00:03:10,440
+you do some homework right you do some
+
+95
+00:03:10,440 --> 00:03:12,239
+<font color="#CCCCCC">back-end which one economy in serum</font>
+
+96
+00:03:12,239 --> 00:03:13,590
+watch this as I do this<font color="#CCCCCC"> show</font><font color="#E5E5E5"> seem to</font>
+
+97
+00:03:13,590 --> 00:03:15,150
+think<font color="#E5E5E5"> of it anyway so</font><font color="#CCCCCC"> you do a</font><font color="#E5E5E5"> little</font>
+
+98
+00:03:15,150 --> 00:03:16,140
+bit it's kind of gonna be<font color="#E5E5E5"> weird though</font>
+
+99
+00:03:16,140 --> 00:03:17,220
+cuz I'm not<font color="#E5E5E5"> really gonna do the show so</font>
+
+100
+00:03:17,220 --> 00:03:18,090
+I'm<font color="#E5E5E5"> doing it this style where I'm</font>
+
+101
+00:03:18,090 --> 00:03:19,560
+breaking it down but everybody's scared
+
+102
+00:03:19,560 --> 00:03:21,570
+he may be shook end this day on low
+
+103
+00:03:21,570 --> 00:03:23,160
+Michigan everybody's<font color="#E5E5E5"> Gary better chicken</font>
+
+104
+00:03:23,160 --> 00:03:25,530
+today we are doing on the baseball card
+
+105
+00:03:25,530 --> 00:03:29,190
+<font color="#E5E5E5">our a pack of 1991 upper deck baseball</font>
+
+106
+00:03:29,190 --> 00:03:31,109
+cards<font color="#CCCCCC"> and you know I'll protect hit the</font>
+
+107
+00:03:31,109 --> 00:03:33,329
+scene hard in 1989 um came out of
+
+108
+00:03:33,329 --> 00:03:35,280
+nowhere a company high quality high
+
+109
+00:03:35,280 --> 00:03:37,140
+glossy we never seen anything like that
+
+110
+00:03:37,140 --> 00:03:39,030
+before you know<font color="#E5E5E5"> Dom was clear and tops</font>
+
+111
+00:03:39,030 --> 00:03:41,130
+were pretty<font color="#E5E5E5"> much dominating the day here</font>
+
+112
+00:03:41,130 --> 00:03:42,690
+came this upstart upper deck they were
+
+113
+00:03:42,690 --> 00:03:44,459
+<font color="#E5E5E5">very expensive by the pack it was the</font>
+
+114
+00:03:44,459 --> 00:03:45,900
+<font color="#E5E5E5">first time we sort of seen the kids</font>
+
+115
+00:03:45,900 --> 00:03:48,930
+being eliminated from the game no gum in
+
+116
+00:03:48,930 --> 00:03:50,940
+self ain't got very expensive<font color="#E5E5E5"> 34 bucks a</font>
+
+117
+00:03:50,940 --> 00:03:53,489
+pack and this is the 1991 upper deck set
+
+118
+00:03:53,489 --> 00:03:55,470
+now again<font color="#CCCCCC"> you</font><font color="#E5E5E5"> can go into the top cards</font>
+
+119
+00:03:55,470 --> 00:03:56,850
+from<font color="#E5E5E5"> this set or blah blah</font><font color="#CCCCCC"> blah right</font>
+
+120
+00:03:56,850 --> 00:03:59,040
+<font color="#E5E5E5">hopefully we'll get one of them and we</font>
+
+121
+00:03:59,040 --> 00:04:00,900
+could say is something like you<font color="#CCCCCC"> know and</font>
+
+122
+00:04:00,900 --> 00:04:02,670
+if<font color="#CCCCCC"> i</font><font color="#E5E5E5"> get to</font><font color="#CCCCCC"> sandy alomar rookie card</font>
+
+123
+00:04:02,670 --> 00:04:04,230
+that's five dollars<font color="#CCCCCC"> i will</font><font color="#E5E5E5"> absolutely</font>
+
+124
+00:04:04,230 --> 00:04:05,609
+send it to the first<font color="#E5E5E5"> person</font><font color="#CCCCCC"> that leaves</font>
+
+125
+00:04:05,609 --> 00:04:07,859
+sandy Alomar batting average in 99<font color="#CCCCCC"> sick</font>
+
+126
+00:04:07,859 --> 00:04:09,810
+<font color="#E5E5E5">it gives you a lot of room to do a lot</font>
+
+127
+00:04:09,810 --> 00:04:12,810
+of cool you<font color="#E5E5E5"> don't give aways um and then</font>
+
+128
+00:04:12,810 --> 00:04:14,069
+again you'd go right into it yeah but
+
+129
+00:04:14,069 --> 00:04:15,720
+awesome<font color="#CCCCCC"> camry i'm like mot you don't</font>
+
+130
+00:04:15,720 --> 00:04:17,190
+even need a<font color="#CCCCCC"> camera man because you can</font>
+
+131
+00:04:17,190 --> 00:04:18,779
+have it still like this but if you did
+
+132
+00:04:18,779 --> 00:04:20,548
+<font color="#CCCCCC">or not have somebody about here</font><font color="#E5E5E5"> we go</font>
+
+133
+00:04:20,548 --> 00:04:22,320
+let's<font color="#E5E5E5"> get into it right off the bat this</font>
+
+134
+00:04:22,320 --> 00:04:23,970
+was a big<font color="#CCCCCC"> one of the big cards you</font><font color="#E5E5E5"> can</font>
+
+135
+00:04:23,970 --> 00:04:24,570
+actually<font color="#E5E5E5"> get</font>
+
+136
+00:04:24,570 --> 00:04:27,060
+I inversion to a Nolan Ryan baseball
+
+137
+00:04:27,060 --> 00:04:30,450
+heroes card 16 of 18 I know<font color="#E5E5E5"> that they</font>
+
+138
+00:04:30,450 --> 00:04:32,100
+were and what's really cool<font color="#E5E5E5"> you can go</font>
+
+139
+00:04:32,100 --> 00:04:33,840
+into some like this he goes collect all
+
+140
+00:04:33,840 --> 00:04:36,270
+my Nolan Ryan baseball set cards
+
+141
+00:04:36,270 --> 00:04:38,430
+randomly inserted in packs find one<font color="#CCCCCC"> of</font>
+
+142
+00:04:38,430 --> 00:04:41,370
+the 2500 personally autographed Nolan
+
+143
+00:04:41,370 --> 00:04:42,750
+Ryan cards now imagine right now I
+
+144
+00:04:42,750 --> 00:04:44,520
+openness end of this was one of them and
+
+145
+00:04:44,520 --> 00:04:45,900
+again it probably isn't worth that much
+
+146
+00:04:45,900 --> 00:04:47,400
+but<font color="#CCCCCC"> that would have been</font><font color="#E5E5E5"> crazy so you</font>
+
+147
+00:04:47,400 --> 00:04:48,870
+always have the beauty of doing a
+
+148
+00:04:48,870 --> 00:04:50,970
+baseball card show or a card show is you
+
+149
+00:04:50,970 --> 00:04:52,530
+always have a suspense angle which i
+
+150
+00:04:52,530 --> 00:04:54,690
+think is great for television anyway I'd
+
+151
+00:04:54,690 --> 00:04:55,770
+be like all right we got one of<font color="#E5E5E5"> these I</font>
+
+152
+00:04:55,770 --> 00:04:56,820
+remember these are like two<font color="#CCCCCC"> three four</font>
+
+153
+00:04:56,820 --> 00:04:58,290
+<font color="#CCCCCC">or five bucks each when</font><font color="#E5E5E5"> I first hit the</font>
+
+154
+00:04:58,290 --> 00:04:59,820
+scene<font color="#E5E5E5"> and then you go</font><font color="#CCCCCC"> into it and what's</font>
+
+155
+00:04:59,820 --> 00:05:01,290
+great about doing the sports card show
+
+156
+00:05:01,290 --> 00:05:02,880
+is you can go into sports in general to
+
+157
+00:05:02,880 --> 00:05:05,280
+geoff gray you know and then<font color="#E5E5E5"> you could</font>
+
+158
+00:05:05,280 --> 00:05:06,690
+<font color="#E5E5E5">say something like you know from the Red</font>
+
+159
+00:05:06,690 --> 00:05:07,710
+Sox you say you know what I don't
+
+160
+00:05:07,710 --> 00:05:09,180
+remember Jeff grade but you know is this
+
+161
+00:05:09,180 --> 00:05:10,680
+a great example of why the Red<font color="#CCCCCC"> Sox are</font>
+
+162
+00:05:10,680 --> 00:05:12,240
+now winning World Series with Beckett
+
+163
+00:05:12,240 --> 00:05:14,190
+and daisuke and Lester you can turn into
+
+164
+00:05:14,190 --> 00:05:16,050
+cop you<font color="#CCCCCC"> know there's always always</font>
+
+165
+00:05:16,050 --> 00:05:18,450
+current<font color="#E5E5E5"> events and sports so for me this</font>
+
+166
+00:05:18,450 --> 00:05:19,860
+would be great<font color="#E5E5E5"> because I can talk about</font>
+
+167
+00:05:19,860 --> 00:05:21,630
+the red<font color="#E5E5E5"> sox playoff run right now with</font>
+
+168
+00:05:21,630 --> 00:05:23,730
+this<font color="#E5E5E5"> first card and that's content you</font>
+
+169
+00:05:23,730 --> 00:05:25,290
+know it's always a Content opportunity
+
+170
+00:05:25,290 --> 00:05:27,450
+with doing I'm sports<font color="#E5E5E5"> card i go on then</font>
+
+171
+00:05:27,450 --> 00:05:30,570
+<font color="#E5E5E5">i go gym needling</font><font color="#CCCCCC"> her again a</font><font color="#E5E5E5"> dodger and</font>
+
+172
+00:05:30,570 --> 00:05:31,980
+now I probably<font color="#E5E5E5"> say something funny like</font>
+
+173
+00:05:31,980 --> 00:05:33,750
+oh my god<font color="#E5E5E5"> are we gonna have a</font><font color="#CCCCCC"> Philly</font>
+
+174
+00:05:33,750 --> 00:05:35,250
+necks<font color="#E5E5E5"> and an array and I'm like oh wait</font>
+
+175
+00:05:35,250 --> 00:05:36,300
+no we can't have<font color="#CCCCCC"> a right because the</font>
+
+176
+00:05:36,300 --> 00:05:37,860
+Rays weren't in baseball yet so like
+
+177
+00:05:37,860 --> 00:05:40,200
+it's always giving you content
+
+178
+00:05:40,200 --> 00:05:42,150
+opportunities now you go into<font color="#CCCCCC"> Rafael</font>
+
+179
+00:05:42,150 --> 00:05:44,340
+<font color="#CCCCCC">Palmeiro right into the steroids issue</font>
+
+180
+00:05:44,340 --> 00:05:46,110
+hey Rafi you look pretty skinny there
+
+181
+00:05:46,110 --> 00:05:47,730
+buddy and you can look look at it and
+
+182
+00:05:47,730 --> 00:05:49,620
+say and<font color="#E5E5E5"> then you get the hologram card</font>
+
+183
+00:05:49,620 --> 00:05:51,300
+now I've been doing my number Kimmy we
+
+184
+00:05:51,300 --> 00:05:52,590
+had three straight days of Braves
+
+185
+00:05:52,590 --> 00:05:54,090
+Holograms it's nice to see an ace
+
+186
+00:05:54,090 --> 00:05:55,710
+hologram and then you could talk about
+
+187
+00:05:55,710 --> 00:05:57,300
+<font color="#E5E5E5">Willie McGee how he look like an alien</font>
+
+188
+00:05:57,300 --> 00:05:58,920
+maybe you can look into some of his
+
+189
+00:05:58,920 --> 00:06:00,600
+stats I said look at Willie McGee you
+
+190
+00:06:00,600 --> 00:06:03,150
+know in 1987 for the Cardinals he<font color="#E5E5E5"> batted</font>
+
+191
+00:06:03,150 --> 00:06:05,250
+you know 285 I<font color="#E5E5E5"> always thought up in more</font>
+
+192
+00:06:05,250 --> 00:06:06,780
+of a 300 hitter you<font color="#CCCCCC"> can get into</font><font color="#E5E5E5"> that</font>
+
+193
+00:06:06,780 --> 00:06:09,150
+you know<font color="#E5E5E5"> it's always gonna be things</font>
+
+194
+00:06:09,150 --> 00:06:10,770
+like there's<font color="#E5E5E5"> always gonna be a Chris no</font>
+
+195
+00:06:10,770 --> 00:06:13,080
+<font color="#E5E5E5">bus you know who you have nothing to say</font>
+
+196
+00:06:13,080 --> 00:06:14,850
+<font color="#E5E5E5">you could say it's the former expose</font>
+
+197
+00:06:14,850 --> 00:06:17,010
+then they have sweet logo you can maybe
+
+198
+00:06:17,010 --> 00:06:18,450
+talk about you know<font color="#CCCCCC"> something on the</font>
+
+199
+00:06:18,450 --> 00:06:20,790
+back of his card Tom Bolton another bum
+
+200
+00:06:20,790 --> 00:06:22,890
+pitcher for the Red Sox you<font color="#E5E5E5"> get into</font>
+
+201
+00:06:22,890 --> 00:06:25,020
+Greg<font color="#CCCCCC"> brealey and again you go through</font>
+
+202
+00:06:25,020 --> 00:06:26,370
+the motions you talk about the Braves
+
+203
+00:06:26,370 --> 00:06:28,260
+Mitch Webster I mean miss you Webster
+
+204
+00:06:28,260 --> 00:06:29,850
+you tell a personal story how many
+
+205
+00:06:29,850 --> 00:06:31,620
+<font color="#E5E5E5">people out there are fans of Cleveland</font>
+
+206
+00:06:31,620 --> 00:06:33,840
+you talk<font color="#CCCCCC"> about some stats maybe can get</font>
+
+207
+00:06:33,840 --> 00:06:35,550
+at the fact that the juice ball era or
+
+208
+00:06:35,550 --> 00:06:36,630
+the steroid era that we're going through
+
+209
+00:06:36,630 --> 00:06:37,139
+now
+
+210
+00:06:37,139 --> 00:06:39,780
+numbers were much smaller you get into
+
+211
+00:06:39,780 --> 00:06:41,249
+Robby Thompson talk about how good of a
+
+212
+00:06:41,249 --> 00:06:42,629
+shortstop he really was for those giant
+
+213
+00:06:42,629 --> 00:06:44,249
+teams you<font color="#E5E5E5"> know then you get into Bill</font>
+
+214
+00:06:44,249 --> 00:06:45,569
+Doran you have no idea<font color="#CCCCCC"> but I could say</font>
+
+215
+00:06:45,569 --> 00:06:47,340
+like Ian<font color="#CCCCCC"> Dorrans here with me right now</font>
+
+216
+00:06:47,340 --> 00:06:49,650
+<font color="#E5E5E5">is</font><font color="#CCCCCC"> bill related to you know all right</font>
+
+217
+00:06:49,650 --> 00:06:52,949
+dan Petry I remember him Ron Kovic the
+
+218
+00:06:52,949 --> 00:06:55,499
+catcher and Derek linquist and again the
+
+219
+00:06:55,499 --> 00:06:58,289
+mo of the cards is there's always
+
+220
+00:06:58,289 --> 00:06:59,340
+content I kind<font color="#E5E5E5"> of skimmed through</font>
+
+221
+00:06:59,340 --> 00:07:01,110
+because I've<font color="#CCCCCC"> been a long video ready but</font>
+
+222
+00:07:01,110 --> 00:07:02,580
+you could always get into<font color="#E5E5E5"> it you can</font>
+
+223
+00:07:02,580 --> 00:07:04,169
+<font color="#CCCCCC">always get it into the factors of what's</font>
+
+224
+00:07:04,169 --> 00:07:05,909
+going on in sports you<font color="#CCCCCC"> know if you did a</font>
+
+225
+00:07:05,909 --> 00:07:07,650
+basketball pack you know the NBA's just
+
+226
+00:07:07,650 --> 00:07:09,509
+about the start you know hey<font color="#E5E5E5"> everybody</font>
+
+227
+00:07:09,509 --> 00:07:11,400
+today and here's what's neat now let's
+
+228
+00:07:11,400 --> 00:07:12,990
+<font color="#E5E5E5">get into the business part of it one</font>
+
+229
+00:07:12,990 --> 00:07:15,629
+there's no doubt my mind that tops and
+
+230
+00:07:15,629 --> 00:07:17,189
+the other sports<font color="#E5E5E5"> card companies and</font>
+
+231
+00:07:17,189 --> 00:07:18,960
+steiner sports and people like this<font color="#E5E5E5"> are</font>
+
+232
+00:07:18,960 --> 00:07:20,430
+definitely people you could hit<font color="#E5E5E5"> up after</font>
+
+233
+00:07:20,430 --> 00:07:21,870
+you have a<font color="#E5E5E5"> little critical mass if you</font>
+
+234
+00:07:21,870 --> 00:07:23,430
+pump out about<font color="#E5E5E5"> 40 50 shows and you're in</font>
+
+235
+00:07:23,430 --> 00:07:24,870
+a place where you've<font color="#E5E5E5"> got a couple</font>
+
+236
+00:07:24,870 --> 00:07:26,430
+hundred to a couple thousand viewers
+
+237
+00:07:26,430 --> 00:07:28,020
+this is<font color="#E5E5E5"> definitely something you can</font>
+
+238
+00:07:28,020 --> 00:07:29,400
+email to people say hey I've got the
+
+239
+00:07:29,400 --> 00:07:30,839
+show I've got good intern<font color="#CCCCCC"> act</font>
+
+240
+00:07:30,839 --> 00:07:32,129
+interaction because you've got<font color="#E5E5E5"> all these</font>
+
+241
+00:07:32,129 --> 00:07:34,020
+contests and stuff I think you should
+
+242
+00:07:34,020 --> 00:07:35,879
+<font color="#E5E5E5">look at it and all of a</font><font color="#CCCCCC"> sudden your show</font>
+
+243
+00:07:35,879 --> 00:07:37,620
+starts like this hey everybody's<font color="#E5E5E5"> Gary</font>
+
+244
+00:07:37,620 --> 00:07:39,089
+<font color="#E5E5E5">Vaynerchuk for the</font><font color="#CCCCCC"> baseball card</font><font color="#E5E5E5"> out a</font>
+
+245
+00:07:39,089 --> 00:07:40,800
+sports car tower and this show is
+
+246
+00:07:40,800 --> 00:07:42,449
+brought to you by<font color="#CCCCCC"> snyder sports</font><font color="#E5E5E5"> tire</font>
+
+247
+00:07:42,449 --> 00:07:44,550
+<font color="#E5E5E5">sports let's link them up and again now</font>
+
+248
+00:07:44,550 --> 00:07:46,259
+you got a<font color="#CCCCCC"> fifty-dollar 100 dollar per</font>
+
+249
+00:07:46,259 --> 00:07:48,509
+episode sponsored by the way<font color="#E5E5E5"> for such</font>
+
+250
+00:07:48,509 --> 00:07:51,479
+spite sign Steiner Steiner Rick Steiner
+
+251
+00:07:51,479 --> 00:07:54,419
+Steiner sports or tops or upper deck or
+
+252
+00:07:54,419 --> 00:07:56,219
+whatever's left in the baseball<font color="#E5E5E5"> card</font>
+
+253
+00:07:56,219 --> 00:07:57,360
+business this would be<font color="#CCCCCC"> a tremendous</font>
+
+254
+00:07:57,360 --> 00:07:59,370
+thing for them to advertise in because
+
+255
+00:07:59,370 --> 00:08:00,899
+we don't have tremendous roi because
+
+256
+00:08:00,899 --> 00:08:02,849
+everybody that's watching is watching
+
+257
+00:08:02,849 --> 00:08:05,069
+somebody open a pack of cards that<font color="#CCCCCC"> is</font>
+
+258
+00:08:05,069 --> 00:08:07,770
+perfect demo understand so anyway you
+
+259
+00:08:07,770 --> 00:08:09,270
+know everybody's<font color="#CCCCCC"> Gary mansion from this</font>
+
+260
+00:08:09,270 --> 00:08:10,710
+sports car down or brought to you by
+
+261
+00:08:10,710 --> 00:08:12,960
+steiner sports steiner sports get into
+
+262
+00:08:12,960 --> 00:08:14,370
+the game alright today we're opening
+
+263
+00:08:14,370 --> 00:08:17,819
+skybox<font color="#CCCCCC"> 94 95 just like upper deck skybox</font>
+
+264
+00:08:17,819 --> 00:08:20,009
+came on the scene in 92<font color="#E5E5E5"> the shack rookie</font>
+
+265
+00:08:20,009 --> 00:08:21,539
+card one hundred dollars they came with
+
+266
+00:08:21,539 --> 00:08:23,159
+premium packs they were the real big
+
+267
+00:08:23,159 --> 00:08:25,169
+scene we only had hoops really doing
+
+268
+00:08:25,169 --> 00:08:26,819
+anything before that<font color="#E5E5E5"> let's open his pack</font>
+
+269
+00:08:26,819 --> 00:08:28,740
+let's see what's going<font color="#E5E5E5"> on and we've got</font>
+
+270
+00:08:28,740 --> 00:08:31,080
+<font color="#E5E5E5">Vincent ask you he's about all John</font>
+
+271
+00:08:31,080 --> 00:08:33,260
+Starks and right away I<font color="#E5E5E5"> would go</font>
+
+272
+00:08:33,260 --> 00:08:35,578
+ironically in this room in like mot show
+
+273
+00:08:35,578 --> 00:08:37,140
+it let's bring up the camera pick it up
+
+274
+00:08:37,140 --> 00:08:39,059
+yeah you know what the move is all real
+
+275
+00:08:39,059 --> 00:08:40,708
+so authentic baby didn't have to move I
+
+276
+00:08:40,708 --> 00:08:42,899
+would<font color="#CCCCCC"> probably go like you know if I had</font>
+
+277
+00:08:42,899 --> 00:08:43,979
+a<font color="#CCCCCC"> camera</font><font color="#E5E5E5"> man but if I didn't I'd</font>
+
+278
+00:08:43,979 --> 00:08:45,240
+probably pick it up<font color="#E5E5E5"> and be like that is</font>
+
+279
+00:08:45,240 --> 00:08:47,220
+the greatest moment in John Starks
+
+280
+00:08:47,220 --> 00:08:48,540
+career as you<font color="#E5E5E5"> can see I've got</font><font color="#CCCCCC"> a John</font>
+
+281
+00:08:48,540 --> 00:08:50,460
+start poster when he dunks on all the
+
+282
+00:08:50,460 --> 00:08:53,100
+I was at<font color="#CCCCCC"> the game anyway so I go back</font>
+
+283
+00:08:53,100 --> 00:08:56,160
+<font color="#E5E5E5">and I cook oh I got a rookie card now</font>
+
+284
+00:08:56,160 --> 00:08:57,420
+there's so many other cool things you
+
+285
+00:08:57,420 --> 00:09:00,780
+can do for example ebay has an affiliate
+
+286
+00:09:00,780 --> 00:09:02,670
+program right a bring one of these<font color="#E5E5E5"> cards</font>
+
+287
+00:09:02,670 --> 00:09:04,230
+after you're done taping let's say the
+
+288
+00:09:04,230 --> 00:09:06,810
+<font color="#E5E5E5">Ron how not run out go on Howard rookie</font>
+
+289
+00:09:06,810 --> 00:09:08,700
+card was still worth two bucks because I
+
+290
+00:09:08,700 --> 00:09:10,050
+know cards are really depreciate in
+
+291
+00:09:10,050 --> 00:09:11,670
+value but let's say was or if I got a
+
+292
+00:09:11,670 --> 00:09:13,080
+Nolan Ryan signed it might not be worth
+
+293
+00:09:13,080 --> 00:09:14,610
+500 like used to be but even if its
+
+294
+00:09:14,610 --> 00:09:16,710
+twenty bucks I could<font color="#E5E5E5"> in theory on this</font>
+
+295
+00:09:16,710 --> 00:09:18,480
+show just<font color="#E5E5E5"> like I do with wine library TV</font>
+
+296
+00:09:18,480 --> 00:09:20,400
+have the wines<font color="#CCCCCC"> link below</font><font color="#E5E5E5"> at the end of</font>
+
+297
+00:09:20,400 --> 00:09:21,870
+show saying and if you want any of these
+
+298
+00:09:21,870 --> 00:09:23,400
+cards<font color="#E5E5E5"> you know we're not gonna sound</font>
+
+299
+00:09:23,400 --> 00:09:24,990
+because we love them but<font color="#CCCCCC"> you can</font>
+
+300
+00:09:24,990 --> 00:09:27,180
+definitely get these on ebay and then
+
+301
+00:09:27,180 --> 00:09:28,230
+you could have the link with your
+
+302
+00:09:28,230 --> 00:09:30,030
+affiliate link to the ebay auction and
+
+303
+00:09:30,030 --> 00:09:32,640
+you can sell maybe<font color="#E5E5E5"> 20 or 30 bucks a day</font>
+
+304
+00:09:32,640 --> 00:09:34,440
+in cards maybe even two bucks but it all
+
+305
+00:09:34,440 --> 00:09:36,540
+adds up it's all cash flow revenue you
+
+306
+00:09:36,540 --> 00:09:37,770
+go through he goes in Horace Grant how
+
+307
+00:09:37,770 --> 00:09:39,090
+much you hated him you can go<font color="#E5E5E5"> back to</font>
+
+308
+00:09:39,090 --> 00:09:40,080
+<font color="#E5E5E5">the fact that</font><font color="#CCCCCC"> he was in</font><font color="#E5E5E5"> that picture</font>
+
+309
+00:09:40,080 --> 00:09:41,760
+<font color="#E5E5E5">kind of cool that</font><font color="#CCCCCC"> he can maybe even make</font>
+
+310
+00:09:41,760 --> 00:09:43,980
+like John Starks dunk over horse grant
+
+311
+00:09:43,980 --> 00:09:46,110
+you know like crush um cuz<font color="#E5E5E5"> you hated the</font>
+
+312
+00:09:46,110 --> 00:09:47,730
+<font color="#E5E5E5">Bulls with all your passion and you get</font>
+
+313
+00:09:47,730 --> 00:09:48,840
+into kevin johnson<font color="#CCCCCC"> who's running for</font>
+
+314
+00:09:48,840 --> 00:09:50,700
+<font color="#E5E5E5">mayor now and you just go through Reggie</font>
+
+315
+00:09:50,700 --> 00:09:53,160
+Miller another guy you know just not a
+
+316
+00:09:53,160 --> 00:09:55,650
+good guy as a Knicks fan so a lot of
+
+317
+00:09:55,650 --> 00:09:57,090
+angles and a lot<font color="#CCCCCC"> of money</font><font color="#E5E5E5"> to be made</font>
+
+318
+00:09:57,090 --> 00:09:58,890
+with the affiliate programs to ebay the
+
+319
+00:09:58,890 --> 00:10:01,140
+sponsorship<font color="#CCCCCC"> to the show your fan base is</font>
+
+320
+00:10:01,140 --> 00:10:03,090
+probably gonna send you the packs but
+
+321
+00:10:03,090 --> 00:10:04,680
+even<font color="#CCCCCC"> if</font><font color="#E5E5E5"> they wouldn't after a while you</font>
+
+322
+00:10:04,680 --> 00:10:06,240
+can always buy them on ebay for low cost
+
+323
+00:10:06,240 --> 00:10:08,850
+a lot<font color="#E5E5E5"> of fun and for anybody that loved</font>
+
+324
+00:10:08,850 --> 00:10:11,040
+cards growing up or is really into
+
+325
+00:10:11,040 --> 00:10:12,750
+sports this is what I<font color="#E5E5E5"> talked about this</font>
+
+326
+00:10:12,750 --> 00:10:14,970
+<font color="#E5E5E5">is what exactly i talked about</font><font color="#CCCCCC"> 49 26</font>
+
+327
+00:10:14,970 --> 00:10:16,680
+year old lawyer you come home you set up
+
+328
+00:10:16,680 --> 00:10:18,030
+a camera and you do this for two hours
+
+329
+00:10:18,030 --> 00:10:19,290
+you're having a good time maybe have
+
+330
+00:10:19,290 --> 00:10:20,700
+some buddies over you talk about<font color="#E5E5E5"> stuff</font>
+
+331
+00:10:20,700 --> 00:10:22,560
+you talk<font color="#CCCCCC"> about sports could lead to</font>
+
+332
+00:10:22,560 --> 00:10:24,600
+writing a sports article and local paper
+
+333
+00:10:24,600 --> 00:10:26,850
+could lead to much bigger things like
+
+334
+00:10:26,850 --> 00:10:29,160
+being<font color="#E5E5E5"> on Conan or Ellen like me you know</font>
+
+335
+00:10:29,160 --> 00:10:30,960
+what i mean so opportunist and there's a
+
+336
+00:10:30,960 --> 00:10:32,580
+<font color="#E5E5E5">business plan with</font><font color="#CCCCCC"> the whole affiliate</font>
+
+337
+00:10:32,580 --> 00:10:34,590
+links whether it's too you know amazon
+
+338
+00:10:34,590 --> 00:10:36,030
+might be some cards or some other sites
+
+339
+00:10:36,030 --> 00:10:37,500
+out there<font color="#E5E5E5"> probably have affiliate links</font>
+
+340
+00:10:37,500 --> 00:10:39,120
+i love the ebay angle because I gets fun
+
+341
+00:10:39,120 --> 00:10:40,800
+maybe get your fans been against each
+
+342
+00:10:40,800 --> 00:10:42,660
+other I<font color="#E5E5E5"> just think there's so much to do</font>
+
+343
+00:10:42,660 --> 00:10:44,550
+when you put passion and ideas and
+
+344
+00:10:44,550 --> 00:10:46,800
+business together and this is the
+
+345
+00:10:46,800 --> 00:10:49,020
+perfect business for a guy my age that
+
+346
+00:10:49,020 --> 00:10:50,730
+grew<font color="#CCCCCC"> up with this stuff it'd be a lot I</font>
+
+347
+00:10:50,730 --> 00:10:52,170
+mean I<font color="#E5E5E5"> would do this I mean I would</font>
+
+348
+00:10:52,170 --> 00:10:53,670
+really<font color="#E5E5E5"> put together</font><font color="#CCCCCC"> a show it could be</font>
+
+349
+00:10:53,670 --> 00:10:57,780
+so much fun that's<font color="#E5E5E5"> example that's it get</font>
+
+350
+00:10:57,780 --> 00:00:00,000
+out<font color="#E5E5E5"> of</font><font color="#CCCCCC"> here</font>
+
