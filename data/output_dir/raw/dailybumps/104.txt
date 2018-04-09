@@ -1,1205 +1,1873 @@
 1
-00:00:00,000 --> 00:00:01,613
-- She can do it, huh Finn?
+00:00:00,379 --> 00:00:02,630
+- [Bryan] What Missy?
 
 2
-00:00:01,613 --> 00:00:02,446
-- Mhmm.
+00:00:02,630 --> 00:00:03,983
+- How did we do that wrong?
 
 3
-00:00:02,446 --> 00:00:03,996
-- Say, "Go auntie, go!"
+00:00:03,983 --> 00:00:05,414
+(groans)
 
 4
-00:00:03,996 --> 00:00:05,439
-- Go Aunt t-t!
+00:00:05,414 --> 00:00:06,366
+- [Bryan] We're the worst.
 
 5
-00:00:05,439 --> 00:00:06,272
-- Say, "Go auntie, go!"
+00:00:06,366 --> 00:00:07,384
+- I think I can fix this.
 
 6
-00:00:06,272 --> 00:00:07,967
-- Go Aunt t-t!
+00:00:07,384 --> 00:00:08,988
+- [Bryan] This may be a disaster.
 
 7
-00:00:07,967 --> 00:00:09,255
-- Go Aunt t-t!
+00:00:08,988 --> 00:00:10,139
+- I don't know if I can fix this.
 
 8
-00:00:09,255 --> 00:00:10,680
-♫ This is our life
+00:00:10,139 --> 00:00:12,555
+- Now Christmas is ruined!
 
 9
-00:00:10,680 --> 00:00:11,513
-♫ This is our fun
+00:00:12,555 --> 00:00:16,039
+♪ This is our life ♪
 
 10
-00:00:11,513 --> 00:00:14,336
-♫ This is who we are
+00:00:16,039 --> 00:00:17,911
+♪ Let's live it. ♪
 
 11
-00:00:14,336 --> 00:00:15,746
-♫ This is our dream
+00:00:17,911 --> 00:00:22,262
+♪ Live it forever! ♪
 
 12
-00:00:15,746 --> 00:00:16,748
-♫ This is our team
+00:00:22,262 --> 00:00:23,950
+- [Missy] Good morning my boys!
 
 13
-00:00:16,748 --> 00:00:18,793
-♫ Shot among the stars
+00:00:23,950 --> 00:00:26,231
+You guys look so handsome today.
 
 14
-00:00:18,793 --> 00:00:21,344
-♫ Take this shield and you'll be fine
+00:00:26,231 --> 00:00:27,695
+Morning guys, it is Sunday
 
 15
-00:00:21,344 --> 00:00:24,084
-♫ Take this hand and watch us shine
+00:00:27,695 --> 00:00:29,749
+and it is a beautiful day.
 
 16
-00:00:24,084 --> 00:00:26,324
-♫ This is our life
+00:00:29,749 --> 00:00:31,142
+We got up this morning
 
 17
-00:00:26,324 --> 00:00:28,484
-♫ Let's live it
+00:00:31,142 --> 00:00:33,372
+and we're off to church
 
 18
-00:00:28,484 --> 00:00:29,985
-♫ Live it forever
+00:00:33,372 --> 00:00:35,291
+and we're excited for a fun, fun day.
 
 19
-00:00:29,985 --> 00:00:31,652
-- [Both] Good morning!
+00:00:35,291 --> 00:00:36,377
+Boys where are you?
 
 20
-00:00:31,652 --> 00:00:34,042
-- Say, "Good morning!"
+00:00:36,377 --> 00:00:37,210
+Come on!
 
 21
-00:00:34,042 --> 00:00:35,302
-- We at Mimi's house!
+00:00:37,210 --> 00:00:38,132
+We've got to go!
 
 22
-00:00:35,302 --> 00:00:39,364
-- We're at Mimi's house,
-huh? And who's here?
+00:00:38,132 --> 00:00:39,909
+Hey Ollie, do you want to
+show them where we found
 
 23
-00:00:39,364 --> 00:00:40,540
-Who's here?
+00:00:39,909 --> 00:00:40,861
+Fred today?
 
 24
-00:00:40,540 --> 00:00:41,574
-- Ahhh! Muah!
+00:00:40,861 --> 00:00:41,757
+Where did we find him?
 
 25
-00:00:41,574 --> 00:00:42,407
-- [Missy] Auntie!
+00:00:41,757 --> 00:00:43,002
+We couldn't find him for forever.
 
 26
-00:00:42,407 --> 00:00:43,515
-(all laughing)
+00:00:43,002 --> 00:00:43,835
+(shouts)
 
 27
-00:00:43,515 --> 00:00:45,588
-- [Missy] He's so excited.
+00:00:43,835 --> 00:00:48,644
+He's pretending to be baby
+Jesus in the nativity scene!
 
 28
-00:00:45,588 --> 00:00:48,392
-He's actually pretty excited
-because last time he was here,
+00:00:48,644 --> 00:00:51,862
+Fred you should not be
+impersonating Jesus!
 
 29
-00:00:48,392 --> 00:00:50,833
-he filmed a really fun video
-with auntie, and I think
+00:00:51,862 --> 00:00:53,713
+That is not a good thing to do!
 
 30
-00:00:50,833 --> 00:00:52,858
-he's like, "Are we gonna do that again?"
+00:00:53,713 --> 00:00:55,521
+No, no, no don't touch him!
 
 31
-00:00:52,858 --> 00:00:54,280
-- So, what are we doing now?
+00:00:55,521 --> 00:00:57,383
+You almost touched him!
 
 32
-00:00:54,280 --> 00:00:55,861
-- So, if you haven't seen that
-video, I'll have it linked
+00:00:57,383 --> 00:00:59,374
+Don't touch Fred!
 
 33
-00:00:55,861 --> 00:00:58,711
-up here because they swam in slime,
+00:00:59,374 --> 00:01:00,340
+You could hurt him.
 
 34
-00:00:58,711 --> 00:01:01,038
-and she actually convinced Finn to do it.
+00:01:00,340 --> 00:01:01,351
+He could get owies.
 
 35
-00:01:01,038 --> 00:01:02,247
-- And he was ...
+00:01:01,351 --> 00:01:03,868
+By the way, sometimes
+we don't vlog everything
 
 36
-00:01:02,247 --> 00:01:03,616
-- He was actually pretty into it!
+00:01:03,868 --> 00:01:06,881
+and sometimes we do a lot of Instastorying
 
 37
-00:01:03,616 --> 00:01:06,695
-- So, if you guys wanna
-see that hilarious video,
+00:01:06,881 --> 00:01:08,135
+or Instagraming
 
 38
-00:01:06,695 --> 00:01:08,487
-make sure you go check it out.
+00:01:08,135 --> 00:01:09,395
+so if you guys aren't following me,
 
 39
-00:01:08,487 --> 00:01:12,227
-But we're actually filming
-another fun video with Papa!
+00:01:09,395 --> 00:01:12,109
+make sure you are or Bryan
+or even Ollie and Finn
 
 40
-00:01:12,227 --> 00:01:14,029
-Papa's always the best in the videos.
+00:01:12,109 --> 00:01:13,847
+'cause they do a lot of Instagraming too.
 
 41
-00:01:14,029 --> 00:01:16,696
-And I actually helped out
-with this one, so I'm excited.
+00:01:13,847 --> 00:01:15,848
+We'll have that all linked
+down below for you to follow.
 
 42
-00:01:16,696 --> 00:01:18,636
-I'm gonna try and finish filming it.
+00:01:15,848 --> 00:01:18,622
+Yesterday I actually
+Instastoried finding Fred
 
 43
-00:01:18,636 --> 00:01:21,603
-Oh, look! My dad did
-this not too long ago,
+00:01:18,622 --> 00:01:21,212
+and it was super duper cute.
 
 44
-00:01:21,603 --> 00:01:23,572
-and he's building a little
-chest that's gonna be
+00:01:21,212 --> 00:01:23,557
+All right look at the boys are all ready!
 
 45
-00:01:23,572 --> 00:01:24,553
-built in here.
+00:01:23,557 --> 00:01:24,846
+- We're ready for church!
 
 46
-00:01:24,553 --> 00:01:25,910
-I think it's gonna look really cool.
+00:01:24,846 --> 00:01:27,020
+- It's always a little
+hit or miss with Finn
 
 47
-00:01:25,910 --> 00:01:29,857
-So I just got done filming
-that video of Cassey and my dad
+00:01:27,020 --> 00:01:28,653
+when we drop him off at nursery.
 
 48
-00:01:29,857 --> 00:01:32,334
-and, just so you know,
-these are some of the items
+00:01:28,653 --> 00:01:30,007
+You never know if he's
+going to start crying.
 
 49
-00:01:32,334 --> 00:01:34,858
-that they used, and it
-was pretty hilarious.
+00:01:30,007 --> 00:01:30,920
+He usually cries.
 
 50
-00:01:34,858 --> 00:01:36,521
-I'll have to let you know
-when that video is out.
+00:01:30,920 --> 00:01:31,779
+We're all ready.
 
 51
-00:01:36,521 --> 00:01:38,756
-But now, Cassey is being
-so nice and she's gonna go
+00:01:31,779 --> 00:01:32,612
+We're going.
 
 52
-00:01:38,756 --> 00:01:40,259
-pick up Ollie from school.
+00:01:32,612 --> 00:01:33,701
+I'm actually wearing a
+little lettermansweater
 
 53
-00:01:40,259 --> 00:01:43,079
-And so, I'm just hanging out
-at my mom's having some lunch,
+00:01:33,701 --> 00:01:36,275
+and it has a B on it for Bryan.
 
 54
-00:01:43,079 --> 00:01:45,110
-playing some video games.
+00:01:36,275 --> 00:01:37,256
+- Aw thanks babe.
 
 55
-00:01:45,110 --> 00:01:46,824
-Fin's over there eatin' over there.
+00:01:37,256 --> 00:01:38,089
+- Just for you.
 
 56
-00:01:46,824 --> 00:01:48,027
-Just so you know, guys,
+00:01:38,089 --> 00:01:40,672
+(upbeat music)
 
 57
-00:01:48,027 --> 00:01:52,001
-I am completely obsessed with
-my Switch and with Mario.
+00:01:47,420 --> 00:01:49,418
+- [Bryan] Okay I just had to
+vlog Finn waiting so patiently
 
 58
-00:01:52,001 --> 00:01:54,042
-Particularly Mario.
+00:01:49,418 --> 00:01:51,799
+to get his crayons out of his box.
 
 59
-00:01:54,042 --> 00:01:55,629
-And I just beat the whole game,
+00:01:51,799 --> 00:01:53,776
+He's being such a good boy today.
 
 60
-00:01:55,629 --> 00:01:57,811
-but apparently, when you
-beat it, you don't beat it.
+00:01:53,776 --> 00:01:54,905
+There you go Finny.
 
 61
-00:01:57,811 --> 00:01:59,640
-There's just tons and tons more to do.
+00:01:54,905 --> 00:01:57,185
+Ollie and Finn are doing such a good job
 
 62
-00:01:59,640 --> 00:02:01,390
-And it's, like, actually
-a little overwhelming.
+00:01:57,185 --> 00:01:59,787
+at coloring their coasters.
 
 63
-00:02:01,390 --> 00:02:03,846
-But I'm loving this game, so
-if you guys don't have it,
+00:01:59,787 --> 00:02:01,506
+Good job boys.
 
 64
-00:02:03,846 --> 00:02:05,677
-you're crazy, 'cause it's the best.
+00:02:01,506 --> 00:02:03,394
+They have been such good boys all day.
 
 65
-00:02:05,677 --> 00:02:06,725
-It's so much fun.
+00:02:03,394 --> 00:02:05,830
+It's so crazy the things that
+they're starting to say to us.
 
 66
-00:02:06,725 --> 00:02:08,568
-It's so much fun when
-there's just down time.
+00:02:05,830 --> 00:02:07,996
+- I know and even to each other.
 
 67
-00:02:08,568 --> 00:02:10,328
-I'm like, "I'm gonna play
-my game for a little bit."
+00:02:07,996 --> 00:02:09,701
+They just love each other so much.
 
 68
-00:02:10,328 --> 00:02:14,064
-And I already beat it. I'm
-like way ahead of Bryan, so.
+00:02:09,701 --> 00:02:10,999
+- They're starting to become
+like really good friends
 
 69
-00:02:14,064 --> 00:02:15,581
-I'm such a gamer guys.
+00:02:10,999 --> 00:02:13,419
+and they're probably
+on their best behavior
 
 70
-00:02:15,581 --> 00:02:18,443
-So Finn is trying to take a nap at Mimi's
+00:02:13,419 --> 00:02:14,639
+because it's Christmastime.
 
 71
-00:02:18,443 --> 00:02:20,897
-and so, I set him up with
-a little show to watch
+00:02:14,639 --> 00:02:17,446
+But I got in the car and Ollie was like
 
 72
-00:02:20,897 --> 00:02:24,196
-and hopefully to fall asleep
-that I thought I'd show.
+00:02:17,446 --> 00:02:19,093
+Dada, you're awesome
 
 73
-00:02:24,196 --> 00:02:27,196
-(light piano music)
+00:02:19,093 --> 00:02:20,911
+and I was like thanks you're awesome too.
 
 74
-00:02:32,628 --> 00:02:34,211
-Shhhh. Hi, my baby.
+00:02:20,911 --> 00:02:22,546
+You are so awesome.
 
 75
-00:02:36,786 --> 00:02:39,279
-He looks so tiny in that big ol' bed,
+00:02:22,546 --> 00:02:23,493
+I love you boys.
 
 76
-00:02:39,279 --> 00:02:40,897
-but I'm hoping he falls asleep.
+00:02:23,493 --> 00:02:25,135
+All right guys let's cheers!
 
 77
-00:02:40,897 --> 00:02:42,575
-Hopefully that didn't just
-disturb him and he'll be like,
+00:02:25,135 --> 00:02:25,968
+Cheers!
 
 78
-00:02:42,575 --> 00:02:43,679
-"What are you doing?"
+00:02:27,115 --> 00:02:29,765
+- We are home and Finn is
+just waking up from his nap.
 
 79
-00:02:43,679 --> 00:02:45,645
-Hey dude! You're back!
+00:02:29,765 --> 00:02:31,736
+He does not sound very happy huh?
 
 80
-00:02:45,645 --> 00:02:48,823
-How excited were you when you
-saw Auntie come pick you up?
+00:02:31,736 --> 00:02:32,569
+- Yeah.
 
 81
-00:02:48,823 --> 00:02:49,928
-- Yeah.
+00:02:32,569 --> 00:02:33,901
+- He took a nap in Ollie's room
 
 82
-00:02:49,928 --> 00:02:51,493
-- [Missy] Were you so happy?
+00:02:33,901 --> 00:02:36,310
+and he just woke up and he is not happy.
 
 83
-00:02:51,493 --> 00:02:52,523
-- He was so excited. He was so happy.
+00:02:36,310 --> 00:02:38,082
+So I'm just like you come
+out when you're ready.
 
 84
-00:02:52,523 --> 00:02:53,819
-- [Missy] Was he?
+00:02:38,082 --> 00:02:39,258
+But we've just been kind of relaxing
 
 85
-00:02:53,819 --> 00:02:54,652
-- Yeah.
+00:02:39,258 --> 00:02:42,625
+and getting out all our Christmas decor.
 
 86
-00:02:54,652 --> 00:02:55,485
-- [Missy] Was he playing?
+00:02:42,625 --> 00:02:44,270
+Yay!
 
 87
-00:02:55,485 --> 00:02:56,318
-- No, he was eating his lunch.
+00:02:44,270 --> 00:02:45,685
+For the tree huh?
 
 88
-00:02:56,318 --> 00:02:57,645
-- [Missy] Eating his lunch,
-and he probably got so excited.
+00:02:45,685 --> 00:02:47,580
+Because we still have to put
+together our family tree.
 
 89
-00:02:57,645 --> 00:02:59,097
-- He was so excited. Muah!
+00:02:47,580 --> 00:02:49,215
+Fred did not get us a tree.
 
 90
-00:02:59,097 --> 00:03:00,938
-- [Missy] Did you tell
-everyone that's your Auntie
+00:02:49,215 --> 00:02:51,109
+He didn't decorate our
+tree which is a good thing
 
 91
-00:03:00,938 --> 00:03:02,271
-and she's the bestest?
+00:02:51,109 --> 00:02:52,554
+'cause we like to decorate our tree
 
 92
-00:03:02,271 --> 00:03:03,312
-- Um, yeah.
+00:02:52,554 --> 00:02:55,177
+and normally we do it like
+way earlier than we are
 
 93
-00:03:03,312 --> 00:03:06,821
-- She is the best. Muah. Am I right?
+00:02:55,177 --> 00:02:57,911
+but I guess we just kind
+of have been falling behind
 
 94
-00:03:06,821 --> 00:03:11,085
-- Yep, now we're all just
-hangin' out at Mimi and Papa's
+00:02:57,911 --> 00:02:59,856
+this year but we're really excited.
 
 95
-00:03:11,085 --> 00:03:14,906
-and playin' and they're just
-so happy to have Auntie here.
+00:02:59,856 --> 00:03:01,317
+I was just going through
+all my decor though.
 
 96
-00:03:14,906 --> 00:03:16,169
-- Rawr!
+00:03:01,317 --> 00:03:03,524
+We've got lots of different things.
 
 97
-00:03:16,169 --> 00:03:17,586
-(Auntie laughs)
+00:03:03,524 --> 00:03:06,511
+I think we might get a
+few more things at Target.
 
 98
-00:03:17,586 --> 00:03:18,917
-- [Missy] Did you take your nap, bud?
+00:03:06,511 --> 00:03:08,762
+I was plugging in all the
+lights and my lights do work.
 
 99
-00:03:18,917 --> 00:03:19,750
-- No!
+00:03:08,762 --> 00:03:10,268
+We're going to go get our Christmas tree?
 
 100
-00:03:19,750 --> 00:03:20,647
-- [Missy And Auntie] No!
+00:03:10,268 --> 00:03:11,175
+- Yeah!
 
 101
-00:03:20,647 --> 00:03:21,822
-- [Missy] You never ...
+00:03:11,175 --> 00:03:12,047
+- [Missy] All right.
 
 102
-00:03:21,822 --> 00:03:24,223
-- Never. Oh, losing his hand.
+00:03:12,047 --> 00:03:13,163
+Are we going to get a big one
 
 103
-00:03:24,223 --> 00:03:27,738
-- We are now at our
-house and Auntie is over
+00:03:13,163 --> 00:03:15,155
+or like a small one?
 
 104
-00:03:27,738 --> 00:03:30,924
-and Finn is playing with her
-and he's so happy right now.
+00:03:15,155 --> 00:03:19,322
+- I think we're going to get
+just a little bigger one.
 
 105
-00:03:30,924 --> 00:03:31,918
-Let me show ya.
+00:03:20,876 --> 00:03:21,766
+- [Missy] Okay cool.
 
 106
-00:03:31,918 --> 00:03:33,832
-And they're on the Boosted Board!
+00:03:21,766 --> 00:03:22,805
+Let's go pick it out.
 
 107
-00:03:33,832 --> 00:03:37,082
-(Auntie making noises)
+00:03:22,805 --> 00:03:25,388
+(upbeat music)
 
 108
-00:03:39,252 --> 00:03:41,441
-- [Auntie] We're gonna see if we can turn.
+00:03:30,591 --> 00:03:32,454
+All right we've piled into the truck
 
 109
-00:03:41,441 --> 00:03:43,188
-See if we can turn
-without hitting the car.
+00:03:32,454 --> 00:03:34,772
+because we're going to
+put the tree back there
 
 110
-00:03:43,188 --> 00:03:45,047
-- [Missy] Oh, oh, oh, oh, oh!
+00:03:34,772 --> 00:03:36,318
+which we've never had a
+truck to get a tree with.
 
 111
-00:03:45,047 --> 00:03:46,122
-- Woo! We're good.
+00:03:36,318 --> 00:03:38,101
+We always have to strap it to the roof
 
 112
-00:03:46,122 --> 00:03:47,444
-Should we go down the hill?
+00:03:38,101 --> 00:03:41,143
+and then be scared that it's
+going to fly off our car.
 
 113
-00:03:47,444 --> 00:03:48,390
-- [Finn] Uh-huh!
+00:03:41,143 --> 00:03:42,843
+Finn is up from his nap.
 
 114
-00:03:48,390 --> 00:03:49,968
-- Alright, he said yeah so ...
+00:03:42,843 --> 00:03:43,676
+Are you happy now?
 
 115
-00:03:49,968 --> 00:03:52,748
-- [Missy] He's a daredevil.
+00:03:43,676 --> 00:03:44,509
+- Yeah!
 
 116
-00:03:52,748 --> 00:03:53,665
-Oh my gosh.
+00:03:44,509 --> 00:03:45,342
+- He woke up a little grouchy
 
 117
-00:03:55,232 --> 00:03:56,947
-(Missy screaming)
+00:03:45,342 --> 00:03:46,415
+but I think he's happy.
 
 118
-00:03:56,947 --> 00:03:57,973
-(Missy laughing)
+00:03:46,415 --> 00:03:49,474
+First up we're going to
+Target to grab a few things
 
 119
-00:03:57,973 --> 00:03:59,321
-- [Auntie] Auntie doesn't
-know how to work it.
+00:03:49,474 --> 00:03:52,349
+so we can decorate it
+and it will look good
 
 120
-00:03:59,321 --> 00:04:01,488
-- [Missy] Okay, ready? Go!
+00:03:52,349 --> 00:03:54,078
+and then we'll go get our tree.
 
 121
-00:04:04,123 --> 00:04:05,565
-- Auntie's scared.
+00:03:54,078 --> 00:03:56,661
+(upbeat music)
 
 122
-00:04:05,565 --> 00:04:06,937
-(Missy laughing)
+00:03:58,453 --> 00:04:01,586
+- So we are now shopping
+in a Target wonderland.
 
 123
-00:04:06,937 --> 00:04:08,371
-- [Missy] You can't even see Finn's face
+00:04:01,586 --> 00:04:02,589
+Yes it is true.
 
 124
-00:04:08,371 --> 00:04:10,004
-'cause he's got Spiderman.
+00:04:02,589 --> 00:04:04,750
+All the weird ornaments, even the pickles.
 
 125
-00:04:10,004 --> 00:04:11,598
-(upbeat music)
+00:04:04,750 --> 00:04:06,103
+(laughs)
 
 126
-00:04:11,598 --> 00:04:13,342
-- [Missy] Oh my gosh you're going so fast!
+00:04:06,103 --> 00:04:07,717
+We had to pick out a star.
 
 127
-00:04:13,342 --> 00:04:15,925
-(upbeat music)
+00:04:07,717 --> 00:04:08,974
+We need a tree skirt,
 
 128
-00:04:17,146 --> 00:04:20,024
-- [Missy] Ah! There are the dare devils!
+00:04:08,974 --> 00:04:10,304
+we need lights.
 
 129
-00:04:20,024 --> 00:04:21,823
-- [Auntie] Oh my god!
+00:04:10,304 --> 00:04:12,760
+- Lights and maybe a
+couple more ornaments.
 
 130
-00:04:21,824 --> 00:04:23,593
-- [Missy] That was actually really fast.
-
-131
-00:04:23,593 --> 00:04:25,594
-It doesn't look fast,
-but it's way too fast.
-
-132
-00:04:25,594 --> 00:04:26,929
-(Missy laughing)
-
-133
-00:04:26,929 --> 00:04:31,483
-- [Missy] Backin' it up,
-backin' it up, backin' it up.
-
-134
-00:04:31,483 --> 00:04:32,991
-- [Auntie] You havin' fun?
-
-135
-00:04:32,991 --> 00:04:34,824
-- [Missy] He loves it.
-
-136
-00:04:36,072 --> 00:04:38,283
-Here they come, here they come!
-
-137
-00:04:38,283 --> 00:04:41,200
-(Auntie screaming)
-
-138
-00:04:44,064 --> 00:04:46,054
-Alright, Auntie's gonna
-experiment on our ...
-
-139
-00:04:46,054 --> 00:04:48,667
-- [Auntie] I'm really scared!
-
-140
-00:04:48,667 --> 00:04:50,213
-- [Missy] You can do it!
-
-141
-00:04:50,213 --> 00:04:51,892
-- I'm literally just holding the break.
-
-142
-00:04:51,892 --> 00:04:53,257
-(Missy laughing)
-
-143
-00:04:53,257 --> 00:04:54,809
-- [Missy] Alright, go faster!
-
-144
-00:04:54,809 --> 00:04:55,951
-- [Auntie] No! I don't wanna fall!
-
-145
-00:04:55,951 --> 00:04:56,949
-- [Missy] You can do it!
-
-146
-00:04:56,949 --> 00:04:58,116
-She can do it, huh, Finn?
-
-147
-00:04:58,116 --> 00:04:58,996
-- [Finn] Mhmm.
-
-148
-00:04:58,996 --> 00:05:00,376
-- [Missy] Say, "Go Auntie, go!"
-
-149
-00:05:00,376 --> 00:05:01,796
-- [Finn] Go Aunt t-t.
-
-150
-00:05:01,796 --> 00:05:02,878
-- Say, "Go Auntie, go!"
-
-151
-00:05:02,878 --> 00:05:04,183
-- Go Aunt t-t!
-
-152
-00:05:04,183 --> 00:05:06,814
-- Go Aunt t-t! Go t-t go!
-
-153
-00:05:06,814 --> 00:05:08,762
-- Go Aunt t-t!
-
-154
-00:05:08,762 --> 00:05:11,994
-- It's so cute, he calls
-her t-t. You're so cute.
-
-155
-00:05:11,994 --> 00:05:15,110
-Oh, here she comes. Back up.
-
-156
-00:05:15,110 --> 00:05:17,027
-Oh, that's pretty good.
-
-157
-00:05:19,816 --> 00:05:22,316
-Now you're makin' me wanna go.
-
-158
-00:05:23,525 --> 00:05:26,344
-Finn was like, "Kay, I'm going again."
-
-159
-00:05:26,344 --> 00:05:28,139
-- Let's go. Say, "Bye guys!"
-
-160
-00:05:28,139 --> 00:05:29,222
-- [Finn] Bye!
-
-161
-00:05:30,277 --> 00:05:32,674
-- [Missy] Alright, we
-found an even better ride!
-
-162
-00:05:32,674 --> 00:05:33,575
-(Ollie screaming)
-
-163
-00:05:33,575 --> 00:05:34,808
-Here goes the boys!
-
-164
-00:05:34,808 --> 00:05:37,028
-- [Auntie] I don't think Ollie likes it.
-
-165
-00:05:37,028 --> 00:05:38,944
-- [Missy] Ollie is not
-as adventurous as Finn.
-
-166
-00:05:38,944 --> 00:05:40,464
-- [Auntie] I think it's
-'cause we traumatized him
-
-167
-00:05:40,464 --> 00:05:41,297
-with the hill.
-
-168
-00:05:41,297 --> 00:05:42,156
-- [Missy] I think so.
-
-169
-00:05:42,156 --> 00:05:43,073
-Ready? Woo!
-
-170
-00:05:44,732 --> 00:05:47,565
-(Ollie screaming)
-
-171
-00:05:49,445 --> 00:05:52,034
-Ollie does not, he's not a fan.
-
-172
-00:05:52,034 --> 00:05:54,121
-You wanna go with Auntie?
-
-173
-00:05:54,121 --> 00:05:54,954
-- Yeah.
-
-174
-00:05:56,050 --> 00:05:58,302
-- [Missy] Finn's like,
-"Uh, I'm having a blast."
-
-175
-00:05:58,302 --> 00:06:02,268
-- [Bryan] Ollie, would you
-look at that? What do you see?
-
-176
-00:06:02,268 --> 00:06:03,851
-Look up in the sky.
-
-177
-00:06:04,984 --> 00:06:06,716
-What do you see up there?
-
-178
-00:06:06,716 --> 00:06:09,552
-- Um, cotton candy clouds!
-
-179
-00:06:09,552 --> 00:06:13,616
-- [Bryan] Yeah, dude, look!
-The pink clouds are back!
-
-180
-00:06:13,616 --> 00:06:16,484
-Cotton candy clouds are in the air.
-
-181
-00:06:16,484 --> 00:06:17,620
-What's up, babe?
-
-182
-00:06:17,620 --> 00:06:18,735
-- It's so pretty out here.
-
-183
-00:06:18,735 --> 00:06:20,894
-- Hey guys. I have not
-been on the vlog today.
-
-184
-00:06:20,894 --> 00:06:22,100
-- He's been workin'!
-
-185
-00:06:22,100 --> 00:06:23,797
-- Livin' and workin'.
-
-186
-00:06:23,797 --> 00:06:25,781
-- We should fly up there and eat those!
-
-187
-00:06:25,781 --> 00:06:29,339
-- [Bryan] Really? Oh, we
-should fly up in the sky
-
-188
-00:06:29,339 --> 00:06:30,557
-and eat that cotton candy.
-
-189
-00:06:30,557 --> 00:06:32,413
-- Look at that side. That is so pretty.
-
-190
-00:06:32,413 --> 00:06:33,803
-- [Bryan] Oh, wow.
-
-191
-00:06:33,803 --> 00:06:37,466
-This is right in the view
-of our courtyard here.
-
-192
-00:06:37,466 --> 00:06:40,199
-Look at that sky, that's incredible!
-
-193
-00:06:40,199 --> 00:06:41,508
-- That's crazy. It's amazing.
-
-194
-00:06:41,508 --> 00:06:43,416
-- It's so beautiful.
-
-195
-00:06:43,416 --> 00:06:45,924
-Yeah, hey guys. Missy's
-been vlogging all day,
-
-196
-00:06:45,924 --> 00:06:47,746
-but I've been at the house filming
-
-197
-00:06:47,746 --> 00:06:48,987
-for something really special.
-
-198
-00:06:48,987 --> 00:06:50,862
-We have a special video
-going up in a couple days.
-
-199
-00:06:50,862 --> 00:06:53,182
-And it's been super fun, but I'm done!
-
-200
-00:06:53,182 --> 00:06:55,343
-So, now I get to hang out with the fam!
-
-201
-00:06:55,343 --> 00:06:57,010
-I feel like sometimes, being a YouTuber,
-
-202
-00:06:57,010 --> 00:06:59,109
-people say, like, "Oh, you just
-sit at home and do nothing."
-
-203
-00:06:59,109 --> 00:07:00,975
-That is not the truth.
-
-204
-00:07:00,975 --> 00:07:03,086
-So, yeah, I put in a lot of work today.
-
-205
-00:07:03,086 --> 00:07:04,594
-And it feels really good.
-
-206
-00:07:04,594 --> 00:07:06,280
-But yeah, sometimes even being a YouTuber,
-
-207
-00:07:06,280 --> 00:07:08,674
-you're still dealing with work. Work.
-
-208
-00:07:08,674 --> 00:07:11,205
-- I know, and it's not
-just, like, filming videos.
-
-209
-00:07:11,205 --> 00:07:12,038
-- [Bryan] It's fun work, though.
-
-210
-00:07:12,038 --> 00:07:13,134
-- It's a lot. It's more than that, though.
-
-211
-00:07:13,134 --> 00:07:14,473
-- Yeah, there is a lot
-more that goes into it.
-
-212
-00:07:14,473 --> 00:07:15,934
-And maybe we can talk about that,
-
-213
-00:07:15,934 --> 00:07:17,536
-or even share, like, what works for us,
-
-214
-00:07:17,536 --> 00:07:18,865
-business wise and stuff.
-
-215
-00:07:18,865 --> 00:07:20,677
-- We are running a business.
-
-216
-00:07:20,677 --> 00:07:23,454
-- [Bryan] Yeah. Yes we
-are. Aren't we, Ollie?
-
-217
-00:07:23,454 --> 00:07:24,410
-- Yeah!
-
-218
-00:07:24,410 --> 00:07:25,457
+00:04:12,760 --> 00:04:13,643
 - [Bryan] Yeah.
 
-219
-00:07:25,457 --> 00:07:26,371
-- We work hard, huh?
+131
+00:04:13,643 --> 00:04:16,906
+You guys they finally
+have an elf ornament.
 
-220
-00:07:26,371 --> 00:07:28,498
-- Sometimes, Ollie
-like, "Can we just play?
+132
+00:04:16,906 --> 00:04:17,772
+Look it!
 
-221
-00:07:28,498 --> 00:07:30,498
-And, like, can you guys
-come hang out with me?"
+133
+00:04:17,772 --> 00:04:18,833
+It's Buddy the elf!
 
-222
-00:07:30,498 --> 00:07:31,812
-And I'm like, "I'm sorry, dude!
+134
+00:04:18,833 --> 00:04:21,416
+(upbeat music)
 
-223
-00:07:31,812 --> 00:07:33,170
-I've really gotta finish this!" Huh?
+135
+00:04:23,633 --> 00:04:26,755
+Ooh the boys got some hot chocolate
 
-224
-00:07:33,170 --> 00:07:34,003
-- Yeah.
+136
+00:04:26,755 --> 00:04:29,581
+and we have made it to
+the Christmas tree farm!
 
-225
-00:07:34,003 --> 00:07:35,475
-- But now I'm here. Can I have a big hug?
+137
+00:04:29,581 --> 00:04:31,159
+We did photos here a couple years ago.
 
-226
-00:07:35,475 --> 00:07:36,642
-Arg. Hi, dude!
+138
+00:04:31,159 --> 00:04:33,051
+It's really, really pretty.
 
-227
-00:07:37,512 --> 00:07:39,148
-Did you have a good day at school?
+139
+00:04:33,051 --> 00:04:33,982
+- Christmas trees!
 
-228
-00:07:39,148 --> 00:07:40,023
-- Yeah.
+140
+00:04:33,982 --> 00:04:35,579
+- [Bryan] Yeah you want to go pick one?
 
-229
-00:07:40,023 --> 00:07:41,148
-- What did you do?
-
-230
-00:07:41,148 --> 00:07:43,886
-- I learned the, Mama, what letter?
-
-231
-00:07:43,886 --> 00:07:45,267
-- S!
-- S!
-
-232
-00:07:45,267 --> 00:07:48,567
-- S, he learned the letter
-S. And what starts with s?
-
-233
-00:07:48,567 --> 00:07:49,851
-- Um, scorpion.
-
-234
-00:07:49,851 --> 00:07:50,768
-- Scorpion.
-
-235
-00:07:51,954 --> 00:07:53,067
-Snake.
-
-236
-00:07:53,067 --> 00:07:54,297
-- Snake.
-
-237
-00:07:54,297 --> 00:07:55,751
-- That's a pretty good s one, huh?
-
-238
-00:07:55,751 --> 00:07:56,804
-- From Ninjago.
-
-239
-00:07:56,804 --> 00:07:57,637
-(Bryan laughing)
-
-240
-00:07:57,637 --> 00:07:59,392
-- Oh, only a Ninjago
-snake starts with an s.
-
-241
-00:07:59,392 --> 00:08:00,570
-That's so cool, dude!
-
-242
-00:08:00,570 --> 00:08:01,403
+141
+00:04:35,579 --> 00:04:36,429
 - Yeah!
 
+142
+00:04:36,429 --> 00:04:37,293
+- [Bryan] And cut it down?
+
+143
+00:04:37,293 --> 00:04:38,328
+Finn, did you bring your saw?
+
+144
+00:04:38,328 --> 00:04:39,291
+- Yeah.
+
+145
+00:04:39,291 --> 00:04:40,409
+- [Bryan] Okay cool.
+
+146
+00:04:40,409 --> 00:04:41,381
+I'll let you cut it down this year okay.
+
+147
+00:04:41,381 --> 00:04:43,964
+(upbeat music)
+
+148
+00:04:48,021 --> 00:04:49,415
+Merry Christmas throne!
+
+149
+00:04:49,415 --> 00:04:51,228
+That's so cool!
+
+150
+00:04:51,228 --> 00:04:53,053
+Look at you boys!
+
+151
+00:04:53,053 --> 00:04:55,615
+You're in Santa's chair.
+
+152
+00:04:55,615 --> 00:04:58,198
+(upbeat music)
+
+153
+00:05:09,851 --> 00:05:13,150
+So there is three different
+types of Christmas trees here.
+
+154
+00:05:13,150 --> 00:05:15,563
+There is a Douglas fir,
+there is a Noble fir
+
+155
+00:05:15,563 --> 00:05:17,061
+and there is a Grand fir.
+
+156
+00:05:17,061 --> 00:05:18,491
+Let me know in the comments down below,
+
+157
+00:05:18,491 --> 00:05:20,147
+what do you guys normally
+get for like your family
+
+158
+00:05:20,147 --> 00:05:21,316
+Christmas tree?
+
+159
+00:05:21,316 --> 00:05:23,960
+We always get a Noble but
+I love like the bushy look
+
+160
+00:05:23,960 --> 00:05:25,261
+of the Douglas firs
+
+161
+00:05:25,261 --> 00:05:26,686
+and they're like really soft
+
+162
+00:05:26,686 --> 00:05:28,478
+and they look like classic Christmas trees
+
+163
+00:05:28,478 --> 00:05:30,165
+but it doesn't really matter what kind
+
+164
+00:05:30,165 --> 00:05:31,468
+'cause it smells amazing in here.
+
+165
+00:05:31,468 --> 00:05:33,010
+I'm like loving (laughs)
+
+166
+00:05:33,010 --> 00:05:35,212
+this smell and vibe right now.
+
+167
+00:05:35,212 --> 00:05:36,071
+It's pretty dope.
+
+168
+00:05:36,071 --> 00:05:38,654
+(upbeat music)
+
+169
+00:05:40,869 --> 00:05:42,359
+Alrighty I think we've found it.
+
+170
+00:05:42,359 --> 00:05:43,553
+- Do you like this one?
+
+171
+00:05:43,553 --> 00:05:45,269
+Is that cool?
+
+172
+00:05:45,269 --> 00:05:46,903
+- [Bryan] We got a Christmas tree!
+
+173
+00:05:46,903 --> 00:05:48,708
+I think this is the one we're getting.
+
+174
+00:05:48,708 --> 00:05:49,541
+Aw!
+
+175
+00:05:51,918 --> 00:05:54,501
+(upbeat music)
+
+176
+00:05:56,588 --> 00:05:59,238
+- All right we're home and
+Bryan's bringing the tree in
+
+177
+00:05:59,238 --> 00:06:00,458
+in just a minute.
+
+178
+00:06:00,458 --> 00:06:01,798
+We just moved the couch just a little bit
+
+179
+00:06:01,798 --> 00:06:03,744
+so it's a lot closer to the TV
+
+180
+00:06:03,744 --> 00:06:05,573
+and we have more room
+over here for the tree.
+
+181
+00:06:05,573 --> 00:06:06,740
+Here it comes!
+
+182
+00:06:07,924 --> 00:06:08,772
+- Imagine that!
+
+183
+00:06:08,772 --> 00:06:09,856
+A Christmas tree that
+fits through the door!
+
+184
+00:06:09,856 --> 00:06:12,323
+- [Missy] And one that you
+can do all by yourself.
+
+185
+00:06:12,323 --> 00:06:13,823
+Usually I have to have my dad help us.
+
+186
+00:06:13,823 --> 00:06:14,906
+Look at that!
+
+187
+00:06:15,796 --> 00:06:17,129
+Oh it's so good!
+
+188
+00:06:18,555 --> 00:06:20,748
+- So this year we actually
+got what is called
+
+189
+00:06:20,748 --> 00:06:22,523
+a Nordman fir.
+
+190
+00:06:22,523 --> 00:06:23,500
+I've never heard of it before
+
+191
+00:06:23,500 --> 00:06:26,345
+but it definitely looks
+like a cross between like
+
+192
+00:06:26,345 --> 00:06:28,072
+a Noble and a Douglas.
+
+193
+00:06:28,072 --> 00:06:30,419
+- Yeah which is perfect
+because I really wanted a Noble
+
+194
+00:06:30,419 --> 00:06:31,531
+and you wanted Douglas.
+
+195
+00:06:31,531 --> 00:06:33,188
+- [Bryan] Yeah these branches
+are so pretty looking.
+
+196
+00:06:33,188 --> 00:06:34,242
+They're strong.
+
+197
+00:06:34,242 --> 00:06:35,325
+Look at that!
+
+198
+00:06:36,426 --> 00:06:38,502
+That is our Christmas tree you guys!
+
+199
+00:06:38,502 --> 00:06:40,181
+It's so pretty looking!
+
+200
+00:06:40,181 --> 00:06:42,616
+I think that is a good looking tree, babe.
+
+201
+00:06:42,616 --> 00:06:43,743
+- I love it!
+
+202
+00:06:43,743 --> 00:06:46,145
+It's a small tree but it's
+like the perfect size.
+
+203
+00:06:46,145 --> 00:06:47,846
+- [Bryan] I always want to
+go with a tree that touches
+
+204
+00:06:47,846 --> 00:06:48,745
+the ceiling.
+
+205
+00:06:48,745 --> 00:06:50,538
+- But it makes it so hard to decorate.
+
+206
+00:06:50,538 --> 00:06:52,262
+Like they honestly kind
+of always looks like eh.
+
+207
+00:06:52,262 --> 00:06:53,662
+(laughs)
+
+208
+00:06:53,662 --> 00:06:54,627
+- [Bryan] And it takes like four hours.
+
+209
+00:06:54,627 --> 00:06:55,494
+(laughs)
+
+210
+00:06:55,494 --> 00:06:56,404
+- Hey Daddy!
+
+211
+00:06:56,404 --> 00:06:57,327
+I'm matching you!
+
+212
+00:06:57,327 --> 00:06:58,347
+- We're matching!
+
+213
+00:06:58,347 --> 00:07:00,341
+Isn't that so cool?
+
+214
+00:07:00,341 --> 00:07:01,409
+- Yeah!
+
+215
+00:07:01,409 --> 00:07:02,275
+- Yeah.
+
+216
+00:07:02,275 --> 00:07:03,153
+- Hey Finn!
+
+217
+00:07:03,153 --> 00:07:04,710
+Now we are both matching!
+
+218
+00:07:04,710 --> 00:07:07,441
+- [Bryan] Whoa they're both matching now!
+
+219
+00:07:07,441 --> 00:07:08,970
+(laughs)
+
+220
+00:07:08,970 --> 00:07:10,567
+And we're all matching!
+
+221
+00:07:10,567 --> 00:07:12,691
+We're all matching
+
+222
+00:07:12,691 --> 00:07:15,666
+and we are going to now
+decorate the Christmas tree
+
+223
+00:07:15,666 --> 00:07:17,722
+as a family and I thought this year
+
+224
+00:07:17,722 --> 00:07:20,130
+we need to do a time lapse.
+
+225
+00:07:20,130 --> 00:07:21,898
+So we are going to get that set up.
+
+226
+00:07:21,898 --> 00:07:23,641
+Ollie, are you going to put
+those beads on the tree?
+
+227
+00:07:23,641 --> 00:07:24,617
+- Yeah.
+
+228
+00:07:24,617 --> 00:07:25,476
+- [Bryan] That's a lot.
+
+229
+00:07:25,476 --> 00:07:28,059
+(upbeat music)
+
+230
+00:07:33,570 --> 00:07:35,887
+All right so before we
+start decorating the tree,
+
+231
+00:07:35,887 --> 00:07:38,394
+we have to put ornament hooks on our bulbs
+
+232
+00:07:38,394 --> 00:07:39,844
+because we got new bulbs this year
+
+233
+00:07:39,844 --> 00:07:40,996
+and Ollie knows how to do it
+
+234
+00:07:40,996 --> 00:07:42,634
+and I am so proud of him.
+
+235
+00:07:42,634 --> 00:07:44,359
+So you put that hoop in
+and then what do you do?
+
+236
+00:07:44,359 --> 00:07:46,225
+And then you pinch it.
+
+237
+00:07:46,225 --> 00:07:47,338
+- Good job!
+
+238
+00:07:47,338 --> 00:07:48,454
+- [Bryan] You did it!
+
+239
+00:07:48,454 --> 00:07:50,327
+See how that makes it so much easier Ollie
+
+240
+00:07:50,327 --> 00:07:51,555
+to hang it on the tree?
+
+241
+00:07:51,555 --> 00:07:54,934
+So we are trying to put all of these
+
+242
+00:07:54,934 --> 00:07:55,944
+on these.
+
 243
-00:08:01,403 --> 00:08:02,393
-(techno music)
+00:07:55,944 --> 00:07:58,608
+Finn's like I don't know what is going on.
 
 244
-00:08:02,393 --> 00:08:03,744
-- It is such a good night.
+00:07:58,608 --> 00:07:59,724
+Last one Ollie!
 
 245
-00:08:03,744 --> 00:08:06,586
-I the kids dinner nice and
-early, and I am working on
+00:07:59,724 --> 00:08:01,488
+Put the hook on!
 
 246
-00:08:06,586 --> 00:08:08,777
-me and Bryan's dinner
-and I'm making something
+00:08:01,488 --> 00:08:02,476
+Pinch it.
 
 247
-00:08:08,777 --> 00:08:11,530
-that I've made a couple
-times this fall season,
+00:08:02,476 --> 00:08:03,486
+- There you go!
 
 248
-00:08:11,530 --> 00:08:13,368
-which is chicken pot pie.
+00:08:03,486 --> 00:08:04,586
+- [Bryan] Boom!
 
 249
-00:08:13,368 --> 00:08:15,339
-And I usually, I never
-remember early enough
+00:08:04,586 --> 00:08:05,451
+All right!
 
 250
-00:08:15,339 --> 00:08:17,349
-to put the chicken in the Crock-Pot.
+00:08:05,451 --> 00:08:06,370
+Should we put all of these
+on the tree now boys?
 
 251
-00:08:17,349 --> 00:08:18,750
-So it's nice and shredded.
+00:08:06,370 --> 00:08:07,221
+- Yeah!
 
 252
-00:08:18,750 --> 00:08:21,657
-And I also read that you can
-always get Rotisserie chicken
+00:08:07,221 --> 00:08:08,325
+- All right you guys.
 
 253
-00:08:21,657 --> 00:08:24,230
-and shred that, but I
-haven't done that either.
+00:08:08,325 --> 00:08:09,990
+We are all in our matching pajamas
 
 254
-00:08:24,230 --> 00:08:25,742
-I just had a bunch of chicken in there,
+00:08:09,990 --> 00:08:11,796
+and it is time to decorate the tree
 
 255
-00:08:25,742 --> 00:08:26,963
-so I cooked it up.
+00:08:11,796 --> 00:08:14,513
+so this time we're going to
+do a little bit of time lapse.
 
 256
-00:08:26,963 --> 00:08:28,611
-Then, what I decided
-to do, 'cause I've been
+00:08:14,513 --> 00:08:15,742
+You boys ready to decorate?
 
 257
-00:08:28,611 --> 00:08:30,224
-wanting to do this
-forever is I shredded it.
+00:08:15,742 --> 00:08:16,683
+- Yeah!
 
 258
-00:08:30,224 --> 00:08:32,119
-And it actually shredded pretty nicely for
+00:08:16,683 --> 00:08:17,639
+- Let's go!
 
 259
-00:08:32,119 --> 00:08:34,167
-chicken I just cooked up on the stove.
+00:08:17,639 --> 00:08:20,722
+(indistinct talking)
 
 260
-00:08:34,167 --> 00:08:35,592
-It kind of just, like, shredded apart.
+00:08:23,660 --> 00:08:26,243
+(upbeat music)
 
 261
-00:08:35,592 --> 00:08:36,887
-It was, like, super juicy.
+00:08:30,752 --> 00:08:31,669
+What Missy?
 
 262
-00:08:36,888 --> 00:08:38,510
-So, I'm pretty much impressed
-with myself right now,
+00:08:33,068 --> 00:08:34,390
+- How did we do that wrong?
 
 263
-00:08:38,510 --> 00:08:39,651
-'cause I am not a cook.
+00:08:34,390 --> 00:08:35,479
+(groans)
 
 264
-00:08:39,652 --> 00:08:40,759
-And I've got all my veggies.
+00:08:35,480 --> 00:08:36,347
+- [Bryan] We're the worst.
 
 265
-00:08:40,759 --> 00:08:43,357
-We're just doing corn,
-green beans, and carrots.
+00:08:36,347 --> 00:08:37,603
+- I think I can fix this.
 
 266
-00:08:43,357 --> 00:08:44,756
-Those are the ones I can handle.
+00:08:37,604 --> 00:08:38,960
+- [Bryan] This may be a disaster.
 
 267
-00:08:44,756 --> 00:08:47,494
-There's not a lot of
-vegetables that I'm like,
+00:08:38,960 --> 00:08:40,422
+- I don't know if I can fix this.
 
 268
-00:08:47,494 --> 00:08:50,674
-super excited about, but
-these ones, I can handle.
+00:08:40,422 --> 00:08:43,058
+- Now Christmas is ruined!
 
 269
-00:08:50,674 --> 00:08:53,057
-And I probably will
-pick around the carrots.
+00:08:43,058 --> 00:08:44,760
+- All right you guys we may
+have figured out a solution
 
 270
-00:08:53,057 --> 00:08:54,449
-I know, I am so bad.
+00:08:44,760 --> 00:08:47,235
+via an extension cord.
 
 271
-00:08:54,449 --> 00:08:55,933
-I'm really excited about
-my chicken, though.
+00:08:47,235 --> 00:08:48,754
+- Ribbon time!
 
 272
-00:08:55,933 --> 00:08:57,542
-I feel like it looks pretty dang good.
+00:08:48,754 --> 00:08:51,337
+(upbeat music)
 
 273
-00:08:57,542 --> 00:08:58,706
-It looks like it's starting to dry out,
+00:08:54,109 --> 00:08:54,967
+- Got beads?
 
 274
-00:08:58,706 --> 00:08:59,959
-so I'm gonna get this in here,
+00:08:54,967 --> 00:08:55,820
+We do.
 
 275
-00:08:59,959 --> 00:09:01,493
-so I can start making my pot pie.
+00:08:55,820 --> 00:08:56,719
+(laughs)
 
 276
-00:09:01,493 --> 00:09:04,146
-Alright, my pie shell is made.
+00:08:56,719 --> 00:08:57,711
+We're going to put them on our tree now.
 
 277
-00:09:04,146 --> 00:09:07,107
-I've got all my goodie
-goodness inside of it.
+00:08:57,711 --> 00:09:00,294
+(upbeat music)
 
 278
-00:09:07,107 --> 00:09:08,558
-I've gotta top it off.
+00:09:01,541 --> 00:09:05,878
+- [Ollie] Dada, you're doing
+really great with that tree.
 
 279
-00:09:08,558 --> 00:09:10,188
-And I'm FaceTiming my mom right now.
+00:09:05,878 --> 00:09:06,897
+- Thanks guys!
 
 280
-00:09:10,188 --> 00:09:11,849
-(laughing)
+00:09:06,897 --> 00:09:08,154
+- You're welcome.
 
 281
-00:09:11,849 --> 00:09:14,911
-And, uh, yeah. It looks delicious!
+00:09:08,154 --> 00:09:10,737
+(upbeat music)
 
 282
-00:09:14,911 --> 00:09:16,235
-I'm hungry now.
+00:09:16,668 --> 00:09:17,707
+- All right now we're going
+to throw all these balls
 
 283
-00:09:16,235 --> 00:00:00,000
-(techno music)
+00:09:17,707 --> 00:09:18,555
+on there.
+
+284
+00:09:18,555 --> 00:09:19,402
+(laughs)
+
+285
+00:09:19,402 --> 00:09:20,298
+For Christmas.
+
+286
+00:09:20,298 --> 00:09:21,727
+Boys!
+
+287
+00:09:21,727 --> 00:09:24,648
+Mommy and Daddy need your help!
+
+288
+00:09:24,648 --> 00:09:27,731
+So we are now going to put
+these on the Christmas tree
+
+289
+00:09:27,731 --> 00:09:29,954
+and we need your help
+to do it strategically
+
+290
+00:09:29,954 --> 00:09:31,355
+and nicely okay?
+
+291
+00:09:31,355 --> 00:09:32,227
+- Okay!
+
+292
+00:09:32,227 --> 00:09:33,093
+- Okay.
+
+293
+00:09:33,093 --> 00:09:35,552
+- Don't let another color
+next to another color.
+
+294
+00:09:35,552 --> 00:09:37,452
+- [Bryan] How about right here?
+
+295
+00:09:37,452 --> 00:09:39,197
+- That means that!
+
+296
+00:09:39,197 --> 00:09:41,364
+- [Bryan] Whoa you did it!
+
+297
+00:09:42,446 --> 00:09:43,871
+That was so cute!
+
+298
+00:09:43,871 --> 00:09:45,702
+He was so proud of
+himself for putting on his
+
+299
+00:09:45,702 --> 00:09:47,054
+first ornament!
+
+300
+00:09:47,054 --> 00:09:48,448
+(laughs)
+
+301
+00:09:48,448 --> 00:09:50,174
+Ollie you're doing such a good job buddy!
+
+302
+00:09:50,174 --> 00:09:52,757
+(upbeat music)
+
+303
+00:10:02,446 --> 00:10:04,680
+Okay now it's time to
+put on an assortment of
+
+304
+00:10:04,680 --> 00:10:07,807
+ornaments that we have
+acquired over the years.
+
+305
+00:10:07,807 --> 00:10:10,021
+Some are like kooky and
+weird and some are just
+
+306
+00:10:10,021 --> 00:10:12,220
+downright ugly looking
+
+307
+00:10:12,220 --> 00:10:15,215
+but they're ours so they go on our tree.
+
+308
+00:10:15,215 --> 00:10:18,114
+(soft music)
+
+309
+00:10:18,114 --> 00:10:19,343
+- That's coffee.
+
+310
+00:10:19,343 --> 00:10:20,683
+- Or actually there's hot chocolate.
+
+311
+00:10:20,683 --> 00:10:23,001
+It looks like those are
+little marshmallows.
+
+312
+00:10:23,001 --> 00:10:25,548
+- No I think that's coffee
+with (indistinct) in it.
+
+313
+00:10:25,548 --> 00:10:26,559
+- Oh really?
+
+314
+00:10:26,559 --> 00:10:28,674
+- Because coffee is black.
+
+315
+00:10:28,674 --> 00:10:31,091
+(soft music)
+
+316
+00:10:33,206 --> 00:10:34,816
+- You want to put the birdy on Finn?
+
+317
+00:10:34,816 --> 00:10:35,806
+- Where did this come from?
+
+318
+00:10:35,806 --> 00:10:39,054
+(soft music)
+
+319
+00:10:39,054 --> 00:10:42,195
+(indistinct)
+
+320
+00:10:42,195 --> 00:10:43,058
+- You did it!
+
+321
+00:10:43,058 --> 00:10:43,900
+He's so happy!
+
+322
+00:10:43,900 --> 00:10:46,317
+(soft music)
+
+323
+00:10:57,527 --> 00:10:59,000
+- [Bryan] Look at you
+
+324
+00:10:59,000 --> 00:11:01,087
+with your reindeer nose.
+
+325
+00:11:01,087 --> 00:11:02,579
+That's a fun one huh?
+
+326
+00:11:02,579 --> 00:11:04,931
+All right the tree is all done
+
+327
+00:11:04,931 --> 00:11:08,181
+and now all we need is
+to put the star on top.
+
+328
+00:11:08,181 --> 00:11:10,545
+So boys I'll give you each a turn.
+
+329
+00:11:10,545 --> 00:11:13,199
+Okay so you put the
+star on top of the tree.
+
+330
+00:11:13,199 --> 00:11:14,060
+Sound good?
+
+331
+00:11:14,060 --> 00:11:14,904
+- I want do it!
+
+332
+00:11:14,904 --> 00:11:16,190
+- And this year we don't
+have to use a ladder
+
+333
+00:11:16,190 --> 00:11:18,478
+and practically make it fall over.
+
+334
+00:11:18,478 --> 00:11:19,345
+- [Bryan] I know.
+
+335
+00:11:19,345 --> 00:11:20,718
+It's always been very
+crazy every single year
+
+336
+00:11:20,718 --> 00:11:23,418
+but now we have a average sized tree
+
+337
+00:11:23,418 --> 00:11:24,641
+that is pretty grand.
+
+338
+00:11:24,641 --> 00:11:26,429
+Let's put the star on top okay?
+
+339
+00:11:26,429 --> 00:11:27,441
+- Okay.
+
+340
+00:11:27,441 --> 00:11:28,374
+- All right!
+
+341
+00:11:28,374 --> 00:11:30,733
+So you need to grab this.
+
+342
+00:11:30,733 --> 00:11:31,692
+- [Missy] See if you can do it.
+
+343
+00:11:31,692 --> 00:11:32,709
+- Here's the star
+
+344
+00:11:32,709 --> 00:11:36,063
+and put this piece on top of there okay?
+
+345
+00:11:36,063 --> 00:11:37,081
+- [Missy] Put it up there Finn!
+
+346
+00:11:37,081 --> 00:11:37,998
+Oh my gosh!
+
+347
+00:11:39,161 --> 00:11:39,994
+- Put it on!
+
+348
+00:11:39,994 --> 00:11:40,827
+- I get it on!
+
+349
+00:11:40,827 --> 00:11:41,660
+(laughs)
+
+350
+00:11:41,660 --> 00:11:42,493
+- [Missy] Did you get it?
+
+351
+00:11:42,493 --> 00:11:43,326
+(laughs)
+
+352
+00:11:43,326 --> 00:11:44,159
+His face!
+
+353
+00:11:44,159 --> 00:11:45,594
+Put it on there, good job!
+
+354
+00:11:45,594 --> 00:11:47,618
+(laughs)
+
+355
+00:11:47,618 --> 00:11:50,127
+Right there, perfect!
+
+356
+00:11:50,127 --> 00:11:51,842
+You did it!
+
+357
+00:11:51,842 --> 00:11:53,606
+(cheers)
+
+358
+00:11:53,606 --> 00:11:54,999
+- It is Ollie's turn.
+
+359
+00:11:54,999 --> 00:11:55,832
+- [Missy] Okay.
+
+360
+00:11:55,832 --> 00:11:58,154
+- And I brought a chair
+because Ollie weighs a lot.
+
+361
+00:11:58,154 --> 00:11:59,590
+(laughs)
+
+362
+00:11:59,590 --> 00:12:00,472
+So go ahead.
+
+363
+00:12:00,472 --> 00:12:02,555
+- [Missy] Oh my goodness!
+
+364
+00:12:03,538 --> 00:12:04,371
+You're doing it!
+
+365
+00:12:04,371 --> 00:12:05,204
+Get it on there!
+
+366
+00:12:05,204 --> 00:12:07,287
+(cheers)
+
+367
+00:12:08,841 --> 00:12:10,731
+- High five dude!
+
+368
+00:12:10,731 --> 00:12:11,642
+Love you!
+
+369
+00:12:11,642 --> 00:12:12,475
+Merry Christmas!
+
+370
+00:12:12,475 --> 00:12:15,034
+- Merry Christmas Dada!
+
+371
+00:12:15,034 --> 00:12:17,945
+- [Bryan] All right it's time
+to shut off all the lights.
+
+372
+00:12:17,945 --> 00:12:20,845
+All right now it is
+time to light the tree.
+
+373
+00:12:20,845 --> 00:12:21,845
+Let's do it!
+
+374
+00:12:23,401 --> 00:12:25,818
+Three, two, one, light it up!
+
+375
+00:12:28,151 --> 00:12:28,984
+Woo!
+
+376
+00:12:31,314 --> 00:12:32,681
+It works!
+
+377
+00:12:32,681 --> 00:12:34,941
+- Peanut butter jelly time!
+
+378
+00:12:34,941 --> 00:12:37,003
+Peanut butter jelly time!
+
+379
+00:12:37,003 --> 00:12:39,086
+(cheers)
+
+380
+00:12:41,028 --> 00:12:42,445
+- It's Christmas!
+
+381
+00:12:43,989 --> 00:12:46,188
+- [Bryan] Yeah it's
+Christmastime now buddy!
+
+382
+00:12:46,188 --> 00:12:48,605
+(soft music)
+
+383
+00:13:19,878 --> 00:13:21,392
+I love our tree.
+
+384
+00:13:21,392 --> 00:13:22,873
+It is so pretty!
+
+385
+00:13:22,873 --> 00:13:23,949
+- [Missy] It's so pretty!
+
+386
+00:13:23,949 --> 00:13:24,810
+- [Bryan] We did a good job!
+
+387
+00:13:24,810 --> 00:13:26,218
+- We did so good with the lights!
+
+388
+00:13:26,218 --> 00:13:28,840
+- [Bryan] Are you so
+excited for Christmas boys?
+
+389
+00:13:28,840 --> 00:13:30,893
+(squeals)
+
+390
+00:13:30,893 --> 00:13:32,747
+Oh the squealing, that could stop.
+
+391
+00:13:32,747 --> 00:13:33,709
+That'd be cool.
+
+392
+00:13:33,709 --> 00:13:34,702
+(laughs)
+
+393
+00:13:34,702 --> 00:13:36,351
+- [Missy] All right
+boys it is time to open
+
+394
+00:13:36,351 --> 00:13:38,341
+our advent calendars.
+
+395
+00:13:38,341 --> 00:13:39,825
+So we might have missed yesterday huh?
+
+396
+00:13:39,825 --> 00:13:41,703
+So we get to open two of these
+
+397
+00:13:41,703 --> 00:13:43,282
+and two of these so that will be nice
+
+398
+00:13:43,282 --> 00:13:44,552
+because then you guys each get one
+
+399
+00:13:44,552 --> 00:13:46,071
+and there's no fighting!
+
+400
+00:13:46,071 --> 00:13:50,848
+Also a lot of people have
+questions as to why I start
+
+401
+00:13:50,848 --> 00:13:53,528
+with 24 and I like to count down
+
+402
+00:13:53,528 --> 00:13:57,053
+so we're going to open up 23 and then 22.
+
+403
+00:13:57,053 --> 00:13:57,961
+I don't know.
+
+404
+00:13:57,961 --> 00:13:58,850
+I just like counting down.
+
+405
+00:13:58,850 --> 00:13:59,713
+It might be the wrong way
+
+406
+00:13:59,713 --> 00:14:03,474
+but I think that it's fun
+to say there's 22 days
+
+407
+00:14:03,474 --> 00:14:05,515
+until Christmas instead
+of like oh it's the third.
+
+408
+00:14:05,515 --> 00:14:06,943
+Open three. (laughs)
+
+409
+00:14:06,943 --> 00:14:08,233
+All right Ollie.
+
+410
+00:14:08,233 --> 00:14:09,778
+You're opening up 23.
+
+411
+00:14:09,778 --> 00:14:11,051
+What's in there?
+
+412
+00:14:11,051 --> 00:14:11,968
+What is it?
+
+413
+00:14:13,543 --> 00:14:14,376
+I don't know which one that is.
+
+414
+00:14:14,376 --> 00:14:15,490
+We'll have to put it together.
+
+415
+00:14:15,490 --> 00:14:18,258
+You need to open 22 okay.
+
+416
+00:14:18,258 --> 00:14:19,236
+Press that one.
+
+417
+00:14:19,236 --> 00:14:20,069
+Right there, get that one.
+
+418
+00:14:20,069 --> 00:14:22,152
+Okay so Finn got this one
+
+419
+00:14:23,569 --> 00:14:25,486
+and Ollie got this one.
+
+420
+00:14:28,179 --> 00:14:31,752
+All right Finn gets to
+open up 23 of this one.
+
+421
+00:14:31,752 --> 00:14:34,543
+There you go get it out!
+
+422
+00:14:34,543 --> 00:14:35,462
+Who is it?
+
+423
+00:14:35,462 --> 00:14:37,878
+Oh my gosh it's Rapunzel!
+
+424
+00:14:37,878 --> 00:14:39,791
+Ollie gets to open up 22.
+
+425
+00:14:39,791 --> 00:14:41,108
+What's that one?
+
+426
+00:14:41,108 --> 00:14:42,745
+A Christmas tree?
+
+427
+00:14:42,745 --> 00:14:44,289
+Oh that's so cool!
+
+428
+00:14:44,289 --> 00:14:46,694
+I wonder if some fit
+in the Christmas tree.
+
+429
+00:14:46,694 --> 00:14:49,810
+You guys I bet they fit in here.
+
+430
+00:14:49,810 --> 00:14:51,552
+So Rapunzel fits in that one
+
+431
+00:14:51,552 --> 00:14:54,077
+and then I bet we'll find
+one that's even smaller
+
+432
+00:14:54,077 --> 00:14:55,993
+that'll go in that in the top of the tree.
+
+433
+00:14:55,993 --> 00:14:57,074
+Isn't that cool?
+
+434
+00:14:57,074 --> 00:14:57,907
+- Yeah.
+
+435
+00:14:57,907 --> 00:14:58,740
+- [Missy] How neat!
+
+436
+00:14:58,740 --> 00:14:59,573
+This one's really fun.
+
+437
+00:14:59,573 --> 00:15:00,863
+No assembly required when you open it.
+
+438
+00:15:00,863 --> 00:15:02,000
+Okay guys it's bedtime.
+
+439
+00:15:02,000 --> 00:15:04,818
+So so so far past our bedtime
+
+440
+00:15:04,818 --> 00:15:06,597
+so we're going to go
+ahead and end the video.
+
+441
+00:15:06,597 --> 00:15:08,300
+Make sure you visit vlog a big thumbs up.
+
+442
+00:15:08,300 --> 00:15:11,200
+We enjoyed decorating
+our Christmas tree today.
+
+443
+00:15:11,200 --> 00:15:12,736
+It was such an awesome
+day, I really enjoyed it.
+
+444
+00:15:12,736 --> 00:15:14,157
+We'll see you guys tomorrow!
+
+445
+00:15:14,157 --> 00:15:15,364
+What do you say Ollie?
+
+446
+00:15:15,364 --> 00:15:16,197
+- Bye!
+
+447
+00:15:17,138 --> 00:00:00,000
+(upbeat music)
 

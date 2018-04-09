@@ -1,0 +1,8 @@
+1
+00:00:00,030 --> 00:00:42,950
+go we go again<font color="#CCCCCC"> Kozak bye-bye</font><font color="#E5E5E5"> thank you</font>
+
+2
+00:00:45,950 --> 00:00:00,000
+go up the ramp<font color="#CCCCCC"> let's go</font>
+

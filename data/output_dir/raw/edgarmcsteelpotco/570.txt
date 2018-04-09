@@ -1,0 +1,12 @@
+1
+00:00:01,429 --> 00:00:18,090
+<font color="#E5E5E5">miguel é coisa dele</font><font color="#CCCCCC"> o nome</font><font color="#E5E5E5"> de</font><font color="#CCCCCC"> gaguim é</font>
+
+2
+00:00:18,090 --> 00:00:20,390
+né
+
+3
+00:00:28,609 --> 00:00:00,000
+<font color="#CCCCCC">esse factor e bié</font>
+

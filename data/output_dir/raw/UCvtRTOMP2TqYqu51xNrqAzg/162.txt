@@ -1,0 +1,1832 @@
+1
+00:00:00,000 --> 00:00:01,770
+<font color="#E5E5E5">what is going on you guys</font><font color="#CCCCCC"> Brandon here</font>
+
+2
+00:00:01,770 --> 00:00:03,929
+aka<font color="#CCCCCC"> robotics</font><font color="#E5E5E5"> and today I am bringing you</font>
+
+3
+00:00:03,929 --> 00:00:06,210
+guys a<font color="#E5E5E5"> brand new basketball video which</font>
+
+4
+00:00:06,210 --> 00:00:08,519
+I didn't<font color="#E5E5E5"> even expect to be playing</font><font color="#CCCCCC"> today</font>
+
+5
+00:00:08,519 --> 00:00:09,960
+but well we'll just<font color="#E5E5E5"> get into that in a</font>
+
+6
+00:00:09,960 --> 00:00:11,070
+little<font color="#CCCCCC"> bit</font><font color="#E5E5E5"> first I want to start this</font>
+
+7
+00:00:11,070 --> 00:00:13,650
+video off by saying<font color="#E5E5E5"> that yesterday I did</font>
+
+8
+00:00:13,650 --> 00:00:15,360
+not upload a video and<font color="#CCCCCC"> that</font><font color="#E5E5E5"> was the</font>
+
+9
+00:00:15,360 --> 00:00:16,920
+first<font color="#CCCCCC"> time I did upload a video in</font><font color="#E5E5E5"> two</font>
+
+10
+00:00:16,920 --> 00:00:18,660
+weeks<font color="#CCCCCC"> I</font><font color="#E5E5E5"> just want to apologize because I</font>
+
+11
+00:00:18,660 --> 00:00:20,250
+know there's a<font color="#CCCCCC"> lot of</font><font color="#E5E5E5"> people that get</font>
+
+12
+00:00:20,250 --> 00:00:22,230
+upset or<font color="#E5E5E5"> you know they look forward to</font>
+
+13
+00:00:22,230 --> 00:00:23,970
+<font color="#E5E5E5">watching my videos so I apologize if I</font>
+
+14
+00:00:23,970 --> 00:00:26,039
+let anybody down yesterday<font color="#CCCCCC"> I'm really</font>
+
+15
+00:00:26,039 --> 00:00:27,810
+upset<font color="#CCCCCC"> with myself for</font><font color="#E5E5E5"> that but at the</font>
+
+16
+00:00:27,810 --> 00:00:29,400
+<font color="#CCCCCC">same time I'm proud</font><font color="#E5E5E5"> of myself because</font>
+
+17
+00:00:29,400 --> 00:00:31,439
+the whole entire<font color="#E5E5E5"> time I went through the</font>
+
+18
+00:00:31,439 --> 00:00:33,570
+moving<font color="#CCCCCC"> process where as you</font><font color="#E5E5E5"> can see my</font>
+
+19
+00:00:33,570 --> 00:00:35,160
+whole room is empty<font color="#CCCCCC"> because I moved</font><font color="#E5E5E5"> out</font>
+
+20
+00:00:35,160 --> 00:00:37,800
+<font color="#E5E5E5">and the whole busy process of being with</font>
+
+21
+00:00:37,800 --> 00:00:39,270
+my family deciding whether I should move
+
+22
+00:00:39,270 --> 00:00:41,100
+<font color="#E5E5E5">out or not moving into a new</font><font color="#CCCCCC"> place I</font>
+
+23
+00:00:41,100 --> 00:00:42,809
+<font color="#E5E5E5">never missed one</font><font color="#CCCCCC"> single upload so I'm</font>
+
+24
+00:00:42,809 --> 00:00:44,850
+kind of proud of<font color="#E5E5E5"> myself for that anyways</font>
+
+25
+00:00:44,850 --> 00:00:47,160
+yeah<font color="#CCCCCC"> I'm back home</font><font color="#E5E5E5"> because I promised my</font>
+
+26
+00:00:47,160 --> 00:00:48,390
+parents<font color="#E5E5E5"> that even though I'm</font><font color="#CCCCCC"> moving out</font>
+
+27
+00:00:48,390 --> 00:00:50,219
+<font color="#E5E5E5">I would still try to come see them every</font>
+
+28
+00:00:50,219 --> 00:00:51,690
+single<font color="#CCCCCC"> day</font><font color="#E5E5E5"> that's exactly what I did I</font>
+
+29
+00:00:51,690 --> 00:00:53,850
+came<font color="#E5E5E5"> here saw my mom and</font><font color="#CCCCCC"> dad spent some</font>
+
+30
+00:00:53,850 --> 00:00:55,500
+time with<font color="#E5E5E5"> them</font><font color="#CCCCCC"> helped them record a</font>
+
+31
+00:00:55,500 --> 00:00:57,899
+video for<font color="#E5E5E5"> my mom's</font><font color="#CCCCCC"> Channel and now I'm</font>
+
+32
+00:00:57,899 --> 00:01:04,170
+here<font color="#CCCCCC"> with what can you say hi</font><font color="#E5E5E5"> to the</font>
+
+33
+00:01:04,170 --> 00:01:04,589
+<font color="#E5E5E5">camera</font>
+
+34
+00:01:04,589 --> 00:01:06,119
+look you know<font color="#E5E5E5"> what buddy I want you to</font>
+
+35
+00:01:06,119 --> 00:01:11,420
+wait<font color="#CCCCCC"> three-two-one wait Bosley wait</font><font color="#E5E5E5"> okay</font>
+
+36
+00:01:11,420 --> 00:01:13,740
+<font color="#CCCCCC">even though I moved out</font><font color="#E5E5E5"> I feel like it's</font>
+
+37
+00:01:13,740 --> 00:01:15,540
+<font color="#E5E5E5">still healthy to see my family</font><font color="#CCCCCC"> a lot</font><font color="#E5E5E5"> I</font>
+
+38
+00:01:15,540 --> 00:01:16,619
+<font color="#E5E5E5">don't think I should</font><font color="#CCCCCC"> just move out</font><font color="#E5E5E5"> and</font>
+
+39
+00:01:16,619 --> 00:01:18,450
+<font color="#E5E5E5">never see them</font><font color="#CCCCCC"> I love my family and I</font>
+
+40
+00:01:18,450 --> 00:01:20,640
+miss<font color="#E5E5E5"> them so</font><font color="#CCCCCC"> many</font><font color="#E5E5E5"> times for them anyways</font>
+
+41
+00:01:20,640 --> 00:01:22,380
+guys like<font color="#E5E5E5"> I mentioned right when this</font>
+
+42
+00:01:22,380 --> 00:01:24,720
+<font color="#E5E5E5">video started I told you guys this is</font>
+
+43
+00:01:24,720 --> 00:01:26,460
+going<font color="#E5E5E5"> to be a basketball video</font><font color="#CCCCCC"> I'm about</font>
+
+44
+00:01:26,460 --> 00:01:28,740
+<font color="#CCCCCC">to go play an unexpected basketball game</font>
+
+45
+00:01:28,740 --> 00:01:30,090
+and<font color="#E5E5E5"> it's kind of crazy but let me tell</font>
+
+46
+00:01:30,090 --> 00:01:31,950
+<font color="#E5E5E5">you</font><font color="#CCCCCC"> how</font><font color="#E5E5E5"> this happened so last week my</font>
+
+47
+00:01:31,950 --> 00:01:34,470
+season finished it<font color="#E5E5E5"> was over and we made</font>
+
+48
+00:01:34,470 --> 00:01:36,210
+the<font color="#CCCCCC"> playoffs my team finished with</font><font color="#E5E5E5"> six</font>
+
+49
+00:01:36,210 --> 00:01:38,490
+wins and four losses and the<font color="#E5E5E5"> playoffs</font>
+
+50
+00:01:38,490 --> 00:01:40,170
+were supposed to<font color="#E5E5E5"> start in a</font><font color="#CCCCCC"> couple of</font>
+
+51
+00:01:40,170 --> 00:01:41,640
+days so you know I'm<font color="#E5E5E5"> just chilling at</font>
+
+52
+00:01:41,640 --> 00:01:43,740
+home<font color="#E5E5E5"> with my mom and dad and I</font><font color="#CCCCCC"> get a</font>
+
+53
+00:01:43,740 --> 00:01:46,409
+call from<font color="#CCCCCC"> the director of the league and</font>
+
+54
+00:01:46,409 --> 00:01:48,240
+so I'm<font color="#CCCCCC"> talking</font><font color="#E5E5E5"> to him and he ended</font><font color="#CCCCCC"> up</font>
+
+55
+00:01:48,240 --> 00:01:51,390
+telling<font color="#E5E5E5"> me that my team and this other</font>
+
+56
+00:01:51,390 --> 00:01:54,720
+team<font color="#CCCCCC"> actually tied for the last</font><font color="#E5E5E5"> playoff</font>
+
+57
+00:01:54,720 --> 00:01:57,180
+spot we got<font color="#E5E5E5"> in a tie and so I asked him</font>
+
+58
+00:01:57,180 --> 00:01:58,680
+I'm<font color="#E5E5E5"> like who has the tiebreaker who gets</font>
+
+59
+00:01:58,680 --> 00:02:00,710
+to make<font color="#CCCCCC"> the</font><font color="#E5E5E5"> playoffs</font><font color="#CCCCCC"> and he told me</font>
+
+60
+00:02:00,710 --> 00:02:03,659
+Brandon in this league we don't look at
+
+61
+00:02:03,659 --> 00:02:05,939
+<font color="#E5E5E5">tie breakers what we do when a team ties</font>
+
+62
+00:02:05,939 --> 00:02:09,149
+we settle it on the court<font color="#E5E5E5"> you you play</font>
+
+63
+00:02:09,149 --> 00:02:10,770
+one game<font color="#E5E5E5"> winner gets to make the</font>
+
+64
+00:02:10,770 --> 00:02:11,880
+<font color="#E5E5E5">playoffs and loser</font>
+
+65
+00:02:11,880 --> 00:02:14,550
+<font color="#E5E5E5">there's</font><font color="#CCCCCC"> teases</font><font color="#E5E5E5"> over and in my head I'm</font>
+
+66
+00:02:14,550 --> 00:02:15,840
+like yellow they seem to hide<font color="#E5E5E5"> I'm</font>
+
+67
+00:02:15,840 --> 00:02:17,970
+excited because I love competitive games
+
+68
+00:02:17,970 --> 00:02:19,650
+I love intense games like<font color="#CCCCCC"> that with like</font>
+
+69
+00:02:19,650 --> 00:02:22,260
+<font color="#CCCCCC">big-time pressure</font><font color="#E5E5E5"> and all that and so</font>
+
+70
+00:02:22,260 --> 00:02:24,660
+I'm talking<font color="#E5E5E5"> about I'm like yo so when is</font>
+
+71
+00:02:24,660 --> 00:02:26,340
+this game<font color="#E5E5E5"> gonna happen when what's the</font>
+
+72
+00:02:26,340 --> 00:02:29,640
+date and<font color="#E5E5E5"> he said</font><font color="#CCCCCC"> today</font><font color="#E5E5E5"> and in my head</font>
+
+73
+00:02:29,640 --> 00:02:33,060
+I'm like wait<font color="#E5E5E5"> like what I haven't</font><font color="#CCCCCC"> talked</font>
+
+74
+00:02:33,060 --> 00:02:34,680
+to<font color="#E5E5E5"> my teammates you</font><font color="#CCCCCC"> know</font><font color="#E5E5E5"> we thought we</font>
+
+75
+00:02:34,680 --> 00:02:36,000
+were<font color="#E5E5E5"> already in the</font><font color="#CCCCCC"> playoff</font><font color="#E5E5E5"> we were just</font>
+
+76
+00:02:36,000 --> 00:02:37,590
+waiting to play the game next<font color="#E5E5E5"> week and</font>
+
+77
+00:02:37,590 --> 00:02:39,930
+so he's like today's<font color="#E5E5E5"> the only day we</font>
+
+78
+00:02:39,930 --> 00:02:41,490
+could do it<font color="#CCCCCC"> if you can't make it then</font>
+
+79
+00:02:41,490 --> 00:02:44,160
+your team has to<font color="#CCCCCC"> forfeit and like you</font>
+
+80
+00:02:44,160 --> 00:02:45,660
+<font color="#E5E5E5">guys can't play</font><font color="#CCCCCC"> it so I was</font><font color="#E5E5E5"> like</font><font color="#CCCCCC"> okay</font>
+
+81
+00:02:45,660 --> 00:02:47,130
+let me<font color="#E5E5E5"> try my best to see what we</font><font color="#CCCCCC"> can</font><font color="#E5E5E5"> do</font>
+
+82
+00:02:47,130 --> 00:02:49,710
+<font color="#CCCCCC">so Brian</font><font color="#E5E5E5"> he's in LA</font><font color="#CCCCCC"> he's at</font><font color="#E5E5E5"> the cloud</font>
+
+83
+00:02:49,710 --> 00:02:52,470
+house so he can't play<font color="#E5E5E5"> my other teammate</font>
+
+84
+00:02:52,470 --> 00:02:54,660
+is on<font color="#CCCCCC"> vacation with</font><font color="#E5E5E5"> his wife</font><font color="#CCCCCC"> so he can't</font>
+
+85
+00:02:54,660 --> 00:02:56,880
+play<font color="#E5E5E5"> one</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> my other teammates have work</font>
+
+86
+00:02:56,880 --> 00:02:59,490
+<font color="#E5E5E5">so three</font><font color="#CCCCCC"> people aren't missing</font><font color="#E5E5E5"> so right</font>
+
+87
+00:02:59,490 --> 00:03:01,770
+now I'm trying<font color="#CCCCCC"> my best to try to</font><font color="#E5E5E5"> like</font>
+
+88
+00:03:01,770 --> 00:03:03,060
+hit up<font color="#E5E5E5"> some people and see if they could</font>
+
+89
+00:03:03,060 --> 00:03:05,010
+<font color="#E5E5E5">play hopefully I can find some</font><font color="#CCCCCC"> people if</font>
+
+90
+00:03:05,010 --> 00:03:06,510
+<font color="#CCCCCC">not like the director said well you have</font>
+
+91
+00:03:06,510 --> 00:03:07,860
+<font color="#CCCCCC">to forfeit and then we can</font><font color="#E5E5E5"> make the</font>
+
+92
+00:03:07,860 --> 00:03:09,780
+playoffs which is crazy<font color="#E5E5E5"> but I know a lot</font>
+
+93
+00:03:09,780 --> 00:03:10,920
+<font color="#CCCCCC">of people that</font><font color="#E5E5E5"> play basketball so</font><font color="#CCCCCC"> I'm</font>
+
+94
+00:03:10,920 --> 00:03:13,470
+gonna try<font color="#CCCCCC"> to</font><font color="#E5E5E5"> hit</font><font color="#CCCCCC"> some people up</font><font color="#E5E5E5"> and</font><font color="#CCCCCC"> god</font>
+
+95
+00:03:13,470 --> 00:03:16,710
+this<font color="#E5E5E5"> is actually insane like I woke up</font>
+
+96
+00:03:16,710 --> 00:03:19,080
+just<font color="#CCCCCC"> like a regular day</font><font color="#E5E5E5"> went to the gym</font>
+
+97
+00:03:19,080 --> 00:03:20,580
+played some basketball earlier look I'm
+
+98
+00:03:20,580 --> 00:03:22,650
+still<font color="#E5E5E5"> my clothes I got a haircut and I</font>
+
+99
+00:03:22,650 --> 00:03:23,940
+don't<font color="#E5E5E5"> know we're like me and my</font>
+
+100
+00:03:23,940 --> 00:03:25,260
+teammates we were<font color="#CCCCCC"> already expecting</font><font color="#E5E5E5"> to</font>
+
+101
+00:03:25,260 --> 00:03:26,910
+be<font color="#E5E5E5"> in the playoffs</font><font color="#CCCCCC"> we thought we had our</font>
+
+102
+00:03:26,910 --> 00:03:28,320
+<font color="#E5E5E5">first playoff game</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> a couple</font><font color="#CCCCCC"> of days</font>
+
+103
+00:03:28,320 --> 00:03:30,420
+and it turns out we<font color="#E5E5E5"> have to play a game</font>
+
+104
+00:03:30,420 --> 00:03:32,700
+<font color="#E5E5E5">I mean I'm excited like I said I hoped</font>
+
+105
+00:03:32,700 --> 00:03:34,710
+the rest of my teammates already whoever
+
+106
+00:03:34,710 --> 00:03:36,090
+my teammates are gonna end<font color="#CCCCCC"> up</font><font color="#E5E5E5"> being I</font>
+
+107
+00:03:36,090 --> 00:03:38,100
+don't<font color="#E5E5E5"> know yet but this is it this is</font>
+
+108
+00:03:38,100 --> 00:03:39,810
+<font color="#E5E5E5">like</font><font color="#CCCCCC"> one of the</font><font color="#E5E5E5"> most important games</font>
+
+109
+00:03:39,810 --> 00:03:41,580
+that I've ever played<font color="#CCCCCC"> in my life it's</font>
+
+110
+00:03:41,580 --> 00:03:43,230
+<font color="#E5E5E5">for sure the most important game of the</font>
+
+111
+00:03:43,230 --> 00:03:43,800
+season
+
+112
+00:03:43,800 --> 00:03:46,050
+<font color="#E5E5E5">hey it's straight</font><font color="#CCCCCC"> up</font><font color="#E5E5E5"> you</font><font color="#CCCCCC"> win</font><font color="#E5E5E5"> you're in</font>
+
+113
+00:03:46,050 --> 00:03:47,520
+<font color="#CCCCCC">the</font><font color="#E5E5E5"> playoffs and</font><font color="#CCCCCC"> you get to</font><font color="#E5E5E5"> play in a</font>
+
+114
+00:03:47,520 --> 00:03:49,020
+<font color="#E5E5E5">couple of days and you get to fight for</font>
+
+115
+00:03:49,020 --> 00:03:51,420
+a<font color="#E5E5E5"> championship</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> if you lose you're</font>
+
+116
+00:03:51,420 --> 00:03:52,890
+done your season's<font color="#CCCCCC"> over</font>
+
+117
+00:03:52,890 --> 00:03:56,880
+<font color="#CCCCCC">I'm ready</font><font color="#E5E5E5"> this game I like I know the</font>
+
+118
+00:03:56,880 --> 00:03:58,380
+team<font color="#CCCCCC"> we're playing they're actually</font>
+
+119
+00:03:58,380 --> 00:04:00,210
+really<font color="#CCCCCC"> good they have this one big dude</font>
+
+120
+00:04:00,210 --> 00:04:02,130
+he's actually like<font color="#E5E5E5"> six foot four or six</font>
+
+121
+00:04:02,130 --> 00:04:04,080
+<font color="#E5E5E5">four five he could play they have this</font>
+
+122
+00:04:04,080 --> 00:04:05,400
+other dude he's not<font color="#E5E5E5"> that</font><font color="#CCCCCC"> big he's</font>
+
+123
+00:04:05,400 --> 00:04:07,050
+<font color="#CCCCCC">actually short but he could shoot the</font>
+
+124
+00:04:07,050 --> 00:04:09,570
+ball<font color="#E5E5E5"> so we got a big game against a</font>
+
+125
+00:04:09,570 --> 00:04:11,730
+really really good team<font color="#E5E5E5"> and hey</font><font color="#CCCCCC"> we can't</font>
+
+126
+00:04:11,730 --> 00:04:13,380
+say oh<font color="#E5E5E5"> well we're so much better</font><font color="#CCCCCC"> than</font>
+
+127
+00:04:13,380 --> 00:04:14,580
+them or oh<font color="#CCCCCC"> they're</font><font color="#E5E5E5"> so much better than</font>
+
+128
+00:04:14,580 --> 00:04:16,350
+<font color="#CCCCCC">us</font><font color="#E5E5E5"> because we're both Todd</font><font color="#CCCCCC"> we have the</font>
+
+129
+00:04:16,350 --> 00:04:17,940
+same exact record<font color="#E5E5E5"> and we're both trying</font>
+
+130
+00:04:17,940 --> 00:04:18,720
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> get</font><font color="#E5E5E5"> into</font><font color="#CCCCCC"> the play</font>
+
+131
+00:04:18,720 --> 00:04:20,130
+so it should be<font color="#CCCCCC"> a really close</font><font color="#E5E5E5"> game</font>
+
+132
+00:04:20,130 --> 00:04:21,959
+<font color="#E5E5E5">really intense because of what's at</font>
+
+133
+00:04:21,959 --> 00:04:24,660
+stake<font color="#E5E5E5"> and I want my team to keep playing</font>
+
+134
+00:04:24,660 --> 00:04:25,740
+in the<font color="#E5E5E5"> playoffs</font><font color="#CCCCCC"> I want to win the</font>
+
+135
+00:04:25,740 --> 00:04:26,370
+championship
+
+136
+00:04:26,370 --> 00:04:28,290
+I want to win this<font color="#E5E5E5"> game</font><font color="#CCCCCC"> for you guys so</font>
+
+137
+00:04:28,290 --> 00:04:30,540
+I'm gonna try<font color="#CCCCCC"> my best to help my team</font>
+
+138
+00:04:30,540 --> 00:04:32,670
+win<font color="#CCCCCC"> if the game is literally in two</font>
+
+139
+00:04:32,670 --> 00:04:34,740
+hours<font color="#E5E5E5"> and I need to find some people</font><font color="#CCCCCC"> to</font>
+
+140
+00:04:34,740 --> 00:04:37,290
+play<font color="#CCCCCC"> with us</font><font color="#E5E5E5"> and other than</font><font color="#CCCCCC"> that I</font><font color="#E5E5E5"> hope</font>
+
+141
+00:04:37,290 --> 00:04:39,210
+<font color="#E5E5E5">you enjoy the rest of this video</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> I'm</font>
+
+142
+00:04:39,210 --> 00:04:41,310
+ready to<font color="#E5E5E5"> play and one of the biggest if</font>
+
+143
+00:04:41,310 --> 00:04:43,770
+not the biggest games of my whole<font color="#CCCCCC"> entire</font>
+
+144
+00:04:43,770 --> 00:04:45,180
+<font color="#CCCCCC">life and</font><font color="#E5E5E5"> I'm gonna try</font><font color="#CCCCCC"> to win this game</font>
+
+145
+00:04:45,180 --> 00:04:46,080
+for<font color="#CCCCCC"> you guys</font>
+
+146
+00:04:46,080 --> 00:04:48,230
+Bosley<font color="#CCCCCC"> do you think we're</font><font color="#E5E5E5"> gonna win</font><font color="#CCCCCC"> I</font>
+
+147
+00:04:48,230 --> 00:04:50,880
+might have to pick you a bro<font color="#E5E5E5"> you want to</font>
+
+148
+00:04:50,880 --> 00:04:54,090
+play<font color="#E5E5E5"> with us yeah we</font><font color="#CCCCCC"> need a big man you</font>
+
+149
+00:04:54,090 --> 00:04:55,980
+could play down low<font color="#CCCCCC"> grab the rebounds</font>
+
+150
+00:04:55,980 --> 00:04:57,050
+box out
+
+151
+00:04:57,050 --> 00:05:02,820
+no okay god I'm so<font color="#E5E5E5"> lucky I'm in luck so</font>
+
+152
+00:05:02,820 --> 00:05:04,140
+I started thinking<font color="#E5E5E5"> about who I could</font>
+
+153
+00:05:04,140 --> 00:05:06,930
+<font color="#E5E5E5">call I hit up Justin and he actually has</font>
+
+154
+00:05:06,930 --> 00:05:08,700
+a game of his own<font color="#E5E5E5"> so he</font><font color="#CCCCCC"> can't play with</font>
+
+155
+00:05:08,700 --> 00:05:11,370
+us<font color="#E5E5E5"> then I hit up</font><font color="#CCCCCC"> Romel and Romel who I</font>
+
+156
+00:05:11,370 --> 00:05:12,660
+<font color="#E5E5E5">love playing</font><font color="#CCCCCC"> with</font><font color="#E5E5E5"> I play with him every</font>
+
+157
+00:05:12,660 --> 00:05:15,210
+single<font color="#E5E5E5"> day he's actually free tonight</font><font color="#CCCCCC"> so</font>
+
+158
+00:05:15,210 --> 00:05:17,550
+out<font color="#CCCCCC"> of three players</font><font color="#E5E5E5"> missing we got one</font>
+
+159
+00:05:17,550 --> 00:05:19,500
+<font color="#E5E5E5">person</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> run with us</font><font color="#CCCCCC"> Romel and then I</font>
+
+160
+00:05:19,500 --> 00:05:21,750
+started<font color="#E5E5E5"> thinking I'm like okay everybody</font>
+
+161
+00:05:21,750 --> 00:05:23,820
+I know is either busy with school or
+
+162
+00:05:23,820 --> 00:05:25,830
+<font color="#E5E5E5">they have work who can</font><font color="#CCCCCC"> I think</font><font color="#E5E5E5"> of and</font>
+
+163
+00:05:25,830 --> 00:05:30,210
+then I remembered<font color="#CCCCCC"> I got a haircut today</font>
+
+164
+00:05:30,210 --> 00:05:32,460
+I was talking to my barber about
+
+165
+00:05:32,460 --> 00:05:36,390
+basketball<font color="#E5E5E5"> and yo I hit up my barber and</font>
+
+166
+00:05:36,390 --> 00:05:39,120
+<font color="#E5E5E5">I'm like Paul like we need</font><font color="#CCCCCC"> you and he's</font>
+
+167
+00:05:39,120 --> 00:05:41,490
+down to play he's leaving work and he's
+
+168
+00:05:41,490 --> 00:05:43,169
+gonna come<font color="#E5E5E5"> play with us</font><font color="#CCCCCC"> so I got role</font>
+
+169
+00:05:43,169 --> 00:05:45,090
+<font color="#CCCCCC">Mel and Paul I</font><font color="#E5E5E5"> don't know if I could</font>
+
+170
+00:05:45,090 --> 00:05:46,680
+find<font color="#E5E5E5"> a third player cuz we have three</font>
+
+171
+00:05:46,680 --> 00:05:47,820
+missing<font color="#E5E5E5"> players I don't know if I could</font>
+
+172
+00:05:47,820 --> 00:05:49,530
+<font color="#E5E5E5">find that third person</font><font color="#CCCCCC"> but I don't</font><font color="#E5E5E5"> care</font>
+
+173
+00:05:49,530 --> 00:05:51,390
+two people is good enough<font color="#CCCCCC"> I'm</font><font color="#E5E5E5"> lucky I'm</font>
+
+174
+00:05:51,390 --> 00:05:52,800
+thankful that I<font color="#E5E5E5"> even found these two</font>
+
+175
+00:05:52,800 --> 00:05:54,480
+because if I did it<font color="#E5E5E5"> we would have had to</font>
+
+176
+00:05:54,480 --> 00:05:56,850
+forfeit so<font color="#CCCCCC"> Romel and</font><font color="#E5E5E5"> Paul</font><font color="#CCCCCC"> thank you guys</font>
+
+177
+00:05:56,850 --> 00:05:59,220
+<font color="#E5E5E5">so much and as of</font><font color="#CCCCCC"> now we're gonna be</font>
+
+178
+00:05:59,220 --> 00:06:01,440
+playing<font color="#CCCCCC"> this</font><font color="#E5E5E5"> game with only five players</font>
+
+179
+00:06:01,440 --> 00:06:02,910
+meaning none of us could rest
+
+180
+00:06:02,910 --> 00:06:04,680
+<font color="#E5E5E5">none of us could take a break</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> got to</font>
+
+181
+00:06:04,680 --> 00:06:06,390
+play the<font color="#E5E5E5"> whole entire game but I'm ready</font>
+
+182
+00:06:06,390 --> 00:06:08,700
+guys<font color="#CCCCCC"> I freakin like if you love</font>
+
+183
+00:06:08,700 --> 00:06:10,200
+<font color="#CCCCCC">basketball then you live for these</font>
+
+184
+00:06:10,200 --> 00:06:12,270
+moments you<font color="#E5E5E5"> live for these type of games</font>
+
+185
+00:06:12,270 --> 00:06:14,580
+that<font color="#E5E5E5"> mean so much like yeah it's fun</font>
+
+186
+00:06:14,580 --> 00:06:16,890
+it's cool to<font color="#CCCCCC"> play in a regular</font><font color="#E5E5E5"> game it's</font>
+
+187
+00:06:16,890 --> 00:06:19,050
+<font color="#CCCCCC">fun to play</font><font color="#E5E5E5"> basketball for fun but it's</font>
+
+188
+00:06:19,050 --> 00:06:21,060
+these games that<font color="#E5E5E5"> have a lot</font><font color="#CCCCCC"> of pressure</font>
+
+189
+00:06:21,060 --> 00:06:23,130
+and it's<font color="#E5E5E5"> these games that</font><font color="#CCCCCC"> have such high</font>
+
+190
+00:06:23,130 --> 00:06:25,890
+stakes<font color="#E5E5E5"> that like I love</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> play is</font><font color="#CCCCCC"> like</font>
+
+191
+00:06:25,890 --> 00:06:27,930
+I<font color="#E5E5E5"> said we're playing a really really</font>
+
+192
+00:06:27,930 --> 00:06:30,030
+good team<font color="#E5E5E5"> and they got a really big dude</font>
+
+193
+00:06:30,030 --> 00:06:31,590
+<font color="#E5E5E5">who's I'm telling you like six</font>
+
+194
+00:06:31,590 --> 00:06:34,410
+five and I'm gonna<font color="#E5E5E5"> try</font><font color="#CCCCCC"> my best to</font><font color="#E5E5E5"> help</font>
+
+195
+00:06:34,410 --> 00:06:36,390
+my team win<font color="#CCCCCC"> I hope everybody's ready and</font>
+
+196
+00:06:36,390 --> 00:06:38,520
+let's get to the playoffs<font color="#CCCCCC"> guys I'm so</font>
+
+197
+00:06:38,520 --> 00:06:40,590
+ready I swear I can't wait to<font color="#E5E5E5"> play</font><font color="#CCCCCC"> this</font>
+
+198
+00:06:40,590 --> 00:06:43,500
+<font color="#E5E5E5">game like this game has a different feel</font>
+
+199
+00:06:43,500 --> 00:06:44,880
+than any other game I've ever played
+
+200
+00:06:44,880 --> 00:06:47,070
+<font color="#CCCCCC">it's if you wait</font><font color="#E5E5E5"> you're into the</font>
+
+201
+00:06:47,070 --> 00:06:48,720
+playoffs if you lose your seasons done
+
+202
+00:06:48,720 --> 00:06:52,980
+<font color="#E5E5E5">so there's so much pressure but I love I</font>
+
+203
+00:06:52,980 --> 00:06:54,810
+<font color="#CCCCCC">love the games when the pressure is</font><font color="#E5E5E5"> on</font>
+
+204
+00:06:54,810 --> 00:06:56,820
+and when you<font color="#CCCCCC"> know all the butterflies</font>
+
+205
+00:06:56,820 --> 00:06:58,710
+<font color="#CCCCCC">are</font><font color="#E5E5E5"> on your stomach and it just makes</font>
+
+206
+00:06:58,710 --> 00:07:00,750
+<font color="#E5E5E5">the game so</font><font color="#CCCCCC"> much more competitive so</font>
+
+207
+00:07:00,750 --> 00:07:02,640
+much more intense so much more physical
+
+208
+00:07:02,640 --> 00:07:06,800
+I'm on my way to the game<font color="#E5E5E5"> right now guys</font>
+
+209
+00:07:19,020 --> 00:07:28,650
+it's a big game so he's hiding<font color="#CCCCCC"> from the</font>
+
+210
+00:07:28,650 --> 00:07:33,540
+camera he's shy<font color="#CCCCCC"> there's two types of</font>
+
+211
+00:07:33,540 --> 00:07:35,280
+<font color="#E5E5E5">people there are people</font><font color="#CCCCCC"> who crumble</font>
+
+212
+00:07:35,280 --> 00:07:37,110
+under pressures<font color="#E5E5E5"> and there are people who</font>
+
+213
+00:07:37,110 --> 00:07:39,830
+show<font color="#CCCCCC"> up under pressure</font>
+
+214
+00:07:40,759 --> 00:07:42,989
+you said<font color="#E5E5E5"> he's</font><font color="#CCCCCC"> a winner</font><font color="#E5E5E5"> so we'll take</font>
+
+215
+00:07:42,989 --> 00:07:44,339
+<font color="#E5E5E5">back in 45 minutes</font>
+
+216
+00:07:44,339 --> 00:07:46,289
+<font color="#CCCCCC">well</font><font color="#E5E5E5"> she's telling the truth or not</font><font color="#CCCCCC"> but</font>
+
+217
+00:07:46,289 --> 00:07:47,489
+the<font color="#E5E5E5"> games</font><font color="#CCCCCC"> about is time</font><font color="#E5E5E5"> we</font><font color="#CCCCCC"> gotta get</font>
+
+218
+00:07:47,489 --> 00:07:49,249
+ready<font color="#E5E5E5"> let's do it</font>
+
+219
+00:07:49,249 --> 00:07:53,869
+<font color="#CCCCCC">whoa I feel like Brandon is</font><font color="#E5E5E5"> rockin</font>
+
+220
+00:07:58,610 --> 00:08:01,750
+let's go babe
+
+221
+00:08:22,750 --> 00:08:26,440
+that was a good<font color="#E5E5E5"> plan</font>
+
+222
+00:08:34,530 --> 00:08:37,530
+<font color="#E5E5E5">ha</font>
+
+223
+00:08:39,260 --> 00:08:42,370
+[Applause]
+
+224
+00:08:57,500 --> 00:09:00,570
+[Applause]
+
+225
+00:09:07,840 --> 00:09:11,539
+[Applause]
+
+226
+00:09:17,950 --> 00:09:21,079
+[Music]
+
+227
+00:09:24,110 --> 00:09:26,649
+<font color="#E5E5E5">Hey</font>
+
+228
+00:09:41,650 --> 00:09:44,890
+[Music]
+
+229
+00:09:51,620 --> 00:09:54,750
+there's<font color="#CCCCCC"> 11 minutes left</font><font color="#E5E5E5"> in first</font><font color="#CCCCCC"> class</font>
+
+230
+00:09:54,750 --> 00:09:57,920
+14 to 18
+
+231
+00:10:10,790 --> 00:10:13,720
+that's a good<font color="#CCCCCC"> path</font>
+
+232
+00:10:14,210 --> 00:10:17,309
+[Applause]
+
+233
+00:10:19,330 --> 00:10:21,390
+[Applause]
+
+234
+00:10:21,390 --> 00:10:24,649
+[Music]
+
+235
+00:10:38,830 --> 00:10:45,410
+[Music]
+
+236
+00:10:45,410 --> 00:10:48,589
+he's out here hustling<font color="#E5E5E5"> for the ball</font>
+
+237
+00:10:48,589 --> 00:10:51,589
+<font color="#CCCCCC">garbage</font>
+
+238
+00:10:54,069 --> 00:10:57,069
+<font color="#E5E5E5">Hey</font>
+
+239
+00:10:59,020 --> 00:11:02,149
+[Applause]
+
+240
+00:11:07,660 --> 00:11:10,750
+[Applause]
+
+241
+00:11:12,670 --> 00:11:15,980
+now it's a<font color="#E5E5E5"> tie game</font><font color="#CCCCCC"> eight</font><font color="#E5E5E5"> minutes left</font>
+
+242
+00:11:15,980 --> 00:11:18,790
+in the first<font color="#E5E5E5"> half</font>
+
+243
+00:11:24,160 --> 00:11:27,260
+[Applause]
+
+244
+00:11:36,540 --> 00:11:40,750
+guys<font color="#CCCCCC"> its 22 to 30 with</font><font color="#E5E5E5"> five</font><font color="#CCCCCC"> minutes</font><font color="#E5E5E5"> left</font>
+
+245
+00:11:40,750 --> 00:11:43,440
+in<font color="#E5E5E5"> the first</font>
+
+246
+00:11:44,350 --> 00:11:47,499
+[Applause]
+
+247
+00:11:55,640 --> 00:11:59,840
+[Applause]
+
+248
+00:12:21,290 --> 00:12:25,620
+[Applause]
+
+249
+00:12:29,030 --> 00:12:30,380
+[Applause]
+
+250
+00:12:30,380 --> 00:12:33,220
+stop it
+
+251
+00:12:47,840 --> 00:12:52,919
+[Applause]
+
+252
+00:13:13,710 --> 00:13:14,500
+[Music]
+
+253
+00:13:14,500 --> 00:13:16,660
+[Applause]
+
+254
+00:13:16,660 --> 00:13:21,610
+okay guys<font color="#E5E5E5"> it's 31 to 36</font>
+
+255
+00:13:25,950 --> 00:13:29,169
+[Applause]
+
+256
+00:14:04,760 --> 00:14:07,420
+No
+
+257
+00:14:32,940 --> 00:14:36,079
+[Music]
+
+258
+00:14:37,590 --> 00:14:40,779
+[Applause]
+
+259
+00:14:45,630 --> 00:14:48,410
+let's go
+
+260
+00:14:49,900 --> 00:14:53,059
+[Applause]
+
+261
+00:15:02,240 --> 00:15:06,330
+[Applause]
+
+262
+00:15:20,570 --> 00:15:26,160
+let's go 43 through 46<font color="#CCCCCC"> 12 minutes left</font>
+
+263
+00:15:26,160 --> 00:15:29,210
+in the second half
+
+264
+00:15:35,590 --> 00:15:39,479
+[Applause]
+
+265
+00:15:43,040 --> 00:15:48,409
+[Applause]
+
+266
+00:15:48,430 --> 00:15:52,570
+he can<font color="#E5E5E5"> rebound really well</font>
+
+267
+00:15:57,790 --> 00:16:00,519
+no but he gets up<font color="#CCCCCC"> there you know</font><font color="#E5E5E5"> like</font>
+
+268
+00:16:00,519 --> 00:16:04,790
+even<font color="#CCCCCC"> Brennan for their height they jump</font>
+
+269
+00:16:04,790 --> 00:16:12,050
+we're so high I mean<font color="#CCCCCC"> alright we're 48 to</font>
+
+270
+00:16:12,050 --> 00:16:14,930
+46<font color="#E5E5E5"> 11 minutes left</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> guys I know I</font>
+
+271
+00:16:14,930 --> 00:16:16,279
+said I wasn't<font color="#E5E5E5"> going</font><font color="#CCCCCC"> to talk</font><font color="#E5E5E5"> a lot but I</font>
+
+272
+00:16:16,279 --> 00:16:19,880
+<font color="#E5E5E5">ended up talking a lot so it is what it</font>
+
+273
+00:16:19,880 --> 00:16:22,000
+<font color="#CCCCCC">is</font>
+
+274
+00:16:30,670 --> 00:16:34,679
+[Applause]
+
+275
+00:16:42,410 --> 00:16:46,570
+[Applause]
+
+276
+00:16:46,570 --> 00:16:50,290
+54 to<font color="#E5E5E5"> 49</font>
+
+277
+00:17:11,000 --> 00:17:14,839
+maybe you saw<font color="#E5E5E5"> hands the oh boy it is all</font>
+
+278
+00:17:14,839 --> 00:17:17,150
+sex there
+
+279
+00:17:17,150 --> 00:17:21,760
+I miss<font color="#CCCCCC"> Alicia I will live on</font>
+
+280
+00:17:23,440 --> 00:17:26,640
+[Music]
+
+281
+00:17:35,380 --> 00:17:38,539
+[Applause]
+
+282
+00:17:45,890 --> 00:17:47,540
+[Applause]
+
+283
+00:17:47,540 --> 00:17:50,980
+[Music]
+
+284
+00:17:50,980 --> 00:17:57,290
+[Applause]
+
+285
+00:17:57,880 --> 00:17:59,920
+[Music]
+
+286
+00:17:59,920 --> 00:18:04,840
+<font color="#E5E5E5">57 to 53 with</font><font color="#CCCCCC"> 8 minutes left</font>
+
+287
+00:18:11,990 --> 00:18:15,220
+[Applause]
+
+288
+00:18:15,220 --> 00:18:18,170
+it's lit out here you already<font color="#CCCCCC"> know what</font>
+
+289
+00:18:18,170 --> 00:18:20,400
+it<font color="#CCCCCC"> is</font>
+
+290
+00:18:20,400 --> 00:18:26,850
+I sound like one<font color="#E5E5E5"> of those rappers nobody</font>
+
+291
+00:18:26,850 --> 00:18:29,180
+knows about
+
+292
+00:18:31,220 --> 00:18:31,530
+[Music]
+
+293
+00:18:31,530 --> 00:18:34,100
+[Applause]
+
+294
+00:18:34,100 --> 00:18:37,580
+let's go back
+
+295
+00:18:41,680 --> 00:18:44,859
+[Music]
+
+296
+00:18:45,640 --> 00:18:48,360
+<font color="#E5E5E5">Hey</font>
+
+297
+00:18:48,360 --> 00:18:51,740
+[Applause]
+
+298
+00:18:59,040 --> 00:19:02,240
+[Applause]
+
+299
+00:19:05,910 --> 00:19:07,120
+[Applause]
+
+300
+00:19:07,120 --> 00:19:10,070
+<font color="#E5E5E5">sixty five</font><font color="#CCCCCC"> to</font><font color="#E5E5E5"> fifty five six minutes</font>
+
+301
+00:19:10,070 --> 00:19:14,049
+left in the second half
+
+302
+00:19:19,270 --> 00:19:22,470
+[Music]
+
+303
+00:19:36,480 --> 00:19:44,509
+[Applause]
+
+304
+00:19:47,380 --> 00:19:50,539
+[Music]
+
+305
+00:19:50,890 --> 00:19:51,630
+[Applause]
+
+306
+00:19:51,630 --> 00:19:52,170
+[Music]
+
+307
+00:19:52,170 --> 00:19:55,349
+[Applause]
+
+308
+00:20:03,380 --> 00:20:08,480
+it's<font color="#E5E5E5"> 68 to 65 with two minutes</font><font color="#CCCCCC"> left oh</font>
+
+309
+00:20:08,480 --> 00:20:11,930
+my god
+
+310
+00:20:11,930 --> 00:20:15,049
+[Applause]
+
+311
+00:20:21,290 --> 00:20:25,450
+<font color="#CCCCCC">at 68 to 68</font>
+
+312
+00:20:37,550 --> 00:20:40,700
+[Music]
+
+313
+00:20:54,230 --> 00:20:57,369
+[Music]
+
+314
+00:21:00,220 --> 00:21:08,770
+come on<font color="#E5E5E5"> I need everybody</font><font color="#CCCCCC"> here right now</font>
+
+315
+00:21:08,770 --> 00:21:11,610
+it's standing up
+
+316
+00:21:21,900 --> 00:21:24,949
+[Music]
+
+317
+00:21:35,860 --> 00:21:38,610
+let's go
+
+318
+00:21:39,440 --> 00:21:42,579
+[Applause]
+
+319
+00:21:49,480 --> 00:21:52,529
+[Applause]
+
+320
+00:22:01,810 --> 00:22:03,050
+[Applause]
+
+321
+00:22:03,050 --> 00:22:10,940
+[Music]
+
+322
+00:22:29,650 --> 00:22:31,430
+No
+
+323
+00:22:31,430 --> 00:22:33,460
+<font color="#E5E5E5">Oh</font>
+
+324
+00:22:40,890 --> 00:22:44,130
+[Music]
+
+325
+00:22:51,340 --> 00:22:54,390
+[Music]
+
+326
+00:23:00,610 --> 00:23:06,200
+Wow<font color="#CCCCCC"> look everybody here everybody's</font>
+
+327
+00:23:06,200 --> 00:23:19,490
+standing<font color="#E5E5E5"> here we all knew</font><font color="#CCCCCC"> Holly played</font>
+
+328
+00:23:19,490 --> 00:23:21,680
+years and years of college ball<font color="#CCCCCC"> he knows</font>
+
+329
+00:23:21,680 --> 00:23:26,600
+asking I asked all<font color="#E5E5E5"> he could play</font><font color="#CCCCCC"> mothers</font>
+
+330
+00:23:26,600 --> 00:23:29,420
+for<font color="#E5E5E5"> this game the director said no but</font>
+
+331
+00:23:29,420 --> 00:23:31,190
+they had that<font color="#E5E5E5"> huge dude so why Cannot</font>
+
+332
+00:23:31,190 --> 00:23:34,040
+<font color="#E5E5E5">Holly play all these smaller wait</font><font color="#CCCCCC"> Tom</font>
+
+333
+00:23:34,040 --> 00:23:35,870
+<font color="#CCCCCC">he's even bigger</font><font color="#E5E5E5"> than him but he's a lot</font>
+
+334
+00:23:35,870 --> 00:23:38,300
+to play but all these not congratulating
+
+335
+00:23:38,300 --> 00:23:47,060
+<font color="#CCCCCC">because they filled us in the face</font>
+
+336
+00:23:47,060 --> 00:23:50,660
+<font color="#CCCCCC">obviously</font><font color="#E5E5E5"> they're going to the playoffs</font>
+
+337
+00:23:50,660 --> 00:23:54,940
+<font color="#E5E5E5">so congrats to</font><font color="#CCCCCC"> them this year dad</font>
+
+338
+00:23:55,280 --> 00:24:00,080
+<font color="#CCCCCC">Oh</font><font color="#E5E5E5"> guys probably</font><font color="#CCCCCC"> the worst possible</font><font color="#E5E5E5"> way</font>
+
+339
+00:24:00,080 --> 00:24:02,030
+to lose honestly<font color="#E5E5E5"> the most heartbreaking</font>
+
+340
+00:24:02,030 --> 00:24:07,730
+<font color="#CCCCCC">I mean</font><font color="#E5E5E5"> a three-pointer like pretty much</font>
+
+341
+00:24:07,730 --> 00:24:10,760
+at the buzzer<font color="#E5E5E5"> it was that was not</font><font color="#CCCCCC"> a good</font>
+
+342
+00:24:10,760 --> 00:24:13,400
+<font color="#E5E5E5">way to lose um you saw a lot</font><font color="#CCCCCC"> of people</font>
+
+343
+00:24:13,400 --> 00:24:15,470
+blaming<font color="#E5E5E5"> the refs including</font><font color="#CCCCCC"> myself</font><font color="#E5E5E5"> but I</font>
+
+344
+00:24:15,470 --> 00:24:17,300
+<font color="#E5E5E5">just want to say in my outro right now</font>
+
+345
+00:24:17,300 --> 00:24:19,430
+that<font color="#E5E5E5"> yes the refs made a huge mistake</font>
+
+346
+00:24:19,430 --> 00:24:21,890
+<font color="#E5E5E5">and they should have been</font><font color="#CCCCCC"> a travel that</font>
+
+347
+00:24:21,890 --> 00:24:23,600
+could have<font color="#E5E5E5"> changed the</font><font color="#CCCCCC"> whole game</font><font color="#E5E5E5"> but at</font>
+
+348
+00:24:23,600 --> 00:24:25,310
+the<font color="#CCCCCC"> end of the day you can't blame the</font>
+
+349
+00:24:25,310 --> 00:24:27,380
+whole game<font color="#CCCCCC"> on the refs you play you win</font>
+
+350
+00:24:27,380 --> 00:24:29,960
+or<font color="#CCCCCC"> you lose sure the rest make some bad</font>
+
+351
+00:24:29,960 --> 00:24:32,750
+calls<font color="#E5E5E5"> but they're human they miss some</font>
+
+352
+00:24:32,750 --> 00:24:34,340
+things<font color="#CCCCCC"> and you</font><font color="#E5E5E5"> can't blame it all on</font>
+
+353
+00:24:34,340 --> 00:24:35,930
+them honestly it's our fault
+
+354
+00:24:35,930 --> 00:24:37,970
+when we went<font color="#CCCCCC"> up by 8 points</font><font color="#E5E5E5"> or 10 points</font>
+
+355
+00:24:37,970 --> 00:24:39,380
+in the second<font color="#CCCCCC"> half</font><font color="#E5E5E5"> we shouldn't have</font>
+
+356
+00:24:39,380 --> 00:24:40,910
+given<font color="#CCCCCC"> that away so let</font><font color="#E5E5E5"> me repeat myself</font>
+
+357
+00:24:40,910 --> 00:24:42,620
+one more time so<font color="#CCCCCC"> people don't</font><font color="#E5E5E5"> think I'm</font>
+
+358
+00:24:42,620 --> 00:24:44,870
+blaming<font color="#E5E5E5"> it all on the refs sure the refs</font>
+
+359
+00:24:44,870 --> 00:24:46,430
+made a bad call<font color="#CCCCCC"> we should have got the</font>
+
+360
+00:24:46,430 --> 00:24:49,220
+ball back<font color="#E5E5E5"> but we</font><font color="#CCCCCC"> played terrible</font><font color="#E5E5E5"> the</font>
+
+361
+00:24:49,220 --> 00:24:51,080
+last like<font color="#CCCCCC"> 4 or 5 minutes so it's our own</font>
+
+362
+00:24:51,080 --> 00:24:53,900
+fault it's me<font color="#E5E5E5"> my fault my teammates I'm</font>
+
+363
+00:24:53,900 --> 00:24:56,870
+blaming mostly most of it on myself<font color="#CCCCCC"> that</font>
+
+364
+00:24:56,870 --> 00:24:58,610
+<font color="#CCCCCC">team</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> going</font><font color="#E5E5E5"> to the playoffs hats off</font>
+
+365
+00:24:58,610 --> 00:25:00,050
+to them<font color="#E5E5E5"> you saw me congratulating</font><font color="#CCCCCC"> there</font>
+
+366
+00:25:00,050 --> 00:25:02,660
+those two<font color="#E5E5E5"> guys freaking killed us I</font>
+
+367
+00:25:02,660 --> 00:25:04,490
+think<font color="#E5E5E5"> one of their name was Hosea the</font>
+
+368
+00:25:04,490 --> 00:25:06,320
+other one I forget his name but<font color="#CCCCCC"> they</font>
+
+369
+00:25:06,320 --> 00:25:09,050
+<font color="#E5E5E5">freaking killed us like we had no answer</font>
+
+370
+00:25:09,050 --> 00:25:12,500
+<font color="#CCCCCC">for the big dude</font><font color="#E5E5E5"> and then Jose I mean we</font>
+
+371
+00:25:12,500 --> 00:25:14,120
+were<font color="#E5E5E5"> kind of stopping</font><font color="#CCCCCC"> him but at the end</font>
+
+372
+00:25:14,120 --> 00:25:15,380
+<font color="#E5E5E5">of the day he hit the game-winning three</font>
+
+373
+00:25:15,380 --> 00:25:17,750
+so hats off<font color="#E5E5E5"> to them they played a great</font>
+
+374
+00:25:17,750 --> 00:25:19,850
+game they were tough<font color="#E5E5E5"> they when we went</font>
+
+375
+00:25:19,850 --> 00:25:21,380
+up<font color="#E5E5E5"> by 10 points I think</font><font color="#CCCCCC"> there was like</font>
+
+376
+00:25:21,380 --> 00:25:23,300
+<font color="#CCCCCC">five minutes</font><font color="#E5E5E5"> left they didn't give up</font>
+
+377
+00:25:23,300 --> 00:25:25,250
+they came back we choked<font color="#E5E5E5"> we played</font>
+
+378
+00:25:25,250 --> 00:25:26,630
+terrible you saw<font color="#E5E5E5"> bro Mel had some</font>
+
+379
+00:25:26,630 --> 00:25:29,990
+turnovers<font color="#E5E5E5"> I had some turnovers I don't</font>
+
+380
+00:25:29,990 --> 00:25:31,220
+know guys it's just a really really
+
+381
+00:25:31,220 --> 00:25:32,780
+<font color="#E5E5E5">heartbreaking way to lose I'd rather</font>
+
+382
+00:25:32,780 --> 00:25:35,120
+lose by<font color="#CCCCCC"> 20 or 30 points</font><font color="#E5E5E5"> then lose at the</font>
+
+383
+00:25:35,120 --> 00:25:36,650
+last second<font color="#E5E5E5"> if we're being honest I'd</font>
+
+384
+00:25:36,650 --> 00:25:37,880
+rather<font color="#CCCCCC"> get</font><font color="#E5E5E5"> killed than lose a</font>
+
+385
+00:25:37,880 --> 00:25:39,560
+heartbreaker at the last second<font color="#CCCCCC"> now I</font>
+
+386
+00:25:39,560 --> 00:25:41,150
+know how<font color="#E5E5E5"> the Chargers feel I felt like</font>
+
+387
+00:25:41,150 --> 00:25:43,640
+the Chargers out there but<font color="#CCCCCC"> uh</font><font color="#E5E5E5"> yeah guys</font>
+
+388
+00:25:43,640 --> 00:25:45,860
+we<font color="#E5E5E5"> choked sorry if I'm like down right</font>
+
+389
+00:25:45,860 --> 00:25:47,120
+now I'm trying<font color="#E5E5E5"> my</font><font color="#CCCCCC"> best to be like</font>
+
+390
+00:25:47,120 --> 00:25:49,160
+enthusiastic or trying to<font color="#E5E5E5"> be happy for</font>
+
+391
+00:25:49,160 --> 00:25:50,870
+this outro but it's hard after<font color="#E5E5E5"> a game</font>
+
+392
+00:25:50,870 --> 00:25:53,630
+like<font color="#CCCCCC"> that</font><font color="#E5E5E5"> so on hopefully next season is</font>
+
+393
+00:25:53,630 --> 00:25:56,450
+better I find it kind of unfair<font color="#E5E5E5"> that</font><font color="#CCCCCC"> we</font>
+
+394
+00:25:56,450 --> 00:25:59,150
+weren't<font color="#E5E5E5"> allowed</font><font color="#CCCCCC"> to add Olly</font><font color="#E5E5E5"> but there</font>
+
+395
+00:25:59,150 --> 00:26:01,040
+dude was like<font color="#CCCCCC"> six foot five</font><font color="#E5E5E5"> like I don't</font>
+
+396
+00:26:01,040 --> 00:26:02,930
+<font color="#E5E5E5">know he scored like 30 points</font><font color="#CCCCCC"> but I</font>
+
+397
+00:26:02,930 --> 00:26:04,700
+guess the director said we<font color="#E5E5E5"> can't pick up</font>
+
+398
+00:26:04,700 --> 00:26:06,830
+<font color="#E5E5E5">Olly</font><font color="#CCCCCC"> because he's too good but that dude</font>
+
+399
+00:26:06,830 --> 00:26:08,509
+was pretty good himself<font color="#E5E5E5"> and</font>
+
+400
+00:26:08,509 --> 00:26:10,219
+<font color="#E5E5E5">guys had talked</font><font color="#CCCCCC"> to my barber Paul he</font>
+
+401
+00:26:10,219 --> 00:26:11,570
+played a hell<font color="#CCCCCC"> of a game he had at</font><font color="#E5E5E5"> least</font>
+
+402
+00:26:11,570 --> 00:26:14,299
+<font color="#E5E5E5">20</font><font color="#CCCCCC"> points had talked to Romel he played</font>
+
+403
+00:26:14,299 --> 00:26:16,249
+great he had<font color="#E5E5E5"> a least 20 himself I think</font>
+
+404
+00:26:16,249 --> 00:26:18,320
+<font color="#CCCCCC">I had like 18 or 20 but I don't care I</font>
+
+405
+00:26:18,320 --> 00:26:20,749
+played like shit<font color="#CCCCCC"> i frickin we lost if we</font>
+
+406
+00:26:20,749 --> 00:26:22,099
+<font color="#E5E5E5">lose the name I don't care how good I</font>
+
+407
+00:26:22,099 --> 00:26:23,869
+play<font color="#CCCCCC"> or anything because</font><font color="#E5E5E5"> at the</font><font color="#CCCCCC"> end</font><font color="#E5E5E5"> of</font>
+
+408
+00:26:23,869 --> 00:26:26,119
+the day wins matter way more than how
+
+409
+00:26:26,119 --> 00:26:27,499
+many<font color="#CCCCCC"> points you score wins are more</font>
+
+410
+00:26:27,499 --> 00:26:29,179
+important than<font color="#E5E5E5"> oh but you played good</font>
+
+411
+00:26:29,179 --> 00:26:30,949
+yeah<font color="#CCCCCC"> I don't care</font><font color="#E5E5E5"> how good I</font><font color="#CCCCCC"> play it if</font>
+
+412
+00:26:30,949 --> 00:26:32,449
+we lose then I played<font color="#E5E5E5"> like shit that's</font>
+
+413
+00:26:32,449 --> 00:26:34,789
+how<font color="#E5E5E5"> I see</font><font color="#CCCCCC"> it in my</font><font color="#E5E5E5"> head next season</font>
+
+414
+00:26:34,789 --> 00:26:38,449
+<font color="#E5E5E5">actually starts next week</font><font color="#CCCCCC"> so at least we</font>
+
+415
+00:26:38,449 --> 00:26:40,099
+don't have<font color="#CCCCCC"> to you</font><font color="#E5E5E5"> know wait a super long</font>
+
+416
+00:26:40,099 --> 00:26:41,809
+<font color="#CCCCCC">time for</font><font color="#E5E5E5"> next season we don't have to</font>
+
+417
+00:26:41,809 --> 00:26:43,819
+you<font color="#E5E5E5"> know be down</font><font color="#CCCCCC"> on ourselves</font><font color="#E5E5E5"> for a</font>
+
+418
+00:26:43,819 --> 00:26:44,959
+really<font color="#CCCCCC"> really long time</font>
+
+419
+00:26:44,959 --> 00:26:46,789
+I feel like I let my<font color="#CCCCCC"> brother down I feel</font>
+
+420
+00:26:46,789 --> 00:26:48,139
+<font color="#CCCCCC">like I let the other two guys who were</font>
+
+421
+00:26:48,139 --> 00:26:51,139
+off our team down<font color="#CCCCCC"> we'll</font><font color="#E5E5E5"> get him next</font>
+
+422
+00:26:51,139 --> 00:26:53,029
+<font color="#E5E5E5">season it sucks not making the playoffs</font>
+
+423
+00:26:53,029 --> 00:26:55,009
+<font color="#E5E5E5">we won six games</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> lost four games</font>
+
+424
+00:26:55,009 --> 00:26:57,589
+this season so we had a good<font color="#E5E5E5"> year</font><font color="#CCCCCC"> but it</font>
+
+425
+00:26:57,589 --> 00:26:58,940
+doesn't mean<font color="#E5E5E5"> anything</font><font color="#CCCCCC"> we can't even</font><font color="#E5E5E5"> make</font>
+
+426
+00:26:58,940 --> 00:27:00,469
+the playoffs<font color="#CCCCCC"> so</font><font color="#E5E5E5"> next year we got to come</font>
+
+427
+00:27:00,469 --> 00:27:03,459
+<font color="#CCCCCC">back</font><font color="#E5E5E5"> stronger come back hungry and I</font>
+
+428
+00:27:03,459 --> 00:27:05,749
+can't wait<font color="#CCCCCC"> so the season starts next</font>
+
+429
+00:27:05,749 --> 00:27:07,159
+<font color="#E5E5E5">week I hope you guys are excited I</font>
+
+430
+00:27:07,159 --> 00:27:08,419
+apologize for letting<font color="#E5E5E5"> you guys down</font>
+
+431
+00:27:08,419 --> 00:27:10,009
+because I know<font color="#E5E5E5"> I promised you</font><font color="#CCCCCC"> guys</font>
+
+432
+00:27:10,009 --> 00:27:11,329
+<font color="#E5E5E5">earlier in this video that I was</font><font color="#CCCCCC"> gonna</font>
+
+433
+00:27:11,329 --> 00:27:12,799
+win this game<font color="#CCCCCC"> for you</font><font color="#E5E5E5"> guys obviously</font>
+
+434
+00:27:12,799 --> 00:27:14,749
+<font color="#CCCCCC">that didn't happen</font><font color="#E5E5E5"> and I'm pinning most</font>
+
+435
+00:27:14,749 --> 00:27:15,469
+of it on me
+
+436
+00:27:15,469 --> 00:27:19,669
+it's my fault<font color="#E5E5E5"> so uh I hope you</font><font color="#CCCCCC"> at least</font>
+
+437
+00:27:19,669 --> 00:27:21,289
+<font color="#E5E5E5">at least the game was entertaining it</font>
+
+438
+00:27:21,289 --> 00:27:22,849
+was really really entertaining back and
+
+439
+00:27:22,849 --> 00:27:25,249
+forth crazy<font color="#CCCCCC"> my team choked</font><font color="#E5E5E5"> I'm blaming</font>
+
+440
+00:27:25,249 --> 00:27:25,909
+<font color="#E5E5E5">you on myself</font>
+
+441
+00:27:25,909 --> 00:27:27,589
+<font color="#CCCCCC">I freaking choked if my team is up by</font>
+
+442
+00:27:27,589 --> 00:27:29,449
+<font color="#CCCCCC">eight or ten and there's only like five</font>
+
+443
+00:27:29,449 --> 00:27:31,099
+<font color="#CCCCCC">minutes left</font><font color="#E5E5E5"> there's no way we</font><font color="#CCCCCC"> should</font>
+
+444
+00:27:31,099 --> 00:27:32,569
+lose<font color="#E5E5E5"> that game so I feel like shit I</font>
+
+445
+00:27:32,569 --> 00:27:34,999
+feel like<font color="#CCCCCC"> frickin whatever guys I need</font>
+
+446
+00:27:34,999 --> 00:27:36,349
+<font color="#E5E5E5">to close this video I hope you enjoyed</font>
+
+447
+00:27:36,349 --> 00:27:37,759
+<font color="#CCCCCC">watching this game</font><font color="#E5E5E5"> I know all you guys</font>
+
+448
+00:27:37,759 --> 00:27:40,579
+<font color="#E5E5E5">wanted us to win</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> wanted</font><font color="#CCCCCC"> to see us go</font>
+
+449
+00:27:40,579 --> 00:27:42,799
+to the playoffs<font color="#CCCCCC"> trust me trust</font><font color="#E5E5E5"> me I</font>
+
+450
+00:27:42,799 --> 00:27:44,690
+wanted that too but things just didn't
+
+451
+00:27:44,690 --> 00:27:46,009
+<font color="#E5E5E5">work out we face off against a really</font>
+
+452
+00:27:46,009 --> 00:27:47,599
+good team<font color="#CCCCCC"> they killed us in the paint</font>
+
+453
+00:27:47,599 --> 00:27:49,909
+offensive rebounds<font color="#CCCCCC"> I</font><font color="#E5E5E5"> always hope you</font>
+
+454
+00:27:49,909 --> 00:27:51,199
+guys enjoyed watching<font color="#E5E5E5"> the game it was</font>
+
+455
+00:27:51,199 --> 00:27:53,690
+<font color="#E5E5E5">really fun</font><font color="#CCCCCC"> I love you guys all</font><font color="#E5E5E5"> drop a</font>
+
+456
+00:27:53,690 --> 00:27:55,159
+like on this video so<font color="#E5E5E5"> we could come back</font>
+
+457
+00:27:55,159 --> 00:27:58,969
+<font color="#E5E5E5">stronger</font><font color="#CCCCCC"> next season and yeah</font><font color="#E5E5E5"> peace out</font>
+
+458
+00:27:58,969 --> 00:00:00,000
+<font color="#CCCCCC">guys</font>
+

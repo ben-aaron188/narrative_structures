@@ -1,640 +1,1830 @@
 1
-00:00:14,220 --> 00:00:17,349
-[Music]
+00:00:00,000 --> 00:00:01,542
+- [Missy] What is it?
 
 2
-00:00:18,260 --> 00:00:28,140
-<font color="#CCCCCC">what oh my gosh</font><font color="#E5E5E5"> dude</font><font color="#CCCCCC"> who wherever you</font>
+00:00:01,542 --> 00:00:02,683
+- It knows me!
 
 3
-00:00:28,140 --> 00:00:37,620
-are that's<font color="#E5E5E5"> what ever wanna be</font><font color="#CCCCCC"> locked up</font>
+00:00:02,683 --> 00:00:03,516
+- [Missy] It knows you?
 
 4
-00:00:37,620 --> 00:00:39,950
-inside
+00:00:03,516 --> 00:00:04,349
+How does it know you?
 
 5
-00:00:40,700 --> 00:00:44,010
-[Music]
+00:00:04,349 --> 00:00:05,412
+- Say Ollie.
 
 6
-00:00:44,010 --> 00:00:48,500
-you never<font color="#CCCCCC"> don't get funny</font>
+00:00:05,412 --> 00:00:06,662
+(toy noise)
 
 7
-00:00:48,500 --> 00:00:50,800
-<font color="#CCCCCC">trusting you</font>
+00:00:06,662 --> 00:00:09,294
+- [Missy] It talks to you?
 
 8
-00:00:50,800 --> 00:00:53,489
-[Music]
+00:00:09,294 --> 00:00:11,674
+(toy noise)
 
 9
-00:00:53,489 --> 00:00:56,940
-I'm Trevor
+00:00:11,674 --> 00:00:12,731
+Say farted.
 
 10
-00:01:01,010 --> 00:01:08,119
-yeah<font color="#E5E5E5"> -</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> say good morning</font><font color="#CCCCCC"> to me oh</font>
+00:00:12,731 --> 00:00:15,064
+(toy noise)
 
 11
-00:01:08,119 --> 00:01:12,090
-honey look who's home<font color="#E5E5E5"> we got ready today</font>
+00:00:17,705 --> 00:00:18,538
+- [Missy] It said farted?
 
 12
-00:01:12,090 --> 00:01:15,330
-<font color="#E5E5E5">and</font><font color="#CCCCCC"> button first of</font><font color="#E5E5E5"> all</font><font color="#CCCCCC"> are you from me</font>
+00:00:18,538 --> 00:00:19,371
+- Yeah.
 
 13
-00:01:15,330 --> 00:01:20,160
-<font color="#E5E5E5">and</font><font color="#CCCCCC"> Papa yeah we went</font><font color="#E5E5E5"> to breakfast and</font>
+00:00:24,184 --> 00:00:26,333
+♫ Wherever you are
 
 14
-00:01:20,160 --> 00:01:21,750
-<font color="#E5E5E5">now we're</font><font color="#CCCCCC"> just</font><font color="#E5E5E5"> back home</font><font color="#CCCCCC"> let me</font><font color="#E5E5E5"> just</font>
+00:00:26,333 --> 00:00:29,677
+♫ That's where I wanna be
 
 15
-00:01:21,750 --> 00:01:23,729
-clean up<font color="#E5E5E5"> the house for</font><font color="#CCCCCC"> a</font><font color="#E5E5E5"> little</font><font color="#CCCCCC"> boo-boo</font>
+00:00:29,677 --> 00:00:30,726
+♫ All it took was a life
 
 16
-00:01:23,729 --> 00:01:24,810
-I don't know if we actually<font color="#CCCCCC"> told you</font>
+00:00:30,726 --> 00:00:32,607
+♫ And that soft sun side
 
 17
-00:01:24,810 --> 00:01:27,090
-guys<font color="#E5E5E5"> what happened but he he like fell</font>
+00:00:32,607 --> 00:00:36,690
+♫ Big blue eyes looked up inside
 
 18
-00:01:27,090 --> 00:01:28,979
-really<font color="#E5E5E5"> gently</font><font color="#CCCCCC"> and just</font><font color="#E5E5E5"> kind of like</font>
+00:00:37,535 --> 00:00:40,185
+♫ This is home
 
 19
-00:01:28,979 --> 00:01:30,960
-bronzed his head on this mess and like
+00:00:40,185 --> 00:00:41,430
+♫ Just running' around
 
 20
-00:01:30,960 --> 00:01:32,970
-barely<font color="#CCCCCC"> even cried it didn't</font><font color="#E5E5E5"> even bleed</font>
+00:00:41,430 --> 00:00:43,205
+♫ You never looked so cute
 
 21
-00:01:32,970 --> 00:01:34,649
-it was like a little red mark and over
+00:00:43,205 --> 00:00:44,382
+♫ Hugging you tight
 
 22
-00:01:34,649 --> 00:01:37,320
-<font color="#CCCCCC">the course</font><font color="#E5E5E5"> of like two hours it's rated</font>
+00:00:44,382 --> 00:00:48,078
+♫ Cuddling all I could to you
 
 23
-00:01:37,320 --> 00:01:40,500
-<font color="#CCCCCC">risk AB and then</font><font color="#E5E5E5"> he picked it so now it</font>
+00:00:48,078 --> 00:00:50,738
+♫ I am home
 
 24
-00:01:40,500 --> 00:01:42,360
-looks<font color="#CCCCCC"> kind of yucky yeah it is Sunday</font>
+00:00:50,738 --> 00:00:54,821
+♫ Home's wherever you're with me
 
 25
-00:01:42,360 --> 00:01:44,940
-and we're<font color="#CCCCCC"> just come</font><font color="#E5E5E5"> I don't know what</font>
+00:00:57,852 --> 00:00:59,751
+- Good morning, guys.
 
 26
-00:01:44,940 --> 00:01:46,080
-we're<font color="#E5E5E5"> going</font><font color="#CCCCCC"> to do today</font><font color="#E5E5E5"> we're kind of</font>
+00:00:59,751 --> 00:01:01,902
+It is bright and early
 
 27
-00:01:46,080 --> 00:01:49,229
-just having a fun day<font color="#E5E5E5"> with the boys and</font>
+00:01:01,902 --> 00:01:03,729
+and we are gettin' up for the day
 
 28
-00:01:49,229 --> 00:01:50,580
-hanging<font color="#E5E5E5"> out and spending time</font><font color="#CCCCCC"> with them</font>
+00:01:03,729 --> 00:01:05,277
+'cause you have school.
 
 29
-00:01:50,580 --> 00:01:52,320
-because<font color="#CCCCCC"> still EGH life has</font><font color="#E5E5E5"> been a little</font>
+00:01:05,277 --> 00:01:07,164
+He's eatin' his breakfast.
 
 30
-00:01:52,320 --> 00:01:54,600
-<font color="#E5E5E5">bit busy the past couple days so we're</font>
+00:01:07,164 --> 00:01:07,997
+Are you excited for your day?
 
 31
-00:01:54,600 --> 00:01:56,130
-just<font color="#E5E5E5"> going to play probably go something</font>
+00:01:07,997 --> 00:01:09,282
+- Yes.
 
 32
-00:01:56,130 --> 00:01:57,479
-<font color="#CCCCCC">I actually</font><font color="#E5E5E5"> have been really missing it</font>
+00:01:09,282 --> 00:01:11,747
+- Every morning I try
+and perfect the morning
 
 33
-00:01:57,479 --> 00:02:01,830
-<font color="#E5E5E5">for you go</font><font color="#CCCCCC"> swimmin boys</font><font color="#E5E5E5"> today yeah what</font>
+00:01:11,747 --> 00:01:13,749
+so that he has more time to eat breakfast
 
 34
-00:02:01,830 --> 00:02:05,130
-yeah<font color="#CCCCCC"> while we show</font><font color="#E5E5E5"> him your car</font><font color="#CCCCCC"> it's a</font>
+00:01:13,749 --> 00:01:15,153
+less being late.
 
 35
-00:02:05,130 --> 00:02:09,479
-red Lego car huh so I'm thinking<font color="#E5E5E5"> sitting</font>
+00:01:15,153 --> 00:01:16,195
+Which we've never been late,
 
 36
-00:02:09,479 --> 00:02:11,790
-down for an na P we've been doing this
+00:01:16,195 --> 00:01:17,420
+but I'm just kind of like a-
 
 37
-00:02:11,790 --> 00:02:14,700
-for<font color="#E5E5E5"> a</font><font color="#CCCCCC"> while now ever</font><font color="#E5E5E5"> since we got back</font>
+00:01:17,420 --> 00:01:18,966
+I get a lot of, like, stress
 
 38
-00:02:14,700 --> 00:02:15,870
-<font color="#E5E5E5">from Vegas I've been putting him down</font>
+00:01:18,966 --> 00:01:20,561
+when I feel like we're gonna be late
 
 39
-00:02:15,870 --> 00:02:18,239
-because<font color="#CCCCCC"> I'm meeting</font><font color="#E5E5E5"> see he's starting</font>
+00:01:20,561 --> 00:01:22,896
+or if we're getting close to being late.
 
 40
-00:02:18,239 --> 00:02:21,450
-<font color="#E5E5E5">better say what's going</font><font color="#CCCCCC"> on</font><font color="#E5E5E5"> oh yeah nap</font>
+00:01:22,896 --> 00:01:24,610
+I am still trying, actually.
 
 41
-00:02:21,450 --> 00:02:26,160
-you want to take a nap<font color="#E5E5E5"> yeah</font><font color="#CCCCCC"> do that he's</font>
+00:01:24,610 --> 00:01:27,818
+I set my clock this
+morning 15 minutes earlier
 
 42
-00:02:26,160 --> 00:02:29,220
-been<font color="#E5E5E5"> doing so good with</font><font color="#CCCCCC"> his napping and</font>
+00:01:27,818 --> 00:01:28,772
+than I usually do
 
 43
-00:02:29,220 --> 00:02:32,910
-his<font color="#E5E5E5"> Baba movie has superhero book you</font>
+00:01:28,772 --> 00:01:30,399
+and I figured out my problem.
 
 44
-00:02:32,910 --> 00:02:33,840
-want to read<font color="#CCCCCC"> about</font><font color="#E5E5E5"> that man</font>
+00:01:30,399 --> 00:01:31,824
+It's 'cause I don't like to wake up.
 
 45
-00:02:33,840 --> 00:02:37,620
-what okay<font color="#E5E5E5"> let's read about Batman</font><font color="#CCCCCC"> K</font><font color="#E5E5E5"> well</font>
+00:01:31,824 --> 00:01:32,657
+(laughs)
 
 46
-00:02:37,620 --> 00:02:42,110
-well look at<font color="#CCCCCC"> their they are not cool</font>
+00:01:32,657 --> 00:01:33,490
+Once I'm up, I'm great
 
 47
-00:02:42,500 --> 00:02:46,920
-<font color="#CCCCCC">mmm-hmm who is that oh no not that man</font>
+00:01:33,490 --> 00:01:35,629
+but I hate that waking up part.
 
 48
-00:02:46,920 --> 00:02:49,110
-he<font color="#E5E5E5"> only knows</font><font color="#CCCCCC"> Batman</font>
+00:01:35,629 --> 00:01:37,125
+We need to get ready and go.
 
 49
-00:02:49,110 --> 00:02:55,250
-thanks Batman<font color="#E5E5E5"> there he is huh yeah</font>
+00:01:37,125 --> 00:01:38,694
+And you're all ready, huh?
 
 50
-00:02:55,250 --> 00:02:56,489
-uh-huh
+00:01:38,694 --> 00:01:40,831
+Momma got you all dressed
+as soon as you woke up.
 
 51
-00:02:56,489 --> 00:02:59,400
-<font color="#CCCCCC">oh</font><font color="#E5E5E5"> yeah he's been doing so good with</font><font color="#CCCCCC"> his</font>
+00:01:40,831 --> 00:01:41,842
+What are you doin'?
 
 52
-00:02:59,400 --> 00:03:01,440
-sleep schedule you guys so I'm taking
+00:01:41,842 --> 00:01:42,783
+Go take another bite.
 
 53
-00:03:01,440 --> 00:03:03,490
-<font color="#E5E5E5">one nap a day later in the day now</font>
+00:01:42,783 --> 00:01:44,804
+Got his lunch all packed,
 
 54
-00:03:03,490 --> 00:03:05,350
-normally naps<font color="#E5E5E5"> for at least two</font><font color="#CCCCCC"> hours he</font>
+00:01:44,804 --> 00:01:46,594
+and we've got some water,
 
 55
-00:03:05,350 --> 00:03:07,030
-puts himself to sleep<font color="#E5E5E5"> he doesn't when he</font>
+00:01:46,594 --> 00:01:48,902
+some apples and carrots,
 
 56
-00:03:07,030 --> 00:03:09,970
-goes to<font color="#CCCCCC"> bed</font><font color="#E5E5E5"> - it's so</font><font color="#CCCCCC"> amazing just to</font>
+00:01:48,902 --> 00:01:50,411
+an Uncrustable,
 
 57
-00:03:09,970 --> 00:03:11,770
-get because<font color="#CCCCCC"> of</font><font color="#E5E5E5"> huge strides lately</font><font color="#CCCCCC"> in</font>
+00:01:50,411 --> 00:01:51,398
+Goldfish,
 
 58
-00:03:11,770 --> 00:03:13,390
-his<font color="#E5E5E5"> sleep so we're hoping</font><font color="#CCCCCC"> that it keeps</font>
+00:01:51,398 --> 00:01:53,666
+Ane even some little Scooby Snacks
 
 59
-00:03:13,390 --> 00:03:15,490
-up<font color="#E5E5E5"> and hopefully not going to</font><font color="#CCCCCC"> weather</font>
+00:01:53,666 --> 00:01:55,363
+if he makes it all the way to that point.
 
 60
-00:03:15,490 --> 00:03:17,440
-<font color="#E5E5E5">doesn't change but if we can keep it up</font>
+00:01:55,363 --> 00:01:57,019
+Alright, Ollie, do you want to show me
 
 61
-00:03:17,440 --> 00:03:20,290
-<font color="#E5E5E5">we can transition him to a regular bed</font>
+00:01:57,019 --> 00:01:58,307
+what's in your back pack this morning?
 
 62
-00:03:20,290 --> 00:03:22,540
-and might<font color="#E5E5E5"> actually do it with</font><font color="#CCCCCC"> oli</font><font color="#E5E5E5"> how</font>
+00:01:58,307 --> 00:01:59,302
+- Yeah
 
 63
-00:03:22,540 --> 00:03:23,590
-cool would that be
+00:01:59,302 --> 00:02:03,474
+- [Missy] Alright, go ahead
+and unzip it right here.
 
 64
-00:03:23,590 --> 00:03:24,670
-let us know in the comments<font color="#E5E5E5"> below if you</font>
+00:02:03,474 --> 00:02:05,349
+He's like, "Hello, good morning"
 
 65
-00:03:24,670 --> 00:03:26,440
-think<font color="#E5E5E5"> oli</font><font color="#CCCCCC"> and Finn should share</font><font color="#E5E5E5"> it room</font>
+00:02:05,349 --> 00:02:08,096
+What is the first thing in there?
 
 66
-00:03:26,440 --> 00:03:27,730
-because<font color="#CCCCCC"> I think I'd be the cutest thing</font>
+00:02:08,096 --> 00:02:09,461
+Mr. Monkey!
 
 67
-00:03:27,730 --> 00:03:29,770
-ever<font color="#CCCCCC"> and Ali's room</font><font color="#E5E5E5"> is way big enough</font>
+00:02:09,461 --> 00:02:11,697
+So he's coming back to school
+to cuddle during nap time,
 
 68
-00:03:29,770 --> 00:03:31,450
-for<font color="#CCCCCC"> both of them</font><font color="#E5E5E5"> so we can definitely do</font>
+00:02:11,697 --> 00:02:12,678
+right?
 
 69
-00:03:31,450 --> 00:03:32,980
-something<font color="#CCCCCC"> in that I'd be really cool you</font>
+00:02:12,678 --> 00:02:13,606
+Yay.
 
 70
-00:03:32,980 --> 00:03:37,810
-tired<font color="#CCCCCC"> want to take a little nap</font><font color="#E5E5E5"> Clara</font><font color="#CCCCCC"> no</font>
+00:02:13,606 --> 00:02:14,702
+He's very excited about that.
 
 71
-00:03:37,810 --> 00:03:42,160
-way<font color="#CCCCCC"> you want a nap right there</font><font color="#E5E5E5"> okay</font>
+00:02:14,702 --> 00:02:16,262
+Alright, what's the next thing in there?
 
 72
-00:03:42,160 --> 00:03:49,930
-<font color="#CCCCCC">goodnight push</font><font color="#E5E5E5"> your</font><font color="#CCCCCC"> ice full time that's</font>
+00:02:16,262 --> 00:02:17,429
+A new blankie.
 
 73
-00:03:49,930 --> 00:03:52,000
-<font color="#E5E5E5">right guys it</font><font color="#CCCCCC"> is time to</font><font color="#E5E5E5"> get in the pool</font>
+00:02:19,002 --> 00:02:21,098
+He has a blanket there,
+but this one matches now
 
 74
-00:03:52,000 --> 00:03:55,660
-<font color="#E5E5E5">there are two days left of summer</font>
+00:02:21,098 --> 00:02:23,479
+his crib sheet, so that's kinda cool.
 
 75
-00:03:55,660 --> 00:03:57,700
-vacation did you know that<font color="#E5E5E5"> today and</font>
+00:02:23,479 --> 00:02:25,260
+And it's a very comfy, soft one.
 
 76
-00:03:57,700 --> 00:03:59,350
-<font color="#E5E5E5">tomorrow those are your last two days</font>
+00:02:25,260 --> 00:02:26,863
+What else is in there?
 
 77
-00:03:59,350 --> 00:04:01,770
-<font color="#CCCCCC">for summer break until you start school</font>
+00:02:26,863 --> 00:02:28,817
+An ... What is it?
 
 78
-00:04:01,770 --> 00:04:04,930
-<font color="#CCCCCC">we had an</font><font color="#E5E5E5"> amazing summer though you guys</font>
+00:02:28,817 --> 00:02:30,405
+- A alligator game!
 
 79
-00:04:04,930 --> 00:04:07,030
-<font color="#E5E5E5">please click the icon</font><font color="#CCCCCC"> in</font><font color="#E5E5E5"> the corner to</font>
+00:02:30,405 --> 00:02:32,995
+- [Missy] The alligator game.
 
 80
-00:04:07,030 --> 00:04:08,920
-<font color="#E5E5E5">check out our summer playlist of all</font><font color="#CCCCCC"> the</font>
+00:02:32,995 --> 00:02:35,662
+(playful music)
 
 81
-00:04:08,920 --> 00:04:11,200
-amazing things<font color="#E5E5E5"> we did this summer we had</font>
+00:02:37,309 --> 00:02:40,241
+- Tomorrow, at preschool, is share day.
 
 82
-00:04:11,200 --> 00:04:12,850
-an absolute blast hanging<font color="#E5E5E5"> in the pool</font>
+00:02:40,241 --> 00:02:42,325
+So share day is where
+you get to bring one toy,
 
 83
-00:04:12,850 --> 00:04:15,250
-and soaking up the Sun but it's not over
+00:02:42,325 --> 00:02:44,132
+and you get to share
+with all your friends.
 
 84
-00:04:15,250 --> 00:04:16,298
-yet<font color="#CCCCCC"> because we're</font><font color="#E5E5E5"> going to hop in the</font>
+00:02:44,132 --> 00:02:45,226
+Does that sound fun?
 
 85
-00:04:16,298 --> 00:04:18,629
-pool<font color="#E5E5E5"> right</font>
+00:02:45,226 --> 00:02:46,059
+- Uh-huh.
 
 86
-00:04:22,310 --> 00:04:25,680
-hey dude you<font color="#CCCCCC"> got your floaties</font><font color="#E5E5E5"> on and</font>
+00:02:46,059 --> 00:02:49,288
+- Okay, but for this week, the letter is A
 
 87
-00:04:25,680 --> 00:04:27,090
-your swim trunks<font color="#E5E5E5"> on you're ready to hop</font>
+00:02:49,288 --> 00:02:51,215
+which means you have to
+bring a toy to school
 
 88
-00:04:27,090 --> 00:04:30,120
-in the<font color="#CCCCCC"> Bluff town Oh a shark</font>
+00:02:51,215 --> 00:02:53,488
+that starts with the letter A.
 
 89
-00:04:30,120 --> 00:04:34,250
-<font color="#E5E5E5">so</font><font color="#CCCCCC"> the key</font><font color="#E5E5E5"> makes our cargo</font>
+00:02:53,488 --> 00:02:55,337
+We've got three options
+here to choose from.
 
 90
-00:04:36,440 --> 00:04:40,730
-[Music]
+00:02:55,337 --> 00:02:57,262
+We've got Spiderman.
 
 91
-00:04:40,730 --> 00:04:42,430
-[Applause]
+00:02:57,262 --> 00:02:59,564
+Spiderman would be really
+fun to bring to school, huh?
 
 92
-00:04:42,430 --> 00:05:24,630
-[Music]
+00:02:59,564 --> 00:03:00,421
+- Cool.
 
 93
-00:05:24,630 --> 00:05:24,950
-[Applause]
+00:03:00,421 --> 00:03:01,254
+- Yeah.
 
 94
-00:05:24,950 --> 00:05:40,139
-[Music]
+00:03:01,254 --> 00:03:02,337
+We've got car
 
 95
-00:05:44,830 --> 00:05:47,120
-always going<font color="#CCCCCC"> to try and hit</font><font color="#E5E5E5"> the right on</font>
+00:03:03,770 --> 00:03:05,428
+Ooh
 
 96
-00:05:47,120 --> 00:05:49,570
-<font color="#E5E5E5">karma</font>
+00:03:05,428 --> 00:03:08,095
+And we've got the aligator game.
 
 97
-00:05:49,990 --> 00:05:53,530
-[Music]
+00:03:09,474 --> 00:03:13,560
+So which one of these toys
+starts with the letter A?
 
 98
-00:05:53,530 --> 00:05:56,810
-[Applause]
+00:03:13,560 --> 00:03:15,393
+How did you know that?
 
 99
-00:06:01,770 --> 00:06:03,440
-[Applause]
+00:03:16,452 --> 00:03:18,392
+How did you know that?
 
 100
-00:06:03,440 --> 00:06:06,350
-[Music]
+00:03:18,392 --> 00:03:19,576
+- [Bryan] Ollie, what is this?
 
 101
-00:06:06,350 --> 00:06:09,429
-[Applause]
+00:03:19,576 --> 00:03:21,103
+- Aligator game.
 
 102
-00:06:10,300 --> 00:06:36,350
-[Music]
+00:03:21,103 --> 00:03:23,322
+- [Bryan] The aligator starts with a ...?
 
 103
-00:06:36,350 --> 00:06:39,429
-[Applause]
+00:03:23,322 --> 00:03:25,148
+- A, A, apple!
 
 104
-00:06:44,610 --> 00:06:53,800
-[Music]
+00:03:25,148 --> 00:03:25,981
+- A
 
 105
-00:06:53,800 --> 00:07:01,810
-[Applause]
+00:03:27,512 --> 00:03:28,808
+You're so right!
 
 106
-00:07:02,100 --> 00:07:03,070
-[Music]
+00:03:28,808 --> 00:03:30,019
+That was so smart of him,
 
 107
-00:07:03,070 --> 00:07:06,199
-[Applause]
+00:03:30,019 --> 00:03:31,010
+I'm so proud of him!
 
 108
-00:07:07,020 --> 00:07:11,800
-[Music]
+00:03:31,010 --> 00:03:33,303
+So you're gonna bring the aligator game,
 
 109
-00:07:11,800 --> 00:07:15,750
-[Applause]
+00:03:33,303 --> 00:03:34,136
+does that sound good, Ollie?
 
 110
-00:07:15,750 --> 00:07:19,030
-we have had the chillest<font color="#E5E5E5"> Sunday it's</font>
+00:03:34,136 --> 00:03:34,969
+- Yeah.
 
 111
-00:07:19,030 --> 00:07:21,250
-actually been amazing the kids<font color="#CCCCCC"> the state</font>
+00:03:34,969 --> 00:03:35,802
+Yeah?
 
 112
-00:07:21,250 --> 00:07:22,420
-dinner now they're having<font color="#CCCCCC"> a little</font>
+00:03:35,802 --> 00:03:36,728
+- You're gonna show all
+your friends how to play it.
 
 113
-00:07:22,420 --> 00:07:24,940
-<font color="#E5E5E5">dessert</font><font color="#CCCCCC"> we've been so</font><font color="#E5E5E5"> rebellious today</font>
+00:03:36,728 --> 00:03:38,728
+Do you know how to play?
 
 114
-00:07:24,940 --> 00:07:27,180
-we<font color="#CCCCCC"> gives a</font>
+00:03:44,837 --> 00:03:46,004
+- [Bryan] Ahh!
 
 115
-00:07:27,180 --> 00:07:29,260
-<font color="#E5E5E5">breakfast and we've just been like</font>
+00:03:47,331 --> 00:03:48,694
+- So you're gonna share
+this with all your friends
 
 116
-00:07:29,260 --> 00:07:31,300
-playing<font color="#E5E5E5"> hooky with our</font><font color="#CCCCCC"> boys yeah they -</font>
+00:03:48,694 --> 00:03:50,607
+and show them how to play, okay?
 
 117
-00:07:31,300 --> 00:07:33,930
-<font color="#CCCCCC">OH</font>
+00:03:50,607 --> 00:03:52,024
+Yeah, so excited!
 
 118
-00:07:35,250 --> 00:07:40,500
-<font color="#CCCCCC">jakka cake leftover cake</font><font color="#E5E5E5"> from yesterday</font>
+00:03:53,131 --> 00:03:54,685
+- I hope Kate can be there.
 
 119
-00:07:40,500 --> 00:07:44,740
-well<font color="#E5E5E5"> they're so happy you're gonna do a</font>
+00:03:54,685 --> 00:03:56,319
+- Yeah, I think she's gonna be there.
 
 120
-00:07:44,740 --> 00:07:46,810
-play together<font color="#CCCCCC"> whole world you guys</font><font color="#E5E5E5"> have</font>
+00:03:56,319 --> 00:03:57,791
+- [Missy] That is the aligator
+game that you get to do
 
 121
-00:07:46,810 --> 00:07:48,900
-been so good<font color="#E5E5E5"> just watching a little</font><font color="#CCCCCC"> TV</font>
+00:03:57,791 --> 00:03:59,339
+for Share Day, huh?
 
 122
-00:07:48,900 --> 00:07:50,800
-<font color="#CCCCCC">hanging</font><font color="#E5E5E5"> out it's</font><font color="#CCCCCC"> actually almost bedtime</font>
+00:03:59,339 --> 00:04:00,172
+- Yeah.
 
 123
-00:07:50,800 --> 00:07:52,630
-at least for Finn for<font color="#E5E5E5"> sure it's been</font>
+00:04:00,172 --> 00:04:01,707
+- [Missy] Are you excited to share it?
 
 124
-00:07:52,630 --> 00:07:55,660
-very nice Sunday<font color="#CCCCCC"> my</font><font color="#E5E5E5"> hair is crazy</font>
+00:04:01,707 --> 00:04:02,540
+- Yeah.
 
 125
-00:07:55,660 --> 00:07:57,340
-<font color="#E5E5E5">- got a shower I didn't do anything with</font>
+00:04:02,540 --> 00:04:04,064
+- [Missy] Alright, should be fun.
 
 126
-00:07:57,340 --> 00:08:00,130
-<font color="#E5E5E5">it</font><font color="#CCCCCC"> so that's how lazy was</font><font color="#E5E5E5"> Sunday</font><font color="#CCCCCC"> alright</font>
+00:04:04,064 --> 00:04:06,564
+(happy music)
 
 127
-00:08:00,130 --> 00:08:06,730
-you guys almost ready<font color="#E5E5E5"> for</font><font color="#CCCCCC"> bed no</font><font color="#E5E5E5"> more</font>
+00:04:08,609 --> 00:04:09,442
+- Hey guys
 
 128
-00:08:06,730 --> 00:08:10,120
-sleep<font color="#CCCCCC"> till school - more Olli what do</font>
+00:04:11,313 --> 00:04:14,345
+So I am headed to pick
+up Ollie from preschool
 
 129
-00:08:10,120 --> 00:08:11,370
-you think about<font color="#E5E5E5"> that</font>
+00:04:14,345 --> 00:04:16,673
+and I am so excited because
 
 130
-00:08:11,370 --> 00:08:15,120
-he's a<font color="#CCCCCC"> all girl</font>
+00:04:16,673 --> 00:04:20,648
+I really wanna hear how his
+very first show-and-tell went.
 
 131
-00:08:17,780 --> 00:08:49,490
-oh gosh dude who<font color="#E5E5E5"> then you</font><font color="#CCCCCC"> I'll use a</font>
+00:04:20,649 --> 00:04:21,774
+I remember as a kid
 
 132
-00:08:49,490 --> 00:08:50,360
-<font color="#E5E5E5">magic potion</font>
+00:04:21,774 --> 00:04:23,902
+I used to love show-and-tell.
 
 133
-00:08:50,360 --> 00:08:53,460
-[Music]
+00:04:23,902 --> 00:04:25,885
+And we did it all the way up until-
 
 134
-00:08:58,040 --> 00:09:01,150
-[Music]
+00:04:25,885 --> 00:04:28,512
+I believe it was second
+grade or third grade.
 
 135
-00:09:02,460 --> 00:09:14,610
-whoa<font color="#CCCCCC"> people they've never done</font><font color="#E5E5E5"> this</font>
+00:04:28,512 --> 00:04:29,642
+Yeah, it was third-
 
 136
-00:09:14,610 --> 00:09:15,750
-<font color="#E5E5E5">before you guys I'm literally just</font>
+00:04:29,642 --> 00:04:32,384
+I remember doing show-and-tell
+in third grade, you guys.
 
 137
-00:09:15,750 --> 00:09:17,240
-following them with<font color="#E5E5E5"> a camera right now</font>
+00:04:32,384 --> 00:04:35,123
+And I always loved picking
+out an object to bring
 
 138
-00:09:17,240 --> 00:09:21,149
-<font color="#E5E5E5">observing them play together</font><font color="#CCCCCC"> trying</font><font color="#E5E5E5"> to</font>
+00:04:35,123 --> 00:04:38,131
+and show everyone, and it was a big thing
 
 139
-00:09:21,149 --> 00:09:23,610
-stay far<font color="#CCCCCC"> away so they don't</font><font color="#E5E5E5"> get</font>
+00:04:38,131 --> 00:04:39,081
+when you were a kid.
 
 140
-00:09:23,610 --> 00:09:28,370
-distracted<font color="#E5E5E5"> I love it I love</font><font color="#CCCCCC"> our boys</font>
+00:04:39,081 --> 00:04:39,914
+So.
 
 141
-00:09:29,550 --> 00:09:38,230
-[Music]
+00:04:39,914 --> 00:04:42,975
+I'm excited to see how Ollie's
+first "Share Day" went,
 
 142
-00:09:41,470 --> 00:09:45,970
-[Music]
+00:04:42,975 --> 00:04:44,502
+that's what they call it, although,
 
 143
-00:09:45,970 --> 00:09:59,740
-and I think you got<font color="#E5E5E5"> it double five good</font>
+00:04:44,502 --> 00:04:45,840
+it should really be
+called, "show-and-tell."
 
 144
-00:10:05,769 --> 00:10:09,500
-who really won<font color="#E5E5E5"> you guys you decide let</font>
+00:04:45,840 --> 00:04:46,852
+Come on.
 
 145
-00:10:09,500 --> 00:10:11,480
-<font color="#E5E5E5">us know down below in the</font><font color="#CCCCCC"> contest</font>
+00:04:46,852 --> 00:04:48,695
+We are gonna have a fun afternoon,
 
 146
-00:10:11,480 --> 00:10:13,790
-that's all for today's video<font color="#E5E5E5"> you guys I</font>
+00:04:48,695 --> 00:04:50,245
+so Ollie and I are gonna
+get to go to lunch.
 
 147
-00:10:13,790 --> 00:10:15,230
-<font color="#E5E5E5">hope you enjoyed it</font><font color="#CCCCCC"> every day be sure to</font>
+00:04:50,245 --> 00:04:51,211
+I'm gonna go to lunch,
 
 148
-00:10:15,230 --> 00:10:16,670
-give<font color="#CCCCCC"> it a thumbs up boy</font>
+00:04:51,211 --> 00:04:52,662
+and he's gonna bring his lunch
 
 149
-00:10:16,670 --> 00:10:19,600
-can we thumbs up shall we thumbs up
+00:04:52,662 --> 00:04:54,082
+that we packed him this morning.
 
 150
-00:10:19,600 --> 00:10:23,779
-thumbs up thanks for<font color="#E5E5E5"> watching guys</font>
+00:04:54,082 --> 00:04:56,624
+And then we're going to
+get our hair cuts, also.
 
 151
-00:10:23,779 --> 00:10:26,990
-please like subscribe<font color="#E5E5E5"> yes make</font><font color="#CCCCCC"> sure</font><font color="#E5E5E5"> you</font>
+00:04:56,624 --> 00:04:58,598
+I'm excited to see how it all went.
 
 152
-00:10:26,990 --> 00:10:28,610
-subscribe<font color="#CCCCCC"> check</font><font color="#E5E5E5"> out</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> link down</font><font color="#CCCCCC"> below</font>
+00:04:58,598 --> 00:04:59,989
+And it is a beautiful day.
 
 153
-00:10:28,610 --> 00:10:30,230
-for<font color="#CCCCCC"> our giveaway we're running we will</font>
+00:04:59,989 --> 00:05:01,678
+You guys see these blue skies?
 
 154
-00:10:30,230 --> 00:10:34,310
-<font color="#CCCCCC">see you manana alright</font><font color="#E5E5E5"> whoa which you</font>
+00:05:01,678 --> 00:05:03,300
+It's gorgeous today.
 
 155
-00:10:34,310 --> 00:10:36,769
-boys is<font color="#E5E5E5"> going to do the bye boo which</font>
+00:05:03,300 --> 00:05:07,467
+Another B-E-A-utiful day here
+in sunny Southern California.
 
 156
-00:10:36,769 --> 00:10:39,829
-one battle for the bicep<font color="#CCCCCC"> supply Brooks</font>
+00:05:08,937 --> 00:05:10,062
+Look who it is, you guys!
 
 157
-00:10:39,829 --> 00:10:42,370
-at<font color="#E5E5E5"> all</font>
+00:05:10,062 --> 00:05:10,895
+- Hi.
 
 158
-00:10:43,160 --> 00:11:00,030
-[Music]
+00:05:10,895 --> 00:05:11,728
+- [Bryan] How was school?
 
 159
-00:11:00,030 --> 00:11:01,700
-<font color="#CCCCCC">you</font>
+00:05:11,728 --> 00:05:12,561
+- Good.
 
 160
-00:11:01,700 --> 00:00:00,000
-[Music]
+00:05:12,561 --> 00:05:14,691
+- Good. And how did show-and-tell go?
+
+161
+00:05:14,691 --> 00:05:15,524
+- Good.
+
+162
+00:05:15,524 --> 00:05:16,357
+- Good?
+
+163
+00:05:16,357 --> 00:05:17,448
+What did people say about your aligator?
+
+164
+00:05:17,448 --> 00:05:18,992
+- There's four alligators.
+
+165
+00:05:18,992 --> 00:05:21,187
+- Someone brought three other alligators?
+
+166
+00:05:21,187 --> 00:05:22,138
+- Yes!
+
+167
+00:05:22,138 --> 00:05:23,331
+- There was four alligators
+
+168
+00:05:23,331 --> 00:05:24,882
+in show-and-tell today, apparently, huh?
+
+169
+00:05:24,882 --> 00:05:25,715
+- Yeah.
+
+170
+00:05:25,715 --> 00:05:26,582
+- That is so funny.
+
+171
+00:05:26,582 --> 00:05:28,234
+And you had your alligator game.
+
+172
+00:05:28,234 --> 00:05:29,241
+Did you play it with anyone?
+
+173
+00:05:29,241 --> 00:05:30,074
+- Yeah.
+
+174
+00:05:30,074 --> 00:05:30,907
+- Yeah?
+
+175
+00:05:30,907 --> 00:05:31,740
+Did you and Peyton play?
+
+176
+00:05:31,740 --> 00:05:32,573
+- Mm-hmm.
+
+177
+00:05:32,573 --> 00:05:33,931
+- And who won?
+
+178
+00:05:33,931 --> 00:05:35,192
+- Me!
+
+179
+00:05:35,192 --> 00:05:36,114
+- You did?
+
+180
+00:05:36,114 --> 00:05:36,947
+- Yes.
+
+181
+00:05:36,947 --> 00:05:37,992
+- Alright, you ready to get some lunch?
+
+182
+00:05:37,992 --> 00:05:39,502
+He already started eating his lunch.
+
+183
+00:05:39,502 --> 00:05:40,732
+He was doing so good.
+
+184
+00:05:40,732 --> 00:05:42,817
+So he's gonna finish his lunch with me.
+
+185
+00:05:42,817 --> 00:05:44,658
+- Where alligators live?
+
+186
+00:05:44,658 --> 00:05:46,049
+- [Bryan] Alligators live in the water.
+
+187
+00:05:46,049 --> 00:05:46,927
+- Water?
+
+188
+00:05:46,927 --> 00:05:47,890
+- [Bryan] Yeah.
+
+189
+00:05:47,890 --> 00:05:48,723
+And on land.
+
+190
+00:05:48,723 --> 00:05:49,556
+They can go in both.
+
+191
+00:05:49,556 --> 00:05:50,389
+You need to tie your shoe.
+
+192
+00:05:50,389 --> 00:05:51,722
+- Let's do this.
+
+193
+00:05:52,600 --> 00:05:55,100
+(happy music)
+
+194
+00:06:01,171 --> 00:06:03,168
+- [Bryan] Alright, Ollie,
+what are we doing now?
+
+195
+00:06:03,168 --> 00:06:05,038
+- Getting our haircuts!
+
+196
+00:06:05,038 --> 00:06:05,871
+- [Bryan] Yeah.
+
+197
+00:06:05,871 --> 00:06:07,703
+- I opened my door by myself!
+
+198
+00:06:07,703 --> 00:06:08,544
+- Good job!
+
+199
+00:06:08,544 --> 00:06:09,784
+Let's go, dude.
+
+200
+00:06:09,784 --> 00:06:10,741
+Just finished up lunch,
+
+201
+00:06:10,741 --> 00:06:13,192
+and now we are going to visit Travis,
+
+202
+00:06:13,192 --> 00:06:14,874
+and he is gonna cut our hairs.
+
+203
+00:06:14,874 --> 00:06:15,707
+Right?
+
+204
+00:06:15,707 --> 00:06:16,540
+- Yep.
+
+205
+00:06:16,540 --> 00:06:17,373
+- Yep.
+
+206
+00:06:17,373 --> 00:06:18,740
+I love this little area
+where the haircut place is.
+
+207
+00:06:18,740 --> 00:06:21,302
+This is where that starlight bazar was at.
+
+208
+00:06:21,302 --> 00:06:24,135
+(wild west music)
+
+209
+00:06:31,645 --> 00:06:32,987
+- Hey, Ollie, you wanna try on some hats?
+
+210
+00:06:32,987 --> 00:06:33,820
+- No.
+
+211
+00:06:33,820 --> 00:06:35,761
+- [Bryan] No? (laughs)
+He's not a fan of hats.
+
+212
+00:06:35,761 --> 00:06:39,011
+Dude, look, they have one in your size.
+
+213
+00:06:39,925 --> 00:06:43,592
+What do you think? (laughs)
+
+214
+00:06:50,582 --> 00:06:52,272
+- [Bryan] Ollie is in such a mood today.
+
+215
+00:06:52,272 --> 00:06:54,391
+He's being so sassy with everyone.
+
+216
+00:06:54,391 --> 00:06:58,666
+Ollie, are you picking fights with Travis?
+
+217
+00:06:58,666 --> 00:07:00,916
+Alright, time for haircuts.
+
+218
+00:07:02,978 --> 00:07:05,895
+( wild west music)
+
+219
+00:07:07,289 --> 00:07:08,932
+- Get suckers for a haircut.
+
+220
+00:07:08,932 --> 00:07:09,765
+- [Travis] You're welcome buddy.
+
+221
+00:07:09,765 --> 00:07:11,470
+- [Bryan] Lookin' good, dude.
+
+222
+00:07:11,470 --> 00:07:15,053
+Here. You wanna facetime
+Mama and show her?
+
+223
+00:07:16,388 --> 00:07:19,352
+Alright, you guys, we got our haircut.
+
+224
+00:07:19,352 --> 00:07:20,202
+What do you think?
+
+225
+00:07:20,202 --> 00:07:21,236
+Do you like Daddy's haircut?
+
+226
+00:07:21,236 --> 00:07:22,069
+Yeah?
+
+227
+00:07:22,069 --> 00:07:23,104
+It looks good?
+
+228
+00:07:23,104 --> 00:07:24,261
+What do you wanna do now?
+
+229
+00:07:24,261 --> 00:07:26,290
+- I wanna get ice cream at here!
+
+230
+00:07:26,290 --> 00:07:27,427
+- We should get ice cream?
+
+231
+00:07:27,427 --> 00:07:28,393
+Okay.
+
+232
+00:07:28,393 --> 00:07:31,128
+There is a little ice
+cream place down here.
+
+233
+00:07:31,128 --> 00:07:34,420
+This is becoming a ritual for Ollie now.
+
+234
+00:07:34,420 --> 00:07:36,550
+- I wanna get vanilla ice cream.
+
+235
+00:07:36,550 --> 00:07:37,383
+- [Bryan] That's all?
+
+236
+00:07:37,383 --> 00:07:38,216
+Vanilla?
+
+237
+00:07:38,216 --> 00:07:39,141
+- Yeah.
+
+238
+00:07:39,141 --> 00:07:40,628
+- It's like a fancy ice cream place,
+
+239
+00:07:40,628 --> 00:07:42,626
+so sometimes they have weird flavors.
+
+240
+00:07:42,626 --> 00:07:45,020
+- Want one vanilla.
+
+241
+00:07:45,020 --> 00:07:45,853
+- Okay.
+
+242
+00:07:45,853 --> 00:07:46,686
+One vanilla?
+
+243
+00:07:46,686 --> 00:07:47,519
+- Okay.
+
+244
+00:07:47,519 --> 00:07:48,352
+Just got my haircut.
+
+245
+00:07:48,352 --> 00:07:49,185
+Feels so good.
+
+246
+00:07:49,185 --> 00:07:51,244
+I know you love strawberry ice cream, huh?
+
+247
+00:07:51,244 --> 00:07:52,077
+- Yeah.
+
+248
+00:07:52,077 --> 00:07:52,910
+- [Bryan] Yeah.
+
+249
+00:07:52,910 --> 00:07:55,487
+- The bigger ice cream is the best.
+
+250
+00:07:55,487 --> 00:07:56,320
+- [Bryan] It's pretty good.
+
+251
+00:07:56,320 --> 00:07:58,944
+This place is so old fashioned,
+
+252
+00:07:58,944 --> 00:08:00,294
+country western.
+
+253
+00:08:00,294 --> 00:08:01,763
+I love it.
+
+254
+00:08:01,763 --> 00:08:03,090
+You don't really see a lot
+
+255
+00:08:03,090 --> 00:08:04,590
+of places like this in California,
+
+256
+00:08:04,590 --> 00:08:07,470
+so it's actually really fun.
+
+257
+00:08:07,470 --> 00:08:10,470
+(adventurous music)
+
+258
+00:08:15,311 --> 00:08:17,654
+- [Bryan] All these flavors,
+and he chooses vanilla!
+
+259
+00:08:17,654 --> 00:08:18,487
+Right?
+
+260
+00:08:18,487 --> 00:08:19,320
+- Yes.
+
+261
+00:08:19,320 --> 00:08:22,890
+- [Bryan] Is that your favorite? (laughs)
+
+262
+00:08:22,890 --> 00:08:24,807
+- I'm hugging you, dad.
+
+263
+00:08:26,298 --> 00:08:27,465
+- Ollie, look.
+
+264
+00:08:28,661 --> 00:08:30,816
+Isn't that cool?
+
+265
+00:08:30,816 --> 00:08:31,898
+There you go, dude.
+
+266
+00:08:31,898 --> 00:08:32,731
+What do you say?
+
+267
+00:08:32,731 --> 00:08:34,352
+- Thank you.
+
+268
+00:08:34,352 --> 00:08:37,185
+(wild west music)
+
+269
+00:08:38,774 --> 00:08:40,042
+- [Bryan] Alright, we have found
+
+270
+00:08:40,042 --> 00:08:42,280
+a great place to sit outside, huh?
+
+271
+00:08:42,280 --> 00:08:45,348
+How is that very plain vanilla ice cream?
+
+272
+00:08:45,348 --> 00:08:47,177
+Is it good? (laughs)
+
+273
+00:08:47,177 --> 00:08:48,215
+He likes it.
+
+274
+00:08:48,215 --> 00:08:49,855
+I didn't realize how many
+cool places there are
+
+275
+00:08:49,855 --> 00:08:51,022
+in this little area.
+
+276
+00:08:51,022 --> 00:08:54,510
+There's, like, artisanal
+food products, pizzeria,
+
+277
+00:08:54,510 --> 00:08:56,643
+Oak Creek Farm and Nursery,
+
+278
+00:08:56,643 --> 00:08:57,666
+that's cool, they probably have
+
+279
+00:08:57,666 --> 00:08:58,840
+lots of cool plants in there.
+
+280
+00:08:58,840 --> 00:09:01,036
+Temecula Clay, Juice Bar ...
+
+281
+00:09:01,036 --> 00:09:02,997
+There's always lots to do here
+
+282
+00:09:02,997 --> 00:09:04,088
+which is really cool.
+
+283
+00:09:04,088 --> 00:09:06,005
+- [Missy] Run, run run!
+
+284
+00:09:07,579 --> 00:09:10,455
+These boys have been playing
+since Ollie got home.
+
+285
+00:09:10,455 --> 00:09:12,801
+Fin missed him so badly.
+
+286
+00:09:12,801 --> 00:09:14,717
+I wanted to show you
+guys what I've been doing
+
+287
+00:09:14,717 --> 00:09:15,884
+in Fin's room.
+
+288
+00:09:16,825 --> 00:09:19,575
+I finally cleaned out his closet.
+
+289
+00:09:21,096 --> 00:09:23,164
+There have been stacks of clothes in here
+
+290
+00:09:23,164 --> 00:09:24,773
+that have probably been in here for, like,
+
+291
+00:09:24,773 --> 00:09:26,782
+I'm not even kidding,
+like two years. (laughs)
+
+292
+00:09:26,782 --> 00:09:29,406
+Now ... like, his whole room,
+
+293
+00:09:29,406 --> 00:09:31,798
+I haven't really gone through his clothes
+
+294
+00:09:31,798 --> 00:09:33,858
+in like, two years, obviously.
+
+295
+00:09:33,858 --> 00:09:35,317
+He's almost two years old
+
+296
+00:09:35,317 --> 00:09:37,370
+which means that in his
+drawers, there were, like,
+
+297
+00:09:37,370 --> 00:09:39,270
+three month clothes, still.
+
+298
+00:09:39,270 --> 00:09:40,834
+I'm like, "Oh my gosh, I'm so bad."
+
+299
+00:09:40,834 --> 00:09:44,779
+So I was actually able to
+donate three huge black bags
+
+300
+00:09:44,779 --> 00:09:46,047
+of tons of things.
+
+301
+00:09:46,047 --> 00:09:47,741
+But I was able to also
+keep some of ... like ...
+
+302
+00:09:47,741 --> 00:09:49,975
+Memorabilia stuff.
+
+303
+00:09:49,975 --> 00:09:53,190
+And then I got a bunch of really
+cute stuff to give to June,
+
+304
+00:09:53,190 --> 00:09:54,303
+which I'm excited about.
+
+305
+00:09:54,303 --> 00:09:57,979
+And then I got a ton of
+new clothes for Ollie.
+
+306
+00:09:57,979 --> 00:10:01,138
+Or, actually, for Fin, that were Ollie's.
+
+307
+00:10:01,138 --> 00:10:03,184
+These are all Ollie's old clothes,
+
+308
+00:10:03,184 --> 00:10:04,899
+so I'm excited to see Fin in them.
+
+309
+00:10:04,899 --> 00:10:06,482
+A you can see, there are
+a lot of Christmas stuff,
+
+310
+00:10:06,482 --> 00:10:08,244
+so he might not be wearing
+them right away, but ...
+
+311
+00:10:08,244 --> 00:10:09,729
+Yay, do you guys remember this?
+
+312
+00:10:09,729 --> 00:10:11,540
+He used to wear this.
+
+313
+00:10:11,540 --> 00:10:12,987
+It was so cute.
+
+314
+00:10:12,987 --> 00:10:14,808
+This was Ollie's, so
+it'll be fun to see Fin
+
+315
+00:10:14,808 --> 00:10:16,708
+in all of Ollie's old clothes.
+
+316
+00:10:16,708 --> 00:10:19,442
+My parents just brought over
+this little rodent thing.
+
+317
+00:10:19,442 --> 00:10:21,168
+Come here, Fin, show me.
+
+318
+00:10:21,168 --> 00:10:22,159
+What is it?
+
+319
+00:10:22,159 --> 00:10:23,955
+- It knows me!
+
+320
+00:10:23,955 --> 00:10:24,788
+- [Missy] It knows you?
+
+321
+00:10:24,788 --> 00:10:25,621
+How does it know you?
+
+322
+00:10:25,621 --> 00:10:26,454
+- Say Ollie!
+
+323
+00:10:26,454 --> 00:10:27,562
+(toy noise)
+
+324
+00:10:27,562 --> 00:10:29,729
+- [Missy] It talks to you?
+
+325
+00:10:31,281 --> 00:10:32,351
+(toy noise)
+
+326
+00:10:32,351 --> 00:10:33,632
+- Say farted!
+
+327
+00:10:33,632 --> 00:10:35,965
+(toy noise)
+
+328
+00:10:38,492 --> 00:10:39,791
+- It said farted?
+
+329
+00:10:39,791 --> 00:10:42,385
+- Yeah. (laughs)
+
+330
+00:10:42,385 --> 00:10:43,792
+Are you stinky?
+
+331
+00:10:43,792 --> 00:10:45,338
+(toy noise)
+
+332
+00:10:45,338 --> 00:10:46,926
+Are you stinky?
+
+333
+00:10:46,926 --> 00:10:48,828
+(toy noise)
+
+334
+00:10:48,828 --> 00:10:50,365
+- [Missy] I love you.
+
+335
+00:10:50,365 --> 00:10:51,511
+(toy noise)
+
+336
+00:10:51,511 --> 00:10:52,344
+- Meh.
+
+337
+00:10:52,344 --> 00:10:54,011
+- [Missy] Is that your rodent?
+
+338
+00:10:54,011 --> 00:10:57,470
+Aw. It looks like a hamster. (laughs)
+
+339
+00:10:57,470 --> 00:10:58,821
+It mimics you a lot.
+
+340
+00:10:58,821 --> 00:10:59,981
+- Say tree house!
+
+341
+00:10:59,981 --> 00:11:02,054
+(toy repeats)
+
+342
+00:11:02,054 --> 00:11:04,039
+- [Missy] Alright, we're
+hangin' out outside
+
+343
+00:11:04,039 --> 00:11:06,181
+and my parents are over because ...
+
+344
+00:11:06,181 --> 00:11:07,014
+Look at me!
+
+345
+00:11:07,014 --> 00:11:08,305
+I've transformed!
+
+346
+00:11:08,305 --> 00:11:09,613
+I'm going out tonight with Bryan
+
+347
+00:11:09,613 --> 00:11:11,663
+and I think we're actually
+gonna bring the camera.
+
+348
+00:11:11,663 --> 00:11:13,522
+We don't normally bring the
+camera when we go on a date,
+
+349
+00:11:13,522 --> 00:11:15,553
+but we thought maybe we
+might do that tonight.
+
+350
+00:11:15,553 --> 00:11:17,671
+So the boys are gonna stay
+here with Mimi and Papa
+
+351
+00:11:17,671 --> 00:11:19,857
+and hopefully go to sleep.
+
+352
+00:11:19,857 --> 00:11:20,690
+- Hi.
+
+353
+00:11:20,690 --> 00:11:21,908
+- We're out on out date.
+
+354
+00:11:21,908 --> 00:11:22,748
+It's loud in here.
+
+355
+00:11:22,748 --> 00:11:27,326
+- We are playing Harry Potter
+Trivia at a local British pub.
+
+356
+00:11:27,326 --> 00:11:28,659
+And I am stoked!
+
+357
+00:11:29,732 --> 00:11:33,679
+I just ordered a butter
+beer, and a Slitherin shot.
+
+358
+00:11:33,679 --> 00:11:34,943
+- I think it's gonna be a lot of fun.
+
+359
+00:11:34,943 --> 00:11:36,109
+We've never done anything like this.
+
+360
+00:11:36,109 --> 00:11:36,942
+- It's very loud.
+
+361
+00:11:36,942 --> 00:11:40,740
+Alright, our team name is the
+Whomping Weaselby Winners,
+
+362
+00:11:40,740 --> 00:11:42,405
+and we are seated next to ...
+
+363
+00:11:42,405 --> 00:11:43,238
+Say "Hey!"
+
+364
+00:11:44,162 --> 00:11:44,995
+- Hey.
+
+365
+00:11:44,995 --> 00:11:46,251
+- [Bryan] What's your guys' team name?
+
+366
+00:11:46,251 --> 00:11:48,822
+- The Real Housegirls of Diagon Alley.
+
+367
+00:11:48,822 --> 00:11:50,164
+- [Brian] Genius!
+
+368
+00:11:50,164 --> 00:11:51,250
+Iconic.
+
+369
+00:11:51,250 --> 00:11:52,243
+Good luck.
+
+370
+00:11:52,243 --> 00:11:55,152
+Funny story, I went to them
+to figure out how to sign up
+
+371
+00:11:55,152 --> 00:11:57,682
+instead of the guy that I was
+looking to go to to sign up
+
+372
+00:11:57,682 --> 00:12:00,417
+and I talked to them for
+a good ten minutes before
+
+373
+00:12:00,417 --> 00:12:03,234
+they informed me they were not
+the place where you sign up
+
+374
+00:12:03,234 --> 00:12:04,843
+to do the trivia.
+
+375
+00:12:04,843 --> 00:12:05,789
+So ...
+
+376
+00:12:05,789 --> 00:12:07,933
+- Luckily, though, we've done it before.
+
+377
+00:12:07,933 --> 00:12:09,042
+- Yeah.
+
+378
+00:12:09,042 --> 00:12:12,375
+(Victorian royal music)
+
+379
+00:12:19,613 --> 00:12:21,227
+- [MC] Second year, Vealroy Lockheart
+
+380
+00:12:21,227 --> 00:12:22,775
+Third year, Remus Lupin
+
+381
+00:12:22,775 --> 00:12:26,334
+Fourth, Madeye Moody (inaudible)
+
+382
+00:12:26,334 --> 00:12:27,680
+- [Missy] (cheers) You got it!
+
+383
+00:12:27,680 --> 00:12:28,513
+30 points.
+
+384
+00:12:28,513 --> 00:12:29,930
+- Final question.
+
+385
+00:12:31,433 --> 00:12:35,501
+- [Missy] (laughs) Everyone got it right.
+
+386
+00:12:35,501 --> 00:12:36,885
+- There's a lot of Harry Potter fans here.
+
+387
+00:12:36,885 --> 00:12:39,213
+- [MC] What vault did Hagrid remove the
+
+388
+00:12:39,213 --> 00:12:40,528
+Sorcerer's Stone from
+
+389
+00:12:40,528 --> 00:12:43,137
+in Harry Potter and the Sorcerer's Stone?
+
+390
+00:12:43,137 --> 00:12:44,541
+- [Missy] Oh, man.
+
+391
+00:12:44,541 --> 00:12:45,899
+- What vault was it?
+
+392
+00:12:45,899 --> 00:12:47,287
+Okay, hang on, hang on.
+
+393
+00:12:47,287 --> 00:12:49,047
+- Leave it in the comments
+down below if you know.
+
+394
+00:12:49,047 --> 00:12:49,880
+38
+
+395
+00:12:51,749 --> 00:12:54,364
+He's been so into this you guys.
+
+396
+00:12:54,364 --> 00:12:58,531
+We're not winning, but he
+only got one question wrong.
+
+397
+00:12:59,420 --> 00:13:01,900
+- I'm in 12th place.
+
+398
+00:13:01,900 --> 00:13:02,733
+- Yeah.
+
+399
+00:13:02,733 --> 00:13:04,704
+But everyone here is so smart.
+
+400
+00:13:04,704 --> 00:13:07,254
+Usually, it's like a betting order,
+
+401
+00:13:07,254 --> 00:13:08,366
+so we're in 12th place,
+
+402
+00:13:08,366 --> 00:13:10,238
+he only got one question wrong, but ...
+
+403
+00:13:10,238 --> 00:13:11,891
+- I think it's called 397
+
+404
+00:13:11,891 --> 00:13:13,232
+- Ooh.
+
+405
+00:13:13,232 --> 00:13:14,324
+- It's not- Yeah.
+
+406
+00:13:14,324 --> 00:13:15,182
+- Yeah.
+
+407
+00:13:15,182 --> 00:13:16,479
+- I think it's vault 397.
+
+408
+00:13:16,479 --> 00:13:18,223
+- [MC] 713
+
+409
+00:13:18,223 --> 00:13:19,244
+- [Bryan] Aw!
+
+410
+00:13:19,244 --> 00:13:20,365
+- That was wrong.
+
+411
+00:13:20,365 --> 00:13:21,198
+- [Bryan] Aw, 713 ...
+
+412
+00:13:21,198 --> 00:13:22,333
+I got the seven and three right.
+
+413
+00:13:22,333 --> 00:13:24,342
+- The team names are the best.
+
+414
+00:13:24,342 --> 00:13:25,970
+- [MC] The Who You Horcrux
+
+415
+00:13:25,970 --> 00:13:27,411
+- (laughs) Who You Horcrux.
+
+416
+00:13:27,411 --> 00:13:28,566
+- [MC] Who You Horcrux,
+
+417
+00:13:28,566 --> 00:13:31,933
+You can come on up and
+get your $10 certificate.
+
+418
+00:13:31,933 --> 00:13:32,766
+- [Bryan] Whoo!
+
+419
+00:13:32,766 --> 00:13:34,649
+- Alright, we are home
+
+420
+00:13:34,649 --> 00:13:36,396
+and we had such a fun night.
+
+421
+00:13:36,396 --> 00:13:38,544
+It was really awesome,
+
+422
+00:13:38,544 --> 00:13:40,566
+and even though I didn't really play a lot
+
+423
+00:13:40,566 --> 00:13:43,176
+it was still fun to watch Bryan play,
+
+424
+00:13:43,176 --> 00:13:44,033
+'Cause he had a blast.
+
+425
+00:13:44,033 --> 00:13:44,866
+Kids are asleep.
+
+426
+00:13:44,866 --> 00:13:46,927
+It's not super late, but
+definitely time for bed.
+
+427
+00:13:46,927 --> 00:13:49,098
+So make sure you give
+this video a big thumbs up
+
+428
+00:13:49,098 --> 00:13:50,022
+if you enjoyed it.
+
+429
+00:13:50,022 --> 00:13:51,621
+Let us know what you thought
+of that Harry Potter game
+
+430
+00:13:51,621 --> 00:13:53,289
+and if you knew some of the answers.
+
+431
+00:13:53,289 --> 00:13:54,496
+I think we only showed
+you guys one question.
+
+432
+00:13:54,496 --> 00:13:56,406
+- Let us know what your
+favorite Harry Potter book is
+
+433
+00:13:56,406 --> 00:13:57,294
+in the comments.
+
+434
+00:13:57,294 --> 00:13:58,127
+- Okay.
+
+435
+00:13:58,127 --> 00:13:58,960
+Leave that in the comments,
+
+436
+00:13:58,960 --> 00:14:00,249
+and we'll see you guys tomorrow.
+
+437
+00:14:00,249 --> 00:14:01,459
+Do you wanna say "Bye boo"?
+
+438
+00:14:01,459 --> 00:14:03,680
+Boy's like, "I'm playing
+with a lego, Mom."
+
+439
+00:14:03,680 --> 00:14:04,513
+Ready?
+
+440
+00:14:04,513 --> 00:14:06,263
+Bye.
+
+441
+00:14:07,271 --> 00:00:00,000
+(uplifting music)
 

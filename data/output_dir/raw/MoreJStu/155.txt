@@ -1,0 +1,876 @@
+1
+00:00:00,060 --> 00:00:01,860
+what's up guys<font color="#E5E5E5"> welcome back</font><font color="#CCCCCC"> to more JS</font>
+
+2
+00:00:01,860 --> 00:00:04,529
+<font color="#E5E5E5">to back with another vlog</font><font color="#CCCCCC"> I hope you're</font>
+
+3
+00:00:04,529 --> 00:00:06,270
+<font color="#CCCCCC">doing well we got a fun one today</font><font color="#E5E5E5"> for</font>
+
+4
+00:00:06,270 --> 00:00:10,889
+<font color="#E5E5E5">you what is that I don't know anything</font>
+
+5
+00:00:10,889 --> 00:00:12,300
+about this<font color="#E5E5E5"> stuff</font><font color="#CCCCCC"> but we're doing another</font>
+
+6
+00:00:12,300 --> 00:00:18,140
+car mod you just took out these on it we
+
+7
+00:00:18,140 --> 00:00:21,720
+want to do some sort of paint job to it
+
+8
+00:00:21,720 --> 00:00:23,810
+<font color="#CCCCCC">and there's this thing</font><font color="#E5E5E5"> out there</font><font color="#CCCCCC"> called</font>
+
+9
+00:00:23,810 --> 00:00:26,960
+<font color="#E5E5E5">Plasti Dip</font><font color="#CCCCCC"> which is pretty</font><font color="#E5E5E5"> much this</font>
+
+10
+00:00:26,960 --> 00:00:29,640
+paint you can spray on<font color="#E5E5E5"> and if you don't</font>
+
+11
+00:00:29,640 --> 00:00:31,140
+like it you can just<font color="#E5E5E5"> peel</font><font color="#CCCCCC"> right off</font>
+
+12
+00:00:31,140 --> 00:00:33,960
+it's one really cool<font color="#E5E5E5"> and I think</font><font color="#CCCCCC"> we can</font>
+
+13
+00:00:33,960 --> 00:00:37,489
+do that<font color="#CCCCCC"> too the toy car</font><font color="#E5E5E5"> okay</font>
+
+14
+00:00:37,489 --> 00:00:39,750
+like<font color="#CCCCCC"> inter</font><font color="#E5E5E5"> said</font><font color="#CCCCCC"> I haven't tried this</font>
+
+15
+00:00:39,750 --> 00:00:40,950
+<font color="#E5E5E5">either</font><font color="#CCCCCC"> Dennis either I</font><font color="#E5E5E5"> don't know how it</font>
+
+16
+00:00:40,950 --> 00:00:42,480
+works<font color="#E5E5E5"> but we're going to try</font><font color="#CCCCCC"> it out and</font>
+
+17
+00:00:42,480 --> 00:00:44,940
+<font color="#E5E5E5">do some cool stuff</font><font color="#CCCCCC"> so first we're going</font>
+
+18
+00:00:44,940 --> 00:00:45,649
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> get some supplies</font>
+
+19
+00:00:45,649 --> 00:00:49,200
+<font color="#E5E5E5">let's go</font><font color="#CCCCCC"> site</font><font color="#E5E5E5"> by the way who's having a</font>
+
+20
+00:00:49,200 --> 00:00:55,100
+good day<font color="#E5E5E5"> today they're always good</font>
+
+21
+00:00:55,100 --> 00:00:58,800
+<font color="#CCCCCC">they</font><font color="#E5E5E5"> are the Home Depot doesn't need</font>
+
+22
+00:00:58,800 --> 00:01:02,460
+paint department or<font color="#CCCCCC"> where great</font><font color="#E5E5E5"> panic</font>
+
+23
+00:01:02,460 --> 00:01:07,350
+spray paint yeah<font color="#E5E5E5"> take it away you want</font>
+
+24
+00:01:07,350 --> 00:01:11,610
+the different fresh that's great older
+
+25
+00:01:11,610 --> 00:01:13,200
+<font color="#E5E5E5">doctor so anyway I got black or white</font>
+
+26
+00:01:13,200 --> 00:01:14,850
+that's all I<font color="#E5E5E5"> haven't sprayed for plastic</font>
+
+27
+00:01:14,850 --> 00:01:19,799
+<font color="#CCCCCC">okay red white and the car's blue so we</font>
+
+28
+00:01:19,799 --> 00:01:25,580
+<font color="#CCCCCC">can do some fun</font><font color="#E5E5E5"> yes</font><font color="#CCCCCC"> let's go</font>
+
+29
+00:01:25,580 --> 00:01:28,020
+do we<font color="#E5E5E5"> need any other supplies for this</font>
+
+30
+00:01:28,020 --> 00:01:31,650
+project<font color="#E5E5E5"> or just that do you have</font><font color="#CCCCCC"> hangers</font>
+
+31
+00:01:31,650 --> 00:01:32,710
+<font color="#CCCCCC">teeth</font>
+
+32
+00:01:32,710 --> 00:01:36,280
+I don't know<font color="#CCCCCC"> got</font><font color="#E5E5E5"> the tape</font>
+
+33
+00:01:36,280 --> 00:01:37,990
+but we can't leave the store without
+
+34
+00:01:37,990 --> 00:01:41,080
+looking around for a potential fort
+
+35
+00:01:41,080 --> 00:01:43,330
+<font color="#E5E5E5">maybe for court Friday to try out a</font>
+
+36
+00:01:43,330 --> 00:01:48,150
+couple<font color="#E5E5E5"> new things so let's go find</font><font color="#CCCCCC"> I'm</font>
+
+37
+00:01:48,150 --> 00:01:52,650
+always<font color="#E5E5E5"> on the lookout for new</font><font color="#CCCCCC"> force</font>
+
+38
+00:01:53,100 --> 00:01:56,500
+<font color="#CCCCCC">opening it comes there it's so open over</font>
+
+39
+00:01:56,500 --> 00:01:59,260
+there<font color="#E5E5E5"> also</font><font color="#CCCCCC"> no go that one doesn't know</font>
+
+40
+00:01:59,260 --> 00:02:15,010
+<font color="#CCCCCC">so no what about</font><font color="#E5E5E5"> me huh no get in your</font>
+
+41
+00:02:15,010 --> 00:02:21,610
+bra yeah oh man dude<font color="#E5E5E5"> this is like a</font>
+
+42
+00:02:21,610 --> 00:02:25,530
+gaming<font color="#CCCCCC"> video like</font><font color="#E5E5E5"> a hardwood floors</font>
+
+43
+00:02:25,530 --> 00:02:29,080
+<font color="#E5E5E5">yeah</font><font color="#CCCCCC"> hardwood floors</font>
+
+44
+00:02:29,080 --> 00:02:32,170
+<font color="#CCCCCC">they've got shelves for snacks for did</font>
+
+45
+00:02:32,170 --> 00:02:37,510
+you get<font color="#E5E5E5"> through here so yeah</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> could</font>
+
+46
+00:02:37,510 --> 00:02:40,600
+be a gaming<font color="#E5E5E5"> studio if we want it but</font>
+
+47
+00:02:40,600 --> 00:02:42,700
+<font color="#E5E5E5">we're now kind of clogged come where is</font>
+
+48
+00:02:42,700 --> 00:02:45,600
+their pulse
+
+49
+00:02:45,630 --> 00:02:48,240
+oh I think I see one but<font color="#E5E5E5"> it's like two</font>
+
+50
+00:02:48,240 --> 00:02:50,790
+shelves<font color="#E5E5E5"> up</font><font color="#CCCCCC"> uh-huh</font><font color="#E5E5E5"> yeah</font>
+
+51
+00:02:50,790 --> 00:02:55,230
+take a look<font color="#E5E5E5"> closer</font><font color="#CCCCCC"> see it does</font><font color="#E5E5E5"> it have</font>
+
+52
+00:02:55,230 --> 00:02:58,590
+<font color="#CCCCCC">outlets on it</font><font color="#E5E5E5"> I'm zooming in</font><font color="#CCCCCC"> I can't</font>
+
+53
+00:02:58,590 --> 00:03:00,890
+tell
+
+54
+00:03:01,650 --> 00:03:03,510
+you're<font color="#CCCCCC"> going to have to climb with the</font>
+
+55
+00:03:03,510 --> 00:03:08,430
+verdict huh no but even<font color="#E5E5E5"> if there's not a</font>
+
+56
+00:03:08,430 --> 00:03:10,890
+plug<font color="#E5E5E5"> super nearby</font><font color="#CCCCCC"> we're at the store</font>
+
+57
+00:03:10,890 --> 00:03:14,040
+where you can<font color="#E5E5E5"> just buy an extension cord</font>
+
+58
+00:03:14,040 --> 00:03:17,090
+<font color="#CCCCCC">so no big deal</font>
+
+59
+00:03:21,770 --> 00:03:25,640
+<font color="#E5E5E5">we're cooking of clash Royale yes we've</font>
+
+60
+00:03:25,640 --> 00:03:28,850
+got<font color="#CCCCCC"> a good</font><font color="#E5E5E5"> idea so as you guys know we</font>
+
+61
+00:03:28,850 --> 00:03:31,130
+have a gaming<font color="#CCCCCC"> channel group squad gaming</font>
+
+62
+00:03:31,130 --> 00:03:33,830
+danger just said we should make a gaming
+
+63
+00:03:33,830 --> 00:03:37,820
+<font color="#E5E5E5">clash video in a fort</font><font color="#CCCCCC"> in a store</font><font color="#E5E5E5"> yeah I</font>
+
+64
+00:03:37,820 --> 00:03:38,870
+don't<font color="#E5E5E5"> think anyone's ever done</font><font color="#CCCCCC"> that</font>
+
+65
+00:03:38,870 --> 00:03:43,430
+<font color="#CCCCCC">before so just like that idea if so we</font>
+
+66
+00:03:43,430 --> 00:03:49,750
+will do<font color="#E5E5E5"> it</font><font color="#CCCCCC"> oh yeah</font>
+
+67
+00:03:49,750 --> 00:03:52,760
+you have your deck ready bro<font color="#CCCCCC"> yes</font><font color="#E5E5E5"> burst</font>
+
+68
+00:03:52,760 --> 00:04:06,950
+me<font color="#CCCCCC"> oh no oh oh no oh</font><font color="#E5E5E5"> you can maybe</font>
+
+69
+00:04:06,950 --> 00:04:10,030
+spread in my face
+
+70
+00:04:11,020 --> 00:04:20,000
+no Ernie<font color="#E5E5E5"> fire</font><font color="#CCCCCC"> let me do</font><font color="#E5E5E5"> it should see</font>
+
+71
+00:04:20,000 --> 00:04:24,020
+who's a winner<font color="#E5E5E5"> oh that's me boys so</font>
+
+72
+00:04:24,020 --> 00:04:25,670
+that's<font color="#E5E5E5"> basically what the gaming video</font>
+
+73
+00:04:25,670 --> 00:04:27,440
+would<font color="#E5E5E5"> be like kind of we're gonna better</font>
+
+74
+00:04:27,440 --> 00:04:32,150
+<font color="#CCCCCC">hey we got</font><font color="#E5E5E5"> to get back</font><font color="#CCCCCC"> to the vlog come</font>
+
+75
+00:04:32,150 --> 00:04:35,830
+on time to go paint the car
+
+76
+00:04:39,310 --> 00:04:43,570
+we're good next<font color="#E5E5E5"> ah and here's our</font>
+
+77
+00:04:43,570 --> 00:04:46,930
+supplies back home<font color="#E5E5E5"> now we got to get</font>
+
+78
+00:04:46,930 --> 00:04:48,940
+this thing<font color="#CCCCCC"> out of</font><font color="#E5E5E5"> the room and into the</font>
+
+79
+00:04:48,940 --> 00:04:51,580
+<font color="#E5E5E5">girge yeah</font><font color="#CCCCCC"> as you all remember we were</font>
+
+80
+00:04:51,580 --> 00:04:54,100
+having a dance party<font color="#CCCCCC"> it still works</font>
+
+81
+00:04:54,100 --> 00:04:58,380
+<font color="#CCCCCC">being pimping baby Bink</font>
+
+82
+00:04:58,380 --> 00:05:02,730
+<font color="#CCCCCC">I know</font><font color="#E5E5E5"> well we can take that out okay</font>
+
+83
+00:05:02,730 --> 00:05:04,990
+you guys make sure<font color="#CCCCCC"> the car is clean</font>
+
+84
+00:05:04,990 --> 00:05:10,300
+before<font color="#E5E5E5"> applying</font><font color="#CCCCCC"> wait whatever surface</font>
+
+85
+00:05:10,300 --> 00:05:13,500
+you're putting on clean it up boys
+
+86
+00:05:13,500 --> 00:05:18,880
+okay<font color="#E5E5E5"> so just spray all over</font><font color="#CCCCCC"> cool dee I</font>
+
+87
+00:05:18,880 --> 00:05:22,450
+just thought of would be<font color="#E5E5E5"> if we Plasti</font>
+
+88
+00:05:22,450 --> 00:05:25,750
+Dip<font color="#E5E5E5"> just in the lines here - then let</font>
+
+89
+00:05:25,750 --> 00:05:27,370
+these<font color="#E5E5E5"> two a blue it's</font><font color="#CCCCCC"> like red right</font>
+
+90
+00:05:27,370 --> 00:05:30,010
+here<font color="#E5E5E5"> or something</font><font color="#CCCCCC"> oh yeah yeah</font><font color="#E5E5E5"> and</font>
+
+91
+00:05:30,010 --> 00:05:33,070
+throughout the car and do some<font color="#E5E5E5"> more of</font>
+
+92
+00:05:33,070 --> 00:05:35,290
+<font color="#CCCCCC">that but first we're</font><font color="#E5E5E5"> going to clean up</font>
+
+93
+00:05:35,290 --> 00:05:42,840
+<font color="#E5E5E5">real quick</font><font color="#CCCCCC"> oh wow now if you want to do</font>
+
+94
+00:05:42,840 --> 00:05:47,020
+some<font color="#E5E5E5"> secret mods that's easy to</font>
+
+95
+00:05:47,020 --> 00:05:50,950
+accomplish now so the first step once
+
+96
+00:05:50,950 --> 00:05:53,080
+you figure out what area and what color
+
+97
+00:05:53,080 --> 00:05:54,580
+you want<font color="#CCCCCC"> to</font><font color="#E5E5E5"> paint it you get the</font>
+
+98
+00:05:54,580 --> 00:05:57,160
+painters<font color="#CCCCCC"> tape</font><font color="#E5E5E5"> and you mask off which</font>
+
+99
+00:05:57,160 --> 00:05:58,930
+areas so we're going to<font color="#E5E5E5"> do the inside</font>
+
+100
+00:05:58,930 --> 00:06:00,700
+<font color="#E5E5E5">we'll put something to cover up this</font>
+
+101
+00:06:00,700 --> 00:06:04,990
+side and<font color="#E5E5E5"> spray it's just that simple but</font>
+
+102
+00:06:04,990 --> 00:06:09,190
+it's all taped up nice enough the
+
+103
+00:06:09,190 --> 00:06:11,860
+chemicals<font color="#E5E5E5"> yeah mix it up we could have</font>
+
+104
+00:06:11,860 --> 00:06:13,330
+<font color="#CCCCCC">brought this to the paint shop now it</font>
+
+105
+00:06:13,330 --> 00:06:14,800
+cost a couple hundred<font color="#E5E5E5"> dollars</font><font color="#CCCCCC"> which is</font>
+
+106
+00:06:14,800 --> 00:06:19,150
+<font color="#E5E5E5">$6</font><font color="#CCCCCC"> can I don't know though a pro job</font>
+
+107
+00:06:19,150 --> 00:06:21,400
+like<font color="#E5E5E5"> some real</font><font color="#CCCCCC"> lessons that</font><font color="#E5E5E5"> could be</font>
+
+108
+00:06:21,400 --> 00:06:23,770
+cool<font color="#E5E5E5"> yeah but this is just step one</font>
+
+109
+00:06:23,770 --> 00:06:24,820
+maybe<font color="#E5E5E5"> later</font>
+
+110
+00:06:24,820 --> 00:06:27,729
+first you want<font color="#CCCCCC"> to do a light coat</font><font color="#E5E5E5"> where</font>
+
+111
+00:06:27,729 --> 00:06:29,350
+you can still see the color<font color="#E5E5E5"> okay</font>
+
+112
+00:06:29,350 --> 00:06:34,600
+sit for<font color="#CCCCCC"> 15 so the</font><font color="#E5E5E5"> paint bonds to the</font>
+
+113
+00:06:34,600 --> 00:06:38,650
+grip of the paint or plastic and<font color="#CCCCCC"> then</font>
+
+114
+00:06:38,650 --> 00:06:41,289
+again<font color="#E5E5E5"> another slight coat for 15 minutes</font>
+
+115
+00:06:41,289 --> 00:06:44,800
+<font color="#E5E5E5">all right try out okay and breathe in</font>
+
+116
+00:06:44,800 --> 00:06:49,260
+<font color="#CCCCCC">the toxins folks okay hmm</font>
+
+117
+00:06:58,940 --> 00:07:02,190
+run<font color="#E5E5E5"> get</font><font color="#CCCCCC"> out of</font><font color="#E5E5E5"> here</font>
+
+118
+00:07:02,190 --> 00:07:04,590
+<font color="#E5E5E5">15-minute</font><font color="#CCCCCC"> wait we'll be right back we're</font>
+
+119
+00:07:04,590 --> 00:07:05,970
+trying<font color="#E5E5E5"> to figure</font><font color="#CCCCCC"> out what we</font><font color="#E5E5E5"> want to do</font>
+
+120
+00:07:05,970 --> 00:07:08,100
+for this side<font color="#E5E5E5"> with</font><font color="#CCCCCC"> the red</font>
+
+121
+00:07:08,100 --> 00:07:10,800
+like what kind<font color="#CCCCCC"> of design wiggles</font>
+
+122
+00:07:10,800 --> 00:07:12,990
+squiggles and
+
+123
+00:07:12,990 --> 00:07:28,009
+[Music]
+
+124
+00:07:28,009 --> 00:07:35,499
+<font color="#CCCCCC">I share is it a second coat</font><font color="#E5E5E5"> inbound</font>
+
+125
+00:07:35,499 --> 00:07:44,360
+do a good job please<font color="#E5E5E5"> this side is ready</font>
+
+126
+00:07:44,360 --> 00:07:47,629
+for paint<font color="#CCCCCC"> this</font><font color="#E5E5E5"> would be a cooling room</font>
+
+127
+00:07:47,629 --> 00:07:52,580
+<font color="#CCCCCC">you do the same or</font><font color="#E5E5E5"> this is these are</font><font color="#CCCCCC"> the</font>
+
+128
+00:07:52,580 --> 00:07:58,849
+<font color="#CCCCCC">same okay we got the both sides on time</font>
+
+129
+00:07:58,849 --> 00:08:02,439
+to bring it out<font color="#E5E5E5"> your spray paint what</font><font color="#CCCCCC"> ah</font>
+
+130
+00:08:02,439 --> 00:08:07,339
+<font color="#E5E5E5">wait</font><font color="#CCCCCC"> I was gonna back it out Oh</font><font color="#E5E5E5"> more</font>
+
+131
+00:08:07,339 --> 00:08:09,710
+clever<font color="#CCCCCC"> this is going to look so clutch</font>
+
+132
+00:08:09,710 --> 00:08:11,870
+dude<font color="#CCCCCC"> I know I can't</font><font color="#E5E5E5"> wait to see the</font>
+
+133
+00:08:11,870 --> 00:08:15,439
+final<font color="#E5E5E5"> product that can probably put on</font>
+
+134
+00:08:15,439 --> 00:08:17,270
+another<font color="#CCCCCC"> layer over here man</font>
+
+135
+00:08:17,270 --> 00:08:23,569
+oh yeah where should I<font color="#E5E5E5"> put this</font>
+
+136
+00:08:23,569 --> 00:08:27,499
+you got it<font color="#E5E5E5"> out away from valuables okay</font>
+
+137
+00:08:27,499 --> 00:08:31,969
+let's get a nice fresh coat on the
+
+138
+00:08:31,969 --> 00:08:33,729
+vehicle
+
+139
+00:08:33,729 --> 00:08:40,909
+<font color="#CCCCCC">wow wow</font><font color="#E5E5E5"> this one seems a bit different</font>
+
+140
+00:08:40,909 --> 00:08:43,159
+than<font color="#E5E5E5"> the other one I don't know why</font><font color="#CCCCCC"> just</font>
+
+141
+00:08:43,159 --> 00:08:44,680
+<font color="#E5E5E5">keep trying</font>
+
+142
+00:08:44,680 --> 00:08:48,500
+<font color="#CCCCCC">melzack action</font><font color="#E5E5E5"> rolling - okay we're</font>
+
+143
+00:08:48,500 --> 00:08:51,050
+going to compare sides this<font color="#E5E5E5"> is this one</font>
+
+144
+00:08:51,050 --> 00:08:54,430
+this<font color="#CCCCCC"> is Andrews</font><font color="#E5E5E5"> first try first try and</font>
+
+145
+00:08:54,430 --> 00:08:59,690
+then the second try<font color="#E5E5E5"> that's looking much</font>
+
+146
+00:08:59,690 --> 00:09:03,199
+cleaner<font color="#CCCCCC"> oops I was going</font><font color="#E5E5E5"> like this it</font>
+
+147
+00:09:03,199 --> 00:09:06,889
+now this<font color="#E5E5E5"> is about done</font><font color="#CCCCCC"> so</font><font color="#E5E5E5"> Wow</font><font color="#CCCCCC"> now I'm</font>
+
+148
+00:09:06,889 --> 00:09:11,019
+looking<font color="#CCCCCC"> very good</font><font color="#E5E5E5"> blackness is smooth</font>
+
+149
+00:09:11,019 --> 00:09:14,360
+<font color="#E5E5E5">Wow you got to be careful with this</font>
+
+150
+00:09:14,360 --> 00:09:22,069
+<font color="#CCCCCC">stuff Oh No where did this guy come from</font>
+
+151
+00:09:22,069 --> 00:09:25,089
+tell Garrett to get off our car go boy
+
+152
+00:09:25,089 --> 00:09:27,829
+<font color="#E5E5E5">get a new home is that a jumpy spider</font>
+
+153
+00:09:27,829 --> 00:09:30,560
+I don't really<font color="#E5E5E5"> gonna jump hey nobody's</font>
+
+154
+00:09:30,560 --> 00:09:32,870
+get out of here<font color="#E5E5E5"> I'm trying</font><font color="#CCCCCC"> to work bud</font>
+
+155
+00:09:32,870 --> 00:09:38,839
+<font color="#E5E5E5">go ready</font><font color="#CCCCCC"> oh wow that's</font><font color="#E5E5E5"> a flying spider</font>
+
+156
+00:09:38,839 --> 00:09:41,120
+get it got the hood
+
+157
+00:09:41,120 --> 00:09:45,290
+<font color="#E5E5E5">all off it looks super cool obviously</font>
+
+158
+00:09:45,290 --> 00:09:47,089
+<font color="#E5E5E5">like we said first time so there's going</font>
+
+159
+00:09:47,089 --> 00:09:49,070
+to be a<font color="#E5E5E5"> little flaw meaningful this is</font>
+
+160
+00:09:49,070 --> 00:09:51,200
+the<font color="#E5E5E5"> most perfect edge right here</font><font color="#CCCCCC"> I mean</font>
+
+161
+00:09:51,200 --> 00:09:54,980
+<font color="#CCCCCC">that's professional status but man</font><font color="#E5E5E5"> this</font>
+
+162
+00:09:54,980 --> 00:09:57,580
+<font color="#E5E5E5">is going to look good on</font><font color="#CCCCCC"> the car though</font>
+
+163
+00:09:57,580 --> 00:10:01,070
+<font color="#E5E5E5">wall the moment you've all been waiting</font>
+
+164
+00:10:01,070 --> 00:10:01,520
+for
+
+165
+00:10:01,520 --> 00:10:03,950
+I am so excited<font color="#E5E5E5"> to see what this</font><font color="#CCCCCC"> looks</font>
+
+166
+00:10:03,950 --> 00:10:05,420
+like I<font color="#E5E5E5"> think it's going to look like ten</font>
+
+167
+00:10:05,420 --> 00:10:07,250
+<font color="#E5E5E5">times cooler now</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> custom paint job</font>
+
+168
+00:10:07,250 --> 00:10:10,040
+yeah I'm just a little<font color="#E5E5E5"> sad at the first</font>
+
+169
+00:10:10,040 --> 00:10:13,070
+side with the red is a little subpar the
+
+170
+00:10:13,070 --> 00:10:16,640
+second side<font color="#E5E5E5"> much better this is but the</font>
+
+171
+00:10:16,640 --> 00:10:18,380
+really cool<font color="#CCCCCC"> thing about Plasti Dip paint</font>
+
+172
+00:10:18,380 --> 00:10:21,200
+is you can say you get like a<font color="#E5E5E5"> little</font>
+
+173
+00:10:21,200 --> 00:10:23,600
+like uneven lines or<font color="#E5E5E5"> you get some spray</font>
+
+174
+00:10:23,600 --> 00:10:26,390
+on the car<font color="#E5E5E5"> unlike spray paint you can</font>
+
+175
+00:10:26,390 --> 00:10:29,990
+take off and rub off<font color="#E5E5E5"> the</font><font color="#CCCCCC"> paint</font><font color="#E5E5E5"> yeah</font>
+
+176
+00:10:29,990 --> 00:10:34,190
+<font color="#E5E5E5">that's what we did with the hood here</font>
+
+177
+00:10:34,190 --> 00:10:36,050
+<font color="#E5E5E5">got a little spray on this side but just</font>
+
+178
+00:10:36,050 --> 00:10:38,930
+<font color="#E5E5E5">took some spray and a cloth wiped it off</font>
+
+179
+00:10:38,930 --> 00:10:42,080
+and now it's<font color="#E5E5E5"> clear so easy fix</font>
+
+180
+00:10:42,080 --> 00:10:44,750
+yeah you just<font color="#E5E5E5"> take</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> off</font><font color="#CCCCCC"> I love</font><font color="#E5E5E5"> this</font>
+
+181
+00:10:44,750 --> 00:10:49,610
+<font color="#E5E5E5">look though</font><font color="#CCCCCC"> look some that</font><font color="#E5E5E5"> yeah</font><font color="#CCCCCC"> like</font>
+
+182
+00:10:49,610 --> 00:10:50,150
+<font color="#E5E5E5">that</font>
+
+183
+00:10:50,150 --> 00:10:56,180
+crisp line oh man<font color="#E5E5E5"> Wow all right there</font>
+
+184
+00:10:56,180 --> 00:10:58,760
+but we can clean that<font color="#CCCCCC"> off</font><font color="#E5E5E5"> we can forget</font>
+
+185
+00:10:58,760 --> 00:11:02,810
+<font color="#E5E5E5">that I'm</font><font color="#CCCCCC"> looking</font><font color="#E5E5E5"> at this car and I'm</font>
+
+186
+00:11:02,810 --> 00:11:05,170
+wondering why we didn't<font color="#E5E5E5"> do this</font><font color="#CCCCCC"> sooner</font>
+
+187
+00:11:05,170 --> 00:11:08,330
+beats me I don't know<font color="#E5E5E5"> but it's so cool</font>
+
+188
+00:11:08,330 --> 00:11:11,290
+who's ready<font color="#E5E5E5"> for a reveal</font>
+
+189
+00:11:11,340 --> 00:11:23,660
+oh wait<font color="#E5E5E5"> oh you guys this</font>
+
+190
+00:11:23,660 --> 00:11:27,870
+check out the new license plate yeah by
+
+191
+00:11:27,870 --> 00:11:29,700
+the<font color="#E5E5E5"> way one</font><font color="#CCCCCC"> of you</font><font color="#E5E5E5"> guys sent us</font><font color="#CCCCCC"> that in</font>
+
+192
+00:11:29,700 --> 00:11:37,200
+fan mail and<font color="#CCCCCC"> I'm like Oh run ah yeah we</font>
+
+193
+00:11:37,200 --> 00:11:39,210
+got a little<font color="#CCCCCC"> Hemi not that powerful</font><font color="#E5E5E5"> yet</font>
+
+194
+00:11:39,210 --> 00:11:41,970
+though<font color="#E5E5E5"> yeah thanks</font>
+
+195
+00:11:41,970 --> 00:11:44,970
+that's the fellas<font color="#CCCCCC"> if you want to see</font><font color="#E5E5E5"> we</font>
+
+196
+00:11:44,970 --> 00:11:48,150
+got a cool<font color="#CCCCCC"> cool now yeah you're going to</font>
+
+197
+00:11:48,150 --> 00:11:49,470
+spin these<font color="#CCCCCC"> or they</font><font color="#E5E5E5"> won't know</font><font color="#CCCCCC"> what else</font>
+
+198
+00:11:49,470 --> 00:11:49,950
+to do
+
+199
+00:11:49,950 --> 00:12:05,779
+I need a speed yes yay<font color="#E5E5E5"> approval nice</font>
+
+200
+00:12:06,170 --> 00:12:10,260
+should we put it on YouTube<font color="#CCCCCC"> okay</font><font color="#E5E5E5"> should</font>
+
+201
+00:12:10,260 --> 00:12:12,420
+we<font color="#E5E5E5"> make a channel do you guys think we</font>
+
+202
+00:12:12,420 --> 00:12:13,830
+should<font color="#CCCCCC"> make a youtube channel</font><font color="#E5E5E5"> to put</font>
+
+203
+00:12:13,830 --> 00:12:20,820
+this on okay<font color="#CCCCCC"> he said of guys alright</font>
+
+204
+00:12:20,820 --> 00:12:22,920
+<font color="#E5E5E5">let's go</font><font color="#CCCCCC"> let's go make this chin</font><font color="#E5E5E5"> yeah</font>
+
+205
+00:12:22,920 --> 00:12:26,030
+hurry<font color="#E5E5E5"> let's upload</font>
+
+206
+00:12:28,710 --> 00:12:31,150
+<font color="#E5E5E5">we definitely</font><font color="#CCCCCC"> got to get</font><font color="#E5E5E5"> a Hemi for this</font>
+
+207
+00:12:31,150 --> 00:12:35,760
+guy that we gotta upgrade<font color="#E5E5E5"> the speed on</font>
+
+208
+00:12:35,760 --> 00:12:39,100
+because this this<font color="#E5E5E5"> is</font><font color="#CCCCCC"> just not</font><font color="#E5E5E5"> right oh</font>
+
+209
+00:12:39,100 --> 00:12:42,590
+[Applause]
+
+210
+00:12:43,470 --> 00:12:48,820
+<font color="#E5E5E5">whoa whoa whoa whoa whoa is it focused</font>
+
+211
+00:12:48,820 --> 00:12:52,540
+yep<font color="#E5E5E5"> okay well thanks</font><font color="#CCCCCC"> for watching</font><font color="#E5E5E5"> guys</font>
+
+212
+00:12:52,540 --> 00:12:55,420
+<font color="#E5E5E5">yeah leave a like</font><font color="#CCCCCC"> as</font><font color="#E5E5E5"> always if you</font>
+
+213
+00:12:55,420 --> 00:12:58,330
+<font color="#CCCCCC">enjoyed today's mod</font><font color="#E5E5E5"> we'll be back</font>
+
+214
+00:12:58,330 --> 00:13:00,550
+tomorrow with<font color="#E5E5E5"> another fun episode and</font>
+
+215
+00:13:00,550 --> 00:13:04,200
+<font color="#CCCCCC">then the</font><font color="#E5E5E5"> next day</font><font color="#CCCCCC"> or Friday</font><font color="#E5E5E5"> oh yes yeah</font>
+
+216
+00:13:04,200 --> 00:13:09,760
+<font color="#E5E5E5">get excited because we are out don't</font>
+
+217
+00:13:09,760 --> 00:13:11,320
+hurt yourself that's that's a new rule
+
+218
+00:13:11,320 --> 00:13:16,260
+<font color="#E5E5E5">how bye guys bye</font><font color="#CCCCCC"> every</font><font color="#E5E5E5"> day</font>
+
+219
+00:13:20,120 --> 00:00:00,000
+[Music]
+

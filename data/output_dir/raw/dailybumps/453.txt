@@ -1,716 +1,5705 @@
 1
-00:00:00,060 --> 00:00:05,210
-jingle bells jingle<font color="#E5E5E5"> bells jingle all the</font>
+00:00:00,613 --> 00:00:01,852
+- Good morning.
 
 2
-00:00:05,210 --> 00:00:11,250
-way oh<font color="#CCCCCC"> what fun it</font><font color="#E5E5E5"> is to ride in a</font>
+00:00:01,852 --> 00:00:03,102
+- Good morning.
 
 3
-00:00:11,250 --> 00:00:13,860
-one-horse open sleigh
+00:00:04,829 --> 00:00:06,388
+- Hey, Santa came.
 
 4
-00:00:13,860 --> 00:00:23,220
-<font color="#E5E5E5">say hey wherever you are</font><font color="#CCCCCC"> that's whatever</font>
+00:00:06,388 --> 00:00:07,221
+- What?
 
 5
-00:00:23,220 --> 00:00:27,560
-<font color="#CCCCCC">wannabe</font><font color="#E5E5E5"> Oh</font>
+00:00:07,221 --> 00:00:08,087
+- Santa came.
 
 6
-00:00:35,749 --> 00:00:39,019
-just<font color="#E5E5E5"> one</font>
+00:00:08,087 --> 00:00:08,920
+- He did?
 
 7
-00:00:39,239 --> 00:00:42,200
-<font color="#E5E5E5"> your dog</font>
+00:00:08,920 --> 00:00:10,351
+- Yes, Santa came.
 
 8
-00:00:44,270 --> 00:00:46,300
-Oh
+00:00:10,351 --> 00:00:12,060
+- You're so cute, always.
 
 9
-00:00:46,690 --> 00:00:49,570
-hunger<font color="#CCCCCC"> every</font>
+00:00:12,060 --> 00:00:13,397
+Merry Christmas.
 
 10
-00:00:49,570 --> 00:00:51,350
-me
+00:00:13,397 --> 00:00:14,941
+- Merry Christmas.
 
 11
-00:00:51,350 --> 00:00:52,970
-[Music]
+00:00:14,941 --> 00:00:16,148
+- [Bryan] Do you know for sure Santa came?
 
 12
-00:00:52,970 --> 00:00:57,180
-good morning<font color="#CCCCCC"> oli what you got here</font>
+00:00:16,148 --> 00:00:16,981
+- Yes.
 
 13
-00:00:57,180 --> 00:01:00,450
-<font color="#E5E5E5">Thank You</font><font color="#CCCCCC"> cat</font><font color="#E5E5E5"> full</font><font color="#CCCCCC"> tit did you draw that</font>
+00:00:16,981 --> 00:00:17,814
+- [Bryan] Did you hear him?
 
 14
-00:01:00,450 --> 00:01:04,349
-<font color="#CCCCCC">and write a note to fin on that</font><font color="#E5E5E5"> these</font>
+00:00:17,814 --> 00:00:18,647
+- Yes.
 
 15
-00:01:04,349 --> 00:01:05,580
-<font color="#CCCCCC">team cats</font>
+00:00:19,977 --> 00:00:20,954
+- I think we should definitely see
 
 16
-00:01:05,580 --> 00:01:07,050
-that's so cute cuz that<font color="#E5E5E5"> was your advent</font>
+00:00:20,954 --> 00:00:23,551
+if the reindeer ate our carrots.
 
 17
-00:01:07,050 --> 00:01:09,180
-calendar yesterday huh<font color="#E5E5E5"> yeah</font><font color="#CCCCCC"> that's so</font>
+00:00:23,551 --> 00:00:24,384
+- Yeah.
 
 18
-00:01:09,180 --> 00:01:10,620
-cool<font color="#E5E5E5"> do you</font><font color="#CCCCCC"> want to go</font><font color="#E5E5E5"> show him yeah</font>
+00:00:24,384 --> 00:00:27,240
+- And we should see if
+Santa ate our cookies.
 
 19
-00:01:10,620 --> 00:01:14,100
-<font color="#E5E5E5">okay go show him he's so excited to show</font>
+00:00:27,240 --> 00:00:28,073
+- Yeah.
 
 20
-00:01:14,100 --> 00:01:22,290
-<font color="#CCCCCC">Finn his drawing</font><font color="#E5E5E5"> whoa</font><font color="#CCCCCC"> look at that isn't</font>
+00:00:28,073 --> 00:00:28,906
+- And drink or milk.
 
 21
-00:01:22,290 --> 00:01:28,860
-<font color="#E5E5E5">that beautiful</font><font color="#CCCCCC"> thin oh he loves it all</font>
+00:00:28,906 --> 00:00:29,739
+Should we go look?
 
 22
-00:01:28,860 --> 00:01:30,750
-you're such a good big brother
+00:00:29,739 --> 00:00:30,576
+- Yeah.
 
 23
-00:01:30,750 --> 00:01:34,950
-good morning Finn I love you<font color="#E5E5E5"> he is a</font>
+00:00:30,576 --> 00:00:34,743
+("This Is Home" by Bryan Lanning)
 
 24
-00:01:34,950 --> 00:01:36,450
-good little<font color="#CCCCCC"> brother too he puts up with</font>
+00:01:08,269 --> 00:01:09,601
+- Good morning, guys.
 
 25
-00:01:36,450 --> 00:01:38,580
-a lot<font color="#CCCCCC"> trust me</font><font color="#E5E5E5"> guys</font>
+00:01:09,601 --> 00:01:10,492
+It's very early.
 
 26
-00:01:38,580 --> 00:01:42,330
-Finn puts up with a<font color="#CCCCCC"> lot huh so your elf</font>
+00:01:10,492 --> 00:01:11,325
+Everyone's awake.
 
 27
-00:01:42,330 --> 00:01:45,360
-went through a lot<font color="#CCCCCC"> yesterday huh you</font>
+00:01:11,325 --> 00:01:12,158
+(Oliver speaking loudly)
 
 28
-00:01:45,360 --> 00:01:47,820
-touched him<font color="#E5E5E5"> he</font><font color="#CCCCCC"> was sick he disappeared</font>
+00:01:12,158 --> 00:01:12,991
+Guess what?
 
 29
-00:01:47,820 --> 00:01:49,770
-but we saw Santa and what did Santa<font color="#E5E5E5"> say</font>
+00:01:12,991 --> 00:01:14,687
+Fin's still sleeping?
 
 30
-00:01:49,770 --> 00:01:52,560
-no catch it<font color="#CCCCCC"> he said don't touch</font><font color="#E5E5E5"> him but</font>
+00:01:14,687 --> 00:01:15,520
+I love you.
 
 31
-00:01:52,560 --> 00:01:54,869
-he's gonna be<font color="#E5E5E5"> okay huh and this morning</font>
+00:01:15,520 --> 00:01:16,353
+- I love you too.
 
 32
-00:01:54,869 --> 00:01:56,280
-where did we fight<font color="#E5E5E5"> and Fred you want to</font>
+00:01:16,353 --> 00:01:17,186
+- Merry Christmas, buddy.
 
 33
-00:01:56,280 --> 00:01:57,570
-show<font color="#CCCCCC"> him</font><font color="#E5E5E5"> okay</font>
+00:01:17,186 --> 00:01:18,709
+- Koda!
 
 34
-00:01:57,570 --> 00:02:02,190
-where'd<font color="#CCCCCC"> we fight him right there climb</font>
+00:01:18,709 --> 00:01:19,542
+- Koda!
 
 35
-00:02:02,190 --> 00:02:05,210
-<font color="#CCCCCC">on up so you can see him</font>
+00:01:21,168 --> 00:01:23,160
+Hi, good morning, Koda.
 
 36
-00:02:05,210 --> 00:02:09,139
-<font color="#E5E5E5">fred is takin a bath in all this yummy</font>
+00:01:23,160 --> 00:01:24,836
+- Let's check and see
+if we see the reindeer.
 
 37
-00:02:09,139 --> 00:02:13,880
-nummy candy<font color="#E5E5E5"> huh you want to</font><font color="#CCCCCC"> eat it</font>
+00:01:24,836 --> 00:01:25,669
+The kids.
 
 38
-00:02:13,880 --> 00:02:15,850
-maybe after he's done with<font color="#E5E5E5"> his bath okay</font>
+00:01:25,669 --> 00:01:26,502
+- [Bryan] Oh, Ollie.
 
 39
-00:02:15,850 --> 00:02:18,050
-<font color="#E5E5E5">okay do you know what this says</font>
+00:01:26,502 --> 00:01:27,460
+Let's check and see if they ate
 
 40
-00:02:18,050 --> 00:02:25,670
-what's<font color="#E5E5E5"> this a pretty</font><font color="#CCCCCC"> close</font>
+00:01:27,460 --> 00:01:29,210
+that carrot out here.
 
 41
-00:02:25,670 --> 00:02:28,790
-it says<font color="#E5E5E5"> candy is</font><font color="#CCCCCC"> the best medicine that</font>
+00:01:31,074 --> 00:01:32,859
+- [Missy] Look.
 
 42
-00:02:28,790 --> 00:02:30,950
-must be what mrs. Claus<font color="#E5E5E5"> told them so</font>
+00:01:32,859 --> 00:01:34,442
+- There's one more.
 
 43
-00:02:30,950 --> 00:02:32,960
-he's taking her advice<font color="#E5E5E5"> and he's taking a</font>
+00:01:36,711 --> 00:01:38,057
+- [Bryan] Whoa.
 
 44
-00:02:32,960 --> 00:02:35,090
-candy bath and he's<font color="#E5E5E5"> getting all his</font>
+00:01:38,057 --> 00:01:40,112
+- It's just one more.
 
 45
-00:02:35,090 --> 00:02:41,360
-magic back<font color="#E5E5E5"> that's pretty cool huh really</font>
+00:01:40,112 --> 00:01:41,833
+- [Bryan] There was a lot
+more carrots last night, huh?
 
 46
-00:02:41,360 --> 00:02:43,760
-good away from his<font color="#E5E5E5"> neck</font><font color="#CCCCCC"> back is seeing</font>
+00:01:41,833 --> 00:01:43,496
+- Yeah.
 
 47
-00:02:43,760 --> 00:02:46,290
-<font color="#E5E5E5">Christmas carols</font><font color="#CCCCCC"> you want to sing a</font><font color="#E5E5E5"> song</font>
+00:01:43,496 --> 00:01:46,163
+(midtempo jazz)
 
 48
-00:02:46,290 --> 00:02:48,220
-[Music]
+00:01:47,902 --> 00:01:49,077
+What's that?
 
 49
-00:02:48,220 --> 00:02:51,650
-<font color="#E5E5E5">sing</font><font color="#CCCCCC"> jingle bells with me why</font><font color="#E5E5E5"> yeah</font>
+00:01:49,077 --> 00:01:50,225
+(laughter)
 
 50
-00:02:51,650 --> 00:02:56,770
-jingle bells jingle<font color="#E5E5E5"> bells jingle all the</font>
+00:01:50,225 --> 00:01:51,394
+- [Bryan] "What's that"?
 
 51
-00:02:56,770 --> 00:03:02,840
-way oh what<font color="#CCCCCC"> fun it</font><font color="#E5E5E5"> is to ride in a</font>
+00:01:51,394 --> 00:01:53,644
+That means that Santa came.
 
 52
-00:03:02,840 --> 00:03:07,730
-<font color="#E5E5E5">one-horse open sleigh</font><font color="#CCCCCC"> say hey jingle</font>
+00:01:54,646 --> 00:01:55,687
+- [Missy] See the car?
 
 53
-00:03:07,730 --> 00:03:14,390
-<font color="#E5E5E5">bells</font><font color="#CCCCCC"> jingle bells jingle all the way oh</font>
+00:01:55,687 --> 00:01:57,498
+What did he bring you?
 
 54
-00:03:14,390 --> 00:03:19,600
-what<font color="#CCCCCC"> fun it is to ride in a one-horse</font>
+00:01:57,498 --> 00:01:58,773
+- [Oliver] I don't know.
 
 55
-00:03:19,600 --> 00:03:29,110
-open sleigh<font color="#CCCCCC"> good job buddy</font>
+00:01:58,773 --> 00:01:59,606
+(Missy laughs)
 
 56
-00:03:29,110 --> 00:03:31,310
-<font color="#E5E5E5">Ollie and I just did our first cover</font>
+00:01:59,606 --> 00:02:00,439
+- I don't even know if he knows how to
 
 57
-00:03:31,310 --> 00:03:33,620
-song<font color="#E5E5E5"> together you got it</font>
+00:02:00,439 --> 00:02:01,272
+play the words.
 
 58
-00:03:33,620 --> 00:03:35,780
-I think that was a lot of<font color="#CCCCCC"> singing</font><font color="#E5E5E5"> in</font>
+00:02:01,272 --> 00:02:02,105
+What's going on right now?
 
 59
-00:03:35,780 --> 00:03:37,250
-Fred's gonna<font color="#E5E5E5"> get his magic back what do</font>
+00:02:02,105 --> 00:02:02,938
+- I don't know.
 
 60
-00:03:37,250 --> 00:03:41,390
-you think you<font color="#CCCCCC"> think</font><font color="#E5E5E5"> you will yeah are</font>
+00:02:02,938 --> 00:02:03,771
+He's like what?
 
 61
-00:03:41,390 --> 00:03:43,340
-you wearing<font color="#CCCCCC"> your slippers let me see</font>
+00:02:03,771 --> 00:02:05,344
+- [Bryan] What do you
+think about this, dude?
 
 62
-00:03:43,340 --> 00:03:47,600
-<font color="#CCCCCC">whoa</font><font color="#E5E5E5"> what are they they're monkeys</font>
+00:02:05,344 --> 00:02:06,845
+- Look at all of these.
 
 63
-00:03:47,600 --> 00:03:50,920
-<font color="#E5E5E5">that's pretty cool good morning Ollie's</font>
+00:02:06,845 --> 00:02:08,753
+- [Bryan] Whoa.
 
 64
-00:03:50,920 --> 00:03:53,980
-I just<font color="#E5E5E5"> got done filming some videos</font><font color="#CCCCCC"> and</font>
+00:02:08,753 --> 00:02:09,586
+Oh and look who's here.
 
 65
-00:03:53,980 --> 00:03:57,069
-today<font color="#E5E5E5"> we're gonna open our</font><font color="#CCCCCC"> advocate</font>
+00:02:09,586 --> 00:02:10,790
+Did you say good morning?
 
 66
-00:03:57,069 --> 00:04:00,610
-<font color="#CCCCCC">they're a little</font><font color="#E5E5E5"> bit early the big one</font>
+00:02:10,791 --> 00:02:12,791
+- Good morning, Meme and Papa.
 
 67
-00:04:00,610 --> 00:04:01,840
-well we have to look<font color="#CCCCCC"> at the numbers that</font>
+00:02:12,791 --> 00:02:15,455
+- Good morning, merry Christmas.
 
 68
-00:04:01,840 --> 00:04:04,120
-<font color="#CCCCCC">one is until day one so it's gonna</font><font color="#E5E5E5"> be a</font>
+00:02:15,455 --> 00:02:19,050
+Merry Christmas, I'm so happy to see you.
 
 69
-00:04:04,120 --> 00:04:05,590
-long time till<font color="#CCCCCC"> you're opening</font><font color="#E5E5E5"> that one</font>
+00:02:19,050 --> 00:02:20,646
+- I want all these presents.
 
 70
-00:04:05,590 --> 00:04:09,160
-okay<font color="#E5E5E5"> this one says</font><font color="#CCCCCC"> 23 days because</font>
+00:02:20,646 --> 00:02:21,479
+- I know.
 
 71
-00:04:09,160 --> 00:04:12,010
-there's 23 days till Christmas<font color="#E5E5E5"> okay so</font>
+00:02:21,479 --> 00:02:22,697
+- I wanna open my presents.
 
 72
-00:04:12,010 --> 00:04:14,650
-you can<font color="#CCCCCC"> open this one</font><font color="#E5E5E5"> what do you</font><font color="#CCCCCC"> thinks</font>
+00:02:22,697 --> 00:02:23,530
+- So many.
 
 73
-00:04:14,650 --> 00:04:23,590
-<font color="#CCCCCC">isn't</font><font color="#E5E5E5"> it hey what do you think it</font><font color="#CCCCCC"> is so</font>
+00:02:24,674 --> 00:02:25,507
+- [Bryan] Holy cow, you guys.
 
 74
-00:04:23,590 --> 00:04:30,490
-<font color="#CCCCCC">Chuck in there</font><font color="#E5E5E5"> no house</font><font color="#CCCCCC"> got a house on</font>
+00:02:25,507 --> 00:02:26,424
+Santa came.
 
 75
-00:04:30,490 --> 00:04:33,960
-<font color="#CCCCCC">it let's see what the note says ready</font>
+00:02:29,667 --> 00:02:31,337
+That's a nice car.
 
 76
-00:04:33,960 --> 00:04:39,660
-it says donate used books to a library
+00:02:31,337 --> 00:02:32,899
+Santa knows how to pick them.
 
 77
-00:04:39,660 --> 00:04:42,250
-<font color="#CCCCCC">do you want to know what that means yeah</font>
+00:02:32,899 --> 00:02:35,208
+Look at this dune racer, Ollie.
 
 78
-00:04:42,250 --> 00:04:44,710
-okay so what that<font color="#E5E5E5"> means is some</font>
+00:02:35,208 --> 00:02:36,710
+Hope in it.
 
 79
-00:04:44,710 --> 00:04:47,260
-libraries<font color="#E5E5E5"> need more books</font><font color="#CCCCCC"> they want</font>
+00:02:36,710 --> 00:02:39,977
+Here, I'll put Santa
+as your sidekick there.
 
 80
-00:04:47,260 --> 00:04:49,630
-books<font color="#E5E5E5"> so</font><font color="#CCCCCC"> that other kids can</font><font color="#E5E5E5"> read books</font>
+00:02:39,977 --> 00:02:41,373
+You could sit right there.
 
 81
-00:04:49,630 --> 00:04:51,360
-<font color="#E5E5E5">too you know how we read lots of books</font>
+00:02:41,373 --> 00:02:42,206
+You know what, Ollie?
 
 82
-00:04:51,360 --> 00:04:54,700
-<font color="#E5E5E5">well we should take some</font><font color="#CCCCCC"> of your</font><font color="#E5E5E5"> books</font>
+00:02:42,206 --> 00:02:43,750
+You remember that time
+we were playing Pokemon
 
 83
-00:04:54,700 --> 00:04:56,169
-<font color="#E5E5E5">that you don't read anymore</font><font color="#CCCCCC"> and give</font>
+00:02:43,750 --> 00:02:46,149
+in the park and we found one of these?
 
 84
-00:04:56,169 --> 00:04:59,229
-them to a library<font color="#E5E5E5"> that's sound good okay</font>
+00:02:46,149 --> 00:02:46,982
+- Yeah.
 
 85
-00:04:59,229 --> 00:05:00,820
-so let's go pick<font color="#CCCCCC"> out some books to give</font>
+00:02:46,982 --> 00:02:49,084
+- I think this is the same exact one.
 
 86
-00:05:00,820 --> 00:05:03,130
-to<font color="#CCCCCC"> a library</font><font color="#E5E5E5"> okay let's go</font>
+00:02:49,084 --> 00:02:49,959
+- It can go.
 
 87
-00:05:03,130 --> 00:05:04,330
-<font color="#E5E5E5">all right</font><font color="#CCCCCC"> Ally show me the books you're</font>
+00:02:49,959 --> 00:02:52,283
+- [Bryan] No, I don't
+think it can go inside.
 
 88
-00:05:04,330 --> 00:05:09,970
-<font color="#E5E5E5">gonna donate</font><font color="#CCCCCC"> Wow</font>
+00:02:52,283 --> 00:02:53,181
+Look at this, Ollie.
 
 89
-00:05:09,970 --> 00:05:11,740
-so we're gonna donate these<font color="#E5E5E5"> ones to the</font>
+00:02:53,181 --> 00:02:54,014
+- A red?
 
 90
-00:05:11,740 --> 00:05:15,040
-library yeah<font color="#CCCCCC"> yes we've got the little</font>
+00:02:54,014 --> 00:02:55,052
+- [Bryan] It's a wagon
 
 91
-00:05:15,040 --> 00:05:16,600
-boy who lost his name which<font color="#E5E5E5"> I think does</font>
+00:02:55,052 --> 00:02:56,026
+for you and Fin.
 
 92
-00:05:16,600 --> 00:05:18,370
-have the name Oliver<font color="#E5E5E5"> in it but we have</font>
+00:02:56,026 --> 00:02:57,300
+- And there's a present in it.
 
 93
-00:05:18,370 --> 00:05:19,840
-two<font color="#E5E5E5"> of these so I thought well maybe</font>
+00:02:57,300 --> 00:02:59,132
+- [Bryan] And there's
+a present in it, huh?
 
 94
-00:05:19,840 --> 00:05:21,760
-<font color="#E5E5E5">another boy named Oliver will like it</font>
+00:02:59,132 --> 00:02:59,965
+- Yeah.
 
 95
-00:05:21,760 --> 00:05:24,910
-you are my cupcake Jimmy and it's an
+00:02:59,965 --> 00:03:00,824
+- [Bryan] Alright, we'll have to open it.
 
 96
-00:05:24,910 --> 00:05:27,840
-orange aardvark<font color="#E5E5E5"> that sound good</font>
+00:03:00,824 --> 00:03:01,657
+- It's a toy.
 
 97
-00:05:27,840 --> 00:05:30,190
-yeah<font color="#E5E5E5"> then don't eat it</font><font color="#CCCCCC"> we're gonna</font>
+00:03:01,657 --> 00:03:03,479
+- [Bryan] Yep, it is toy's huh?
 
 98
-00:05:30,190 --> 00:05:32,830
-<font color="#E5E5E5">donate it huh all right let's go take</font>
+00:03:03,479 --> 00:03:05,466
+Hey Ollie, we have to go
+through all these presents
 
 99
-00:05:32,830 --> 00:05:35,050
-these<font color="#E5E5E5"> to</font><font color="#CCCCCC"> the library okay all right you</font>
+00:03:05,466 --> 00:03:06,299
+but guess what?
 
 100
-00:05:35,050 --> 00:05:36,820
-guys we<font color="#E5E5E5"> are now at chick-fil-a and the</font>
+00:03:06,299 --> 00:03:07,132
+- [Oliver] What?
 
 101
-00:05:36,820 --> 00:05:40,120
-boys are<font color="#E5E5E5"> playing like</font><font color="#CCCCCC"> Finn actually got</font>
+00:03:07,132 --> 00:03:07,965
+- We probably should start the day
 
 102
-00:05:40,120 --> 00:05:43,060
-all<font color="#E5E5E5"> the way up there</font><font color="#CCCCCC"> on his</font><font color="#E5E5E5"> own he's so</font>
+00:03:07,965 --> 00:03:08,798
+with some chocolate milk, huh?
 
 103
-00:05:43,060 --> 00:05:45,310
-strong<font color="#CCCCCC"> and you</font><font color="#E5E5E5"> know why it's because he</font>
+00:03:08,798 --> 00:03:09,631
+- Yeah.
 
 104
-00:05:45,310 --> 00:05:48,460
-eats like<font color="#E5E5E5"> crazy</font><font color="#CCCCCC"> heat the whole</font><font color="#E5E5E5"> four</font>
+00:03:09,631 --> 00:03:10,464
+- You want some chocolate milk?
 
 105
-00:05:48,460 --> 00:05:50,979
-<font color="#E5E5E5">piece chicken</font><font color="#CCCCCC"> yeah and he's</font><font color="#E5E5E5"> won hey</font>
+00:03:10,464 --> 00:03:11,297
+- I see something.
 
 106
-00:05:50,979 --> 00:05:52,120
-<font color="#CCCCCC">Ollie I need you to climb</font><font color="#E5E5E5"> up there and</font>
+00:03:11,297 --> 00:03:12,857
+- Oh, you see other toys?
 
 107
-00:05:52,120 --> 00:05:52,840
-<font color="#CCCCCC">help your brother</font>
+00:03:12,857 --> 00:03:14,192
+Whoa!
 
 108
-00:05:52,840 --> 00:05:55,900
-<font color="#CCCCCC">oh you want drink</font><font color="#E5E5E5"> first got a refill up</font>
+00:03:14,192 --> 00:03:15,850
+There's so many cool toys, huh?
 
 109
-00:05:55,900 --> 00:05:58,180
-<font color="#E5E5E5">there you go that's</font><font color="#CCCCCC"> good go get your</font>
+00:03:15,850 --> 00:03:17,353
+- Look at the basketball?
 
 110
-00:05:58,180 --> 00:05:59,949
-<font color="#CCCCCC">brother</font>
+00:03:17,353 --> 00:03:19,213
+- [Bryan] Whoa, a basketball?
 
 111
-00:05:59,949 --> 00:06:03,699
-<font color="#CCCCCC">my</font><font color="#E5E5E5"> thing please be careful</font>
+00:03:19,213 --> 00:03:20,809
+- That's actually for Fin.
 
 112
-00:06:03,699 --> 00:06:06,680
-I'm sure you<font color="#CCCCCC"> don't care no I</font><font color="#E5E5E5"> think</font><font color="#CCCCCC"> oh</font>
+00:03:20,809 --> 00:03:21,642
+- That's so cool.
 
 113
-00:06:06,680 --> 00:06:08,840
-<font color="#E5E5E5">don't oh oh he's wobbling okay okay he's</font>
+00:03:21,642 --> 00:03:22,904
+Alright, Ollie, let's go
+drink some chocolate milk.
 
 114
-00:06:08,840 --> 00:06:12,320
-good<font color="#CCCCCC"> Ally</font><font color="#E5E5E5"> guide him to the slide kay can</font>
+00:03:22,904 --> 00:03:24,209
+Missy and I are very prepared.
 
 115
-00:06:12,320 --> 00:06:13,250
-you make sure<font color="#E5E5E5"> he</font><font color="#CCCCCC"> gets to</font><font color="#E5E5E5"> the slide</font>
+00:03:24,209 --> 00:03:27,642
+We have premade this chocolate milk
 
 116
-00:06:13,250 --> 00:06:14,509
-<font color="#E5E5E5">follow</font><font color="#CCCCCC"> Ollie Finn</font>
+00:03:27,642 --> 00:03:28,903
+so that we don't have to do it.
 
 117
-00:06:14,509 --> 00:06:16,940
-good boy it's<font color="#CCCCCC"> their Seng that is so</font>
+00:03:28,903 --> 00:03:29,736
+Here you go, buddy.
 
 118
-00:06:16,940 --> 00:06:19,729
-smart babe<font color="#E5E5E5"> and so strong and so it's</font>
+00:03:29,736 --> 00:03:30,569
+- Thank you.
 
 119
-00:06:19,729 --> 00:06:20,360
-crazy
+00:03:30,569 --> 00:03:31,402
+- [Bryan] You're welcome.
 
 120
-00:06:20,360 --> 00:06:25,000
-will he go down<font color="#CCCCCC"> that slide autumn</font><font color="#E5E5E5"> Ben</font>
+00:03:31,402 --> 00:03:32,305
+- Are you ready to open presents?
 
 121
-00:06:25,000 --> 00:06:30,520
-okay where do you<font color="#E5E5E5"> go any</font><font color="#CCCCCC"> meskan business</font>
+00:03:32,305 --> 00:03:33,138
+- [Oliver] Yeah.
 
 122
-00:06:32,320 --> 00:06:38,449
-<font color="#E5E5E5">is he up there okay</font><font color="#CCCCCC"> - goes over the</font>
+00:03:33,138 --> 00:03:33,971
+- Merry Christmas.
 
 123
-00:06:38,449 --> 00:06:44,030
-finally<font color="#E5E5E5"> go</font><font color="#CCCCCC"> Sean what yes that is our one</font>
+00:03:33,971 --> 00:03:35,110
+- It's a wagon and a present.
 
 124
-00:06:44,030 --> 00:06:45,830
-year old<font color="#CCCCCC"> trapped in</font><font color="#E5E5E5"> this playground</font>
+00:03:35,110 --> 00:03:36,483
+(laughter)
 
 125
-00:06:45,830 --> 00:06:48,340
-structure with no<font color="#E5E5E5"> help pity</font>
+00:03:36,483 --> 00:03:37,316
+- That's for you.
 
 126
-00:06:48,340 --> 00:06:50,810
-what are you doing kiddo<font color="#CCCCCC"> go get them</font>
+00:03:37,316 --> 00:03:38,453
+- [Oliver] Yeah.
 
 127
-00:06:50,810 --> 00:06:58,160
-Ollie go save him<font color="#E5E5E5"> - oh</font><font color="#CCCCCC"> God</font>
+00:03:38,453 --> 00:03:40,060
+- Can I have a kiss?
 
 128
-00:06:58,160 --> 00:07:00,410
-kind<font color="#E5E5E5"> of freaking out</font><font color="#CCCCCC"> there Ollie where's</font>
+00:03:40,060 --> 00:03:41,578
+That's not a kiss.
 
 129
-00:07:00,410 --> 00:07:03,800
-Ben don't get in<font color="#E5E5E5"> the show where the</font>
+00:03:41,578 --> 00:03:42,957
+Thank you.
 
 130
-00:07:03,800 --> 00:07:07,159
-slide is are you<font color="#E5E5E5"> okay</font><font color="#CCCCCC"> Kate go okay I</font>
+00:03:42,957 --> 00:03:44,097
+- [Bryan] What did you find, Ollie?
 
 131
-00:07:07,159 --> 00:07:07,580
-think
+00:03:44,097 --> 00:03:47,251
+- [Molly] It's a bike and
+it says to Ollie from Santa.
 
 132
-00:07:07,580 --> 00:07:09,970
-<font color="#E5E5E5">ollie is pulling</font><font color="#CCCCCC"> into the slide oh</font>
+00:03:47,251 --> 00:03:48,224
+- [Bryan] Whoa.
 
 133
-00:07:09,970 --> 00:07:14,810
-there's all<font color="#CCCCCC"> where's Finn I thought you</font>
+00:03:48,224 --> 00:03:52,374
+Whoa, Santa's got some fancy handwriting.
 
 134
-00:07:14,810 --> 00:07:17,120
-pulled him to the slide Finn go down the
+00:03:52,374 --> 00:03:55,207
+(soft jazz music)
 
 135
-00:07:17,120 --> 00:07:21,710
-slide buddy<font color="#CCCCCC"> oh then come</font><font color="#E5E5E5"> here is he</font>
+00:04:08,139 --> 00:04:09,634
+- It's your turn.
 
 136
-00:07:21,710 --> 00:07:24,650
-going we can't leave<font color="#CCCCCC"> it till he he</font><font color="#E5E5E5"> comes</font>
+00:04:09,634 --> 00:04:10,467
+- It's my turn?
 
 137
-00:07:24,650 --> 00:07:25,430
-down baby
+00:04:10,467 --> 00:04:11,300
+- [Bryan] It's your turn.
 
 138
-00:07:25,430 --> 00:07:31,820
-hi good why okay this is<font color="#E5E5E5"> really funny</font>
+00:04:11,300 --> 00:04:13,192
+You have to do it now.
 
 139
-00:07:31,820 --> 00:07:33,949
-<font color="#E5E5E5">cuz we're trying</font><font color="#CCCCCC"> to get vintage ice</font>
+00:04:13,192 --> 00:04:14,199
+- Whoa.
 
 140
-00:07:33,949 --> 00:07:36,979
-<font color="#CCCCCC">we've been here forever</font><font color="#E5E5E5"> hold again</font><font color="#CCCCCC"> Ollie</font>
+00:04:14,199 --> 00:04:16,449
+(laughter)
 
 141
-00:07:36,979 --> 00:07:40,180
-get<font color="#E5E5E5"> Finn and put him</font><font color="#CCCCCC"> down the slide</font>
+00:04:19,487 --> 00:04:22,737
+(soft Christmas music)
 
 142
-00:07:40,180 --> 00:07:43,780
-how hard is<font color="#CCCCCC"> that crazy</font>
+00:04:33,603 --> 00:04:34,487
+- [Bryan] Hey, Ollie, while
+they're cooking breakfast,
 
 143
-00:07:43,780 --> 00:07:47,169
-come on Finn
+00:04:34,487 --> 00:04:37,752
+let's put some socks on your feet.
 
 144
-00:07:47,169 --> 00:07:52,840
-where's Finn<font color="#E5E5E5"> Oliver you have one job</font><font color="#CCCCCC"> go</font>
+00:04:37,752 --> 00:04:39,291
+Does daddy look like a Christmas tree?
 
 145
-00:07:52,840 --> 00:07:56,969
-get him go back up the slide<font color="#CCCCCC"> and get him</font>
+00:04:39,291 --> 00:04:41,093
+- [Oliver] Yeah.
 
 146
-00:07:56,969 --> 00:08:01,360
-Vinnie<font color="#E5E5E5"> Vinnie come here Vinnie don't</font>
+00:04:41,093 --> 00:04:44,866
+- [Chuckling] It's pretty funny, huh?
 
 147
-00:08:01,360 --> 00:08:05,020
-<font color="#E5E5E5">fall Ben come here boy</font>
+00:04:44,866 --> 00:04:46,045
+- Oh my God!
 
 148
-00:08:05,020 --> 00:08:09,819
-slowly but<font color="#E5E5E5"> surely</font><font color="#CCCCCC"> oh my</font><font color="#E5E5E5"> god</font>
+00:04:46,045 --> 00:04:47,093
+- [Bryan] What!
 
 149
-00:08:09,819 --> 00:08:30,699
-oh hi good job<font color="#CCCCCC"> ollie - good job buddy</font>
+00:04:47,093 --> 00:04:48,926
+What happened in here?
 
 150
-00:08:30,699 --> 00:08:37,269
-Figgy he's still eating<font color="#E5E5E5"> chickens hey</font>
+00:04:50,054 --> 00:04:51,304
+- I don't know.
 
 151
-00:08:37,269 --> 00:08:41,260
-<font color="#CCCCCC">Ollie where are we and what are we</font><font color="#E5E5E5"> doing</font>
+00:04:52,453 --> 00:04:54,746
+- What is all that?
 
 152
-00:08:41,260 --> 00:08:48,130
-here oh that's so nice<font color="#CCCCCC"> of you buddy</font>
+00:04:54,746 --> 00:04:55,638
+- [Oliver] Oh it's food.
 
 153
-00:08:48,130 --> 00:08:49,300
-those are the<font color="#E5E5E5"> books you're gonna give</font>
+00:04:55,638 --> 00:04:59,025
+- It's food and a sink and a stove.
 
 154
-00:08:49,300 --> 00:08:50,740
-<font color="#CCCCCC">him yeah okay</font>
+00:04:59,025 --> 00:05:00,760
+- [Bryan] Ollie, I think Santa gave you
 
 155
-00:08:50,740 --> 00:08:52,899
-so all these advents<font color="#E5E5E5"> said that he had to</font>
+00:05:00,760 --> 00:05:03,077
+your very own kitchen.
 
 156
-00:08:52,899 --> 00:08:56,110
-<font color="#E5E5E5">donate some books to the library so now</font>
+00:05:03,077 --> 00:05:03,910
+- [Oliver] Yeah.
 
 157
-00:08:56,110 --> 00:08:57,670
-we are here<font color="#E5E5E5"> and all he's gonna give some</font>
+00:05:03,910 --> 00:05:05,077
+- [Missy] Wow.
 
 158
-00:08:57,670 --> 00:08:59,500
-books<font color="#E5E5E5"> to some other kids who might want</font>
+00:05:06,077 --> 00:05:07,063
+- [Bryan] Ice cream?
 
 159
-00:08:59,500 --> 00:09:01,510
-to read them huh<font color="#CCCCCC"> that's so nice of you</font>
+00:05:07,063 --> 00:05:08,156
+- Yeah.
 
 160
-00:09:01,510 --> 00:09:03,750
-buddy
+00:05:08,156 --> 00:05:11,053
+- Can I have some ice cream?
 
 161
-00:09:03,750 --> 00:09:06,909
-[Music]
+00:05:11,053 --> 00:05:13,189
+- [Oliver] Look at the pumpkin!
 
 162
-00:09:08,920 --> 00:09:14,639
-oh really<font color="#CCCCCC"> all right yeah</font><font color="#E5E5E5"> thank you sir</font>
+00:05:13,189 --> 00:05:14,022
+- [Missy] A pumpkin?
 
 163
-00:09:14,639 --> 00:09:18,209
-<font color="#CCCCCC">Kali say you're welcome</font>
+00:05:14,022 --> 00:05:15,780
+You love pumpkins!
 
 164
-00:09:29,940 --> 00:09:33,089
-[Music]
+00:05:15,780 --> 00:05:16,613
+- [Oliver] Yeah.
 
 165
-00:09:37,590 --> 00:09:39,179
-[Music]
+00:05:16,613 --> 00:05:18,181
+- [Missy] Look what's in your fridge.
 
 166
-00:09:39,179 --> 00:09:41,709
-all right you guys we<font color="#CCCCCC"> are back</font><font color="#E5E5E5"> home and</font>
+00:05:18,181 --> 00:05:19,918
+- [Bryan] Whoa.
 
 167
-00:09:41,709 --> 00:09:43,989
-we are<font color="#CCCCCC"> about</font><font color="#E5E5E5"> to eat</font><font color="#CCCCCC"> dinner and I am so</font>
+00:05:19,918 --> 00:05:20,751
+- [Missy] Milk?
 
 168
-00:09:43,989 --> 00:09:48,029
-<font color="#CCCCCC">excited right</font><font color="#E5E5E5"> now because Missy made</font>
+00:05:20,751 --> 00:05:22,340
+- [Bryan] Lots of different foods.
 
 169
-00:09:48,029 --> 00:09:52,660
-lobster<font color="#E5E5E5"> mac and cheese white cheddar mac</font>
+00:05:22,340 --> 00:05:24,261
+- [Missy] There's donuts and waffles.
 
 170
-00:09:52,660 --> 00:09:54,970
-<font color="#CCCCCC">and cheese</font><font color="#E5E5E5"> that's</font><font color="#CCCCCC"> amazing</font><font color="#E5E5E5"> and what was</font>
+00:05:24,261 --> 00:05:25,223
+- Donuts and waffles.
 
 171
-00:09:54,970 --> 00:09:56,589
-this was this a recipe<font color="#CCCCCC"> that</font><font color="#E5E5E5"> was like a</font>
+00:05:25,223 --> 00:05:27,519
+We need to eat those this morning.
 
 172
-00:09:56,589 --> 00:09:58,959
-copycat<font color="#E5E5E5"> yeah it's actually a</font><font color="#CCCCCC"> copycat</font>
+00:05:27,519 --> 00:05:29,531
+We need to get our fuel
+for opening presents.
 
 173
-00:09:58,959 --> 00:10:03,399
-<font color="#CCCCCC">Nerra oh oh oh good lord who got</font><font color="#E5E5E5"> it how</font>
+00:05:29,531 --> 00:05:31,669
+- [Missy] You've got a little
+table to eat your food.
 
 174
-00:10:03,399 --> 00:10:05,949
-<font color="#E5E5E5">hard are you ready you ready to feast</font>
+00:05:31,669 --> 00:05:33,339
+- [Oliver] I'm going to eat some chips.
 
 175
-00:10:05,949 --> 00:10:09,549
-mr.<font color="#CCCCCC"> Finnigan</font><font color="#E5E5E5"> he will eat it</font><font color="#CCCCCC"> and he will</font>
+00:05:33,339 --> 00:05:34,621
+- [Missy] Oh my goodness, what's that?
 
 176
-00:10:09,549 --> 00:10:10,209
-love it
+00:05:34,621 --> 00:05:35,661
+- What's this?
 
 177
-00:10:10,209 --> 00:10:17,699
-he loves it<font color="#E5E5E5"> you guys that's lobster yeah</font>
+00:05:35,661 --> 00:05:36,668
+- I don't know.
 
 178
-00:10:24,420 --> 00:10:25,770
-<font color="#E5E5E5">you</font>
+00:05:36,668 --> 00:05:38,814
+- I think it's a cheeseburger.
 
 179
-00:10:25,770 --> 00:00:00,000
-[Music]
+00:05:38,814 --> 00:05:40,035
+- I don't need that.
+
+180
+00:05:40,035 --> 00:05:41,601
+- [Bryan] No?
+
+181
+00:05:41,601 --> 00:05:43,144
+- [Missy] And it's chocolate milk.
+
+182
+00:05:43,144 --> 00:05:44,188
+- Yeah, look.
+
+183
+00:05:44,188 --> 00:05:46,100
+- That is crazy, Ollie.
+
+184
+00:05:46,100 --> 00:05:48,214
+So Santa got you your
+very own kitchen to play
+
+185
+00:05:48,214 --> 00:05:50,543
+with you and Peg probably huh?
+
+186
+00:05:50,543 --> 00:05:51,673
+- Yeah.
+
+187
+00:05:51,673 --> 00:05:52,506
+- You're gonna love it.
+
+188
+00:05:52,506 --> 00:05:53,339
+Look, Ollie.
+
+189
+00:05:53,339 --> 00:05:54,172
+Ready?
+
+190
+00:05:57,402 --> 00:05:59,649
+- [Bryan] Ah she's eating a cheeseburger.
+
+191
+00:05:59,649 --> 00:06:00,864
+- [Missy] Oh it's so yummy.
+
+192
+00:06:00,864 --> 00:06:01,847
+- [Bryan] So you have a sink.
+
+193
+00:06:01,847 --> 00:06:02,680
+- [Oliver] Yeah.
+
+194
+00:06:02,680 --> 00:06:03,988
+- [Missy] You can do your dishes.
+
+195
+00:06:03,988 --> 00:06:05,102
+- [Bryan] And look at this.
+
+196
+00:06:05,102 --> 00:06:07,672
+You can even cut the bread.
+
+197
+00:06:07,672 --> 00:06:08,737
+- [Missy] Do you want some bread?
+
+198
+00:06:08,737 --> 00:06:10,531
+- [Bryan] Hey, do you wanna
+try and cut it, Ollie?
+
+199
+00:06:10,531 --> 00:06:11,364
+- [Oliver] Hold on.
+
+200
+00:06:11,364 --> 00:06:12,880
+- [Bryan] What do you see?
+
+201
+00:06:12,880 --> 00:06:14,120
+Oh you want to cut the watermelon?
+
+202
+00:06:14,120 --> 00:06:15,469
+- [Missy] Put it on the cutting board.
+
+203
+00:06:15,469 --> 00:06:17,507
+- [Bryan] Here, sit it
+on the cutting board.
+
+204
+00:06:17,507 --> 00:06:18,578
+And then you cut it.
+
+205
+00:06:18,578 --> 00:06:19,411
+- Okay.
+
+206
+00:06:19,411 --> 00:06:20,244
+- [Missy] The other way.
+
+207
+00:06:20,244 --> 00:06:21,827
+Yeah, there you go.
+
+208
+00:06:22,766 --> 00:06:23,599
+- [Bryan] Whoa!
+
+209
+00:06:23,599 --> 00:06:24,849
+- [Missy] Okay!
+
+210
+00:06:26,153 --> 00:06:27,010
+There you go.
+
+211
+00:06:27,010 --> 00:06:29,496
+- [Bryan] Wow, Ollie, that's so cool.
+
+212
+00:06:29,496 --> 00:06:30,499
+See under the sink, Ollie.
+
+213
+00:06:30,499 --> 00:06:33,606
+And look down here, you have storage.
+
+214
+00:06:33,606 --> 00:06:35,601
+And then you have your stove top.
+
+215
+00:06:35,601 --> 00:06:37,446
+You can cook some eggs.
+
+216
+00:06:37,446 --> 00:06:38,279
+- [Missy] Look, Ollie.
+
+217
+00:06:38,279 --> 00:06:40,907
+You can wear an apron and make us dinner.
+
+218
+00:06:40,907 --> 00:06:42,106
+Carrots!
+
+219
+00:06:42,106 --> 00:06:43,125
+- [Bryan] Carrots.
+
+220
+00:06:43,125 --> 00:06:43,958
+That's cool.
+
+221
+00:06:43,958 --> 00:06:46,678
+And look, you can turn on the stove.
+
+222
+00:06:46,678 --> 00:06:47,750
+And the oven.
+
+223
+00:06:47,750 --> 00:06:49,273
+Whoa, what's in the oven, Ollie?
+
+224
+00:06:49,273 --> 00:06:50,194
+- [Oliver] I don't know.
+
+225
+00:06:50,194 --> 00:06:52,318
+- [Bryan] Looks like cupcakes and pizza.
+
+226
+00:06:52,318 --> 00:06:53,151
+- [Oliver] Yeah.
+
+227
+00:06:53,151 --> 00:06:57,271
+- [Missy] Ooh, you should eat a cupcake.
+
+228
+00:06:57,271 --> 00:06:58,116
+- [Bryan] Are those yummy cupcakes?
+
+229
+00:06:58,116 --> 00:06:59,523
+- [Oliver] Yeah (unclear murmur).
+
+230
+00:06:59,523 --> 00:07:02,018
+- [Bryan] Okay. (giggles)
+
+231
+00:07:02,018 --> 00:07:02,851
+- [Missy] Hey Ollie,
+
+232
+00:07:02,851 --> 00:07:06,055
+look at this cute little puppy dog apron.
+
+233
+00:07:06,055 --> 00:07:07,876
+- Whoa, cool.
+
+234
+00:07:07,876 --> 00:07:08,709
+- [Bryan] Oh my gosh, that's adorable.
+
+235
+00:07:08,709 --> 00:07:09,725
+- [Missy] Now you can make the food
+
+236
+00:07:09,725 --> 00:07:11,762
+without getting your shirt dirty.
+
+237
+00:07:11,762 --> 00:07:12,595
+- Yeah.
+
+238
+00:07:12,595 --> 00:07:14,236
+- [Missy] So can I have some pancakes?
+
+239
+00:07:14,236 --> 00:07:15,149
+- [Oliver] Yeah.
+
+240
+00:07:15,149 --> 00:07:17,374
+- [Missy] I think this
+is pancakes in here.
+
+241
+00:07:17,374 --> 00:07:20,445
+And then you can put the syrup
+and the strawberries on it.
+
+242
+00:07:20,445 --> 00:07:24,078
+I'll take syrup and
+strawberries on a pancake.
+
+243
+00:07:24,078 --> 00:07:26,745
+(midtempo jazz)
+
+244
+00:07:36,846 --> 00:07:39,356
+- Santa just eat all his cookies.
+
+245
+00:07:39,356 --> 00:07:40,518
+- [Bryan] He did?
+
+246
+00:07:40,518 --> 00:07:41,351
+- Yeah.
+
+247
+00:07:41,351 --> 00:07:42,184
+- [Bryan] I didn't even check.
+
+248
+00:07:42,184 --> 00:07:43,090
+And he drank all his milk?
+
+249
+00:07:43,090 --> 00:07:45,735
+- [Oliver] There's one more cookie.
+
+250
+00:07:45,735 --> 00:07:46,568
+- [Bryan] Wow, he must not have been able
+
+251
+00:07:46,568 --> 00:07:48,016
+to eat them all, huh?
+
+252
+00:07:48,016 --> 00:07:48,860
+- Yeah.
+
+253
+00:07:48,860 --> 00:07:49,911
+- [Bryan] Hey, Ollie, guess who's up?
+
+254
+00:07:49,911 --> 00:07:50,746
+- What?
+
+255
+00:07:50,746 --> 00:07:51,811
+- [Bryan] Your brother.
+
+256
+00:07:51,811 --> 00:07:52,644
+- Fin?
+
+257
+00:07:52,644 --> 00:07:53,477
+- [Bryan] Go get him.
+
+258
+00:07:53,477 --> 00:07:54,310
+- Okay.
+
+259
+00:07:54,310 --> 00:07:58,445
+(Oliver exclaiming wildly)
+
+260
+00:07:58,445 --> 00:07:59,778
+Merry Christmas.
+
+261
+00:08:01,157 --> 00:08:01,990
+Fin.
+
+262
+00:08:01,990 --> 00:08:05,514
+- [Bryan] Merry Christmas, buddy.
+
+263
+00:08:05,514 --> 00:08:07,228
+Merry Christmas, Fin.
+
+264
+00:08:07,228 --> 00:08:08,108
+- He didn't cry.
+
+265
+00:08:08,108 --> 00:08:08,941
+- [Bryan] No he's in such a good mood
+
+266
+00:08:08,941 --> 00:08:11,274
+because it's Christmas, huh?
+
+267
+00:08:14,772 --> 00:08:15,605
+Hey Fin, guess what?
+
+268
+00:08:15,605 --> 00:08:17,325
+Santa Claus came.
+
+269
+00:08:17,325 --> 00:08:18,773
+So excited.
+
+270
+00:08:18,773 --> 00:08:21,393
+And we have breakfast.
+
+271
+00:08:21,393 --> 00:08:23,665
+- Merry Christmas, Fin.
+
+272
+00:08:23,665 --> 00:08:25,027
+(baby talk)
+
+273
+00:08:25,027 --> 00:08:28,164
+(light jazz music)
+
+274
+00:08:28,164 --> 00:08:30,120
+There's a present.
+
+275
+00:08:30,120 --> 00:08:32,445
+- [Bryan] Look at all those presents, Fin.
+
+276
+00:08:32,445 --> 00:08:34,778
+(crosstalk)
+
+277
+00:08:36,097 --> 00:08:37,683
+- Oh good morning.
+
+278
+00:08:37,683 --> 00:08:39,596
+- [Oliver] I wanna open it.
+
+279
+00:08:39,597 --> 00:08:40,429
+- [Bryan] I know, buddy.
+
+280
+00:08:40,429 --> 00:08:41,894
+We're gonna eat some
+breakfast first, okay.
+
+281
+00:08:41,895 --> 00:08:44,043
+- I don't want to.
+
+282
+00:08:44,043 --> 00:08:47,146
+- [Bryan] That's quite a stocking, Jim.
+
+283
+00:08:47,146 --> 00:08:48,830
+You fit your whole foot in that?
+
+284
+00:08:48,830 --> 00:08:49,830
+- Oh my God.
+
+285
+00:08:51,313 --> 00:08:52,700
+- [Bryan] Buzz Lightyear PEZ?
+
+286
+00:08:52,700 --> 00:08:53,635
+- Yeah.
+
+287
+00:08:53,635 --> 00:08:54,824
+- Alright, before we open presents,
+
+288
+00:08:54,824 --> 00:08:58,440
+we always have to open
+all of our stockings, huh?
+
+289
+00:08:58,440 --> 00:08:59,921
+You got a pterodactyl in your stocking?
+
+290
+00:08:59,921 --> 00:09:00,781
+- Yeah.
+
+291
+00:09:00,781 --> 00:09:01,698
+- You wanna see a trick?
+
+292
+00:09:01,698 --> 00:09:02,531
+- Yes.
+
+293
+00:09:03,884 --> 00:09:05,860
+- Perfectly balanced.
+
+294
+00:09:05,860 --> 00:09:07,655
+Whoa, you're perfectly balanced.
+
+295
+00:09:07,655 --> 00:09:09,464
+It's flying on your finger.
+
+296
+00:09:09,464 --> 00:09:10,640
+- Yeah.
+
+297
+00:09:10,640 --> 00:09:13,557
+(light jazz music)
+
+298
+00:09:24,492 --> 00:09:27,153
+- [Bryan] Karma, what's that, what's that?
+
+299
+00:09:27,153 --> 00:09:28,473
+What's that?
+
+300
+00:09:28,473 --> 00:09:29,728
+Is that for you?
+
+301
+00:09:29,728 --> 00:09:30,561
+Open it.
+
+302
+00:09:32,876 --> 00:09:34,195
+Karma loves opening presents
+
+303
+00:09:34,195 --> 00:09:36,468
+and he opens them very meticulously.
+
+304
+00:09:36,468 --> 00:09:37,301
+Get it, Karma, get it.
+
+305
+00:09:37,301 --> 00:09:38,179
+Open it.
+
+306
+00:09:38,179 --> 00:09:39,012
+Get it.
+
+307
+00:09:39,012 --> 00:09:40,198
+Come on, rip it open.
+
+308
+00:09:40,198 --> 00:09:41,031
+- [Missy] Get it.
+
+309
+00:09:41,031 --> 00:09:42,198
+Get it, Karma.
+
+310
+00:09:43,185 --> 00:09:45,985
+- [Bryan] Whoa, a big bone.
+
+311
+00:09:45,985 --> 00:09:48,750
+It's like, oh, just what I wanted.
+
+312
+00:09:48,750 --> 00:09:50,533
+Just what I get every year.
+
+313
+00:09:50,533 --> 00:09:51,828
+- [Missy] Wanted an iPad.
+
+314
+00:09:51,828 --> 00:09:54,530
+(laughter)
+
+315
+00:09:54,530 --> 00:09:55,875
+I see something.
+
+316
+00:09:55,875 --> 00:09:58,458
+- [Missy] Do you see something?
+
+317
+00:10:00,227 --> 00:10:01,144
+What is it?
+
+318
+00:10:04,159 --> 00:10:06,042
+It's a big truck.
+
+319
+00:10:06,042 --> 00:10:07,615
+A Tonka truck.
+
+320
+00:10:07,615 --> 00:10:09,442
+- [Meme] You can put all the dirt in it.
+
+321
+00:10:09,442 --> 00:10:10,275
+- Yeah.
+
+322
+00:10:10,275 --> 00:10:12,129
+- [Missy] That is so cool.
+
+323
+00:10:12,129 --> 00:10:13,671
+- [Bryan] What did Fin get?
+
+324
+00:10:13,671 --> 00:10:14,687
+- It's a--
+
+325
+00:10:14,687 --> 00:10:16,142
+- I got one.
+
+326
+00:10:16,142 --> 00:10:18,501
+- [Bryan] Whoa, cool.
+
+327
+00:10:18,501 --> 00:10:21,416
+I think he's reopening his stocking
+
+328
+00:10:21,416 --> 00:10:22,495
+and saying another one.
+
+329
+00:10:22,495 --> 00:10:23,511
+- Another minion?
+
+330
+00:10:23,511 --> 00:10:24,344
+- Yeah.
+
+331
+00:10:26,426 --> 00:10:27,697
+- [Bryan] This is cute.
+
+332
+00:10:27,697 --> 00:10:29,493
+So Fin got this little
+bike thing from Santa,
+
+333
+00:10:29,493 --> 00:10:31,924
+and it's the same one
+that Jackson uses, huh?
+
+334
+00:10:31,924 --> 00:10:32,899
+Or Calvin.
+- Yeah, Calvin.
+
+335
+00:10:32,899 --> 00:10:34,982
+- [Bryan] That's so cool.
+
+336
+00:10:36,577 --> 00:10:37,410
+Whoa.
+
+337
+00:10:40,274 --> 00:10:42,769
+You got a truck too, Fin.
+
+338
+00:10:42,769 --> 00:10:43,602
+That's so cute.
+
+339
+00:10:43,602 --> 00:10:45,271
+Now they both have trucks.
+
+340
+00:10:45,271 --> 00:10:46,312
+Alright, the presents are passed out
+
+341
+00:10:46,312 --> 00:10:48,812
+and opening has now commenced.
+
+342
+00:10:51,389 --> 00:10:53,272
+Is that Beauty and the Beast?
+
+343
+00:10:53,272 --> 00:10:55,689
+- [Meme] I hope it is.
+
+344
+00:10:55,689 --> 00:10:56,845
+For that reaction.
+
+345
+00:10:56,845 --> 00:10:59,095
+(laughter)
+
+346
+00:11:01,749 --> 00:11:03,155
+(Missy cooing)
+
+347
+00:11:03,155 --> 00:11:06,369
+(Bryan sings theme from
+Beauty and the Beast)
+
+348
+00:11:06,369 --> 00:11:09,093
+- I love Beauty and the Beast.
+
+349
+00:11:09,093 --> 00:11:09,926
+Wow.
+
+350
+00:11:10,846 --> 00:11:12,357
+- Well, apparently this is done by
+
+351
+00:11:12,357 --> 00:11:13,886
+a very famous indie artist.
+
+352
+00:11:13,886 --> 00:11:16,512
+His name is Jim Shore.
+
+353
+00:11:16,512 --> 00:11:17,503
+And Disney works with him.
+
+354
+00:11:17,503 --> 00:11:18,336
+And he's--
+
+355
+00:11:19,506 --> 00:11:21,317
+- So pretty.
+
+356
+00:11:21,317 --> 00:11:23,114
+- [Bryan] That's so cool.
+
+357
+00:11:23,114 --> 00:11:24,114
+- I love it.
+
+358
+00:11:25,970 --> 00:11:28,804
+- [Bryan] Cassie's
+opening one from the boys.
+
+359
+00:11:28,804 --> 00:11:30,637
+What'd they get you?
+
+360
+00:11:30,637 --> 00:11:31,970
+- They got me...
+
+361
+00:11:34,499 --> 00:11:36,012
+What is it?
+
+362
+00:11:36,012 --> 00:11:36,845
+I can't--
+
+363
+00:11:36,845 --> 00:11:38,421
+- [Bryan] Okay, if you
+don't know what it is,
+
+364
+00:11:38,421 --> 00:11:39,430
+maybe you--
+
+365
+00:11:39,430 --> 00:11:41,659
+- I know what it is.
+
+366
+00:11:41,659 --> 00:11:43,648
+It's a Manfrotto.
+
+367
+00:11:43,648 --> 00:11:45,697
+(laughter)
+
+368
+00:11:45,697 --> 00:11:48,428
+- [Bryan] It's a tripod.
+
+369
+00:11:48,428 --> 00:11:49,375
+- Where does it say tripod?
+
+370
+00:11:49,375 --> 00:11:50,862
+It's a tripod?
+
+371
+00:11:50,862 --> 00:11:52,070
+- [Bryan] Yeah.
+
+372
+00:11:52,070 --> 00:11:53,358
+- Thank you.
+
+373
+00:11:53,358 --> 00:11:54,652
+- You're welcome.
+
+374
+00:11:54,652 --> 00:11:56,256
+(crosstalk)
+
+375
+00:11:56,256 --> 00:11:58,006
+- Oh, there goes Fin.
+
+376
+00:12:01,219 --> 00:12:02,052
+- [Missy] Is that a new game?
+
+377
+00:12:02,052 --> 00:12:02,885
+- Yeah.
+
+378
+00:12:02,885 --> 00:12:04,182
+- [Meme] A crocodile game?
+
+379
+00:12:04,182 --> 00:12:05,015
+- [Missy] Oh my God.
+
+380
+00:12:05,015 --> 00:12:07,118
+- [Meme] Oh my goodness, how cool.
+
+381
+00:12:07,118 --> 00:12:08,785
+You love crocodiles.
+
+382
+00:12:10,074 --> 00:12:13,498
+- Drop the Hook is not a board game.
+
+383
+00:12:13,498 --> 00:12:15,301
+(Jim awes)
+
+384
+00:12:15,301 --> 00:12:17,128
+- [Missy] I love how
+it's exactly like mine.
+
+385
+00:12:17,128 --> 00:12:18,711
+No this is exactly.
+
+386
+00:12:19,772 --> 00:12:20,605
+- [Bryan] Oh whoa.
+
+387
+00:12:20,605 --> 00:12:22,193
+- It's a leather apron
+for when I'm working.
+
+388
+00:12:22,193 --> 00:12:23,276
+I get filthy.
+
+389
+00:12:24,794 --> 00:12:25,627
+- Yeah, I really like it.
+
+390
+00:12:25,627 --> 00:12:26,460
+- [Bryan] It's really cool.
+
+391
+00:12:26,460 --> 00:12:27,293
+- I had a black one.
+
+392
+00:12:27,293 --> 00:12:31,460
+- [Bryan] I bet you Jesus
+wore something like that.
+
+393
+00:12:33,670 --> 00:12:35,617
+(whooping)
+
+394
+00:12:35,617 --> 00:12:38,867
+- [Bryan] So you can make us spaghetti.
+
+395
+00:12:41,255 --> 00:12:43,775
+- [Missy] And it folds right up.
+
+396
+00:12:43,775 --> 00:12:45,025
+- [Bryan] Whoa.
+
+397
+00:12:49,039 --> 00:12:51,372
+(crosstalk)
+
+398
+00:12:53,197 --> 00:12:54,855
+- [Missy] Come on, Fin.
+
+399
+00:12:54,855 --> 00:12:55,795
+Put it in.
+
+400
+00:12:55,795 --> 00:12:57,379
+Put it in, honey.
+
+401
+00:12:57,379 --> 00:12:59,951
+(Missy whoops)
+
+402
+00:12:59,951 --> 00:13:02,368
+(Bryan wees)
+
+403
+00:13:03,504 --> 00:13:05,129
+(Missy cheers)
+
+404
+00:13:05,129 --> 00:13:08,462
+- [Bryan] Future Kobe Bryant right here.
+
+405
+00:13:11,353 --> 00:13:12,186
+Oh yeah.
+
+406
+00:13:14,294 --> 00:13:16,209
+Oh my God, he loves that.
+
+407
+00:13:16,209 --> 00:13:17,939
+Ollie, what did you get?
+
+408
+00:13:17,939 --> 00:13:18,772
+- Skateboard.
+
+409
+00:13:18,772 --> 00:13:20,117
+- [Bryan] That's so cool, you like it?
+
+410
+00:13:20,117 --> 00:13:21,406
+- This is my skateboard.
+
+411
+00:13:21,406 --> 00:13:22,906
+- [Bryan] That's so neat.
+
+412
+00:13:22,906 --> 00:13:25,255
+Jimmy just got Missy this.
+
+413
+00:13:25,255 --> 00:13:26,551
+Can you explain this.
+
+414
+00:13:26,551 --> 00:13:28,597
+They're cat ears and then
+
+415
+00:13:28,597 --> 00:13:31,893
+it reads your brainwaves
+and then they go down or up
+
+416
+00:13:31,893 --> 00:13:33,736
+and they move around
+based on your brainwaves.
+
+417
+00:13:33,736 --> 00:13:35,190
+- I am so excited.
+
+418
+00:13:35,190 --> 00:13:36,788
+(laughter)
+
+419
+00:13:36,788 --> 00:13:38,242
+- [Bryan] You know her so well.
+
+420
+00:13:38,242 --> 00:13:40,025
+So there's lots of things
+in different languages
+
+421
+00:13:40,025 --> 00:13:41,608
+that we don't know.
+
+422
+00:13:43,121 --> 00:13:45,327
+- We'll have to figure out
+what each of these mean.
+
+423
+00:13:45,327 --> 00:13:47,198
+- [Bryan] That is so funny.
+
+424
+00:13:47,198 --> 00:13:48,031
+- That is so cool.
+
+425
+00:13:48,031 --> 00:13:50,167
+Thank you, Jimmy.
+
+426
+00:13:50,167 --> 00:13:51,000
+- [Bryan] What is is, Ollie?
+
+427
+00:13:51,000 --> 00:13:52,529
+- I don't know.
+
+428
+00:13:52,529 --> 00:13:55,227
+- [Missy] He's opening it.
+
+429
+00:13:55,227 --> 00:13:57,203
+- [Meme] You get one of those.
+
+430
+00:13:57,203 --> 00:13:58,382
+Oh my goodness.
+
+431
+00:13:58,382 --> 00:13:59,516
+- [Bryan] Where'd you get that?
+
+432
+00:13:59,516 --> 00:14:01,612
+- You got a Hatchimals?
+
+433
+00:14:01,612 --> 00:14:02,642
+- Yeah.
+
+434
+00:14:02,642 --> 00:14:05,915
+- It's a giant egg, Hatchimal?
+
+435
+00:14:05,915 --> 00:14:07,012
+- I wanna open it.
+
+436
+00:14:07,012 --> 00:14:07,978
+- [Bryan] Oh it'll open.
+
+437
+00:14:07,978 --> 00:14:09,380
+- [Jimmy] Give him a hammer.
+
+438
+00:14:09,380 --> 00:14:10,737
+- Did you watch this on YouTube?
+
+439
+00:14:10,737 --> 00:14:11,570
+- Yeah.
+
+440
+00:14:11,570 --> 00:14:12,403
+- Do you know what this is?
+- Yeah.
+
+441
+00:14:12,403 --> 00:14:13,236
+- What's in it?
+
+442
+00:14:13,236 --> 00:14:14,069
+- A birdie.
+
+443
+00:14:14,069 --> 00:14:14,902
+- A birdie?
+
+444
+00:14:14,902 --> 00:14:15,735
+- [Bryan] It could be a birdie.
+
+445
+00:14:15,735 --> 00:14:16,959
+It could be lots of different things.
+
+446
+00:14:16,959 --> 00:14:17,792
+- [Meme] A little animal.
+
+447
+00:14:17,792 --> 00:14:19,697
+- How did you know that?
+
+448
+00:14:19,697 --> 00:14:21,557
+- [Bryan] That is so neat.
+
+449
+00:14:21,557 --> 00:14:22,390
+- I wanna open it.
+
+450
+00:14:22,390 --> 00:14:23,663
+- Okay, we're gonna put it in the kitchen.
+
+451
+00:14:23,663 --> 00:14:26,746
+Alright, Bryan's opening one from me.
+
+452
+00:14:30,391 --> 00:14:31,395
+- Fancy.
+
+453
+00:14:31,395 --> 00:14:33,066
+- [Missy] Yeah.
+
+454
+00:14:33,066 --> 00:14:34,605
+Look at me.
+
+455
+00:14:34,605 --> 00:14:36,149
+- [Oliver] Mama, I opened it--
+
+456
+00:14:36,149 --> 00:14:36,982
+- Coach.
+
+457
+00:14:36,982 --> 00:14:39,445
+Does Coach make men's things?
+
+458
+00:14:39,445 --> 00:14:40,695
+- [Missy] Yeah.
+
+459
+00:14:43,944 --> 00:14:46,944
+- There's so many wrappers and bags.
+
+460
+00:14:48,743 --> 00:14:50,342
+- It's a belt?
+
+461
+00:14:50,342 --> 00:14:51,175
+- [Missy] Yeah.
+
+462
+00:14:51,175 --> 00:14:52,922
+- That is so cool.
+
+463
+00:14:52,922 --> 00:14:54,521
+- [Missy] And it's the reversal kind too.
+
+464
+00:14:54,521 --> 00:14:55,569
+- It's reversible?
+
+465
+00:14:55,569 --> 00:14:56,402
+- [Missy] Yeah, like you can--
+
+466
+00:14:56,402 --> 00:14:57,292
+- Oh my gosh.
+
+467
+00:14:57,292 --> 00:14:58,169
+That is seriously so cool.
+
+468
+00:14:58,169 --> 00:14:59,030
+- [Missy] Isn't that cool?
+
+469
+00:14:59,030 --> 00:14:59,863
+- Thank you, babe.
+
+470
+00:14:59,863 --> 00:15:00,696
+- You're welcome.
+
+471
+00:15:00,696 --> 00:15:01,813
+He's a wears a belt every single day
+
+472
+00:15:01,813 --> 00:15:04,776
+and I thought I think I'm gonna
+get him a really nice one.
+
+473
+00:15:04,776 --> 00:15:05,652
+- It smells real yummy.
+
+474
+00:15:05,652 --> 00:15:06,874
+- [Missy] Yeah.
+
+475
+00:15:06,874 --> 00:15:07,707
+- [Oliver] Look it.
+
+476
+00:15:07,707 --> 00:15:08,937
+- What is it?
+
+477
+00:15:08,937 --> 00:15:10,187
+- [Bryan] Whoa.
+
+478
+00:15:11,137 --> 00:15:11,970
+Pound Patrol?
+
+479
+00:15:11,970 --> 00:15:13,365
+- [Missy] It's Pound Patrol.
+
+480
+00:15:13,365 --> 00:15:15,971
+- [Bryan] Fin, open yours, open yours.
+
+481
+00:15:15,971 --> 00:15:16,804
+- What's this?
+
+482
+00:15:16,804 --> 00:15:18,570
+- Thank you, Meme and Papa.
+
+483
+00:15:18,570 --> 00:15:19,705
+- That's actually from Santa.
+
+484
+00:15:19,705 --> 00:15:22,935
+- You're welcome (laughing).
+
+485
+00:15:22,935 --> 00:15:24,853
+- [Jim] We'll take credit.
+
+486
+00:15:24,853 --> 00:15:26,020
+- [Bryan] Ooh.
+
+487
+00:15:28,824 --> 00:15:30,591
+(music plays from toy)
+
+488
+00:15:30,591 --> 00:15:31,946
+- Wow.
+
+489
+00:15:31,946 --> 00:15:33,226
+What do you think of that?
+
+490
+00:15:33,226 --> 00:15:35,400
+- [Oliver] Mama, I open it.
+
+491
+00:15:35,400 --> 00:15:36,307
+- Um, we're caught up under the wagon,
+
+492
+00:15:36,307 --> 00:15:37,188
+we've got so many toys to open later.
+
+493
+00:15:37,188 --> 00:15:39,713
+- [Bryan] Ollie, that is so cool.
+
+494
+00:15:39,713 --> 00:15:40,706
+- [Missy] It's a Pound Patrol.
+
+495
+00:15:40,706 --> 00:15:42,951
+You can play pretend all day long.
+
+496
+00:15:42,951 --> 00:15:45,119
+- [Bryan] It has monkeys, Ollie.
+
+497
+00:15:45,119 --> 00:15:46,141
+(unclear speech)
+
+498
+00:15:46,141 --> 00:15:47,850
+- Sometimes, I don't even know.
+
+499
+00:15:47,850 --> 00:15:49,263
+- I don't know what's in there.
+
+500
+00:15:49,263 --> 00:15:50,821
+- [Bryan] You don't know what's in there.
+
+501
+00:15:50,821 --> 00:15:53,699
+- [Meme] It's a Popsocket.
+
+502
+00:15:53,699 --> 00:15:56,032
+(crosstalk)
+
+503
+00:15:57,568 --> 00:16:00,433
+- [Bryan] It's a flashlight.
+
+504
+00:16:00,433 --> 00:16:01,918
+Don't mess with Cassie.
+
+505
+00:16:01,918 --> 00:16:02,751
+- Go dad.
+
+506
+00:16:04,258 --> 00:16:06,591
+(crosstalk)
+
+507
+00:16:07,477 --> 00:16:09,923
+- Every year, dad will
+get you something useful.
+
+508
+00:16:09,923 --> 00:16:11,602
+(laughter)
+Useful.
+
+509
+00:16:11,602 --> 00:16:15,519
+- [Bryan] Alright, Missy's
+opening one from me.
+
+510
+00:16:16,955 --> 00:16:19,568
+- Really.
+(Bryan laughs)
+
+511
+00:16:19,568 --> 00:16:21,009
+You got me a Spectacle?
+
+512
+00:16:21,009 --> 00:16:23,132
+I got you Spectacles.
+
+513
+00:16:23,132 --> 00:16:25,136
+(Missy exclaims)
+
+514
+00:16:25,136 --> 00:16:26,536
+Isn't that cool?
+
+515
+00:16:26,536 --> 00:16:28,106
+- You gotta turn up that Snapchat game.
+
+516
+00:16:28,106 --> 00:16:28,939
+- I know.
+
+517
+00:16:28,939 --> 00:16:29,772
+- [Bryan] You love Snapchat
+
+518
+00:16:29,772 --> 00:16:30,982
+and you haven't been doing it in a while.
+
+519
+00:16:30,982 --> 00:16:32,884
+But I figured these might.
+
+520
+00:16:32,884 --> 00:16:34,056
+- That is so funny.
+
+521
+00:16:34,056 --> 00:16:36,173
+- [Bryan] I wanna see the
+world from your point of view.
+
+522
+00:16:36,173 --> 00:16:38,584
+- (laughing) Thank you.
+
+523
+00:16:38,584 --> 00:16:40,917
+(baby talk)
+
+524
+00:16:42,709 --> 00:16:45,153
+- You guys actually did it?
+
+525
+00:16:45,153 --> 00:16:46,403
+It's the ADD-1.
+
+526
+00:16:47,412 --> 00:16:48,409
+- [Bryan] Yeah.
+
+527
+00:16:48,409 --> 00:16:49,624
+- Oh my gosh.
+
+528
+00:16:49,624 --> 00:16:50,457
+Thank you so much.
+
+529
+00:16:50,457 --> 00:16:51,290
+- [Bryan] Subscribed to So Cash.
+
+530
+00:16:51,290 --> 00:16:53,052
+She's gonna get some premium content.
+
+531
+00:16:53,052 --> 00:16:53,885
+- It's so Cassie.
+
+532
+00:16:53,885 --> 00:16:56,264
+- [Bryan] It's so Cassie.
+(laughter)
+
+533
+00:16:56,264 --> 00:16:57,318
+- Thank you guys so much.
+
+534
+00:16:57,318 --> 00:16:58,372
+- [Bryan] You're welcome.
+
+535
+00:16:58,372 --> 00:17:02,587
+- [Missy] Alright, this one
+is to dada from your boys.
+
+536
+00:17:02,587 --> 00:17:04,502
+Karma picked it out especially.
+
+537
+00:17:04,502 --> 00:17:05,460
+- This is from you?
+
+538
+00:17:05,461 --> 00:17:06,294
+- Yeah.
+
+539
+00:17:06,294 --> 00:17:08,071
+- Thank you.
+
+540
+00:17:08,071 --> 00:17:10,988
+I'm so excited to see what's in it.
+
+541
+00:17:16,085 --> 00:17:18,752
+Harry Potter Magical Beast board game.
+
+542
+00:17:18,752 --> 00:17:19,681
+- [Missy] It's a board game.
+
+543
+00:17:19,681 --> 00:17:20,866
+- That's so cool.
+
+544
+00:17:20,866 --> 00:17:22,779
+I thought it was gonna be
+Monopoly or Life or something.
+
+545
+00:17:22,779 --> 00:17:24,722
+- [Missy] No, it's just
+like their own board game.
+
+546
+00:17:24,722 --> 00:17:25,555
+- It's their own board game.
+
+547
+00:17:25,555 --> 00:17:26,567
+Thanks.
+
+548
+00:17:26,567 --> 00:17:27,597
+Thank you, Ollie.
+
+549
+00:17:27,597 --> 00:17:28,779
+- Welcome.
+
+550
+00:17:28,779 --> 00:17:29,631
+- [Missy] You're gonna play with daddy?
+
+551
+00:17:29,631 --> 00:17:30,981
+- You're gonna play with it with me?
+
+552
+00:17:30,981 --> 00:17:32,142
+- Yeah.
+
+553
+00:17:32,142 --> 00:17:34,889
+- This is from Meme and Papa.
+
+554
+00:17:34,889 --> 00:17:36,415
+- [Bryan] There you go.
+
+555
+00:17:36,415 --> 00:17:37,785
+He knows how to do it.
+
+556
+00:17:37,785 --> 00:17:39,337
+(crosstalk)
+
+557
+00:17:39,337 --> 00:17:40,837
+What you got, Fin?
+
+558
+00:17:43,199 --> 00:17:44,282
+Look at that.
+
+559
+00:17:45,610 --> 00:17:46,860
+That's awesome.
+
+560
+00:17:48,761 --> 00:17:49,684
+- [Oliver] Legos.
+
+561
+00:17:49,684 --> 00:17:51,859
+- [Bryan] What you got, Ollie?
+
+562
+00:17:51,859 --> 00:17:53,192
+It's Lego Duplo.
+
+563
+00:17:54,351 --> 00:17:55,347
+Batman.
+
+564
+00:17:55,347 --> 00:17:58,771
+You're not gonna play
+with that together, okay?
+
+565
+00:17:58,771 --> 00:18:01,287
+What did Ollie and Fin get you?
+
+566
+00:18:01,287 --> 00:18:03,728
+- [Meme] What did they get me?
+
+567
+00:18:03,728 --> 00:18:04,815
+(whooping)
+
+568
+00:18:04,815 --> 00:18:05,732
+A new robe.
+
+569
+00:18:07,142 --> 00:18:08,707
+- [Bryan] Comfy.
+
+570
+00:18:08,707 --> 00:18:09,613
+- Comfy.
+
+571
+00:18:09,613 --> 00:18:11,165
+Thank you, Ollie.
+
+572
+00:18:11,165 --> 00:18:12,263
+- Welcome.
+
+573
+00:18:12,263 --> 00:18:13,781
+- I love it.
+
+574
+00:18:13,781 --> 00:18:14,614
+- [Missy] Okay, it's from Jimmy.
+
+575
+00:18:14,614 --> 00:18:15,929
+He always gives the best gifts.
+
+576
+00:18:15,929 --> 00:18:17,939
+- Jimmy does give really good gifts.
+
+577
+00:18:17,939 --> 00:18:18,772
+Sparklz.
+
+578
+00:18:20,283 --> 00:18:21,200
+Kikkerland.
+
+579
+00:18:22,670 --> 00:18:23,774
+- [Missy] What is it?
+
+580
+00:18:23,774 --> 00:18:24,899
+- Jimmy, could you just explain it?
+
+581
+00:18:24,899 --> 00:18:25,732
+- [Cassie] Get it out.
+
+582
+00:18:25,732 --> 00:18:27,798
+It's really cool, get it out.
+
+583
+00:18:27,798 --> 00:18:28,631
+- It's like a--
+
+584
+00:18:28,631 --> 00:18:29,723
+- Spin it.
+
+585
+00:18:29,723 --> 00:18:30,556
+- This way?
+
+586
+00:18:30,556 --> 00:18:32,473
+- Alright, set it down.
+
+587
+00:18:33,636 --> 00:18:34,469
+- Whoa!
+
+588
+00:18:34,469 --> 00:18:35,719
+- [Missy] Whoa!
+
+589
+00:18:37,191 --> 00:18:39,238
+- [Bryan] Keep that away
+from the Christmas tree.
+
+590
+00:18:39,238 --> 00:18:41,245
+- [Missy] Oh my gosh.
+
+591
+00:18:41,245 --> 00:18:45,078
+- Dude, where do you
+find all this cool stuff?
+
+592
+00:18:46,642 --> 00:18:48,848
+(laughter)
+
+593
+00:18:48,848 --> 00:18:50,181
+- [Missy] That's so cool.
+
+594
+00:18:50,181 --> 00:18:52,625
+- That is really cool.
+
+595
+00:18:52,625 --> 00:18:55,407
+- To mama, love Ollie and Fin.
+
+596
+00:18:55,407 --> 00:18:57,442
+- [Bryan] Ollie, did you get mama
+
+597
+00:18:57,442 --> 00:18:59,002
+a pretty blue box?
+
+598
+00:18:59,002 --> 00:19:00,571
+- What is it?
+
+599
+00:19:00,571 --> 00:19:03,218
+- [Bryan] I saw him
+scrounging around for pennies.
+
+600
+00:19:03,218 --> 00:19:05,800
+- They're always the best.
+
+601
+00:19:05,800 --> 00:19:06,883
+- So nervous.
+
+602
+00:19:09,598 --> 00:19:10,431
+Aw.
+
+603
+00:19:11,383 --> 00:19:13,487
+It's a little arrow.
+
+604
+00:19:13,487 --> 00:19:14,320
+- [Bryan] Yeah it's sterling silver.
+
+605
+00:19:14,320 --> 00:19:17,187
+It's a cool little arrow pin necklace.
+
+606
+00:19:17,187 --> 00:19:18,020
+- Yeah, I love it.
+
+607
+00:19:18,020 --> 00:19:19,201
+Thanks, Ollie.
+
+608
+00:19:19,201 --> 00:19:20,447
+- Welcome.
+
+609
+00:19:20,447 --> 00:19:21,280
+And Fin.
+
+610
+00:19:21,280 --> 00:19:23,046
+Fin picked that one out too.
+
+611
+00:19:23,046 --> 00:19:25,362
+(laughter)
+
+612
+00:19:25,362 --> 00:19:28,739
+Fin's like, oh yeah, I was
+browsing Tiffany forever.
+
+613
+00:19:28,739 --> 00:19:30,073
+No one would help him because
+
+614
+00:19:30,073 --> 00:19:31,665
+he was a baby, he was just walking around
+
+615
+00:19:31,665 --> 00:19:34,315
+that store for like an hour.
+
+616
+00:19:34,315 --> 00:19:35,148
+- I love it.
+
+617
+00:19:35,148 --> 00:19:36,376
+It's so pretty.
+
+618
+00:19:36,376 --> 00:19:38,197
+- [Bryan] What is it, Ollie, what is it?
+
+619
+00:19:38,197 --> 00:19:39,278
+- I don't know.
+
+620
+00:19:39,278 --> 00:19:40,510
+It's tools.
+
+621
+00:19:40,510 --> 00:19:41,689
+- [Bryan] Tools!
+
+622
+00:19:41,689 --> 00:19:42,907
+- It's a construction bench.
+
+623
+00:19:42,907 --> 00:19:43,958
+- [Bryan] He's like, that's the one
+
+624
+00:19:43,958 --> 00:19:45,843
+I almost wrapped for Fin.
+
+625
+00:19:45,843 --> 00:19:46,921
+- I know, I thought it was Fin,
+
+626
+00:19:46,921 --> 00:19:49,146
+but it was Ollie.
+
+627
+00:19:49,146 --> 00:19:49,979
+- [Bryan] So now you can be like papa
+
+628
+00:19:49,979 --> 00:19:50,894
+with all your tools, okay.
+
+629
+00:19:50,894 --> 00:19:52,227
+- Yeah.
+
+630
+00:19:52,227 --> 00:19:54,217
+- [Bryan] Whoa, Fin.
+
+631
+00:19:54,217 --> 00:19:55,050
+- Wow.
+
+632
+00:19:56,092 --> 00:19:58,509
+(car sirens)
+
+633
+00:20:06,333 --> 00:20:07,477
+- [Bryan] That's cool.
+
+634
+00:20:07,477 --> 00:20:09,727
+To Jimmy, from Missy and I.
+
+635
+00:20:11,569 --> 00:20:12,402
+What is it?
+
+636
+00:20:12,402 --> 00:20:13,891
+- I don't know.
+
+637
+00:20:13,891 --> 00:20:14,724
+- [Bryan] He knows.
+
+638
+00:20:14,724 --> 00:20:15,557
+He knows.
+
+639
+00:20:16,682 --> 00:20:17,599
+- HTC Vive.
+
+640
+00:20:18,866 --> 00:20:20,002
+- [Bryan] VR, baby.
+
+641
+00:20:20,002 --> 00:20:21,614
+- He's never gonna come
+out of his room again.
+
+642
+00:20:21,614 --> 00:20:22,447
+- You know what?
+
+643
+00:20:22,447 --> 00:20:23,280
+That's the box he has left over from this?
+
+644
+00:20:23,280 --> 00:20:25,496
+- [Bryan] Oh yeah, that's
+actually in my bedroom right now.
+
+645
+00:20:25,496 --> 00:20:26,329
+Yeah.
+
+646
+00:20:28,010 --> 00:20:28,843
+This one is sick.
+
+647
+00:20:28,843 --> 00:20:30,823
+It's got room sensors.
+
+648
+00:20:30,823 --> 00:20:32,264
+- You put in the sensors in your room,
+
+649
+00:20:32,264 --> 00:20:33,343
+and you can walk around your room.
+
+650
+00:20:33,343 --> 00:20:34,176
+- [Bryan] That's so cool, dude.
+
+651
+00:20:34,176 --> 00:20:37,426
+You're gonna be entering another world.
+
+652
+00:20:41,495 --> 00:20:43,148
+- A new little ring stand.
+
+653
+00:20:43,148 --> 00:20:43,981
+- [Bryan] Yay.
+
+654
+00:20:43,981 --> 00:20:46,762
+- I really, really wanted one of these and
+
+655
+00:20:46,762 --> 00:20:47,678
+I'm so excited.
+
+656
+00:20:47,678 --> 00:20:49,115
+- [Bryan] Cassie came through.
+
+657
+00:20:49,115 --> 00:20:50,334
+- It's so pretty.
+
+658
+00:20:50,334 --> 00:20:52,287
+It's much prettier than the Popsocket.
+
+659
+00:20:52,287 --> 00:20:53,120
+It's the same thing.
+
+660
+00:20:53,120 --> 00:20:55,384
+You put your finger in and
+it stands your phone up
+
+661
+00:20:55,384 --> 00:20:56,821
+and it's really cool.
+
+662
+00:20:56,821 --> 00:20:58,724
+- [Bryan] What is that, Ollie?
+
+663
+00:20:58,724 --> 00:21:00,724
+- I don't know what yet.
+
+664
+00:21:02,174 --> 00:21:03,007
+Whoa!
+
+665
+00:21:03,007 --> 00:21:05,732
+- [Bryan] It's a Dinopet, Ollie.
+
+666
+00:21:05,732 --> 00:21:08,190
+So it's a big glass dinosaur
+that goes in your room?
+
+667
+00:21:08,190 --> 00:21:09,023
+- Yeah.
+
+668
+00:21:09,023 --> 00:21:11,610
+- [Bryan] And it glows different colors.
+
+669
+00:21:11,610 --> 00:21:12,443
+Really.
+
+670
+00:21:12,443 --> 00:21:15,817
+It's a living bioluminescent pet.
+
+671
+00:21:15,817 --> 00:21:16,835
+- [Missy] Alright.
+
+672
+00:21:16,835 --> 00:21:18,648
+I got you something really cool.
+
+673
+00:21:18,648 --> 00:21:19,481
+- Really cool, huh?
+
+674
+00:21:19,481 --> 00:21:20,422
+- [Missy] Just for you.
+
+675
+00:21:20,422 --> 00:21:21,517
+- Is it really cool and manly?
+
+676
+00:21:21,517 --> 00:21:22,774
+- [Missy] Yeah.
+
+677
+00:21:22,774 --> 00:21:24,941
+(giggles)
+
+678
+00:21:26,171 --> 00:21:28,379
+- It's new tools.
+
+679
+00:21:28,379 --> 00:21:32,603
+- [Missy] He's been asking
+for an organized tool box
+
+680
+00:21:32,603 --> 00:21:34,022
+with all the tools that we need
+
+681
+00:21:34,022 --> 00:21:35,293
+for household stuff.
+
+682
+00:21:35,293 --> 00:21:36,928
+- [Bryan] This is a good size too.
+
+683
+00:21:36,928 --> 00:21:37,761
+- [Missy] Yeah it's kinda perfect.
+
+684
+00:21:37,761 --> 00:21:39,261
+It has everything.
+
+685
+00:21:40,304 --> 00:21:41,667
+- [Bryan] Is that the ratchet drill?
+
+686
+00:21:41,667 --> 00:21:42,543
+- [Missy] Yeah.
+
+687
+00:21:42,543 --> 00:21:45,030
+- Yeah, that's the nice
+drill that your dad has.
+
+688
+00:21:45,030 --> 00:21:47,850
+Okay, I know I don't do a lot but
+
+689
+00:21:47,850 --> 00:21:49,802
+around the house it's nice--
+
+690
+00:21:49,802 --> 00:21:51,073
+- But you know, we're
+always looking for something
+
+691
+00:21:51,073 --> 00:21:52,348
+and our stuff's always everywhere.
+
+692
+00:21:52,348 --> 00:21:54,145
+Oh, maybe in that cabinet or that drawer
+
+693
+00:21:54,145 --> 00:21:54,978
+or over there--
+
+694
+00:21:54,978 --> 00:21:55,811
+- Do you need a screwdriver?
+
+695
+00:21:55,811 --> 00:21:56,865
+'Cause I've got a bunch.
+
+696
+00:21:56,865 --> 00:21:58,060
+- [Missy] (giggling) I know.
+
+697
+00:21:58,060 --> 00:22:00,090
+That was dad's idea.
+
+698
+00:22:00,090 --> 00:22:01,108
+He's always like, oh trust me,
+
+699
+00:22:01,108 --> 00:22:03,157
+he needs all of these.
+
+700
+00:22:03,157 --> 00:22:06,070
+- Well, it's annoying when you need
+
+701
+00:22:06,070 --> 00:22:07,669
+a hammer, but you can't find a hammer
+
+702
+00:22:07,669 --> 00:22:08,502
+and then you look for two hours
+
+703
+00:22:08,502 --> 00:22:10,814
+and it's in the top of
+the closet somewhere.
+
+704
+00:22:10,814 --> 00:22:11,727
+- [Missy] Yeah.
+
+705
+00:22:11,727 --> 00:22:13,354
+Yep, yep.
+- Now I have a place for it.
+
+706
+00:22:13,354 --> 00:22:14,753
+- [Missy] And then go ahead and open that
+
+707
+00:22:14,753 --> 00:22:16,693
+bag over there.
+
+708
+00:22:16,693 --> 00:22:17,651
+- The bag?
+
+709
+00:22:17,651 --> 00:22:19,026
+- [Missy] Yeah.
+
+710
+00:22:19,026 --> 00:22:20,590
+- A blanket.
+
+711
+00:22:20,590 --> 00:22:24,053
+- [Missy] So this will stay
+on top of your tool set.
+
+712
+00:22:24,053 --> 00:22:26,220
+And it's a very organized.
+
+713
+00:22:27,695 --> 00:22:28,528
+- [Bryan] Oh it's so heavy.
+
+714
+00:22:28,528 --> 00:22:31,106
+- [Missy] With all the things you need.
+
+715
+00:22:31,106 --> 00:22:32,481
+- All things I need to put together,
+
+716
+00:22:32,481 --> 00:22:34,279
+toys and furniture.
+
+717
+00:22:34,279 --> 00:22:35,927
+Oh, that's just really heavy.
+
+718
+00:22:35,927 --> 00:22:38,541
+- [Missy] Okay, go put it on top of that.
+
+719
+00:22:38,541 --> 00:22:40,162
+Dad, what'd you get?
+
+720
+00:22:40,162 --> 00:22:41,002
+- [Jim] I don't know.
+
+721
+00:22:41,002 --> 00:22:42,502
+- [Missy] Oh yeah.
+
+722
+00:22:43,639 --> 00:22:46,252
+(giggling)
+
+723
+00:22:46,252 --> 00:22:47,085
+- Oh yeah.
+
+724
+00:22:49,309 --> 00:22:50,142
+When I put the cars together,
+
+725
+00:22:50,142 --> 00:22:52,483
+I just stare at this the whole time.
+
+726
+00:22:52,483 --> 00:22:54,871
+- [Missy] (giggles) Yeah I know.
+
+727
+00:22:54,871 --> 00:22:56,772
+I don't know what that is but
+
+728
+00:22:56,772 --> 00:22:58,311
+apparently I think it--
+
+729
+00:22:58,311 --> 00:22:59,599
+- You know how I round
+the edges of everything?
+
+730
+00:22:59,599 --> 00:23:00,432
+- [Missy] Yeah.
+
+731
+00:23:00,432 --> 00:23:02,484
+- Is that for your
+router for your Internet?
+
+732
+00:23:02,484 --> 00:23:04,206
+- Rounded edge?
+
+733
+00:23:04,206 --> 00:23:05,039
+- [Missy] Yeah, yeah.
+
+734
+00:23:05,039 --> 00:23:06,017
+- It mounts in here.
+
+735
+00:23:06,017 --> 00:23:06,850
+- [Missy] Oh.
+
+736
+00:23:06,850 --> 00:23:09,517
+- That would mount inside my table.
+
+737
+00:23:09,517 --> 00:23:11,705
+- Does it make the wi-fi faster?
+
+738
+00:23:11,705 --> 00:23:13,392
+- [Bryan] What's that password?
+
+739
+00:23:13,392 --> 00:23:15,714
+- It's a router table.
+
+740
+00:23:15,714 --> 00:23:19,107
+I was literally like, I
+have no idea what this is.
+
+741
+00:23:19,107 --> 00:23:19,969
+I hope he likes it.
+
+742
+00:23:19,969 --> 00:23:21,280
+(giggles)
+
+743
+00:23:21,280 --> 00:23:22,589
+- When I round the edges of stuff,
+
+744
+00:23:22,589 --> 00:23:25,054
+this is the thing you use.
+
+745
+00:23:25,054 --> 00:23:26,039
+- [Missy] Yep, there you go.
+
+746
+00:23:26,039 --> 00:23:28,142
+Well, I'm glad you like it.
+
+747
+00:23:28,142 --> 00:23:31,475
+(light Christmas music)
+
+748
+00:23:39,560 --> 00:23:42,227
+(playful music)
+
+749
+00:23:51,764 --> 00:23:54,287
+- [Bryan] Ollie is currently
+looking for his chocolate milk
+
+750
+00:23:54,287 --> 00:23:55,921
+in this mess.
+
+751
+00:23:55,921 --> 00:23:58,588
+(playful music)
+
+752
+00:24:09,119 --> 00:24:13,479
+Okay, these things are
+interesting for sure.
+
+753
+00:24:13,479 --> 00:24:15,829
+- Jimmy says that I'm focused and relaxed.
+
+754
+00:24:15,829 --> 00:24:16,662
+- [Bryan] Oh wow.
+
+755
+00:24:16,662 --> 00:24:19,662
+- He was like, seriously, it's true.
+
+756
+00:24:20,874 --> 00:24:21,843
+- Are you drunk on Christmas?
+
+757
+00:24:21,843 --> 00:24:22,676
+- Yeah.
+
+758
+00:24:22,676 --> 00:24:23,921
+(door bell rings)
+
+759
+00:24:23,921 --> 00:24:26,867
+- I think I hear someone at the door.
+
+760
+00:24:26,867 --> 00:24:27,700
+Do you hear someone at the door?
+
+761
+00:24:27,700 --> 00:24:28,634
+- Yeah.
+
+762
+00:24:28,634 --> 00:24:32,551
+- [Bryan] Fin, do you
+hear someone at the door?
+
+763
+00:24:34,739 --> 00:24:36,239
+Who could be here?
+
+764
+00:24:37,667 --> 00:24:39,777
+(unclear murmur)
+
+765
+00:24:39,777 --> 00:24:42,110
+Do you want to get the door?
+
+766
+00:24:43,068 --> 00:24:44,559
+Go get the door.
+
+767
+00:24:44,559 --> 00:24:45,392
+Open it.
+
+768
+00:24:46,715 --> 00:24:47,609
+- [Santa] Ho, ho, ho.
+
+769
+00:24:47,609 --> 00:24:49,109
+Almost forgot one.
+
+770
+00:24:51,007 --> 00:24:52,553
+- [Bryan] Santa?
+
+771
+00:24:52,553 --> 00:24:53,636
+What is that?
+
+772
+00:24:55,299 --> 00:24:57,216
+- [Missy] What is that?
+
+773
+00:25:00,027 --> 00:25:01,677
+What is that?
+
+774
+00:25:01,677 --> 00:25:03,174
+Is that Santa?
+
+775
+00:25:03,174 --> 00:25:05,925
+- [Bryan] Santa's leaving?
+
+776
+00:25:05,925 --> 00:25:06,910
+- Say bye, Santa.
+
+777
+00:25:06,910 --> 00:25:08,455
+- [Oliver] Bye, Santa.
+
+778
+00:25:08,455 --> 00:25:11,494
+- [Bryan] Did Santa just drop off a puppy?
+
+779
+00:25:11,494 --> 00:25:12,577
+- Oh my gosh.
+
+780
+00:25:14,043 --> 00:25:14,993
+Look at his face.
+
+781
+00:25:14,993 --> 00:25:17,160
+(giggles)
+
+782
+00:25:19,223 --> 00:25:20,704
+What is that?
+
+783
+00:25:20,704 --> 00:25:22,700
+- It's a puppy.
+
+784
+00:25:22,700 --> 00:25:24,867
+(giggles)
+
+785
+00:25:28,507 --> 00:25:31,526
+- Did Santa just drop off
+a brand new responsibility?
+
+786
+00:25:31,526 --> 00:25:34,030
+- [Cassie] Y'all got a puppy?
+
+787
+00:25:34,030 --> 00:25:36,889
+- [Bryan] Fin, it's a new puppy.
+
+788
+00:25:36,889 --> 00:25:38,234
+Hey.
+
+789
+00:25:38,234 --> 00:25:40,247
+- [Missy] Oh she likes you.
+
+790
+00:25:40,247 --> 00:25:42,255
+- [Bryan] Hi, new puppy.
+
+791
+00:25:42,255 --> 00:25:44,196
+- [Cassie] She likes you too.
+
+792
+00:25:44,196 --> 00:25:45,970
+- [Missy] Take this floppy thing off.
+
+793
+00:25:45,970 --> 00:25:46,803
+- [Bryan] So what did Santa say
+
+794
+00:25:46,803 --> 00:25:47,636
+when he sat her down?
+
+795
+00:25:47,636 --> 00:25:49,109
+(Oliver mumbles)
+
+796
+00:25:49,109 --> 00:25:50,900
+He said he forgot something?
+
+797
+00:25:50,900 --> 00:25:52,567
+- Yeah, he bring it.
+
+798
+00:25:54,466 --> 00:25:56,461
+- [Bryan] Hey, you.
+
+799
+00:25:56,461 --> 00:25:58,783
+It's a girl, Ollie.
+
+800
+00:25:58,783 --> 00:26:00,287
+Yeah.
+
+801
+00:26:00,287 --> 00:26:02,221
+We got a little puppy for Christmas, babe?
+
+802
+00:26:02,221 --> 00:26:04,221
+- Oh I love her so much.
+
+803
+00:26:06,666 --> 00:26:07,499
+- [Bryan] Aw.
+
+804
+00:26:07,499 --> 00:26:09,666
+- I love the puppy breath.
+
+805
+00:26:13,433 --> 00:26:16,600
+- Maybe there's another one out there.
+
+806
+00:26:19,071 --> 00:26:21,277
+- I need to get this in there.
+
+807
+00:26:21,277 --> 00:26:22,110
+- You think we can bring that in?
+
+808
+00:26:22,110 --> 00:26:23,443
+Is that her bed?
+
+809
+00:26:25,033 --> 00:26:27,033
+- [Bryan] She's so cute.
+
+810
+00:26:28,360 --> 00:26:31,826
+Ollie, you see her eyes are blue.
+
+811
+00:26:31,826 --> 00:26:35,145
+(Ollie exclaims unintelligibly)
+
+812
+00:26:35,145 --> 00:26:35,978
+- What'd you get?
+
+813
+00:26:35,978 --> 00:26:37,606
+- [Oliver] A puppy.
+
+814
+00:26:37,606 --> 00:26:38,755
+- Wow.
+
+815
+00:26:38,755 --> 00:26:40,270
+- Santa brought it?
+
+816
+00:26:40,270 --> 00:26:41,594
+Oh hello, puppy.
+
+817
+00:26:41,594 --> 00:26:43,646
+- [Bryan] Come sit down
+so she can play with you.
+
+818
+00:26:43,646 --> 00:26:46,112
+She's gotta smell you and get to know you.
+
+819
+00:26:46,112 --> 00:26:46,945
+- No, puppy.
+
+820
+00:26:46,945 --> 00:26:48,298
+- [Missy] We'll move your
+gun so that she doesn't--
+
+821
+00:26:48,298 --> 00:26:49,715
+- Oh it just hit me.
+
+822
+00:26:49,715 --> 00:26:52,029
+(laughter)
+
+823
+00:26:52,029 --> 00:26:53,828
+- [Bryan] Oh Fin's in love.
+
+824
+00:26:53,828 --> 00:26:54,913
+- [Missy] Ollie.
+
+825
+00:26:54,913 --> 00:26:55,746
+- [Bryan] She's so cute.
+
+826
+00:26:55,746 --> 00:26:57,260
+- I wish Tina was here.
+
+827
+00:26:57,260 --> 00:26:59,432
+- [Bryan] Do we really keep her.
+
+828
+00:26:59,432 --> 00:27:01,337
+- Of course, we're keeping her.
+
+829
+00:27:01,337 --> 00:27:02,837
+- Is that her bed?
+
+830
+00:27:04,412 --> 00:27:06,677
+She got a little basket.
+
+831
+00:27:06,677 --> 00:27:08,379
+That's where she can sleep, huh?
+
+832
+00:27:08,379 --> 00:27:10,554
+- [Missy] Ollie, what should we name her?
+
+833
+00:27:10,554 --> 00:27:11,758
+- I don't know.
+
+834
+00:27:11,758 --> 00:27:12,591
+- [Bryan] She's so cute.
+
+835
+00:27:12,591 --> 00:27:13,840
+So what kind of dog is she?
+
+836
+00:27:13,840 --> 00:27:16,193
+- She's definitely an Australian shepherd.
+
+837
+00:27:16,193 --> 00:27:17,379
+She used to lie like Karma.
+
+838
+00:27:17,379 --> 00:27:18,820
+She looks like Karma.
+
+839
+00:27:18,820 --> 00:27:19,653
+- [Bryan] She's so small.
+
+840
+00:27:19,653 --> 00:27:22,399
+She's just a little puppy.
+
+841
+00:27:22,399 --> 00:27:23,910
+Ollie, you wanna play with her?
+
+842
+00:27:23,910 --> 00:27:24,743
+- Yeah.
+
+843
+00:27:24,743 --> 00:27:25,713
+- [Bryan] Play with her.
+
+844
+00:27:25,713 --> 00:27:27,931
+- Go run, go run, go.
+
+845
+00:27:27,931 --> 00:27:31,034
+- [Oliver] Doggie, you
+wanna see my bedroom?
+
+846
+00:27:31,034 --> 00:27:32,123
+- [Bryan] Oh let's go
+show her your bedroom.
+
+847
+00:27:32,123 --> 00:27:33,373
+Go, go, go, go.
+
+848
+00:27:36,283 --> 00:27:38,116
+Show her your bedroom.
+
+849
+00:27:43,597 --> 00:27:44,734
+Look, she likes it.
+
+850
+00:27:44,734 --> 00:27:45,817
+- Look, puppy.
+
+851
+00:27:45,817 --> 00:27:46,650
+- [Missy] Come here, puppy.
+
+852
+00:27:46,650 --> 00:27:49,400
+(Fin crying out)
+
+853
+00:27:52,623 --> 00:27:55,073
+- [Bryan] She's giving him kisses.
+
+854
+00:27:55,073 --> 00:27:57,056
+- [Missy] Come here.
+
+855
+00:27:57,056 --> 00:27:58,139
+- Oh my gosh.
+
+856
+00:27:59,152 --> 00:28:00,319
+She's so cute.
+
+857
+00:28:02,159 --> 00:28:03,326
+This is crazy.
+
+858
+00:28:04,776 --> 00:28:08,221
+I mean I always know we talked
+about getting a second dog.
+
+859
+00:28:08,221 --> 00:28:09,127
+- Yeah, we have a lot of land,
+
+860
+00:28:09,127 --> 00:28:13,855
+and we've really been
+wanting to fill it with dogs.
+
+861
+00:28:13,855 --> 00:28:15,838
+- [Bryan] Ollie, what
+do you think about that?
+
+862
+00:28:15,838 --> 00:28:17,437
+- [Missy] Isn't she cute.
+
+863
+00:28:17,437 --> 00:28:18,270
+- [Oliver] Yeah.
+
+864
+00:28:18,270 --> 00:28:20,318
+- [Missy] Say come on puppy.
+
+865
+00:28:20,318 --> 00:28:21,579
+- [Bryan] Let's go play
+outside with her, Ollie.
+
+866
+00:28:21,579 --> 00:28:22,527
+- Okay.
+
+867
+00:28:22,527 --> 00:28:25,194
+- [Bryan] Come on, come on, Fin.
+
+868
+00:28:26,736 --> 00:28:29,076
+Ah she's getting you.
+
+869
+00:28:29,076 --> 00:28:30,620
+Let's go outside, puppy.
+
+870
+00:28:30,620 --> 00:28:31,627
+(Ollie exclaims)
+
+871
+00:28:31,627 --> 00:28:34,627
+(uptempo pop music)
+
+872
+00:28:38,237 --> 00:28:40,799
+Ollie, your puppy is so cute.
+
+873
+00:28:40,799 --> 00:28:42,132
+- Yeah.
+
+874
+00:28:42,132 --> 00:28:43,684
+- [Bryan] Look at her.
+
+875
+00:28:43,684 --> 00:28:45,678
+Oh she's peeing.
+
+876
+00:28:45,678 --> 00:28:46,511
+Good girl.
+
+877
+00:28:48,090 --> 00:28:50,824
+(giggling)
+
+878
+00:28:50,824 --> 00:28:53,061
+Come here, hi puppy.
+
+879
+00:28:53,061 --> 00:28:53,894
+Hi, puppy.
+
+880
+00:28:53,894 --> 00:28:54,727
+You want a belly scratch.
+
+881
+00:28:54,727 --> 00:28:56,355
+You want a belly scratch.
+
+882
+00:28:56,355 --> 00:28:57,188
+You want a belly scratch.
+
+883
+00:28:57,188 --> 00:28:58,813
+You're so fluffy.
+
+884
+00:28:58,813 --> 00:29:01,434
+You're so fluffy, puppy.
+
+885
+00:29:01,434 --> 00:29:02,351
+Go get him.
+
+886
+00:29:06,490 --> 00:29:08,073
+She's got you, Fin.
+
+887
+00:29:13,662 --> 00:29:15,245
+She's got you, Fin.
+
+888
+00:29:17,931 --> 00:29:18,871
+We don't have a name yet do we?
+
+889
+00:29:18,871 --> 00:29:20,446
+What do you wanna name her, babe?
+
+890
+00:29:20,446 --> 00:29:21,279
+- That's the truck Luna.
+
+891
+00:29:21,279 --> 00:29:22,112
+I thought Lunatic.
+
+892
+00:29:22,112 --> 00:29:23,521
+- [Bryan] Lunatic?
+
+893
+00:29:23,521 --> 00:29:25,403
+- I love the name Luna.
+
+894
+00:29:25,403 --> 00:29:27,134
+- Luna's a cute name.
+
+895
+00:29:27,134 --> 00:29:28,774
+Come here, puppy.
+
+896
+00:29:28,774 --> 00:29:29,941
+She's so cute.
+
+897
+00:29:30,831 --> 00:29:32,141
+- [Missy] Oh you love her.
+
+898
+00:29:32,141 --> 00:29:32,974
+This is our little Luna?
+
+899
+00:29:32,974 --> 00:29:34,505
+- [Missy] Should we name her Luna?
+
+900
+00:29:34,505 --> 00:29:35,621
+- Yeah.
+
+901
+00:29:35,621 --> 00:29:37,662
+- If we call her Luna, we
+can call her Lu-Lu or Lu.
+
+902
+00:29:37,662 --> 00:29:38,495
+- [Missy] Hi, Lu.
+
+903
+00:29:38,495 --> 00:29:40,242
+Do you want to be Lu?
+
+904
+00:29:40,242 --> 00:29:41,178
+- [Jim] I'd stick with Lunatic.
+
+905
+00:29:41,178 --> 00:29:42,543
+(laughing)
+
+906
+00:29:42,543 --> 00:29:44,479
+We're gonna have so much fun!
+
+907
+00:29:44,479 --> 00:29:46,114
+Look at this, Luna.
+
+908
+00:29:46,114 --> 00:29:49,916
+Everything the light touches is yours.
+
+909
+00:29:49,916 --> 00:29:51,107
+- [Missy] And Karma's.
+
+910
+00:29:51,107 --> 00:29:52,176
+- That's right, Karma.
+
+911
+00:29:52,176 --> 00:29:53,429
+You're gonna have to get the sheep.
+
+912
+00:29:53,429 --> 00:29:55,939
+- [Missy] Yeah, she's a sheep dog.
+
+913
+00:29:55,939 --> 00:29:58,939
+(uptempo pop music)
+
+914
+00:30:00,798 --> 00:30:02,130
+- [Bryan] Pop, I think you missed it,
+
+915
+00:30:02,130 --> 00:30:03,563
+but Santa showed up.
+
+916
+00:30:03,563 --> 00:30:04,396
+- What?
+
+917
+00:30:04,396 --> 00:30:05,229
+- [Bryan] Yeah.
+
+918
+00:30:05,229 --> 00:30:07,240
+He just showed up and
+dropped this thing off.
+
+919
+00:30:07,240 --> 00:30:08,326
+- And I walk out and everybody's
+screaming about Santa.
+
+920
+00:30:08,326 --> 00:30:09,714
+I go what did I miss.
+
+921
+00:30:09,714 --> 00:30:10,547
+- [Bryan] Yeah.
+
+922
+00:30:10,547 --> 00:30:11,380
+Santa showed up.
+
+923
+00:30:11,380 --> 00:30:14,178
+I bet we can catch him
+on the security footage.
+
+924
+00:30:14,178 --> 00:30:16,635
+Babe, because we have
+a camera right there.
+
+925
+00:30:16,635 --> 00:30:18,218
+We could see Santa.
+
+926
+00:30:19,099 --> 00:30:20,392
+Leo.
+
+927
+00:30:20,392 --> 00:30:21,613
+Karma, Karma.
+
+928
+00:30:21,613 --> 00:30:24,369
+Merry Christmas, we
+have a new family member
+
+929
+00:30:24,369 --> 00:30:25,917
+and you guys are gonna get along so great.
+
+930
+00:30:25,917 --> 00:30:27,750
+I already know it because
+you've got lots of
+
+931
+00:30:27,750 --> 00:30:29,676
+Australian shepherd in you, huh?
+
+932
+00:30:29,676 --> 00:30:30,843
+See the puppy?
+
+933
+00:30:33,599 --> 00:30:35,072
+Aw.
+
+934
+00:30:35,072 --> 00:30:38,137
+(unclear background speech)
+
+935
+00:30:38,137 --> 00:30:39,896
+So this is Luna.
+
+936
+00:30:39,896 --> 00:30:41,336
+- Luna.
+
+937
+00:30:41,336 --> 00:30:42,669
+Do we like Luna?
+
+938
+00:30:44,176 --> 00:30:45,596
+Should we call her Lu-Lu?
+
+939
+00:30:45,596 --> 00:30:46,493
+- Yeah.
+
+940
+00:30:46,493 --> 00:30:47,372
+- Can you say Lu-Lu?
+
+941
+00:30:47,372 --> 00:30:50,372
+(uptempo pop music)
+
+942
+00:31:00,121 --> 00:31:01,484
+Look how she lays.
+
+943
+00:31:01,484 --> 00:31:03,728
+It looks so cute.
+
+944
+00:31:03,728 --> 00:31:06,061
+- [Bryan] She literally
+just falls out on the grass
+
+945
+00:31:06,061 --> 00:31:07,561
+with all her legs.
+
+946
+00:31:10,523 --> 00:31:12,469
+Oh thank you, Ollie, for
+bringing her breakfast.
+
+947
+00:31:12,469 --> 00:31:15,469
+(uptempo pop music)
+
+948
+00:31:22,673 --> 00:31:24,202
+This is what she showed up in
+
+949
+00:31:24,202 --> 00:31:26,684
+and oh, look at that.
+
+950
+00:31:26,684 --> 00:31:27,517
+My First Christmas.
+
+951
+00:31:27,517 --> 00:31:29,437
+That's her stocking.
+
+952
+00:31:29,437 --> 00:31:31,939
+And look, she's got a pillow.
+
+953
+00:31:31,939 --> 00:31:33,071
+Go give her her pillow.
+
+954
+00:31:33,071 --> 00:31:34,547
+And look at this cute little outfit.
+
+955
+00:31:34,547 --> 00:31:36,091
+- [Cassie] Aw.
+
+956
+00:31:36,091 --> 00:31:37,431
+- [Bryan] That's cute.
+
+957
+00:31:37,431 --> 00:31:39,448
+Let's see what's in her stocking.
+
+958
+00:31:39,448 --> 00:31:41,293
+Maybe she has something
+she can chew on, huh?
+
+959
+00:31:41,293 --> 00:31:42,126
+Because she's a puppy.
+
+960
+00:31:42,126 --> 00:31:43,050
+- Look it's some food.
+
+961
+00:31:43,050 --> 00:31:43,883
+- [Bryan] Some treats.
+
+962
+00:31:43,883 --> 00:31:45,874
+Ollie, look at this.
+
+963
+00:31:45,874 --> 00:31:48,704
+This is a really nice chew toy for her.
+
+964
+00:31:48,704 --> 00:31:50,837
+Looks like there are some cute bows.
+
+965
+00:31:50,837 --> 00:31:52,622
+Go give those to mama.
+
+966
+00:31:52,622 --> 00:31:53,750
+Some more cute bows
+
+967
+00:31:53,750 --> 00:31:57,346
+since she's our little princess now.
+
+968
+00:31:57,346 --> 00:31:58,596
+And a chew toy.
+
+969
+00:32:00,760 --> 00:32:02,565
+Do you want to chew on this?
+
+970
+00:32:02,565 --> 00:32:04,941
+You can chew on this, okay?
+
+971
+00:32:04,941 --> 00:32:07,263
+I have a feeling we're
+gonna lose a lot of shoes.
+
+972
+00:32:07,263 --> 00:32:08,096
+- [Missy] Shoes.
+
+973
+00:32:08,096 --> 00:32:09,410
+They'll be some tears.
+
+974
+00:32:09,410 --> 00:32:10,243
+- Ooh, what are you showing there?
+
+975
+00:32:10,243 --> 00:32:11,157
+- [Ollie] A dinosaur egg.
+
+976
+00:32:11,157 --> 00:32:11,990
+- Oh that's so cool.
+
+977
+00:32:11,990 --> 00:32:13,150
+Did you get that for Christmas?
+
+978
+00:32:13,150 --> 00:32:13,983
+- Yeah.
+
+979
+00:32:13,983 --> 00:32:15,014
+- From who?
+
+980
+00:32:15,014 --> 00:32:16,764
+- From Meme and Papa.
+
+981
+00:32:17,872 --> 00:32:19,089
+- [Bryan] That's fancy.
+
+982
+00:32:19,089 --> 00:32:19,922
+- Yeah.
+
+983
+00:32:19,922 --> 00:32:22,279
+- Do you like dino eggs too, Luna?
+
+984
+00:32:22,279 --> 00:32:24,362
+- [Missy] She loves them.
+
+985
+00:32:25,264 --> 00:32:28,681
+(unintelligible speech )
+
+986
+00:32:31,902 --> 00:32:32,974
+- [Missy] Oh she likes longnecks?
+
+987
+00:32:32,974 --> 00:32:33,807
+- Yeah.
+
+988
+00:32:33,807 --> 00:32:35,022
+- [Missy] Oh that's cool.
+
+989
+00:32:35,022 --> 00:32:35,855
+- Oh look at you.
+
+990
+00:32:35,855 --> 00:32:38,355
+You got a little jacket on.
+
+991
+00:32:38,355 --> 00:32:39,234
+She's got a little jacket on.
+
+992
+00:32:39,234 --> 00:32:40,067
+You see Cody.
+
+993
+00:32:40,067 --> 00:32:41,780
+She's like, I do not like that.
+
+994
+00:32:41,780 --> 00:32:44,174
+Oh, what you got for her?
+
+995
+00:32:44,174 --> 00:32:45,007
+- A candy cane.
+
+996
+00:32:45,007 --> 00:32:47,966
+- [Missy] Oh that looks fun.
+
+997
+00:32:47,966 --> 00:32:49,229
+- And I got a bone.
+
+998
+00:32:49,229 --> 00:32:51,700
+- Oh what's this do?
+
+999
+00:32:51,700 --> 00:32:54,313
+(toy squeaks)
+
+1000
+00:32:54,313 --> 00:32:55,941
+- [Missy] She is not interested.
+
+1001
+00:32:55,941 --> 00:32:58,016
+- And look what I got.
+
+1002
+00:32:58,016 --> 00:32:58,933
+- A cookie.
+
+1003
+00:33:00,499 --> 00:33:02,326
+- [Oliver] And we got another cookie.
+
+1004
+00:33:02,326 --> 00:33:03,806
+- Another cookie.
+
+1005
+00:33:03,806 --> 00:33:04,639
+- [Missy] Karma, can you share
+
+1006
+00:33:04,639 --> 00:33:06,841
+because I think those are yours?
+
+1007
+00:33:06,841 --> 00:33:10,341
+Are you willing to share with the new pup?
+
+1008
+00:33:13,190 --> 00:33:14,023
+- [Missy] Karma's like excuse me,
+
+1009
+00:33:14,023 --> 00:33:16,755
+these actually are mine.
+
+1010
+00:33:16,755 --> 00:33:18,284
+Not sharing right now.
+
+1011
+00:33:18,284 --> 00:33:20,464
+- [Bryan] Alright, we
+are bonding with Luna
+
+1012
+00:33:20,464 --> 00:33:21,702
+on the trampoline.
+
+1013
+00:33:21,702 --> 00:33:23,560
+She's already got her candy cane, Ollie.
+
+1014
+00:33:23,560 --> 00:33:25,294
+- This is my new trampoline.
+
+1015
+00:33:25,294 --> 00:33:27,498
+- [Bryan] I know, it's so cool, huh?
+
+1016
+00:33:27,498 --> 00:33:31,459
+- (unclear speech) And
+I got a big trampoline.
+
+1017
+00:33:31,459 --> 00:33:32,292
+No, no.
+
+1018
+00:33:32,292 --> 00:33:33,125
+- [ Bryan] No, no.
+
+1019
+00:33:33,125 --> 00:33:33,958
+She's okay.
+
+1020
+00:33:33,958 --> 00:33:34,973
+She's got a candy cane, buddy.
+
+1021
+00:33:34,973 --> 00:33:36,286
+- [Missy] Whoa.
+
+1022
+00:33:36,286 --> 00:33:37,119
+She's fine.
+
+1023
+00:33:37,119 --> 00:33:38,577
+Grab her bone.
+
+1024
+00:33:38,577 --> 00:33:40,312
+(Fin screams)
+
+1025
+00:33:40,312 --> 00:33:42,612
+- [Bryan] She's so cute and fluffy.
+
+1026
+00:33:42,612 --> 00:33:44,181
+Hi, hi Luna.
+
+1027
+00:33:44,181 --> 00:33:45,014
+Hi, Luna.
+
+1028
+00:33:46,590 --> 00:33:48,999
+Luna, you want your candy cane?
+
+1029
+00:33:48,999 --> 00:33:50,596
+- [Missy] There you go.
+
+1030
+00:33:50,596 --> 00:33:51,429
+Good girl.
+
+1031
+00:33:52,683 --> 00:33:55,100
+- [Oliver] I ate candy canes.
+
+1032
+00:33:58,423 --> 00:33:59,427
+(Bryan coos)
+
+1033
+00:33:59,427 --> 00:34:00,260
+- [Bryan] You want the ball?
+
+1034
+00:34:00,260 --> 00:34:01,439
+Go get it.
+
+1035
+00:34:01,439 --> 00:34:03,439
+You want the candy cane?
+
+1036
+00:34:04,938 --> 00:34:08,355
+(Bryan growls playfully)
+
+1037
+00:34:09,860 --> 00:34:12,110
+(laughter)
+
+1038
+00:34:12,993 --> 00:34:15,514
+Don't chew on me, huh?
+
+1039
+00:34:15,514 --> 00:34:16,759
+- She's crying.
+
+1040
+00:34:16,760 --> 00:34:18,438
+- She just likes to whine.
+
+1041
+00:34:18,438 --> 00:34:19,830
+She's a whiner.
+
+1042
+00:34:19,831 --> 00:34:22,014
+I bet she just wants to kiss you.
+
+1043
+00:34:22,014 --> 00:34:24,155
+- [Bryan] Climb in the dune racer.
+
+1044
+00:34:24,155 --> 00:34:26,335
+- Fin wants to ride so you just...
+
+1045
+00:34:26,335 --> 00:34:27,514
+Can she ride with you.
+
+1046
+00:34:27,514 --> 00:34:28,347
+- M hm.
+
+1047
+00:34:28,348 --> 00:34:29,697
+- [Bryan] Okay push the pedal.
+
+1048
+00:34:29,697 --> 00:34:31,557
+- [Missy] Push the pedal, go.
+
+1049
+00:34:31,558 --> 00:34:33,632
+- [Bryan] You gotta steer though.
+
+1050
+00:34:33,632 --> 00:34:34,465
+Oh.
+
+1051
+00:34:35,320 --> 00:34:36,306
+I think we're gonna need to get
+
+1052
+00:34:36,306 --> 00:34:39,120
+Ollie some driving lessons.
+
+1053
+00:34:39,120 --> 00:34:39,973
+Right, Ollie.
+
+1054
+00:34:39,973 --> 00:34:41,639
+- [Oliver] Yeah.
+
+1055
+00:34:41,639 --> 00:34:43,393
+- Yeah, you gotta drive with both hands.
+
+1056
+00:34:43,393 --> 00:34:44,226
+He's like, I can do it.
+
+1057
+00:34:44,226 --> 00:34:45,268
+What's that?
+
+1058
+00:34:45,268 --> 00:34:46,101
+Oh, a big ol' fox.
+
+1059
+00:34:46,101 --> 00:34:47,402
+(toy squeaks)
+
+1060
+00:34:47,402 --> 00:34:48,235
+Hi, Koda.
+
+1061
+00:34:50,335 --> 00:34:51,551
+Hi, Karma.
+
+1062
+00:34:51,552 --> 00:34:53,427
+Yeah, all the dogs going to play.
+
+1063
+00:34:53,427 --> 00:34:55,454
+What do you think of Luna, Fin?
+
+1064
+00:34:55,454 --> 00:34:56,619
+Think she's pretty cool?
+
+1065
+00:34:56,619 --> 00:34:57,994
+Fin had a very good Christmas.
+
+1066
+00:34:57,994 --> 00:34:58,935
+Let me tell you.
+
+1067
+00:34:58,935 --> 00:34:59,768
+Everyone had,
+
+1068
+00:34:59,768 --> 00:35:01,531
+we had such a good
+Christmas morning, you guys.
+
+1069
+00:35:01,531 --> 00:35:02,364
+(Fin exclaiming)
+
+1070
+00:35:02,364 --> 00:35:03,197
+Yeah.
+
+1071
+00:35:05,188 --> 00:35:07,885
+Now it's time to just
+play with all our fun toys
+
+1072
+00:35:07,885 --> 00:35:10,720
+and enjoy family and bond
+with our new family member.
+
+1073
+00:35:10,720 --> 00:35:12,272
+We have a new family member now.
+
+1074
+00:35:12,272 --> 00:35:15,878
+Fin, that's our new family member.
+
+1075
+00:35:15,878 --> 00:35:16,711
+(Fin exclaims)
+
+1076
+00:35:16,711 --> 00:35:17,544
+Yeah.
+
+1077
+00:35:19,669 --> 00:35:21,457
+(car revs)
+
+1078
+00:35:21,457 --> 00:35:22,601
+Oh, careful.
+
+1079
+00:35:22,601 --> 00:35:25,066
+I gotta say, out of all this
+
+1080
+00:35:25,066 --> 00:35:27,120
+amazing delicious Christmas candy we got,
+
+1081
+00:35:27,120 --> 00:35:29,282
+I still love Crabbie Patties.
+
+1082
+00:35:29,282 --> 00:35:31,115
+Gummy Crabbie Patties.
+
+1083
+00:35:31,115 --> 00:35:31,948
+And look at this one.
+
+1084
+00:35:31,948 --> 00:35:32,781
+It's a monster-sized one.
+
+1085
+00:35:32,781 --> 00:35:34,109
+What are we doing over here?
+
+1086
+00:35:34,109 --> 00:35:35,285
+We got a game?
+
+1087
+00:35:35,285 --> 00:35:36,315
+So Fin's favorite thing to do
+
+1088
+00:35:36,315 --> 00:35:39,621
+is take things and put things into stuff.
+
+1089
+00:35:39,621 --> 00:35:41,530
+- Which is why he likes
+the basketball net.
+
+1090
+00:35:41,530 --> 00:35:43,769
+- It's like you put the ball in,
+
+1091
+00:35:43,769 --> 00:35:44,749
+and then it shoots it out,
+
+1092
+00:35:44,749 --> 00:35:46,072
+so he'll go get it and put it in.
+
+1093
+00:35:46,072 --> 00:35:47,362
+- [Bryan] Oh that's awesome.
+
+1094
+00:35:47,362 --> 00:35:48,752
+We'll have a baby game of fetch.
+
+1095
+00:35:48,752 --> 00:35:50,819
+- Yep, pretty much.
+
+1096
+00:35:50,819 --> 00:35:51,652
+- [Bryan] What are you eating?
+
+1097
+00:35:51,652 --> 00:35:52,485
+- This.
+
+1098
+00:35:52,485 --> 00:35:53,318
+- [Bryan] Oh put it in your mouth.
+
+1099
+00:35:53,318 --> 00:35:55,600
+It'll give you a funny nose.
+
+1100
+00:35:55,600 --> 00:35:56,836
+And then leave it.
+
+1101
+00:35:56,836 --> 00:35:58,086
+Move your hand.
+
+1102
+00:35:59,618 --> 00:36:02,166
+Look it, you're like a reindeer.
+
+1103
+00:36:02,166 --> 00:36:03,466
+You want a piece of gummy?
+
+1104
+00:36:03,466 --> 00:36:05,708
+Yeah you can have the lettuce.
+
+1105
+00:36:05,708 --> 00:36:07,755
+And Luna's honestly just
+entertaining herself outside.
+
+1106
+00:36:07,755 --> 00:36:08,588
+It's the cutest thing.
+
+1107
+00:36:08,588 --> 00:36:09,516
+She's playing with that little fox thing.
+
+1108
+00:36:09,516 --> 00:36:10,782
+Oh hi, Koda.
+
+1109
+00:36:10,782 --> 00:36:12,183
+She didn't like that one shirt we got
+
+1110
+00:36:12,183 --> 00:36:14,223
+but I think she might
+like this one because
+
+1111
+00:36:14,223 --> 00:36:15,890
+it's super thin.
+
+1112
+00:36:15,890 --> 00:36:19,176
+We happened to order a small dog one
+
+1113
+00:36:19,176 --> 00:36:22,116
+that matches all of our pajamas.
+
+1114
+00:36:22,116 --> 00:36:24,094
+So let's go see if she likes it.
+
+1115
+00:36:24,094 --> 00:36:25,382
+Alright, Luna.
+
+1116
+00:36:25,382 --> 00:36:26,763
+Let's put this shirt on you.
+
+1117
+00:36:26,763 --> 00:36:29,432
+Let's see what you think.
+
+1118
+00:36:29,432 --> 00:36:31,160
+Aw, look at that.
+
+1119
+00:36:31,160 --> 00:36:32,435
+Oh that's your back leg.
+
+1120
+00:36:32,435 --> 00:36:34,498
+(murmuring)
+
+1121
+00:36:34,498 --> 00:36:37,817
+Spoiler alert, she looks adorable.
+
+1122
+00:36:37,817 --> 00:36:39,346
+Look at her little shirt.
+
+1123
+00:36:39,346 --> 00:36:40,919
+And it's got the same little reindeer
+
+1124
+00:36:40,919 --> 00:36:43,012
+on the back like the doggies do.
+
+1125
+00:36:43,012 --> 00:36:44,133
+And it makes her look fluffier.
+
+1126
+00:36:44,133 --> 00:36:45,780
+She's so fluffy.
+
+1127
+00:36:45,780 --> 00:36:47,167
+Okay, wanna run around?
+
+1128
+00:36:47,167 --> 00:36:49,045
+Can she walk in it?
+
+1129
+00:36:49,045 --> 00:36:52,511
+(giggles) She's good.
+
+1130
+00:36:52,511 --> 00:36:53,588
+Oh she hates it.
+
+1131
+00:36:53,588 --> 00:36:55,258
+(laughing)
+
+1132
+00:36:55,258 --> 00:36:57,341
+Yeah, I have a feeling she
+doesn't like being dressed.
+
+1133
+00:36:57,341 --> 00:36:58,704
+You see I like to dress our puppies.
+
+1134
+00:36:58,704 --> 00:37:01,027
+Karma was wearing a Christmas mock sweater
+
+1135
+00:37:01,027 --> 00:37:02,779
+for most of the season, huh?
+
+1136
+00:37:02,779 --> 00:37:03,612
+What do you think?
+
+1137
+00:37:03,612 --> 00:37:04,637
+Oh she's getting used to it.
+
+1138
+00:37:04,637 --> 00:37:07,795
+Look at all these doggies matching.
+
+1139
+00:37:07,795 --> 00:37:09,045
+That's so cute.
+
+1140
+00:37:10,253 --> 00:37:11,807
+Alright we got this thing all set up.
+
+1141
+00:37:11,807 --> 00:37:15,307
+Look at them bouncing around there, Finny.
+
+1142
+00:37:18,613 --> 00:37:19,446
+Four?
+
+1143
+00:37:19,446 --> 00:37:21,300
+What do the number do?
+
+1144
+00:37:21,300 --> 00:37:24,300
+Oh look at them go, look at them go.
+
+1145
+00:37:26,482 --> 00:37:28,232
+Okay, put it back in.
+
+1146
+00:37:29,072 --> 00:37:31,642
+Fin's like, just stay in there.
+
+1147
+00:37:31,642 --> 00:37:34,975
+(uptempo playful music)
+
+1148
+00:37:41,761 --> 00:37:43,870
+Okay, I'm wearing the ears, you guys.
+
+1149
+00:37:43,870 --> 00:37:46,683
+And I think I am focused or relaxing
+
+1150
+00:37:46,683 --> 00:37:48,716
+on something right now.
+
+1151
+00:37:48,716 --> 00:37:50,428
+At least that's what it tells me.
+
+1152
+00:37:50,428 --> 00:37:51,980
+Everyone's kind of napping right now,
+
+1153
+00:37:51,980 --> 00:37:53,859
+because we had a crazy Christmas morning.
+
+1154
+00:37:53,859 --> 00:37:57,272
+And I think Missy's
+sleeping with the puppy.
+
+1155
+00:37:57,272 --> 00:37:58,855
+I look like a fool.
+
+1156
+00:38:00,580 --> 00:38:03,413
+(soft piano jazz)
+
+1157
+00:38:16,758 --> 00:38:18,344
+Okay, these are officially
+the weirdest thing ever.
+
+1158
+00:38:18,344 --> 00:38:19,177
+Yeah, that's super cute.
+
+1159
+00:38:19,177 --> 00:38:22,758
+Missy's sleeping with the puppy right now.
+
+1160
+00:38:22,758 --> 00:38:25,675
+(soft piano music)
+
+1161
+00:38:31,413 --> 00:38:32,246
+Luna.
+
+1162
+00:38:33,983 --> 00:38:34,816
+Oh, she's going pee pee.
+
+1163
+00:38:34,816 --> 00:38:36,455
+Good girl.
+
+1164
+00:38:36,455 --> 00:38:37,288
+Good girl.
+
+1165
+00:38:38,449 --> 00:38:40,584
+You went to pee outside.
+
+1166
+00:38:40,584 --> 00:38:41,680
+Throw the ball for the doggies, Ollie.
+
+1167
+00:38:41,680 --> 00:38:43,148
+(unintelligible speech)
+
+1168
+00:38:43,148 --> 00:38:44,363
+Okay.
+
+1169
+00:38:44,363 --> 00:38:47,794
+Luna's like, I'm just waiting
+to see what happens next.
+
+1170
+00:38:47,794 --> 00:38:49,481
+Hi, baby girl.
+
+1171
+00:38:49,481 --> 00:38:50,314
+Time to go.
+
+1172
+00:38:50,314 --> 00:38:51,147
+Alright.
+
+1173
+00:38:54,626 --> 00:38:56,249
+Everyone is awake from the naps.
+
+1174
+00:38:56,249 --> 00:38:57,380
+Starting to get ready for the day
+
+1175
+00:38:57,380 --> 00:38:59,454
+although it's like one or two o'clock.
+
+1176
+00:38:59,454 --> 00:39:00,468
+We were up until 3:30.
+
+1177
+00:39:00,468 --> 00:39:02,390
+We were waiting for Santa.
+
+1178
+00:39:02,390 --> 00:39:03,223
+We weren't setting anything up
+
+1179
+00:39:03,223 --> 00:39:04,056
+or putting presents under because
+
+1180
+00:39:04,056 --> 00:39:05,254
+that's what Santa does.
+
+1181
+00:39:05,254 --> 00:39:06,252
+But we were waiting for him.
+
+1182
+00:39:06,252 --> 00:39:08,554
+We fell asleep at like
+3:30 waiting for him.
+
+1183
+00:39:08,554 --> 00:39:09,387
+So we never found him.
+
+1184
+00:39:09,387 --> 00:39:10,502
+So we were up late.
+
+1185
+00:39:10,502 --> 00:39:12,574
+- I like my new puppy dog.
+
+1186
+00:39:12,574 --> 00:39:13,634
+- [Bryan] She's cute, huh?
+
+1187
+00:39:13,634 --> 00:39:14,483
+- Yeah.
+
+1188
+00:39:14,483 --> 00:39:15,316
+- [Bryan] You having lots of fun with her.
+
+1189
+00:39:15,316 --> 00:39:16,447
+- Where's my puppy dog?
+
+1190
+00:39:16,447 --> 00:39:17,494
+- She's right there.
+
+1191
+00:39:17,494 --> 00:39:18,327
+- [Oliver] She's right there?
+
+1192
+00:39:18,327 --> 00:39:19,160
+- [Bryan] Go get her.
+
+1193
+00:39:19,160 --> 00:39:19,993
+- Okay.
+
+1194
+00:39:22,797 --> 00:39:23,945
+- [Bryan] Say hi, Luna.
+
+1195
+00:39:23,945 --> 00:39:25,612
+- [Oliver] Hi, Luna.
+
+1196
+00:39:27,805 --> 00:39:28,888
+She likes me.
+
+1197
+00:39:30,318 --> 00:39:31,574
+Do not bite me.
+
+1198
+00:39:31,574 --> 00:39:33,530
+- [Bryan] Don't let her bite you, okay?
+
+1199
+00:39:33,530 --> 00:39:35,537
+Luna, look what I have.
+
+1200
+00:39:35,537 --> 00:39:36,692
+Look what I have, look what I have.
+
+1201
+00:39:36,692 --> 00:39:38,240
+Look what I have, look what I have.
+
+1202
+00:39:38,240 --> 00:39:39,073
+Go get it!
+
+1203
+00:39:40,967 --> 00:39:44,217
+(soft Christmas music)
+
+1204
+00:39:56,525 --> 00:39:59,392
+- Look at my Toy Story shoes.
+
+1205
+00:39:59,392 --> 00:40:04,241
+- Ah, one thing we got the
+boys was Toy Story Vans.
+
+1206
+00:40:04,241 --> 00:40:07,043
+And we got all three
+styles for both of them.
+
+1207
+00:40:07,043 --> 00:40:07,876
+And I'm so excited.
+
+1208
+00:40:07,876 --> 00:40:10,262
+We didn't even wrap them
+because I mean, they're shoes.
+
+1209
+00:40:10,262 --> 00:40:11,645
+Let's be honest.
+
+1210
+00:40:11,645 --> 00:40:15,336
+So we wanted some shoes that
+he could slip into easily.
+
+1211
+00:40:15,336 --> 00:40:16,222
+Is it these ones?
+
+1212
+00:40:16,222 --> 00:40:17,310
+Oh yeah, I think it's these ones, look!
+
+1213
+00:40:17,310 --> 00:40:18,994
+- I like these.
+
+1214
+00:40:18,994 --> 00:40:20,153
+(baby murmurs)
+
+1215
+00:40:20,153 --> 00:40:21,724
+- [Bryan] And then look
+on the bottom, Ollie.
+
+1216
+00:40:21,724 --> 00:40:22,741
+It says Andy.
+
+1217
+00:40:22,741 --> 00:40:23,752
+- Andy.
+
+1218
+00:40:23,752 --> 00:40:24,960
+- [Bryan] Yeah.
+
+1219
+00:40:24,960 --> 00:40:25,793
+(unclear remark from Missy)
+
+1220
+00:40:25,793 --> 00:40:27,655
+That's so freaking cute.
+
+1221
+00:40:27,655 --> 00:40:29,180
+Okay, let's put these shoes on, okay?
+
+1222
+00:40:29,180 --> 00:40:30,041
+Do you like 'em?
+
+1223
+00:40:30,041 --> 00:40:30,874
+- [Oliver] Yes.
+
+1224
+00:40:30,874 --> 00:40:31,707
+- Guess what, Ollie?
+
+1225
+00:40:31,707 --> 00:40:32,540
+- [Oliver] What?
+
+1226
+00:40:32,540 --> 00:40:33,373
+- [Bryan] They glow in the dark.
+
+1227
+00:40:33,373 --> 00:40:34,783
+- They glow in the dark?
+
+1228
+00:40:34,783 --> 00:40:36,699
+- [Bryan] Yeah.
+
+1229
+00:40:36,699 --> 00:40:37,896
+Pretty cool, huh?
+
+1230
+00:40:37,896 --> 00:40:39,808
+- Let me just go outside.
+
+1231
+00:40:39,808 --> 00:40:40,775
+- [Bryan] Okay.
+
+1232
+00:40:40,775 --> 00:40:41,608
+Aw, boy!
+
+1233
+00:40:42,725 --> 00:40:43,558
+Do you see his shoes?
+
+1234
+00:40:43,558 --> 00:40:44,649
+- Oh my God, they're cute.
+
+1235
+00:40:44,649 --> 00:40:45,482
+- [Bryan] They're Buzz Lightyear slip-ons
+
+1236
+00:40:45,482 --> 00:40:46,529
+and look at it.
+
+1237
+00:40:46,529 --> 00:40:47,594
+- Oh, Andy.
+
+1238
+00:40:47,594 --> 00:40:49,795
+(Bryan giggles)
+
+1239
+00:40:49,795 --> 00:40:51,570
+- [Bryan] It's awesome.
+
+1240
+00:40:51,570 --> 00:40:54,015
+What do you think about those fin?
+
+1241
+00:40:54,015 --> 00:40:56,182
+Fin's got a matching pair.
+
+1242
+00:40:57,072 --> 00:40:57,905
+Let's put them on.
+
+1243
+00:40:57,905 --> 00:41:00,205
+They also say Andy on them.
+
+1244
+00:41:00,205 --> 00:41:02,148
+- He likes me.
+
+1245
+00:41:02,148 --> 00:41:04,563
+- [Bryan] Ollie, look
+at your brother's shoes.
+
+1246
+00:41:04,563 --> 00:41:05,396
+- Whoa.
+
+1247
+00:41:05,396 --> 00:41:06,464
+- [Bryan] They match yours.
+
+1248
+00:41:06,464 --> 00:41:07,547
+- Buzz Lightyear.
+
+1249
+00:41:07,547 --> 00:41:09,044
+- [Bryan] Yeah, isn't that cool?
+
+1250
+00:41:09,044 --> 00:41:12,044
+(soft guitar music)
+
+1251
+00:41:17,732 --> 00:41:20,271
+Alright, we are teaching
+Luna all about our backyard.
+
+1252
+00:41:20,271 --> 00:41:21,229
+Right, Ollie?
+
+1253
+00:41:21,229 --> 00:41:22,062
+- Yeah.
+
+1254
+00:41:22,062 --> 00:41:23,585
+- [Bryan] We've got to show her all around
+
+1255
+00:41:23,585 --> 00:41:25,137
+so that she knows where everything is.
+
+1256
+00:41:25,137 --> 00:41:27,506
+So Luna, these are our rocks.
+
+1257
+00:41:27,506 --> 00:41:29,171
+Be careful though.
+
+1258
+00:41:29,171 --> 00:41:30,506
+You've got to be careful.
+
+1259
+00:41:30,506 --> 00:41:31,579
+- [Missy] Luna, where are you going?
+
+1260
+00:41:31,579 --> 00:41:32,776
+- She is exploring already.
+
+1261
+00:41:32,776 --> 00:41:34,408
+Where is she?
+
+1262
+00:41:34,408 --> 00:41:37,105
+Oh she already went to the other side.
+
+1263
+00:41:37,105 --> 00:41:40,766
+And she's gone (giggles).
+
+1264
+00:41:40,766 --> 00:41:43,766
+(soft guitar music)
+
+1265
+00:42:06,371 --> 00:42:07,483
+What did you do, Ollie?
+
+1266
+00:42:07,483 --> 00:42:08,698
+You opened your dinosaur egg already?
+
+1267
+00:42:08,698 --> 00:42:09,531
+- Yeah.
+
+1268
+00:42:09,531 --> 00:42:10,575
+- [Bryan] What you got?
+
+1269
+00:42:10,575 --> 00:42:11,408
+- I don't know.
+
+1270
+00:42:11,408 --> 00:42:13,467
+- [Bryan] Oh I think I know what it is.
+
+1271
+00:42:13,467 --> 00:42:14,662
+I think it's a stegosaurus.
+
+1272
+00:42:14,662 --> 00:42:15,813
+- Okay.
+
+1273
+00:42:15,813 --> 00:42:17,021
+- [Bryan] What do you think it is?
+
+1274
+00:42:17,021 --> 00:42:18,377
+- I don't know.
+
+1275
+00:42:18,377 --> 00:42:19,210
+Look it.
+
+1276
+00:42:19,210 --> 00:42:20,043
+- [Bryan] What is it?
+
+1277
+00:42:20,043 --> 00:42:20,876
+- I don't know.
+
+1278
+00:42:20,876 --> 00:42:21,993
+Let me show you.
+
+1279
+00:42:21,993 --> 00:42:23,777
+It's a (murmuring).
+
+1280
+00:42:23,777 --> 00:42:26,777
+(soft guitar music)
+
+1281
+00:42:27,941 --> 00:42:32,108
+(Missy imitates the
+Lion King theme lyrics)
+
+1282
+00:42:34,749 --> 00:42:37,484
+- [Bryan] Alright, Luna,
+go meet the chickens.
+
+1283
+00:42:37,484 --> 00:42:38,905
+- [Missy] Come here.
+
+1284
+00:42:38,905 --> 00:42:39,984
+- [Bryan] Oh (giggles).
+
+1285
+00:42:39,984 --> 00:42:42,151
+- Marie, you like doggies.
+
+1286
+00:42:43,175 --> 00:42:44,431
+Where you been.
+
+1287
+00:42:44,431 --> 00:42:45,372
+- [Bryan] Well, Luna
+doesn't have a problem
+
+1288
+00:42:45,372 --> 00:42:46,205
+with the chickens,
+
+1289
+00:42:46,205 --> 00:42:47,038
+but the chickens have a problem with her.
+
+1290
+00:42:47,038 --> 00:42:47,871
+Really.
+
+1291
+00:42:48,734 --> 00:42:49,567
+Don't worry, Luna.
+
+1292
+00:42:49,567 --> 00:42:50,945
+In time, the chickens will love you.
+
+1293
+00:42:50,945 --> 00:42:52,038
+- They love, don't worry.
+
+1294
+00:42:52,038 --> 00:42:53,246
+They love Karma.
+
+1295
+00:42:53,246 --> 00:42:55,516
+They know Karma helps protect them.
+
+1296
+00:42:55,516 --> 00:42:58,309
+(Ollie speaking unintelligibly)
+
+1297
+00:42:58,309 --> 00:42:59,981
+- [Bryan] Oh yeah.
+
+1298
+00:42:59,981 --> 00:43:00,814
+Prime rib.
+
+1299
+00:43:01,722 --> 00:43:02,555
+Oh yeah.
+
+1300
+00:43:03,565 --> 00:43:04,551
+Oh yeah.
+
+1301
+00:43:04,551 --> 00:43:05,522
+- It looks delicious.
+
+1302
+00:43:05,522 --> 00:43:07,234
+- [Bryan] We are sitting
+down ready for dinner.
+
+1303
+00:43:07,234 --> 00:43:09,093
+We are eating at this big table.
+
+1304
+00:43:09,093 --> 00:43:10,989
+Second time we've eaten at this table.
+
+1305
+00:43:10,989 --> 00:43:12,417
+Yeah we ate at this
+table for Christmas eve,
+
+1306
+00:43:12,417 --> 00:43:14,191
+and now we have it all
+setup for Christmas.
+
+1307
+00:43:14,191 --> 00:43:15,056
+(Ollie exclaims)
+
+1308
+00:43:15,056 --> 00:43:15,889
+Yeah, Ollie.
+
+1309
+00:43:15,889 --> 00:43:18,546
+You're even eating on the fancy plates.
+
+1310
+00:43:18,546 --> 00:43:19,617
+You got your mac and
+cheese and your banana.
+
+1311
+00:43:19,617 --> 00:43:20,617
+What's that?
+
+1312
+00:43:21,756 --> 00:43:22,589
+- A napkin.
+
+1313
+00:43:22,589 --> 00:43:23,770
+- [Bryan] You got your napkin, huh?
+
+1314
+00:43:23,770 --> 00:43:26,093
+(Ollie speaks unintelligibly)
+
+1315
+00:43:26,093 --> 00:43:28,073
+- [Bryan] It's got a little napkin holder.
+
+1316
+00:43:28,073 --> 00:43:28,906
+- Really?
+
+1317
+00:43:28,906 --> 00:43:29,739
+- Yeah.
+
+1318
+00:43:29,739 --> 00:43:32,006
+Alright you guys, Fin has gone to bed
+
+1319
+00:43:32,006 --> 00:43:34,025
+and we are now putting Ollie to bed
+
+1320
+00:43:34,025 --> 00:43:38,661
+and putting our amazing
+Christmas day to rest.
+
+1321
+00:43:38,661 --> 00:43:40,143
+Luna's just watching us,
+
+1322
+00:43:40,143 --> 00:43:43,066
+like, oh, this is where Ollie sleeps?
+
+1323
+00:43:43,066 --> 00:43:44,594
+(giggling)
+
+1324
+00:43:44,594 --> 00:43:47,548
+She's been such a good puppy, you guys.
+
+1325
+00:43:47,548 --> 00:43:49,153
+Her and Ollie kinda got
+off to a rough start.
+
+1326
+00:43:49,153 --> 00:43:50,995
+She was a little more rough, I think,
+
+1327
+00:43:50,995 --> 00:43:52,039
+than Ollie was anticipating.
+
+1328
+00:43:52,039 --> 00:43:55,097
+But I think, once Ollie got like,
+
+1329
+00:43:55,097 --> 00:43:57,285
+energy and confidence,
+he was having so much
+
+1330
+00:43:57,285 --> 00:43:58,347
+fun with her.
+
+1331
+00:43:58,347 --> 00:44:00,243
+- I think when she
+realized that she really...
+
+1332
+00:44:00,243 --> 00:44:01,638
+It is hard when she's a puppy.
+
+1333
+00:44:01,638 --> 00:44:02,831
+She has sharp teeth.
+
+1334
+00:44:02,831 --> 00:44:03,962
+But when she realized he wasn't...
+
+1335
+00:44:03,962 --> 00:44:06,245
+She's not being mean or anything.
+
+1336
+00:44:06,245 --> 00:44:07,078
+Then, he was like okay.
+
+1337
+00:44:07,078 --> 00:44:09,367
+I mean they ran around the
+yard all day, those two.
+
+1338
+00:44:09,367 --> 00:44:11,573
+- Yeah, we've honestly
+just been playing with her.
+
+1339
+00:44:11,573 --> 00:44:14,951
+She hasn't had an accident
+once in the house.
+
+1340
+00:44:14,951 --> 00:44:18,056
+We've been taking her out
+every two hours, I think,
+
+1341
+00:44:18,056 --> 00:44:18,889
+to potty.
+
+1342
+00:44:18,889 --> 00:44:20,238
+And anytime after she wakes up.
+
+1343
+00:44:20,238 --> 00:44:22,655
+We're also giving her
+lots of toys to chew on.
+
+1344
+00:44:22,655 --> 00:44:25,518
+We're not letting play
+with our hands as toys.
+
+1345
+00:44:25,518 --> 00:44:28,298
+She's been so cuddly and just playful,
+
+1346
+00:44:28,298 --> 00:44:29,131
+all day, honestly.
+
+1347
+00:44:29,131 --> 00:44:32,130
+I don't think we could ask
+for a much better puppy.
+
+1348
+00:44:32,130 --> 00:44:33,516
+- If she stays like this.
+
+1349
+00:44:33,516 --> 00:44:34,863
+- [Bryan] I know (giggles).
+
+1350
+00:44:34,863 --> 00:44:36,902
+No, it's not going to be easy.
+
+1351
+00:44:36,902 --> 00:44:37,776
+Puppies are not easy.
+
+1352
+00:44:37,776 --> 00:44:38,609
+But it's going to be fun.
+
+1353
+00:44:38,609 --> 00:44:40,996
+- The puppy breath is
+strong with this one.
+
+1354
+00:44:40,996 --> 00:44:42,633
+(laughter)
+
+1355
+00:44:42,633 --> 00:44:43,466
+- [Bryan] Alright, Ollie.
+
+1356
+00:44:43,466 --> 00:44:44,765
+Let's hope in bed buddy.
+
+1357
+00:44:44,765 --> 00:44:45,598
+- Okay.
+
+1358
+00:44:45,598 --> 00:44:47,694
+I like my new puppy.
+
+1359
+00:44:47,694 --> 00:44:48,802
+- [Bryan] Do you?
+
+1360
+00:44:48,802 --> 00:44:49,729
+- [Oliver] Yeah.
+
+1361
+00:44:49,729 --> 00:44:50,963
+- Look at her.
+
+1362
+00:44:50,963 --> 00:44:51,796
+- [Bryan] Well climb in the bed.
+
+1363
+00:44:51,796 --> 00:44:52,629
+She'll cuddle with you.
+
+1364
+00:44:52,629 --> 00:44:54,002
+- [Missy] She can sleep with you.
+
+1365
+00:44:54,002 --> 00:44:55,957
+- [Bryan] Yeah once
+she's all toilet trained,
+
+1366
+00:44:55,957 --> 00:44:56,790
+or potty trained.
+
+1367
+00:44:56,790 --> 00:45:00,290
+That would be cool if she used the toilet.
+
+1368
+00:45:01,362 --> 00:45:02,326
+- [ Missy] Don't get her riled up.
+
+1369
+00:45:02,326 --> 00:45:05,184
+- [Bryan] Say night, night puppy.
+
+1370
+00:45:05,184 --> 00:45:06,212
+Can you give her a hug.
+
+1371
+00:45:06,212 --> 00:45:07,045
+- Yeah.
+
+1372
+00:45:07,045 --> 00:45:09,262
+- [Bryan] Give her a hug, Ollie.
+
+1373
+00:45:09,262 --> 00:45:10,559
+(cooing)
+
+1374
+00:45:10,559 --> 00:45:11,855
+Say, night night, puppy.
+
+1375
+00:45:11,855 --> 00:45:12,688
+- [Missy] Just be calm.
+
+1376
+00:45:12,688 --> 00:45:13,892
+Because it's night time.
+
+1377
+00:45:13,892 --> 00:45:16,015
+(Bryan giggles)
+
+1378
+00:45:16,015 --> 00:45:17,844
+- Goodnight, night, puppy.
+
+1379
+00:45:17,844 --> 00:45:19,156
+Well, you guys, I hope you really enjoyed
+
+1380
+00:45:19,156 --> 00:45:22,444
+the Daily Bumps 2016 Christmas special.
+
+1381
+00:45:22,444 --> 00:45:23,479
+We had a blast
+
+1382
+00:45:23,479 --> 00:45:26,072
+and I hope you guys had an
+amazing Christmas as well.
+
+1383
+00:45:26,072 --> 00:45:27,223
+Thank you for watching.
+
+1384
+00:45:27,223 --> 00:45:28,083
+Check all those links out down below,
+
+1385
+00:45:28,083 --> 00:45:28,916
+in the description.
+
+1386
+00:45:28,916 --> 00:45:30,158
+Give the vlog a thumbs up.
+
+1387
+00:45:30,158 --> 00:45:30,991
+Thumbs up.
+
+1388
+00:45:30,991 --> 00:45:32,415
+Or a paws up.
+
+1389
+00:45:32,415 --> 00:45:33,248
+Right, Luna?
+
+1390
+00:45:33,248 --> 00:45:34,081
+Thank you guys for watching
+
+1391
+00:45:34,081 --> 00:45:35,269
+and we'll see you mañana.
+
+1392
+00:45:35,269 --> 00:45:36,164
+Ollie, what do you say?
+
+1393
+00:45:36,164 --> 00:45:36,997
+- Bye.
+
+1394
+00:45:39,291 --> 00:00:00,000
+(instrumental of "This Is
+Home" by Bryan Lanning)
 

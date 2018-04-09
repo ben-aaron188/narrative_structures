@@ -1,0 +1,16 @@
+1
+00:00:03,120 --> 00:00:28,170
+<font color="#CCCCCC">si</font><font color="#E5E5E5"> mesilla de noche</font>
+
+2
+00:00:42,079 --> 00:00:50,089
+<font color="#E5E5E5">como explica que</font><font color="#CCCCCC"> ver</font><font color="#E5E5E5"> si</font><font color="#CCCCCC"> vuelve cada</font><font color="#E5E5E5"> que</font>
+
+3
+00:00:50,089 --> 00:00:56,250
+tiene<font color="#E5E5E5"> que</font><font color="#CCCCCC"> hacer</font>
+
+4
+00:00:56,250 --> 00:00:00,000
+[Música]
+

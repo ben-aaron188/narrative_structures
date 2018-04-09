@@ -1,0 +1,280 @@
+1
+00:00:00,030 --> 00:00:03,990
+this is a book and it is<font color="#CCCCCC"> called</font><font color="#E5E5E5"> the Elf</font>
+
+2
+00:00:03,990 --> 00:00:06,029
+on<font color="#E5E5E5"> the Shelf</font><font color="#CCCCCC"> have you ever wondered how</font>
+
+3
+00:00:06,029 --> 00:00:08,460
+<font color="#CCCCCC">Santa could know if you're naughty or</font>
+
+4
+00:00:08,460 --> 00:00:11,790
+nice each year as you grow for hundreds
+
+5
+00:00:11,790 --> 00:00:14,820
+of years it's<font color="#E5E5E5"> been a big secret it now</font>
+
+6
+00:00:14,820 --> 00:00:17,119
+can<font color="#CCCCCC"> be shared</font><font color="#E5E5E5"> if you</font><font color="#CCCCCC"> promise to keep it</font>
+
+7
+00:00:17,119 --> 00:00:21,359
+<font color="#CCCCCC">a</font><font color="#E5E5E5"> holiday</font><font color="#CCCCCC"> time Santa</font><font color="#E5E5E5"> sends me to you</font><font color="#CCCCCC"> I</font>
+
+8
+00:00:21,359 --> 00:00:25,320
+<font color="#CCCCCC">wash</font><font color="#E5E5E5"> and report on all</font><font color="#CCCCCC"> that you do the</font>
+
+9
+00:00:25,320 --> 00:00:27,269
+<font color="#E5E5E5">first time</font><font color="#CCCCCC"> I come to</font><font color="#E5E5E5"> your</font><font color="#CCCCCC"> place you call</font>
+
+10
+00:00:27,269 --> 00:00:30,119
+home<font color="#E5E5E5"> you quickly must give me a name</font><font color="#CCCCCC"> of</font>
+
+11
+00:00:30,119 --> 00:00:32,880
+my<font color="#E5E5E5"> own</font><font color="#CCCCCC"> I tell him if you have been</font><font color="#E5E5E5"> good</font>
+
+12
+00:00:32,880 --> 00:00:35,130
+or been bad<font color="#E5E5E5"> the news of the day makes</font>
+
+13
+00:00:35,130 --> 00:00:37,410
+him happy or<font color="#E5E5E5"> sad</font><font color="#CCCCCC"> I'll be back at your</font>
+
+14
+00:00:37,410 --> 00:00:39,870
+home before you awake and then you must
+
+15
+00:00:39,870 --> 00:00:43,200
+find the new spot<font color="#CCCCCC"> I will take you'll</font>
+
+16
+00:00:43,200 --> 00:00:44,850
+jump out of bed and<font color="#CCCCCC"> come running to</font>
+
+17
+00:00:44,850 --> 00:00:47,190
+<font color="#E5E5E5">sleep who will be the first to spy</font>
+
+18
+00:00:47,190 --> 00:00:49,860
+little<font color="#CCCCCC"> on me</font><font color="#E5E5E5"> maybe the kitchen the</font>
+
+19
+00:00:49,860 --> 00:00:52,289
+bathroom or<font color="#CCCCCC"> den is where you'll</font><font color="#E5E5E5"> find me</font>
+
+20
+00:00:52,289 --> 00:00:54,989
+your special<font color="#E5E5E5"> elf</font><font color="#CCCCCC"> friend</font>
+
+21
+00:00:54,989 --> 00:01:07,770
+I can hide on a plant the show you're
+
+22
+00:01:07,770 --> 00:01:15,270
+making too much noise I will come back
+
+23
+00:01:15,270 --> 00:01:20,430
+and be here tomorrow<font color="#CCCCCC"> please</font><font color="#E5E5E5"> do not touch</font>
+
+24
+00:01:20,430 --> 00:01:23,729
+me my magic might go<font color="#E5E5E5"> and Santa mom here</font>
+
+25
+00:01:23,729 --> 00:01:28,710
+oh<font color="#E5E5E5"> I see I'll listen to you tell me your</font>
+
+26
+00:01:28,710 --> 00:01:31,140
+wishes<font color="#E5E5E5"> would</font><font color="#CCCCCC"> you like a game or some</font>
+
+27
+00:01:31,140 --> 00:01:34,170
+tiny toy dishes the gleam in<font color="#CCCCCC"> my eye and</font>
+
+28
+00:01:34,170 --> 00:01:36,720
+<font color="#CCCCCC">my bright little</font><font color="#E5E5E5"> smile shows you I'm</font>
+
+29
+00:01:36,720 --> 00:01:40,770
+listening<font color="#CCCCCC"> and noting your file what</font><font color="#E5E5E5"> the</font>
+
+30
+00:01:40,770 --> 00:01:44,670
+fire means a list the night before
+
+31
+00:01:44,670 --> 00:01:47,640
+Christmas my<font color="#CCCCCC"> job's at an end the rest of</font>
+
+32
+00:01:47,640 --> 00:01:51,060
+the year<font color="#E5E5E5"> with</font><font color="#CCCCCC"> Santa all span</font><font color="#E5E5E5"> Cody do you</font>
+
+33
+00:01:51,060 --> 00:01:52,740
+think<font color="#E5E5E5"> the elf is going to come to</font><font color="#CCCCCC"> our</font>
+
+34
+00:01:52,740 --> 00:01:57,479
+house you'll have to find any goodness
+
+35
+00:01:57,479 --> 00:01:59,820
+<font color="#CCCCCC">tomorrow when you wake up</font><font color="#E5E5E5"> you get to</font>
+
+36
+00:01:59,820 --> 00:02:01,409
+find him a name<font color="#E5E5E5"> in the morning when you</font>
+
+37
+00:02:01,409 --> 00:02:04,560
+find him<font color="#CCCCCC"> you get it</font><font color="#E5E5E5"> pick a name for him</font>
+
+38
+00:02:04,560 --> 00:02:07,000
+<font color="#E5E5E5">so think of a name tonight</font><font color="#CCCCCC"> okay</font>
+
+39
+00:02:07,000 --> 00:02:13,990
+okay are you<font color="#E5E5E5"> excited yeah</font><font color="#CCCCCC"> I'm out</font>
+
+40
+00:02:13,990 --> 00:02:15,590
+Boston's excited
+
+41
+00:02:15,590 --> 00:02:21,470
+he found his<font color="#E5E5E5"> Christmas jari utensils but</font>
+
+42
+00:02:21,470 --> 00:02:23,900
+you can talk<font color="#E5E5E5"> to him and tell</font><font color="#CCCCCC"> him what</font>
+
+43
+00:02:23,900 --> 00:02:25,430
+you're thinking of or what you want
+
+44
+00:02:25,430 --> 00:02:27,320
+until<font color="#E5E5E5"> night you want for Christmas you</font>
+
+45
+00:02:27,320 --> 00:02:29,300
+<font color="#CCCCCC">can tell</font><font color="#E5E5E5"> him if you've been good</font><font color="#CCCCCC"> tattoo</font>
+
+46
+00:02:29,300 --> 00:02:31,700
+<font color="#E5E5E5">all right</font><font color="#CCCCCC"> so can match no arsenide you</font>
+
+47
+00:02:31,700 --> 00:02:34,610
+<font color="#E5E5E5">go kid I guess you can guess who has it</font>
+
+48
+00:02:34,610 --> 00:02:36,410
+<font color="#E5E5E5">who at</font><font color="#CCCCCC"> be in 2d</font>
+
+49
+00:02:36,410 --> 00:02:39,800
+he really has magic and more<font color="#CCCCCC"> know</font><font color="#E5E5E5"> those</font>
+
+50
+00:02:39,800 --> 00:02:42,500
+guys did they tell me<font color="#E5E5E5"> that I can't touch</font>
+
+51
+00:02:42,500 --> 00:02:46,790
+him yeah<font color="#CCCCCC"> okay</font><font color="#E5E5E5"> no</font><font color="#CCCCCC"> listen guys we'll look</font>
+
+52
+00:02:46,790 --> 00:02:50,050
+for him<font color="#CCCCCC"> in</font><font color="#E5E5E5"> the morning won't we yeah</font>
+
+53
+00:03:03,510 --> 00:03:14,290
+how do I talk<font color="#CCCCCC"> to</font><font color="#E5E5E5"> him how do</font><font color="#CCCCCC"> you talk</font><font color="#E5E5E5"> she</font>
+
+54
+00:03:14,290 --> 00:03:18,220
+doesn't<font color="#CCCCCC"> ah</font><font color="#E5E5E5"> what do you think he's</font><font color="#CCCCCC"> real I</font>
+
+55
+00:03:18,220 --> 00:03:21,159
+knew it<font color="#E5E5E5"> you know her and I know he can</font>
+
+56
+00:03:21,159 --> 00:03:22,360
+<font color="#E5E5E5">fight like this</font>
+
+57
+00:03:22,360 --> 00:03:26,170
+Who am I how'd<font color="#CCCCCC"> he get why anyway sure</font><font color="#E5E5E5"> he</font>
+
+58
+00:03:26,170 --> 00:03:28,209
+can't talk that's right
+
+59
+00:03:28,209 --> 00:03:32,590
+I<font color="#CCCCCC"> didn't time you write us today having</font>
+
+60
+00:03:32,590 --> 00:03:36,190
+what<font color="#CCCCCC"> is he doing up there happy hey how</font>
+
+61
+00:03:36,190 --> 00:03:39,640
+did<font color="#CCCCCC"> you</font><font color="#E5E5E5"> know I didn't know I was just</font>
+
+62
+00:03:39,640 --> 00:03:44,319
+<font color="#E5E5E5">hoping he would come Mary is up there</font><font color="#CCCCCC"> on</font>
+
+63
+00:03:44,319 --> 00:03:50,379
+our<font color="#E5E5E5"> nativity everything</font><font color="#CCCCCC"> guy</font><font color="#E5E5E5"> he's gonna</font>
+
+64
+00:03:50,379 --> 00:03:54,730
+tell Sam<font color="#CCCCCC"> if we've been good he's gonna</font>
+
+65
+00:03:54,730 --> 00:03:56,579
+tell Sam<font color="#E5E5E5"> half we've been good</font>
+
+66
+00:03:56,579 --> 00:04:02,290
+<font color="#CCCCCC">you'd be extra good today yeah okay you</font>
+
+67
+00:04:02,290 --> 00:04:04,450
+see<font color="#E5E5E5"> and that's my name</font><font color="#CCCCCC"> and I</font><font color="#E5E5E5"> rented</font><font color="#CCCCCC"> it</font>
+
+68
+00:04:04,450 --> 00:04:07,870
+so you wrote Olivia at the top<font color="#E5E5E5"> hey don't</font>
+
+69
+00:04:07,870 --> 00:04:12,449
+mess with me really say I like<font color="#CCCCCC"> that oh</font>
+
+70
+00:04:12,449 --> 00:00:00,000
+are you gonna give that<font color="#E5E5E5"> to</font><font color="#CCCCCC"> her okay okay</font>
+

@@ -1,1477 +1,1960 @@
 1
-00:00:02,005 --> 00:00:04,510
-- [Man] Donald Duck, what happened buddy?
+00:00:00,388 --> 00:00:01,892
+- Is it for humans?
 
 2
-00:00:04,510 --> 00:00:05,665
-- He's been good.
+00:00:01,892 --> 00:00:02,752
+- [Bryan] Yeah, try it!
 
 3
-00:00:05,665 --> 00:00:06,505
-(laughing)
+00:00:02,752 --> 00:00:03,978
+It's just a sprinkle.
 
 4
-00:00:06,505 --> 00:00:08,926
-♫ This is our life this is our fun
+00:00:03,978 --> 00:00:08,363
+- It's just like flour,
+applesauce, random things.
 
 5
-00:00:08,926 --> 00:00:10,433
-♫ This is who we are
+00:00:08,363 --> 00:00:09,196
+- [Bryan] It's good stuff.
 
 6
-00:00:10,433 --> 00:00:13,571
-♫ This is our dream this is our team
+00:00:09,196 --> 00:00:10,029
+Try it.
 
 7
-00:00:13,571 --> 00:00:16,001
-♫ Shine among the stars
+00:00:11,038 --> 00:00:12,433
+(laughs)
 
 8
-00:00:16,001 --> 00:00:18,334
-♫ Take the shooter we'll be fine
+00:00:12,433 --> 00:00:14,294
+Did you just eat dog food?
 
 9
-00:00:18,334 --> 00:00:20,934
-♫ Take this hand and watch us show
-
-10
-00:00:20,934 --> 00:00:22,983
-♫ This is our life
-
-11
-00:00:22,983 --> 00:00:24,835
-♫ Lets live it
-
-12
-00:00:24,835 --> 00:00:27,933
-♫ Live forever
-
-13
-00:00:27,933 --> 00:00:29,283
-- Good morning.
-- Good morning.
-
-14
-00:00:29,283 --> 00:00:30,605
-- Where we going boys?
-
-15
-00:00:30,605 --> 00:00:33,188
-- To Disney Land.
-- Disney Land.
-
-16
-00:00:34,511 --> 00:00:35,759
-You so excited?
-
-17
-00:00:35,759 --> 00:00:37,521
-(bell dings)
-These boys are so
-
-18
-00:00:37,521 --> 00:00:39,494
-excited for Disneyland, huh?
-
-19
-00:00:39,494 --> 00:00:40,553
-Yeah, we decided last night.
-
-20
-00:00:40,553 --> 00:00:42,591
-Well we've been kind of talking
-about going for a while.
-
-21
-00:00:42,591 --> 00:00:44,336
-We have definitely missed it.
-
-22
-00:00:44,336 --> 00:00:48,475
-So we decided that today
-was the best day to go.
-
-23
-00:00:48,475 --> 00:00:51,185
-But, (giggles) its the best day to go
-
-24
-00:00:51,185 --> 00:00:52,309
-because it's the least busy,
-
-25
-00:00:52,309 --> 00:00:56,082
-but it's still busy enough that
-Bryan is not coming with us.
-
-26
-00:00:56,082 --> 00:00:57,344
-Daddy's not coming with us.
-
-27
-00:00:57,344 --> 00:01:00,804
-But, we're gonna go really soon with him.
-
-28
-00:01:00,804 --> 00:01:02,791
-We're just gonna enjoy this time
-
-29
-00:01:02,791 --> 00:01:04,920
-with just these two and mama,
-
-30
-00:01:04,920 --> 00:01:07,534
-and I think we're gonna have
-a really fun time, okay?
-
-31
-00:01:07,534 --> 00:01:08,749
-And guess who's coming with us?
-
-32
-00:01:08,749 --> 00:01:10,080
-- Kelsey and Corbin.
-
-33
-00:01:10,080 --> 00:01:12,777
-- Kelsey and Corbin and baby June.
-
-34
-00:01:12,777 --> 00:01:16,404
-Are you going to show baby
-June all the cool rides?
-
-35
-00:01:16,404 --> 00:01:17,950
-He's like "Mom, I gotta drink my drink."
-
-36
-00:01:17,950 --> 00:01:19,857
-Anyways I am all packed up.
-
-37
-00:01:19,857 --> 00:01:21,630
-I've got all kinds of goodies for the day.
-
-38
-00:01:21,630 --> 00:01:22,570
-And I am super excited.
-
-39
-00:01:22,570 --> 00:01:26,097
-So let's go ahead and
-get on the road, okay?
-
-40
-00:01:26,097 --> 00:01:29,733
-- [Missy] Ollie, what are we listening to?
-
-41
-00:01:29,733 --> 00:01:31,219
-- Nightmare for Christmas.
-
-42
-00:01:31,219 --> 00:01:33,880
-- Yeah, that's like one of Ollie's
-
-43
-00:01:33,880 --> 00:01:35,577
-like favorite movies right now.
-
-44
-00:01:35,577 --> 00:01:36,675
-And we just listened to like
-(Finn screams)
-
-45
-00:01:36,675 --> 00:01:38,699
-whole soundtrack on the way here.
-
-46
-00:01:38,699 --> 00:01:41,805
-Finn is like I'm ready to get
-out of this car so let's go.
-
-47
-00:01:41,805 --> 00:01:44,465
-I just told him that there is
-
-48
-00:01:44,465 --> 00:01:46,964
-a Nightmare Before Christmas ride.
-
-49
-00:01:46,964 --> 00:01:50,170
-And we might even get
-to meet Jack Skelington.
-
-50
-00:01:50,170 --> 00:01:51,453
-- Yes we are.
-
-51
-00:01:51,453 --> 00:01:52,783
-- [Missy] Yes we are.
-
-52
-00:01:52,783 --> 00:01:53,616
-- Ollie's so excited.
-
-53
-00:01:53,616 --> 00:01:55,749
-I'm actually super sad
-that Bryan's not here
-
-54
-00:01:55,749 --> 00:01:58,371
-cause it's actually kind
-of like him and Bryan's
-
-55
-00:01:58,371 --> 00:02:00,027
-like favorite movie to watch together.
-
-56
-00:02:00,027 --> 00:02:02,374
-So I'm sure Bryan would have
-loved to take him on it.
-
-57
-00:02:02,374 --> 00:02:05,124
-But I guess this is
-just how it's gonna go.
-
-58
-00:02:05,124 --> 00:02:07,509
-We'll go on it with Daddy next time huh?
-
-59
-00:02:07,509 --> 00:02:09,102
-- Yes, yes.
-
-60
-00:02:09,102 --> 00:02:10,794
-- We are super duper excited though.
-
-61
-00:02:10,794 --> 00:02:12,860
-Our tradition is always
-to listen to either
-
-62
-00:02:12,860 --> 00:02:15,762
-a Disney soundtrack or
-Disney Radio on the way here
-
-63
-00:02:15,762 --> 00:02:17,446
-and it really gets us in the mood.
-
-64
-00:02:17,446 --> 00:02:21,252
-And I'm just excited that
-it is fall time at Disney.
-
-65
-00:02:21,252 --> 00:02:22,085
-It's like my favorite.
-
-66
-00:02:22,085 --> 00:02:24,548
-I actually got the little
-ears at a little Bazzar
-
-67
-00:02:24,548 --> 00:02:26,773
-that we went to a few weeks ago.
-
-68
-00:02:26,773 --> 00:02:29,273
-And I love them their so cute.
-
-69
-00:02:31,875 --> 00:02:34,842
-(upbeat pop music)
-
-70
-00:02:34,842 --> 00:02:37,759
-(fingers snapping)
-
-71
-00:02:39,236 --> 00:02:42,153
-(upbeat pop music)
-
-72
-00:02:45,836 --> 00:02:48,753
-(upbeat pop music)
-
-73
-00:03:07,569 --> 00:03:09,729
-We've made it to Disneyland
-and look who's with us?
-
-74
-00:03:09,729 --> 00:03:10,562
-- Hi.
-
-75
-00:03:11,782 --> 00:03:14,691
-- Kelsey and Corbin and June.
-- This is so fun.
-
-76
-00:03:14,691 --> 00:03:16,453
-- You can't see her right
-now let me show you.
-
-77
-00:03:16,453 --> 00:03:17,639
-There she is.
-
-78
-00:03:17,639 --> 00:03:19,218
-Are you guys so excited?
-
-79
-00:03:19,218 --> 00:03:20,051
-- [Ollie] Yeah.
-
-80
-00:03:20,051 --> 00:03:20,884
-- [Missy] Yeah.
-
-81
-00:03:20,884 --> 00:03:23,049
-Alright Ollie, what ride
-are we going on first.
-
-82
-00:03:23,049 --> 00:03:24,925
-- Astro Blast Off.
-
-83
-00:03:24,925 --> 00:03:27,174
-- Yeah, this is a really fun ride.
-
-84
-00:03:27,174 --> 00:03:29,460
-And we're taking June on it.
-
-85
-00:03:29,460 --> 00:03:32,293
-- June's first time on the Rocket.
-
-86
-00:03:33,189 --> 00:03:34,056
-- We're all a little bit nervous.
-
-87
-00:03:34,056 --> 00:03:36,743
-It is a actually pretty scary ride.
-
-88
-00:03:36,743 --> 00:03:39,584
-- They're pretty high up
-there, I'm like nervous.
-
-89
-00:03:39,584 --> 00:03:41,580
-- Yeah, this is Bryan's
-like least favorite ride.
-
-90
-00:03:41,580 --> 00:03:44,380
-Cause it's actually scary and spins.
-
-91
-00:03:44,380 --> 00:03:47,345
-- Yeah Kelse's just
-scared so she's waiting.
-
-92
-00:03:47,345 --> 00:03:48,595
-- So yeah, we're almost done.
-
-93
-00:03:48,595 --> 00:03:50,750
-Here we go first ride.
-
-94
-00:03:50,750 --> 00:03:54,083
-- [Missy] Whoo, boys, what do you think?
-
-95
-00:03:55,276 --> 00:03:56,541
-- [Ollie] Good.
-
-96
-00:03:56,541 --> 00:03:58,813
-- Is this a fun one?
-
-97
-00:03:58,813 --> 00:03:59,646
-That fun?
-
-98
-00:04:01,127 --> 00:04:01,960
-It's actually pretty scary.
-
-99
-00:04:01,960 --> 00:04:03,561
-And June is back there.
-
-100
-00:04:03,561 --> 00:04:05,811
-(laughing)
-
-101
-00:04:10,079 --> 00:04:10,912
-(gasps)
-
-102
-00:04:10,912 --> 00:04:12,450
-Ollie, who do you see?
-
-103
-00:04:12,450 --> 00:04:13,778
-- Captain Hook.
-
-104
-00:04:13,778 --> 00:04:15,086
-- Are you gonna get a picture with him?
-
-105
-00:04:15,086 --> 00:04:16,096
-- Yeah.
-
-106
-00:04:16,096 --> 00:04:17,144
-- Ow wee.
-
-107
-00:04:17,144 --> 00:04:18,178
-- [Missy] You see him?
-
-108
-00:04:18,178 --> 00:04:19,173
-- But is he nice?
-
-109
-00:04:19,173 --> 00:04:23,059
-- I mean its Captain Hook, he's
-not like the nicest person.
-
-110
-00:04:23,059 --> 00:04:25,786
-But I don't think he's
-gonna like hurt you.
-
-111
-00:04:25,786 --> 00:04:28,036
-(laughing)
-
-112
-00:04:28,925 --> 00:04:31,119
-(upbeat music)
-
-113
-00:04:31,119 --> 00:04:32,952
-Give him a high fives.
-
-114
-00:04:34,436 --> 00:04:36,736
-(laughing)
-
-115
-00:04:36,736 --> 00:04:39,622
-- [Corbin] Finn are you scared?
-
-116
-00:04:39,622 --> 00:04:42,872
-(upbeat calming music)
-
-117
-00:04:45,243 --> 00:04:48,160
-(upbeat pop music)
-
-118
-00:04:58,536 --> 00:05:01,530
-- I see Jack the Christmas.
-
-119
-00:05:01,530 --> 00:05:03,867
-- [Missy] Are you so excited?
-
-120
-00:05:03,867 --> 00:05:05,051
-- [Ollie] Look it.
-
-121
-00:05:05,051 --> 00:05:07,391
-- [Missy] Oh my goodness,
-
-122
-00:05:07,391 --> 00:05:09,056
-that's The Nightmare Before Christmas huh?
-
-123
-00:05:09,056 --> 00:05:09,889
-- Yeah.
-
-124
-00:05:09,889 --> 00:05:10,823
-- [Missy] Alright let's go ride it.
-
-125
-00:05:10,823 --> 00:05:12,502
-- The Haunted Mansion gets turned into
-
-126
-00:05:12,502 --> 00:05:15,668
-The Nightmare Before Christmas
-ride during the fall season.
-
-127
-00:05:15,668 --> 00:05:19,331
-And the boys are so
-excited, especially Ollie.
-
-128
-00:05:19,331 --> 00:05:20,190
-To ride it.
-
-129
-00:05:20,190 --> 00:05:21,819
-And normally it's a really long wait,
-
-130
-00:05:21,819 --> 00:05:23,478
-but we actually got fast passes.
-
-131
-00:05:23,478 --> 00:05:27,836
-- [Ollie] Christmas
-powing, Christmas powing.
-
-132
-00:05:27,836 --> 00:05:31,576
-- We're also hoping to
-meet Jack and Sallie today.
-
-133
-00:05:31,576 --> 00:05:32,642
-- [Ollie] Look it.
-
-134
-00:05:32,642 --> 00:05:34,725
-- [Missy] Oh my goodness.
-
-135
-00:05:36,861 --> 00:05:40,111
-(upbeat calming music)
-
-136
-00:05:42,001 --> 00:05:45,058
-- This this owing, this is owing.
-
-137
-00:05:45,058 --> 00:05:45,908
-(Missy gasps)
-
-138
-00:05:45,908 --> 00:05:49,333
-- [Missy] Are you gonna
-go? Are you scared?
-
-139
-00:05:49,333 --> 00:05:50,213
-- [Ollie] I'm not scared.
-
-140
-00:05:50,213 --> 00:05:51,463
-- [Missy] Okay.
-
-141
-00:05:52,891 --> 00:05:54,638
-(upbeat music)
-
-142
-00:05:54,638 --> 00:05:56,590
-- [Corbin] It's like one
-of my favorite movies.
-
-143
-00:05:56,590 --> 00:05:58,757
-- [Missy] He's so excited.
-
-144
-00:06:01,001 --> 00:06:03,584
-(upbeat music)
-
-145
-00:06:07,341 --> 00:06:09,258
-- [Missy] What do you think so far, Ollie?
-
-146
-00:06:09,258 --> 00:06:10,425
-Is that scary?
-
-147
-00:06:11,811 --> 00:06:12,644
-No?
-
-148
-00:06:12,644 --> 00:06:14,727
-(laughs)
-
-149
-00:06:15,621 --> 00:06:18,954
-(upbeat relaxing music)
-
-150
-00:06:24,669 --> 00:06:28,169
-(upbeat spooky pop music)
-
-151
-00:06:34,819 --> 00:06:38,319
-(upbeat spooky pop music)
-
-152
-00:06:47,073 --> 00:06:49,354
-We just went on The
-Nightmare Before Christmas
-
-153
-00:06:49,354 --> 00:06:50,387
-and it was so cool.
-
-154
-00:06:50,387 --> 00:06:52,441
-You were not scared at all, huh?
-
-155
-00:06:52,441 --> 00:06:54,398
-And we really really wanted to meet Jack
-
-156
-00:06:54,398 --> 00:06:56,914
-but it is a little bit of a wait.
-
-157
-00:06:56,914 --> 00:06:59,573
-So I think we might come back
-another day to meet Jack.
-
-158
-00:06:59,573 --> 00:07:02,984
-But he looked pretty cool, a
-little bit that we saw huh?
-
-159
-00:07:02,984 --> 00:07:03,817
-(Missy chuckles)
-
-160
-00:07:03,817 --> 00:07:06,093
-- Yes, now we are eating some lunch.
-
-161
-00:07:06,093 --> 00:07:07,333
-Yum, at the French park,
-
-162
-00:07:07,333 --> 00:07:09,225
-it is like our favorite place to eat.
-
-163
-00:07:09,225 --> 00:07:12,101
-And then we're off to have some more fun.
-
-164
-00:07:12,101 --> 00:07:15,754
-So I was thinking that
-Disneyland is amazing
-
-165
-00:07:15,754 --> 00:07:18,980
-but it could be really fun if these guys
-
-166
-00:07:18,980 --> 00:07:21,020
-actually fit the characters.
-
-167
-00:07:21,020 --> 00:07:23,890
-Should we do a little
-Disneyland magic right now?
-
-168
-00:07:23,890 --> 00:07:25,322
-Okay, are you ready?
-
-169
-00:07:25,322 --> 00:07:26,989
-Say one, two, three!
-
-170
-00:07:29,402 --> 00:07:32,433
-Oh my goodness look at this magic.
-
-171
-00:07:32,433 --> 00:07:35,004
-Disney magic has turned
-you into Mickie Mouse.
-
-172
-00:07:35,004 --> 00:07:35,957
-(squeaking)
-
-173
-00:07:35,957 --> 00:07:38,246
-(Missy Gasps)
-
-174
-00:07:38,246 --> 00:07:40,226
-And you're Donald Duck?
-
-175
-00:07:40,226 --> 00:07:41,560
-Tickle, tickle, tickle, tickle, tickle.
-
-176
-00:07:41,560 --> 00:07:43,516
-And you are Minnie Mouse?
-
-177
-00:07:43,516 --> 00:07:44,628
-- [Kelsey] Yeah.
-
-178
-00:07:44,628 --> 00:07:47,616
-- [Missy] You guys are so cute.
-
-179
-00:07:47,616 --> 00:07:48,449
-I love it.
-
-180
-00:07:49,604 --> 00:07:52,261
-These kids are so cute.
-
-181
-00:07:52,261 --> 00:07:55,955
-But we're really freaking
-(laughs) dying about this one.
-
-182
-00:07:55,955 --> 00:07:58,859
-Look at how cute he
-is, totally passed out.
-
-183
-00:07:58,859 --> 00:08:00,469
-- [Corbin] That is so funny.
-
-184
-00:08:00,469 --> 00:08:02,620
+00:00:14,294 --> 00:00:15,752
 (Missy laughs)
 
-185
-00:08:02,620 --> 00:08:05,060
-- [Missy] Are you okay?
+10
+00:00:15,752 --> 00:00:17,863
+♫ This is our life, this our fun
 
-186
-00:08:05,060 --> 00:08:07,593
-It's so cute we're gonna try
-and get a picture with them.
+11
+00:00:17,863 --> 00:00:20,180
+♫ This is who we are
 
-187
-00:08:07,593 --> 00:08:10,343
-But he's like "Um, I'm sleeping."
+12
+00:00:20,180 --> 00:00:22,633
+♫ This is our dream, this is our team
 
-188
-00:08:11,226 --> 00:08:12,809
-What are you doing?
+13
+00:00:22,633 --> 00:00:25,077
+♫ Shot among the stars
 
-189
-00:08:16,240 --> 00:08:18,617
-- [Corbin] Donald Duck,
-what happened, buddy?
+14
+00:00:25,077 --> 00:00:27,518
+♫ Take this shield and we'll be fine
 
-190
-00:08:18,617 --> 00:08:21,382
-(laughing)
+15
+00:00:27,518 --> 00:00:30,590
+♫ Take this hand and watch us shine
 
-191
-00:08:21,382 --> 00:08:22,713
-It's so funny.
+16
+00:00:30,590 --> 00:00:32,131
+♫ This is our life
 
-192
-00:08:22,713 --> 00:08:25,520
-- I feel like I'm holding
-an actual duck right now.
+17
+00:00:32,131 --> 00:00:34,148
+♫ Let's live it
 
-193
-00:08:25,520 --> 00:08:27,770
-(laughing)
+18
+00:00:34,148 --> 00:00:36,053
+♫ Live it forever
 
-194
-00:08:29,768 --> 00:08:33,935
-- [Corbin] Look at his little
-tail, it looks so funny.
+19
+00:00:36,053 --> 00:00:36,886
+- Good morning!
 
-195
-00:08:35,096 --> 00:08:36,630
-- [Missy] Look at Goofy.
+20
+00:00:36,886 --> 00:00:37,719
+- Good morning!
 
-196
-00:08:36,630 --> 00:08:38,361
-- [Ollie] Skeleton.
+21
+00:00:37,719 --> 00:00:39,027
+Good morning, Finn.
 
-197
-00:08:38,361 --> 00:08:39,294
-- [Missy] What is he?
+22
+00:00:39,027 --> 00:00:40,511
+Good morning, guys.
 
-198
-00:08:39,294 --> 00:08:40,311
-- The Skeleton.
+23
+00:00:40,511 --> 00:00:42,904
+It is a beautiful day here in Cali.
 
-199
-00:08:40,311 --> 00:08:42,894
-- [Missy] Yeah, that's so cool.
+24
+00:00:42,904 --> 00:00:45,120
+It's sprinkling, huh?
 
-200
-00:08:44,543 --> 00:08:47,460
-(upbeat pop music)
-
-201
-00:08:49,068 --> 00:08:51,639
-So we were thinking about
-going to California Adventures,
-
-202
-00:08:51,639 --> 00:08:54,288
-but apparently there's a huge line.
-
-203
-00:08:54,288 --> 00:08:55,642
-Corbin's telling us the news.
-
-204
-00:08:55,642 --> 00:08:56,475
-- Costs to get in.
-
-205
-00:08:56,475 --> 00:08:57,531
-- [Missy] What.
+25
+00:00:45,120 --> 00:00:45,953
 - Yeah.
 
-206
-00:08:57,531 --> 00:08:58,666
-- [Missy] I'm not waiting in that line.
+26
+00:00:45,953 --> 00:00:47,112
+- [Bryan] It's raining a little bit.
 
-207
-00:08:58,666 --> 00:09:00,665
-- Both the line for
-this lane and California
+27
+00:00:47,112 --> 00:00:48,224
+So the boys are playing outside.
 
-208
-00:09:00,665 --> 00:09:02,306
-like going like
-- Oh.
+28
+00:00:48,224 --> 00:00:49,564
+Luna's trying to get into the fortress.
 
-209
-00:09:02,306 --> 00:09:03,345
-- So it looks like it's people.
+29
+00:00:49,564 --> 00:00:50,515
+Hi, Luna!
 
-210
-00:09:03,345 --> 00:09:04,436
-- [Missy] I've never seen it like that.
+30
+00:00:50,515 --> 00:00:51,608
+Good morning!
 
-211
-00:09:04,436 --> 00:09:05,269
-- That was crazy.
+31
+00:00:51,608 --> 00:00:53,196
+Good morning, Luna Loo!
 
-212
-00:09:05,269 --> 00:09:08,112
-- It must be for like the Mickey
-Mouse trick or treat thing.
+32
+00:00:53,196 --> 00:00:54,166
+Hi, baby!
 
-213
-00:09:08,112 --> 00:09:11,388
-We're definitely not
-waiting in that hugs line.
+33
+00:00:54,166 --> 00:00:55,041
+- Can you open this?
 
-214
-00:09:11,388 --> 00:09:13,265
-So I think we're actually gonna head home.
+34
+00:00:55,041 --> 00:00:56,680
+- Of course I can!
 
-215
-00:09:13,265 --> 00:09:14,892
-But I am going to give
-you some cotton candy.
+35
+00:00:56,680 --> 00:00:57,513
+Of course!
 
-216
-00:09:14,892 --> 00:09:15,735
-Does that sound good?
+36
+00:00:57,513 --> 00:00:58,492
+It's October.
 
-217
-00:09:15,735 --> 00:09:16,568
-(kisses)
+37
+00:00:58,492 --> 00:01:00,892
+You eat Halloween candy
+for breakfast, right?
 
-218
-00:09:16,568 --> 00:09:18,077
-You were so good today,
-we had such a fun day.
+38
+00:01:00,892 --> 00:01:01,725
+- Yeah.
 
-219
-00:09:18,077 --> 00:09:21,191
-I actually just discovered
-that I have some sort of
+39
+00:01:01,725 --> 00:01:02,958
+- No, the boys have
+actually been really good,
 
-220
-00:09:21,191 --> 00:09:23,998
-injury on my right like hip.
+40
+00:01:02,958 --> 00:01:04,393
+but today I'm like, if
+you guys want candy,
 
-221
-00:09:23,998 --> 00:09:25,180
-I think from running,
+41
+00:01:04,393 --> 00:01:05,373
+you can eat candy, okay?
 
-222
-00:09:25,180 --> 00:09:27,539
-I'm gonna blame it on
-Kelsey, just kidding.
+42
+00:01:05,373 --> 00:01:06,736
+I'm in the festive spirit.
 
-223
-00:09:27,539 --> 00:09:28,726
+43
+00:01:06,736 --> 00:01:07,923
+It's a Friday.
+
+44
+00:01:07,923 --> 00:01:09,103
+It's a good day.
+
+45
+00:01:09,103 --> 00:01:10,345
+There you go, my boy.
+
+46
+00:01:10,345 --> 00:01:11,216
+What do you say?
+
+47
+00:01:11,216 --> 00:01:12,049
+- Thank you.
+
+48
+00:01:12,049 --> 00:01:12,882
+- You're welcome.
+
+49
+00:01:12,882 --> 00:01:14,014
+But yeah, check this out you guys.
+
+50
+00:01:14,014 --> 00:01:15,487
+California's like, oh, is it October?
+
+51
+00:01:15,487 --> 00:01:17,373
+Should I be acting like it's October?
+
+52
+00:01:17,373 --> 00:01:18,776
+It's a little chilly out here.
+
+53
+00:01:18,776 --> 00:01:20,392
+And like I said, it's
+even starting to sprinkle,
+
+54
+00:01:20,392 --> 00:01:21,225
+which is cool.
+
+55
+00:01:21,225 --> 00:01:23,053
+I love fall time because it's just like,
+
+56
+00:01:23,053 --> 00:01:25,848
+that feeling, the smell
+in the air, like it feels
+
+57
+00:01:25,848 --> 00:01:27,677
+different in October for some reason.
+
+58
+00:01:27,677 --> 00:01:29,622
+Uh oh, I think all the
+sprinklers are turning on!
+
+59
+00:01:29,622 --> 00:01:30,455
+Oh no!
+
+60
+00:01:31,547 --> 00:01:33,020
+Yeah, we've been trying to
+fill in these little holes
+
+61
+00:01:33,020 --> 00:01:34,116
+in our grass for a while,
+
+62
+00:01:34,116 --> 00:01:36,985
+so we've been seeding
+and doing sprinklers,
+
+63
+00:01:36,985 --> 00:01:39,934
+and trying to make this all
+look really, really nice.
+
+64
+00:01:39,934 --> 00:01:43,453
+(bright beat music)
+
+65
+00:01:43,453 --> 00:01:44,900
+- Hey, guys!
+
+66
+00:01:44,900 --> 00:01:45,768
+- Hey.
+
+67
+00:01:45,768 --> 00:01:48,063
+- So today, Ollie said he really wanted to
+
+68
+00:01:48,063 --> 00:01:50,397
+answer some questions, huh?
+
+69
+00:01:50,397 --> 00:01:52,751
+So we decided to ask you guys on Twitter,
+
+70
+00:01:52,751 --> 00:01:55,195
+using the hashtag #AskDailyBumps,
+
+71
+00:01:55,195 --> 00:01:58,143
+and we got a bunch of questions
+and so we just chose some,
+
+72
+00:01:58,143 --> 00:02:00,739
+and I'm gonna let you answer some, 'kay?
+
+73
+00:02:00,739 --> 00:02:01,908
+Alright, here we go.
+
+74
+00:02:01,908 --> 00:02:03,760
+The first question comes from Maelyn,
+
+75
+00:02:03,760 --> 00:02:08,422
+and she says, "Ollie what
+is your favorite dinosaur?"
+
+76
+00:02:08,422 --> 00:02:09,607
+- A T. Rex!
+
+77
+00:02:09,607 --> 00:02:12,663
+- Alright, next question, Ollie,
+is from Amy, and she says,
+
+78
+00:02:12,663 --> 00:02:15,084
+"What's your favorite thing
+about the holiday season
+
+79
+00:02:15,084 --> 00:02:16,050
+"having kids?"
+
+80
+00:02:16,050 --> 00:02:17,426
+I think my favorite
+thing is just being able
+
+81
+00:02:17,426 --> 00:02:21,352
+to relive a lot of the
+moments that I got to do
+
+82
+00:02:21,352 --> 00:02:23,963
+as a kid, and kinda watching
+it through his eyes.
+
+83
+00:02:23,963 --> 00:02:25,232
+- Go, go.
+(Missy laughs)
+
+84
+00:02:25,232 --> 00:02:28,128
+- And everything is just so
+much more magical with them.
+
+85
+00:02:28,128 --> 00:02:30,447
+Okay, next question is
+from Gabby, and she says,
+
+86
+00:02:30,447 --> 00:02:33,742
+"What is your most favorite
+thing about vlogging?"
+
+87
+00:02:33,742 --> 00:02:35,196
+What's your favorite thing about vlogging?
+
+88
+00:02:35,196 --> 00:02:39,077
+- I love doing fun stuff with my family.
+
+89
+00:02:39,077 --> 00:02:40,524
+- [Missy] That's good, and what else?
+
+90
+00:02:40,524 --> 00:02:42,967
+- I love doing thumbs up.
+
+91
+00:02:42,967 --> 00:02:44,135
+- (laughs) He was like,
+
+92
+00:02:44,135 --> 00:02:45,884
+"Mama, I really love giving thumbs up."
+
+93
+00:02:45,884 --> 00:02:47,242
+I was like, alright say that!
+
+94
+00:02:47,242 --> 00:02:48,897
+So yeah, make sure you
+guys thumbs up this video,
+
+95
+00:02:48,897 --> 00:02:50,576
+'cause that's Ollie's favorite thing, huh?
+
+96
+00:02:50,576 --> 00:02:51,409
+- Mm-hmm.
+
+97
+00:02:51,409 --> 00:02:52,242
 (laughs)
 
-224
-00:09:28,726 --> 00:09:30,401
-I like can barely walk.
-
-225
-00:09:30,401 --> 00:09:32,120
-So I'm like, "Hmm maybe we should go home,
-
-226
-00:09:32,120 --> 00:09:34,646
-I'm in a lot of pain right now."
-
-227
-00:09:34,646 --> 00:09:36,097
-So anyways that's where we're headed now.
-
-228
-00:09:36,097 --> 00:09:38,558
-And Donald Duck is still sleeping in here.
-
-229
-00:09:38,558 --> 00:09:40,737
-(laughing)
-
-230
-00:09:40,737 --> 00:09:45,134
-- Well hey guys, would
-you look who's here.
-
-231
-00:09:45,134 --> 00:09:46,658
-- [Bryan] What's up dudes.
-
-232
-00:09:46,658 --> 00:09:47,491
-- Good.
-
-233
-00:09:47,491 --> 00:09:49,499
-- What did you guys do today?
-
-234
-00:09:49,499 --> 00:09:51,077
-- Go at Disneyland.
-
-235
-00:09:51,077 --> 00:09:51,986
-- [Bryan] You did?
-
-236
-00:09:51,986 --> 00:09:52,819
-- [Ollie] Yeah.
-
-237
-00:09:52,819 --> 00:09:54,428
-- That is so cool.
-
-238
-00:09:54,428 --> 00:09:56,358
-Yeah well, Missy was at Disneyland
-
-239
-00:09:56,358 --> 00:09:58,719
-I stayed at home and
-got so much work done.
-
-240
-00:09:58,719 --> 00:10:00,140
-It was actually very nice.
-
-241
-00:10:00,140 --> 00:10:01,159
-Ollie wants to tell you something.
-
-242
-00:10:01,159 --> 00:10:02,342
-What?
-
-243
-00:10:02,342 --> 00:10:05,659
-- There was a Nightmare
-For Christmas ride.
-
-244
-00:10:05,659 --> 00:10:06,727
-- There was?
-
-245
-00:10:06,727 --> 00:10:07,560
-- [Ollie] Yes.
-
-246
-00:10:07,560 --> 00:10:08,521
-- We've been watching that move a lot,
-
-247
-00:10:08,521 --> 00:10:09,710
-did you go on the ride?
-
-248
-00:10:09,710 --> 00:10:10,543
-- Yes.
-
-249
-00:10:10,543 --> 00:10:11,679
-- And what did you think?
-
-250
-00:10:11,679 --> 00:10:13,225
-- I didn't be scared.
-
-251
-00:10:13,225 --> 00:10:14,568
-- You didn't be scared?
-
-252
-00:10:14,568 --> 00:10:15,401
-- [Ollie] No.
-
-253
-00:10:15,401 --> 00:10:16,558
-- Yeah, cause it's not very scary right?
-
-254
-00:10:16,558 --> 00:10:18,225
-It's more fun, yeah.
-
-255
-00:10:19,113 --> 00:10:20,261
-What did you think at the end?
-
-256
-00:10:20,261 --> 00:10:22,360
-- It was pretty cool.
-
-257
-00:10:22,360 --> 00:10:24,555
-- Did any ghost come home with you?
-
-258
-00:10:24,555 --> 00:10:25,388
-- No
-
-259
-00:10:25,388 --> 00:10:27,916
-- [Bryan] No. Did any ghosts
-come home with you Finn?
-
-260
-00:10:27,916 --> 00:10:28,920
-(cartoon music)
-
-261
-00:10:28,920 --> 00:10:29,753
-(laughing)
-
-262
-00:10:29,753 --> 00:10:30,763
-He's so wiped out.
-
-263
-00:10:30,763 --> 00:10:33,417
-Both these kids came home
-and they are exhausted.
-
-264
-00:10:33,417 --> 00:10:35,012
-So I made sure to have
-pizza here for them,
-
-265
-00:10:35,012 --> 00:10:36,418
-so that they could just chill and eat.
-
-266
-00:10:36,418 --> 00:10:38,042
-But sounds like they had so much fun.
-
-267
-00:10:38,042 --> 00:10:39,490
-And Ollie just like,
-
-268
-00:10:39,490 --> 00:10:41,508
-loved The Nightmare Before Christmas ride.
-
-269
-00:10:41,508 --> 00:10:42,747
-Which I think is amazing.
-
-270
-00:10:42,747 --> 00:10:44,909
-I feel like it means
-we're raising him right.
-
-271
-00:10:44,909 --> 00:10:46,875
-Because we watch
-Nightmare Before Christmas
-
-272
-00:10:46,875 --> 00:10:47,891
-so much in this house.
-
-273
-00:10:47,891 --> 00:10:49,675
-- [Bryan] Hey babe, how you feelin?
-
-274
-00:10:49,675 --> 00:10:51,191
-- I'm okay.
-
-275
-00:10:51,191 --> 00:10:53,580
-My like leg really hurts.
-
-276
-00:10:53,580 --> 00:10:55,408
-Like I can't even like bend it out.
-
-277
-00:10:55,408 --> 00:10:57,585
-It must have like, just
-by walking at Disneyland
-
-278
-00:10:57,585 --> 00:11:00,319
-it must've like made it really inflamed.
-
-279
-00:11:00,319 --> 00:11:02,114
-- [Bryan] Yeah, well you
-have been working out a ton,
-
-280
-00:11:02,114 --> 00:11:03,672
-so I'm sure that's what it is.
-
-281
-00:11:03,672 --> 00:11:05,400
-- Yeah I'm sure, I just
-think I have to rest on it.
-
-282
-00:11:05,400 --> 00:11:07,945
-I read it, I think it's
-called the I.T. Band.
-
-283
-00:11:07,945 --> 00:11:09,075
-- [Bryan] Oh yeah.
-
-284
-00:11:09,075 --> 00:11:10,459
-And you wore your watch all day?
-
-285
-00:11:10,459 --> 00:11:11,556
-- Yup.
-- Your new Apple Watch?
-
-286
-00:11:11,556 --> 00:11:13,961
-How many steps did it say you took?
-
-287
-00:11:13,961 --> 00:11:15,713
-- I don't know, I don't
-understand how to read it.
-
-288
-00:11:15,713 --> 00:11:16,983
-(laughing)
-
-289
-00:11:16,983 --> 00:11:17,929
-- [Bryan] Okay I'll help you.
-
-290
-00:11:17,929 --> 00:11:21,919
-By the way you can see
-mine and Charles (chuckles)
-
-291
-00:11:21,919 --> 00:11:24,246
-Charles Tripeze activity data.
-
-292
-00:11:24,246 --> 00:11:26,577
-He did 146 today, I saw he
-did a light run earlier.
-
-293
-00:11:26,577 --> 00:11:28,055
-- [Missy] He did that like all day.
-
-294
-00:11:28,055 --> 00:11:29,446
-Like he did that in the
-beginning of the day.
-
-295
-00:11:29,446 --> 00:11:30,279
-- [Bryan] Oh that's funny.
-
-296
-00:11:30,279 --> 00:11:31,571
-So you're on sharing.. let's see.
-
-297
-00:11:31,571 --> 00:11:32,410
-Oh here it is.
-
-298
-00:11:32,410 --> 00:11:36,160
-So you did, those are
-your stats, 4900 steps.
-
-299
-00:11:37,310 --> 00:11:39,270
-- That's nothing.
-- 2.2 miles.
-
-300
-00:11:39,270 --> 00:11:42,033
-That's a easy Disneyland day.
-- Right.
-
-301
-00:11:42,033 --> 00:11:44,379
-- And my leg is literally burning.
-
-302
-00:11:44,379 --> 00:11:47,779
-Like ow, I'm like, we
-barley did anything so.
-
-303
-00:11:47,779 --> 00:11:48,612
-- [Bryan] Bummer.
-
-304
-00:11:48,612 --> 00:11:51,176
-- Guys there's a rainbow outside.
-
-305
-00:11:51,176 --> 00:11:52,278
-- There's a rainbow outside?
-
-306
-00:11:52,278 --> 00:11:53,111
-- Yeah.
-
-307
-00:11:53,111 --> 00:11:55,492
-- [Bryan] Let's go see
-it, let's go see it.
-
-308
-00:11:55,492 --> 00:11:57,617
-Apparently the boys
-have spotted a rainbow.
-
-309
-00:11:57,617 --> 00:11:59,374
-Oh wow what's outside?
-
-310
-00:11:59,374 --> 00:12:00,207
-Holy. Wow.
-
-311
-00:12:03,103 --> 00:12:07,027
-- [Bryan] The sky is like
-pink and red. Holy cow.
-
-312
-00:12:07,027 --> 00:12:08,691
-You guys can't even see it how we can.
-
-313
-00:12:08,691 --> 00:12:11,294
-This is all like so pink, you guys.
-
-314
-00:12:11,294 --> 00:12:13,217
-I thinks its from all those fires.
-
-315
-00:12:13,217 --> 00:12:15,369
-Did you guys see the
-fires driving back home?
-
-316
-00:12:15,369 --> 00:12:16,264
-- Oh yes.
-
-317
-00:12:16,264 --> 00:12:19,353
-- [Bryan] Yeah, I think that
-probably partially from that.
-
-318
-00:12:19,353 --> 00:12:20,813
-That is amazing.
-
-319
-00:12:20,813 --> 00:12:22,213
-I actually wanna go to
-the top of the slide
-
-320
-00:12:22,213 --> 00:12:23,518
-and see if I can get a better shot.
-
-321
-00:12:23,518 --> 00:12:25,713
-You guys stay here and look
-at the sky from there okay?
-
-322
-00:12:25,713 --> 00:12:27,521
-(wind blowing)
-
-323
-00:12:27,521 --> 00:12:30,041
-- [Bryan] Alright the top.
-
-324
-00:12:30,041 --> 00:12:32,752
-Can see a little better. WoW.
-
-325
-00:12:32,752 --> 00:12:35,364
-That's crazy. That's
-so funny that the boys
-
-326
-00:12:35,364 --> 00:12:37,043
-are like, "There's a rainbow.",
-
-327
-00:12:37,043 --> 00:12:39,892
-well it's just red, it's
-not actually a rainbow.
-
-328
-00:12:39,892 --> 00:12:40,725
-(chuckles)
-
-329
-00:12:40,725 --> 00:12:42,607
-That's nuts you guys.
-
-330
-00:12:42,607 --> 00:12:46,286
-We get some great sunsets
-out here, amazing.
-
-331
-00:12:46,286 --> 00:12:48,193
-Alright boys, you had a fun day?
-
-332
-00:12:48,193 --> 00:12:49,054
-- [Both] Mm-hmm.
-
-333
-00:12:49,054 --> 00:12:50,530
-- Yes, I'm so happy for you guys.
-
-334
-00:12:50,530 --> 00:12:52,368
-Someone smells like poop.
-
-335
-00:12:52,368 --> 00:12:53,930
-(chuckles)
-
-336
-00:12:53,930 --> 00:12:56,386
-Anyway I think that's
-all for today's video.
-
-337
-00:12:56,386 --> 00:12:58,863
-Be sure to click that thumbs up button.
-
-338
-00:12:58,863 --> 00:12:59,696
+98
+00:02:52,242 --> 00:02:54,270
+- Ollie wants to take a break,
+and now Finn wants to go,
+
+99
+00:02:54,270 --> 00:02:58,111
+okay, the next question
+is from The Daily Fam,
+
+100
+00:02:58,111 --> 00:03:02,020
+the question is "Best prank
+you've pulled on someone."
+
+101
+00:03:02,020 --> 00:03:04,495
+Hands down, the best
+prank I've ever pulled
+
+102
+00:03:04,495 --> 00:03:07,881
+was the one I did on Bryan with the snake.
+
+103
+00:03:07,881 --> 00:03:11,237
+I've never been able to pull
+off a prank, like, good before,
+
+104
+00:03:11,237 --> 00:03:12,672
+I'm usually like giggling and laughing,
+
+105
+00:03:12,672 --> 00:03:14,242
+and I did a really dang good job,
+
+106
+00:03:14,242 --> 00:03:17,185
+and his reaction was perfect,
+exactly what I was hoping for.
+
+107
+00:03:17,185 --> 00:03:18,351
+So if you guys haven't watched that,
+
+108
+00:03:18,351 --> 00:03:20,246
+make sure you click the link
+up here, and go watch it.
+
+109
+00:03:20,246 --> 00:03:21,750
+It was hilarious.
+
+110
+00:03:21,750 --> 00:03:24,311
+The next question is
+from Daily Bumps Gifs,
+
+111
+00:03:24,311 --> 00:03:26,806
+and she says, "Missy, what is
+your advice to help someone
+
+112
+00:03:26,806 --> 00:03:28,729
+"get motivated to work out more?"
+
+113
+00:03:28,729 --> 00:03:30,890
+It's hard for me to give
+advice, because everyone has
+
+114
+00:03:30,890 --> 00:03:33,175
+different motivations that
+get them to that point.
+
+115
+00:03:33,175 --> 00:03:35,905
+For me, I love the fact that every time
+
+116
+00:03:35,905 --> 00:03:39,110
+I go back to the gym, I
+feel like even stronger.
+
+117
+00:03:39,110 --> 00:03:42,126
+I know that what I'm doing
+today is gonna be awesome
+
+118
+00:03:42,126 --> 00:03:44,009
+because the next time I go to the gym,
+
+119
+00:03:44,009 --> 00:03:45,035
+it's gonna be a little bit easier,
+
+120
+00:03:45,035 --> 00:03:46,879
+plus I can push myself
+a little bit farther.
+
+121
+00:03:46,879 --> 00:03:48,357
+Plus, the hope of one day maybe
+
+122
+00:03:48,357 --> 00:03:50,427
+losing the weight and
+feeling really comfortable
+
+123
+00:03:50,427 --> 00:03:51,962
+in yourself is always good, too.
+
+124
+00:03:51,962 --> 00:03:54,047
+But I just love the
+little goals that you make
+
+125
+00:03:54,047 --> 00:03:56,771
+throughout the week or months
+that you actually can meet.
+
+126
+00:03:56,771 --> 00:03:59,756
+Looks like both kids have ditched me now,
+
+127
+00:03:59,756 --> 00:04:01,763
+so I'll just finish a couple
+more of these questions.
+
+128
+00:04:01,763 --> 00:04:04,002
+Janelle asks, "How is
+Ollie doing at school?"
+
+129
+00:04:04,002 --> 00:04:05,385
+He's doing awesome.
+
+130
+00:04:05,385 --> 00:04:06,335
+He loves it.
+
+131
+00:04:06,335 --> 00:04:07,870
+He's learning so much.
+
+132
+00:04:07,870 --> 00:04:10,886
+He's learning how to
+just like, really listen
+
+133
+00:04:10,886 --> 00:04:13,865
+and cooperate because
+he's being forced to.
+
+134
+00:04:13,865 --> 00:04:15,349
+It's been a really,
+really cool experience,
+
+135
+00:04:15,349 --> 00:04:17,083
+and I'm really excited about the school
+
+136
+00:04:17,083 --> 00:04:18,795
+that we chose especially.
+
+137
+00:04:18,795 --> 00:04:20,961
+Next question is from
+Rayne, and she asked,
+
+138
+00:04:20,961 --> 00:04:23,418
+"Can you show us Finn's bed set up?"
+
+139
+00:04:23,418 --> 00:04:25,278
+Sure I can, let's go!
+
+140
+00:04:25,278 --> 00:04:29,308
+So this is Finn's bed set
+up. Basically his mattress
+
+141
+00:04:29,308 --> 00:04:33,397
+is all the way to the floor.
+He's got this little net
+
+142
+00:04:33,397 --> 00:04:36,497
+that this thing flips down and zips up.
+
+143
+00:04:36,497 --> 00:04:39,080
+Because he is a master at
+getting out of the crib.
+
+144
+00:04:39,080 --> 00:04:40,592
+I never had to do this with Ollie.
+
+145
+00:04:40,592 --> 00:04:43,517
+And then in order for
+him to sleep really good,
+
+146
+00:04:43,517 --> 00:04:46,208
+he needs a sound machine on,
+
+147
+00:04:46,208 --> 00:04:48,375
+and this sound machine on.
+
+148
+00:04:49,729 --> 00:04:52,296
+He needs like a noise
+maker and a music maker.
+
+149
+00:04:52,296 --> 00:04:55,585
+Oh, and then also a little
+light maker. (laughs)
+
+150
+00:04:55,585 --> 00:04:58,493
+He needs all these things
+so that he can sleep
+
+151
+00:04:58,493 --> 00:05:00,895
+in his bed at night,
+and a really good sleep.
+
+152
+00:05:00,895 --> 00:05:02,484
+(laughs) And that's what works.
+
+153
+00:05:02,484 --> 00:05:06,579
+Alright, last question
+is from Liz, I believe,
+
+154
+00:05:06,579 --> 00:05:09,245
+"Gonna get any more pets for the house?"
+
+155
+00:05:09,245 --> 00:05:10,936
+I don't see us getting any more pets
+
+156
+00:05:10,936 --> 00:05:12,727
+for the house anytime soon,
+
+157
+00:05:12,727 --> 00:05:15,522
+although I'm not sure
+about outside of the house.
+
+158
+00:05:15,522 --> 00:05:17,618
+But, speaking of pets...
+
+159
+00:05:17,618 --> 00:05:21,616
+(energetic bright music)
+
+160
+00:05:21,616 --> 00:05:23,533
+- Happy birthday, Luna!
+
+161
+00:05:24,710 --> 00:05:26,980
+Happy birthday, girl!
+
+162
+00:05:26,980 --> 00:05:29,122
+- It's her birthday!
+- That's right.
+
+163
+00:05:29,122 --> 00:05:30,026
+- How old is she, Ollie?
+
+164
+00:05:30,026 --> 00:05:31,730
+- Um, one!
 - Yeah!
 
+165
+00:05:31,730 --> 00:05:35,341
+- She is now one years
+old, and she is such a good
+
+166
+00:05:35,341 --> 00:05:37,268
+little puppy dog, aren't you?
+
+167
+00:05:37,268 --> 00:05:38,101
+Aren't you?
+
+168
+00:05:38,101 --> 00:05:39,685
+Ollie, do you remember when we got Luna?
+
+169
+00:05:39,685 --> 00:05:40,518
+- Yeah.
+
+170
+00:05:40,518 --> 00:05:41,460
+- [Bryan] How did we get Luna?
+
+171
+00:05:41,460 --> 00:05:43,387
+- Santa brought her.
+
+172
+00:05:43,387 --> 00:05:44,220
+- Yeah!
+- That's right!
+
+173
+00:05:44,220 --> 00:05:46,183
+Santa brought her for Christmas, huh?
+
+174
+00:05:46,183 --> 00:05:49,094
+And now she's our puppy, and
+she's such a good puppy, huh?
+
+175
+00:05:49,094 --> 00:05:51,036
+Happy birthday, Luna.
+
+176
+00:05:51,036 --> 00:05:52,910
+That's right, it's your birthday.
+
+177
+00:05:52,910 --> 00:05:54,344
+We're giving you lots of treats.
+
+178
+00:05:54,344 --> 00:05:55,766
+She's getting all the treats she wants.
+
+179
+00:05:55,766 --> 00:05:57,688
+- [Missy] (laughs) She's getting
+so many treats right now.
+
+180
+00:05:57,688 --> 00:05:59,412
+- She's gonna have treats,
+
+181
+00:05:59,412 --> 00:06:01,709
+she's gonna have a
+special birthday costume.
+
+182
+00:06:01,709 --> 00:06:03,245
+We're gonna have a little activity,
+
+183
+00:06:03,245 --> 00:06:06,038
+and she's even gonna open some presents.
+
+184
+00:06:06,038 --> 00:06:08,065
+'Cause we are gonna
+spoil our little puppy.
+
+185
+00:06:08,065 --> 00:06:10,827
+(upbeat music)
+
+186
+00:06:10,827 --> 00:06:13,393
+We have some funny outfits to put on her.
+
+187
+00:06:13,393 --> 00:06:15,276
+This one has a little cupcake.
+
+188
+00:06:15,276 --> 00:06:18,118
+And then we also have
+a hat, and of course,
+
+189
+00:06:18,118 --> 00:06:21,175
+a bib that says it's my birthday.
+
+190
+00:06:21,175 --> 00:06:24,762
+Luna, you got your
+special birthday shirt on!
+
+191
+00:06:24,762 --> 00:06:27,295
+Check it out, she's so
+pretty in her shirt.
+
+192
+00:06:27,295 --> 00:06:28,837
+- [Missy] Oh, and you need your bandana.
+
+193
+00:06:28,837 --> 00:06:32,079
+It says, it's my birthday. (laughs)
+
+194
+00:06:32,079 --> 00:06:36,386
+- [Bryan] Aw, she looks so happy. (laughs)
+
+195
+00:06:36,386 --> 00:06:39,146
+She actually does look
+really happy, it's so cute.
+
+196
+00:06:39,146 --> 00:06:39,979
+Hi, Luna!
+
+197
+00:06:41,329 --> 00:06:43,938
+Oh, look at that thing going crazy!
+
+198
+00:06:43,938 --> 00:06:45,038
+You silly puppy.
+
+199
+00:06:45,038 --> 00:06:46,284
+- [Missy] It's my birthday!
+
+200
+00:06:46,284 --> 00:06:49,387
+(upbeat music)
+
+201
+00:06:49,387 --> 00:06:50,220
+- [Bryan] Hi, Luna.
+
+202
+00:06:50,220 --> 00:06:51,142
+Hi, Luna.
+
+203
+00:06:51,142 --> 00:06:51,975
+Hi, Luna.
+
+204
+00:06:51,975 --> 00:06:52,808
+Look at her.(laughs)
+
+205
+00:06:52,808 --> 00:06:54,520
+You think she's enjoying herself already?
+
+206
+00:06:54,520 --> 00:06:55,767
+Happy birthday, Luna.
+
+207
+00:06:55,767 --> 00:06:57,930
+Happy birthday, Luna.
+
+208
+00:06:57,930 --> 00:07:00,552
+- So I picked this up at
+the pet store the other day,
+
+209
+00:07:00,552 --> 00:07:04,012
+and it's this decorating
+kit for their birthday,
+
+210
+00:07:04,012 --> 00:07:07,269
+and it comes with a little
+cookie and a cupcake,
+
+211
+00:07:07,269 --> 00:07:09,628
+and this is what it looks
+like, and I thought it would be
+
+212
+00:07:09,628 --> 00:07:13,315
+super fun for the kids to
+get to decorate the cookies.
+
+213
+00:07:13,315 --> 00:07:18,176
+So it comes with icing, and
+it even comes with sprinkles.
+
+214
+00:07:18,176 --> 00:07:20,116
+Then they get to eat
+it, and so the kids are,
+
+215
+00:07:20,116 --> 00:07:21,379
+like, super excited to decorate it
+
+216
+00:07:21,379 --> 00:07:22,907
+so we're gonna go ahead
+and decorate it now.
+
+217
+00:07:22,907 --> 00:07:26,238
+Finn's gonna do the cupcake,
+and Ollie's gonna do the bone.
+
+218
+00:07:26,238 --> 00:07:28,466
+This is our expectation. (laughs)
+
+219
+00:07:28,466 --> 00:07:30,959
+It's super cute, and we're
+gonna have the boys decorate it,
+
+220
+00:07:30,959 --> 00:07:32,332
+so we'll see how it turns out.
+
+221
+00:07:32,332 --> 00:07:33,165
+(Finn babbles)
+
+222
+00:07:33,165 --> 00:07:34,509
+Are you excited?
+
+223
+00:07:34,509 --> 00:07:36,479
+- [Bryan] Whoa, that's so cool.
+
+224
+00:07:36,479 --> 00:07:38,412
+- [Missy] Oh, that's cute.
+
+225
+00:07:38,412 --> 00:07:40,091
+- [Bryan] It's like little swirlies.
+
+226
+00:07:40,091 --> 00:07:42,674
+(upbeat music)
+
+227
+00:08:00,129 --> 00:08:03,292
+Finn's gonna sprinkle some sprinkles.
+
+228
+00:08:03,292 --> 00:08:04,219
+- Go like this.
+
+229
+00:08:04,219 --> 00:08:05,386
+- [Bryan] Woo!
+
+230
+00:08:06,500 --> 00:08:09,432
+Look at your cookies for Luna, boys!
+
+231
+00:08:09,432 --> 00:08:11,214
+You made those, that's awesome!
+
+232
+00:08:11,214 --> 00:08:12,068
+(Missy laughs)
+
+233
+00:08:12,068 --> 00:08:13,465
+- Is it for humans?
+
+234
+00:08:13,465 --> 00:08:14,451
+- [Bryan] Yeah, try it!
+
+235
+00:08:14,451 --> 00:08:15,582
+It's just a sprinkle.
+
+236
+00:08:15,582 --> 00:08:19,955
+- It's just like flour,
+applesauce, random things.
+
+237
+00:08:19,955 --> 00:08:20,788
+- [Bryan] It's good stuff.
+
+238
+00:08:20,788 --> 00:08:21,621
+Try it.
+
+239
+00:08:22,534 --> 00:08:24,032
+(laughs)
+
+240
+00:08:24,032 --> 00:08:25,933
+- Did you just eat dog food?
+
+241
+00:08:25,933 --> 00:08:28,643
+- [Missy] (laughs) Is it good?
+
+242
+00:08:28,643 --> 00:08:29,476
+- [Finn] Yeah!
+
+243
+00:08:29,476 --> 00:08:31,749
+- [Missy] Yeah? You like it?
+
+244
+00:08:31,749 --> 00:08:32,698
+(Finn babbles)
+
+245
+00:08:32,698 --> 00:08:34,870
+- [Bryan] Finn's like, yeah, I'll eat it.
+
+246
+00:08:34,870 --> 00:08:35,775
+- Nom nom nom.
+
+247
+00:08:35,775 --> 00:08:36,608
+- [Bryan] Those are for Luna.
+
+248
+00:08:36,609 --> 00:08:38,311
+That was so nice of you boys.
+
+249
+00:08:38,311 --> 00:08:41,644
+♫ Happy birthday to you
+
+250
+00:08:43,784 --> 00:08:47,117
+♫ Happy birthday to you
+
+251
+00:08:49,215 --> 00:08:52,798
+♫ Happy birthday dear Luna
+
+252
+00:08:55,693 --> 00:08:59,026
+♫ Happy birthday to you
+
+253
+00:09:02,810 --> 00:09:04,026
+Happy birthday, Luna!
+
+254
+00:09:04,026 --> 00:09:06,715
+We love you.
+- Eat it, eat it, eat it!
+
+255
+00:09:06,715 --> 00:09:07,893
+- [Missy] I feel like I'm
+so full of treats! (laughs)
+
+256
+00:09:07,893 --> 00:09:09,545
+- [Bryan] Yeah. (laughs)
+
+257
+00:09:09,545 --> 00:09:11,032
+More treats, really guys?
+
+258
+00:09:11,032 --> 00:09:12,012
+She likes it.
+
+259
+00:09:12,012 --> 00:09:12,845
+- [Missy] She's like, give that to me!
+
+260
+00:09:12,845 --> 00:09:14,570
+That is mine!
+- That is hers.
+
+261
+00:09:14,570 --> 00:09:16,426
+Maybe she'll share with
+you, though, okay guys?
+
+262
+00:09:16,426 --> 00:09:17,617
+(Missy laughs)
+
+263
+00:09:17,617 --> 00:09:18,450
+- [Missy] Do you guys want a bite?
+
+264
+00:09:18,450 --> 00:09:19,768
+- It's not good for humans.
+
+265
+00:09:19,768 --> 00:09:22,604
+- [Bryan] No, I'm sure it's fine. (laughs)
+
+266
+00:09:22,604 --> 00:09:24,227
+Alright, Luna, here's a present.
+
+267
+00:09:24,227 --> 00:09:25,517
+Here, what's this?
+
+268
+00:09:25,517 --> 00:09:26,350
+Do you know that's for you?
+
+269
+00:09:26,350 --> 00:09:27,627
+Do you know how to unwrap it?
+
+270
+00:09:27,627 --> 00:09:28,460
+Get it!
+
+271
+00:09:28,460 --> 00:09:29,768
+I had a feeling this was gonna happen,
+
+272
+00:09:29,768 --> 00:09:32,025
+so we're gonna have to bring in Karma
+
+273
+00:09:32,025 --> 00:09:35,637
+to have him teach her
+how to unwrap presents,
+
+274
+00:09:35,637 --> 00:09:37,296
+like a true puppy.
+
+275
+00:09:37,296 --> 00:09:38,668
+Karma!
+
+276
+00:09:38,668 --> 00:09:40,484
+Karma, Luna, come on!
+
+277
+00:09:40,484 --> 00:09:41,317
+Come on, guys!
+
+278
+00:09:41,317 --> 00:09:42,150
+Karma, we need your help!
+
+279
+00:09:42,150 --> 00:09:43,015
+Come on, Luna!
+
+280
+00:09:43,015 --> 00:09:45,151
+Luna will be right back,
+she had to go potty.
+
+281
+00:09:45,151 --> 00:09:48,538
+Alright, Karma, can you teach
+Luna how to open this present?
+
+282
+00:09:48,538 --> 00:09:50,371
+Get it, Karma! Get it!
+
+283
+00:09:51,632 --> 00:09:54,425
+See, Luna, listen, you
+gotta put your paw on it,
+
+284
+00:09:54,425 --> 00:09:56,290
+and then you rip apart
+the tape with your teeth,
+
+285
+00:09:56,290 --> 00:09:57,185
+there you go.
+
+286
+00:09:57,185 --> 00:09:58,101
+Get it, Karma, get it!
+
+287
+00:09:58,101 --> 00:09:59,457
+He is so delicate
+
+288
+00:09:59,457 --> 00:10:01,318
+when he is unwrapping
+presents, it's so funny.
+
+289
+00:10:01,318 --> 00:10:02,456
+Finish unwrapping it!
+- Get it, boy, get it!
+
+290
+00:10:02,456 --> 00:10:03,768
+Get it, boy, get it!
+
+291
+00:10:03,768 --> 00:10:06,148
+- There you go.
+- Good job!
+
+292
+00:10:06,148 --> 00:10:08,654
+- [Bryan] That is how you
+unwrap a present, Luna.
+
+293
+00:10:08,654 --> 00:10:10,880
+- (laughs) Whenever your
+kid's having a first birthday,
+
+294
+00:10:10,880 --> 00:10:12,795
+your oldest usually helps them.
+
+295
+00:10:12,795 --> 00:10:13,693
+- [Bryan] Yeah.
+
+296
+00:10:13,693 --> 00:10:15,671
+Kinda like the same with Karma and Luna?
+
+297
+00:10:15,671 --> 00:10:16,671
+- I know it!
+
+298
+00:10:17,724 --> 00:10:18,891
+That's my boy!
+
+299
+00:10:19,818 --> 00:10:21,809
+(laughing)
+
+300
+00:10:21,809 --> 00:10:23,468
+- [Bryan] Karma's a good boy, huh?
+
+301
+00:10:23,468 --> 00:10:24,368
+Open it, Karma, open it!
+
+302
+00:10:24,368 --> 00:10:25,778
+So what did Luna get?
+
+303
+00:10:25,778 --> 00:10:27,551
+She got a snake?
+
+304
+00:10:27,551 --> 00:10:28,737
+- [Missy] A pink snake.
+
+305
+00:10:28,737 --> 00:10:30,698
+- [Bryan] That's so cool!
+
+306
+00:10:30,698 --> 00:10:32,649
+Here Luna, wanna open this one?
+
+307
+00:10:32,649 --> 00:10:34,847
+Here, get it.
+- Get it Luna, get it!
+
+308
+00:10:34,847 --> 00:10:38,514
+- [Bryan] It's a little bone
+that says it's my birthday.
+
+309
+00:10:38,514 --> 00:10:41,875
+- It says happy birthday,
+Luna, I love you!
+
+310
+00:10:41,875 --> 00:10:43,657
+- Oh, that's what it says, huh?
+
+311
+00:10:43,657 --> 00:10:46,676
+Karma's finishing up this
+one for her. (laughs)
+
+312
+00:10:46,676 --> 00:10:48,076
+Oh, it's a tug of war!
+
+313
+00:10:48,076 --> 00:10:50,029
+Luna loves playing tug of war with Karma,
+
+314
+00:10:50,029 --> 00:10:51,403
+it's actually really cute.
+
+315
+00:10:51,403 --> 00:10:52,734
+Oh, oh, oh!
+
+316
+00:10:52,734 --> 00:10:54,377
+Get it, get it!
+
+317
+00:10:54,377 --> 00:10:55,540
+Tug of war!
+
+318
+00:10:55,540 --> 00:10:57,197
+Oh, oh, who's gonna win?
+
+319
+00:10:57,197 --> 00:10:58,230
+Who's gonna win?
+
+320
+00:10:58,230 --> 00:11:00,030
+Who's stronger, Luna or Ollie?
+
+321
+00:11:00,030 --> 00:11:01,634
+Let us know in the comments below!
+
+322
+00:11:01,634 --> 00:11:03,082
+Who do you think is gonna win this epic
+
+323
+00:11:03,082 --> 00:11:04,065
+tug of war match?
+
+324
+00:11:04,065 --> 00:11:05,992
+You still have time to leave a comment!
+
+325
+00:11:05,992 --> 00:11:07,764
+Ollie, or Luna?
+
+326
+00:11:07,764 --> 00:11:09,701
+Who's it gonna be, ladies and gentlemen?
+
+327
+00:11:09,701 --> 00:11:11,553
+Who's it gonna be?
+
+328
+00:11:11,553 --> 00:11:14,082
+(laughs) Get it!
+
+329
+00:11:14,082 --> 00:11:17,665
+They are both battling
+it out for the title
+
+330
+00:11:18,682 --> 00:11:20,961
+of tug of war champion.
+
+331
+00:11:20,961 --> 00:11:22,757
+- [Missy] Get it, Ollie! Get it! (laughs)
+
+332
+00:11:22,757 --> 00:11:24,394
+- [Bryan] She's bringing you down, Ollie.
+
+333
+00:11:24,394 --> 00:11:26,365
+She's bringing you down.
+
+334
+00:11:26,365 --> 00:11:27,198
+You ain't gettin' that.
+
+335
+00:11:27,198 --> 00:11:28,031
+Oh!
+
+336
+00:11:30,638 --> 00:11:32,205
+Luna won!
+
+337
+00:11:32,205 --> 00:11:33,877
+(laughs)
+
+338
+00:11:33,877 --> 00:11:35,917
+Aw, good job, guys.
+
 339
-00:12:59,696 --> 00:13:02,340
-- [Bryan] Thumbs up, thumbs up.
+00:11:35,917 --> 00:11:37,844
+- Hey, gimme that.
 
 340
-00:13:02,340 --> 00:13:03,535
-Check out the iCard in the corner
+00:11:37,844 --> 00:11:39,220
+I'm back.
 
 341
-00:13:03,535 --> 00:13:05,534
-to watch more fun Disneyland videos.
+00:11:39,220 --> 00:11:41,488
+- [Bryan] He's back! (laughs)
 
 342
-00:13:05,534 --> 00:13:06,429
-Thank you guys for watching.
+00:11:41,488 --> 00:11:42,321
+She's gettin' it!
 
 343
-00:13:06,429 --> 00:13:07,482
-We'll see you in Maniana.
+00:11:42,321 --> 00:11:43,214
+She's gettin' it, oh!
 
 344
-00:13:07,482 --> 00:13:08,664
-Ollie what do you say?
+00:11:43,214 --> 00:11:44,631
+She's gettin' it!
 
 345
-00:13:08,664 --> 00:13:09,497
-- Byeeeee.
+00:11:46,018 --> 00:11:48,008
+(laughs)
 
 346
-00:13:13,347 --> 00:13:16,264
-(upbeat pop music)
+00:11:48,008 --> 00:11:49,111
+There you go, Ollie!
 
 347
-00:13:23,531 --> 00:00:00,000
-(upbeat pop music)
+00:11:49,111 --> 00:11:51,101
+Just use your weight against her!
+
+348
+00:11:51,101 --> 00:11:53,684
+(upbeat music)
+
+349
+00:11:57,298 --> 00:11:58,131
+Oh!
+
+350
+00:11:58,131 --> 00:11:59,788
+And it's Karma versus Luna!
+
+351
+00:11:59,788 --> 00:12:01,288
+Who is the winner?
+
+352
+00:12:02,123 --> 00:12:02,956
+Who's gonna win?
+
+353
+00:12:02,956 --> 00:12:03,789
+Get it, Karma!
+
+354
+00:12:03,789 --> 00:12:05,633
+Oh, Karma gave it up to her.
+
+355
+00:12:05,633 --> 00:12:06,575
+(Missy laughs)
+
+356
+00:12:06,575 --> 00:12:07,771
+He's like, it's your
+birthday, I'll go easy.
+
+357
+00:12:07,771 --> 00:12:09,128
+- I think it's just
+like a little too close,
+
+358
+00:12:09,128 --> 00:12:10,489
+when it's like further away.
+- Oh yeah.
+
+359
+00:12:10,489 --> 00:12:13,416
+Look at Karma in the spirit.
+
+360
+00:12:13,416 --> 00:12:14,847
+Aw.
+
+361
+00:12:14,847 --> 00:12:16,370
+Love your hat, Karma.
+
+362
+00:12:16,370 --> 00:12:17,615
+(laughs)
+
+363
+00:12:17,615 --> 00:12:20,514
+It's dinner time for these fishies.
+
+364
+00:12:20,514 --> 00:12:22,854
+We're putting in some
+food and some seaweed.
+
+365
+00:12:22,854 --> 00:12:23,687
+Oh!
+
+366
+00:12:23,687 --> 00:12:25,574
+We've got some blood worms, too?
+
+367
+00:12:25,574 --> 00:12:27,639
+You guys are spoiled.
+
+368
+00:12:27,639 --> 00:12:30,056
+We have a new fire angelfish,
+
+369
+00:12:31,399 --> 00:12:33,957
+and we haven't really
+got a good shot of her.
+
+370
+00:12:33,957 --> 00:12:35,165
+She's peeking out right there.
+
+371
+00:12:35,165 --> 00:12:36,607
+- [Missy] (laughs) She gets so nervous.
+
+372
+00:12:36,607 --> 00:12:37,523
+- [Bryan] Yeah.
+
+373
+00:12:37,523 --> 00:12:40,343
+Come on, come on, come on.
+
+374
+00:12:40,343 --> 00:12:42,178
+Look at that fish, you guys.
+
+375
+00:12:42,178 --> 00:12:44,802
+Such a pretty fish, we
+just want to see you.
+
+376
+00:12:44,802 --> 00:12:47,969
+(smooth guitar music)
+
+377
+00:12:51,574 --> 00:12:53,213
+We are getting seaweed for the fish,
+
+378
+00:12:53,213 --> 00:12:55,980
+and the dogs are going crazy over it.
+
+379
+00:12:55,980 --> 00:12:57,118
+- You will not like this.
+
+380
+00:12:57,118 --> 00:12:58,235
+This is gross.
+
+381
+00:12:58,235 --> 00:12:59,223
+You would not like this.
+
+382
+00:12:59,223 --> 00:13:00,449
+This isn't dog food.
+
+383
+00:13:00,449 --> 00:13:02,534
+- [Bryan] This is fish food. (laughs)
+
+384
+00:13:02,534 --> 00:13:04,611
+- Yeah, Karma was like, yeah,
+you're right, ew. (laughs)
+
+385
+00:13:04,611 --> 00:13:06,082
+Alright, we gotta put one more in.
+
+386
+00:13:06,082 --> 00:13:07,367
+- [Bryan] Hey Ollie, what
+do you think we should name
+
+387
+00:13:07,367 --> 00:13:09,154
+our new red angel fish?
+
+388
+00:13:09,154 --> 00:13:10,301
+- Um, Tina!
+
+389
+00:13:10,301 --> 00:13:11,933
+- You think Tina?
+- Yeah.
+
+390
+00:13:11,933 --> 00:13:13,208
+- Hmm...
+
+391
+00:13:13,208 --> 00:13:14,041
+- [Bryan] That's interesting.
+
+392
+00:13:14,041 --> 00:13:15,070
+Missy, what do you want to name it?
+
+393
+00:13:15,070 --> 00:13:19,237
+- I wanna name it Rajah,
+from the tiger from Aladdin.
+
+394
+00:13:20,148 --> 00:13:21,681
+- What do you guys
+think we should name it?
+
+395
+00:13:21,681 --> 00:13:23,239
+Tina or Rajah?
+
+396
+00:13:23,239 --> 00:13:25,196
+I'm gonna have an iCard poll in the corner
+
+397
+00:13:25,196 --> 00:13:27,159
+if you guys wanna click that, answer it,
+
+398
+00:13:27,159 --> 00:13:29,547
+and we'll choose the one you pick.
+
+399
+00:13:29,547 --> 00:13:30,823
+Those are two good names, right?
+
+400
+00:13:30,823 --> 00:13:32,181
+- Mm-hmm, actually I like them both.
+
+401
+00:13:32,181 --> 00:13:33,014
+- [Bryan] Yeah.
+
+402
+00:13:33,014 --> 00:13:35,287
+You guys actually helped
+us name this big guy.
+
+403
+00:13:35,287 --> 00:13:37,804
+- The choices were
+between Rafiki and Dude.
+
+404
+00:13:37,804 --> 00:13:39,338
+I really, really wanted Rafiki,
+
+405
+00:13:39,338 --> 00:13:41,771
+'cause he looks like Rafiki,
+but you guys chose Dude,
+
+406
+00:13:41,771 --> 00:13:43,614
+so that's his name. (laughs)
+- Yeah.
+
+407
+00:13:43,614 --> 00:13:45,979
+You guys are doing a good job
+at helping us name our fish.
+
+408
+00:13:45,979 --> 00:13:46,865
+(laughs)
+
+409
+00:13:46,865 --> 00:13:50,032
+(smooth guitar music)
+
+410
+00:13:51,540 --> 00:13:53,457
+This boy is a wild one.
+
+411
+00:13:54,569 --> 00:13:55,402
+Huh, Finn?
+
+412
+00:13:56,355 --> 00:13:58,429
+- Do you like crazy?
+- Yeah.
+
+413
+00:13:58,429 --> 00:13:59,762
+And you're a good one?
+
+414
+00:13:59,762 --> 00:14:02,304
+- (laughs) This boy is a good one.
+
+415
+00:14:02,304 --> 00:14:04,982
+- Self-proclaimed good boy.
+
+416
+00:14:04,982 --> 00:14:06,956
+That's what you are.
+
+417
+00:14:06,956 --> 00:14:07,938
+(laughs)
+
+418
+00:14:07,938 --> 00:14:09,963
+- [Missy] That was so cute.
+
+419
+00:14:09,963 --> 00:14:10,796
+- Yeah!
+
+420
+00:14:10,796 --> 00:14:13,766
+It is an oatmeal and applesauce dinner
+
+421
+00:14:13,766 --> 00:14:15,956
+kinda night, isn't it?
+
+422
+00:14:15,956 --> 00:14:18,096
+These boys love oatmeal.
+
+423
+00:14:18,096 --> 00:14:19,549
+And honestly, it smells really good,
+
+424
+00:14:19,549 --> 00:14:21,539
+I might just eat some oatmeal, too.
+
+425
+00:14:21,539 --> 00:14:23,484
+- I think it smells like dog poop.
+
+426
+00:14:23,484 --> 00:14:25,797
+- [Bryan] You do? Why?
+
+427
+00:14:25,797 --> 00:14:26,742
+- 'Cause...
+
+428
+00:14:26,742 --> 00:14:28,162
+(Finn babbles)
+
+429
+00:14:28,162 --> 00:14:30,516
+- Why would you say that, Ollie?
+
+430
+00:14:30,516 --> 00:14:32,799
+It doesn't smell like dog poo!
+
+431
+00:14:32,799 --> 00:14:33,695
+- Yes it does.
+
+432
+00:14:33,695 --> 00:14:35,845
+- [Bryan] Luna, did you
+leave us a birthday poo?
+
+433
+00:14:35,845 --> 00:14:36,825
+Is that what you did?
+
+434
+00:14:36,825 --> 00:14:38,916
+No, Luna's a good puppy.
+
+435
+00:14:38,916 --> 00:14:40,378
+- [Ollie] Yes, she did!
+
+436
+00:14:40,378 --> 00:14:41,280
+- [Bryan] No, she didn't!
+
+437
+00:14:41,280 --> 00:14:42,625
+- [Ollie] Yes, she did!
+
+438
+00:14:42,625 --> 00:14:45,349
+- [Bryan] Don't tease
+Luna on her birthday!
+
+439
+00:14:45,349 --> 00:14:48,925
+It has been such a crazy
+long day, hasn't it, Ollie?
+
+440
+00:14:48,925 --> 00:14:49,758
+- Yeah.
+
+441
+00:14:49,758 --> 00:14:52,231
+- Yeah, we've been working
+so hard on some projects
+
+442
+00:14:52,231 --> 00:14:54,530
+for you guys that are
+coming out later this month.
+
+443
+00:14:54,530 --> 00:14:56,217
+Are you excited?
+
+444
+00:14:56,217 --> 00:14:57,050
+- Uh-huh.
+
+445
+00:14:57,050 --> 00:14:57,918
+- Do you wanna tell 'em?
+
+446
+00:14:57,918 --> 00:14:58,751
+- Uh-huh.
+
+447
+00:14:58,751 --> 00:14:59,717
+- Don't tell 'em! No!
+
+448
+00:14:59,717 --> 00:15:01,312
+Don't tell 'em! Don't do it!
+
+449
+00:15:01,312 --> 00:15:02,423
+- The jack.
+
+450
+00:15:02,423 --> 00:15:03,256
+- No!
+- Yeah.
+
+451
+00:15:03,256 --> 00:15:05,461
+- Anyway, that's all for today's vlog.
+
+452
+00:15:05,461 --> 00:15:06,757
+Thanks for watching.
+
+453
+00:15:06,757 --> 00:15:08,467
+Give this video a thumbs up.
+
+454
+00:15:08,467 --> 00:15:09,300
+Subscribe.
+
+455
+00:15:09,300 --> 00:15:11,388
+We'll see you manana.
+
+456
+00:15:11,388 --> 00:15:12,532
+Ollie, you wanna do bye boop?
+
+457
+00:15:12,532 --> 00:15:13,365
+- Bye...
+
+458
+00:15:15,584 --> 00:15:16,814
+Boop.
+
+459
+00:15:16,814 --> 00:15:18,129
+(Bryan laughs)
+
+460
+00:15:18,129 --> 00:00:00,000
+(upbeat music)
 

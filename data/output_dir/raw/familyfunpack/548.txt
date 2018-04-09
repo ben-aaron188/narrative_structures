@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:06,799
+well this<font color="#E5E5E5"> wait what did</font><font color="#CCCCCC"> you</font><font color="#E5E5E5"> just do what</font>
+
+2
+00:00:06,799 --> 00:00:13,290
+<font color="#CCCCCC">did you do did you run over what did you</font>
+
+3
+00:00:13,290 --> 00:00:00,000
+do
+

@@ -34,9 +34,10 @@ for vlogger, vlogs in vloggers.items():
             count += 1
             download_transcript(vlogger, count, vlog)
             view_count, published = get_video_data(vlog)
+            channel_url = "https://www.youtube.com/user/" + vlogger + "/videos"
 
             with open("overview.txt", "a") as f:
-                f.write(vlogger + "," + str(count) + "," + vlog + "," + view_count + "," + published + "\n")
+                f.write(vlogger + "," + str(count) + "," + vlog + "," + view_count + "," + published + "," + channel_url + "\n")
         except:
             print("Video " + vlog + " from " + vlogger + " not supported!")
             count -= 1

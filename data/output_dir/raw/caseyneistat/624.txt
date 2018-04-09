@@ -1,460 +1,268 @@
 1
-00:00:00,110 --> 00:00:03,120
-today's vlog<font color="#CCCCCC"> is going</font><font color="#E5E5E5"> to have really</font>
+00:00:03,470 --> 00:00:06,779
+hello and welcome<font color="#E5E5E5"> to beam news the only</font>
 
 2
-00:00:03,120 --> 00:00:04,529
-<font color="#E5E5E5">good time lapses because I basically</font>
+00:00:06,779 --> 00:00:08,460
+news program that talks<font color="#CCCCCC"> exclusively</font>
 
 3
-00:00:04,529 --> 00:00:06,839
-<font color="#CCCCCC">spent the entire day</font><font color="#E5E5E5"> shooting time</font>
+00:00:08,460 --> 00:00:10,440
+about beam<font color="#E5E5E5"> because</font><font color="#CCCCCC"> why else would anyone</font>
 
 4
-00:00:06,839 --> 00:00:09,350
-lapses
+00:00:10,440 --> 00:00:12,330
+have a news program that talks<font color="#E5E5E5"> about</font>
 
 5
-00:00:30,869 --> 00:00:32,700
-<font color="#CCCCCC">summer speeds this awesome</font><font color="#E5E5E5"> thing that</font>
+00:00:12,330 --> 00:00:14,580
+being besides me<font color="#E5E5E5"> today's program is a</font>
 
 6
-00:00:32,700 --> 00:00:35,399
-<font color="#E5E5E5">the city</font><font color="#CCCCCC"> does every summer</font><font color="#E5E5E5"> where they</font>
+00:00:14,580 --> 00:00:15,839
+quick one we're talking<font color="#E5E5E5"> about three</font>
 
 7
-00:00:35,399 --> 00:00:37,649
-shut down<font color="#CCCCCC"> an</font><font color="#E5E5E5"> entire</font><font color="#CCCCCC"> street the whole</font><font color="#E5E5E5"> way</font>
+00:00:15,839 --> 00:00:20,310
+<font color="#E5E5E5">things first up very important we posted</font>
 
 8
-00:00:37,649 --> 00:00:39,480
-down<font color="#E5E5E5"> the city an</font><font color="#CCCCCC"> Avenue the whole length</font>
+00:00:20,310 --> 00:00:22,470
+an update<font color="#E5E5E5"> on the Saturday if you haven't</font>
 
 9
-00:00:39,480 --> 00:00:41,010
-of the city<font color="#E5E5E5"> and they just let people</font>
+00:00:22,470 --> 00:00:24,269
+gotten<font color="#CCCCCC"> a yet get it</font><font color="#E5E5E5"> it's update version</font>
 
 10
-00:00:41,010 --> 00:00:43,199
-<font color="#E5E5E5">walk and ride bikes and hang out and</font>
+00:00:24,269 --> 00:00:28,470
+<font color="#CCCCCC">point five</font><font color="#E5E5E5"> in this version</font><font color="#CCCCCC"> a couple of</font>
 
 11
-00:00:43,199 --> 00:00:46,920
-there<font color="#CCCCCC"> are no cars</font><font color="#E5E5E5"> it's amazing</font>
+00:00:28,470 --> 00:00:30,660
+big things<font color="#CCCCCC"> number</font><font color="#E5E5E5"> one people are sending</font>
 
 12
-00:00:46,920 --> 00:00:48,690
-the<font color="#E5E5E5"> in-laws are</font><font color="#CCCCCC"> here we're walking the</font>
+00:00:30,660 --> 00:00:32,340
+<font color="#CCCCCC">a borderline ridiculous amount of</font>
 
 13
-00:00:48,690 --> 00:00:50,870
-<font color="#E5E5E5">baby</font>
+00:00:32,340 --> 00:00:34,170
+reactions<font color="#CCCCCC"> I love it</font>
 
 14
-00:01:09,070 --> 00:01:12,410
-summer streets is over<font color="#E5E5E5"> now we're in the</font>
+00:00:34,170 --> 00:00:36,270
+don't stop<font color="#E5E5E5"> sending them</font><font color="#CCCCCC"> we'll just make</font>
 
 15
-00:01:12,410 --> 00:01:16,160
-park<font color="#CCCCCC"> Franny</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> doing better</font><font color="#E5E5E5"> we had a</font>
+00:00:36,270 --> 00:00:38,160
+<font color="#CCCCCC">it</font><font color="#E5E5E5"> easier for you</font><font color="#CCCCCC"> to view them and view</font>
 
 16
-00:01:16,160 --> 00:01:18,260
-little toothache earlier<font color="#CCCCCC"> twofers are</font>
+00:00:38,160 --> 00:00:38,879
+them fast
 
 17
-00:01:18,260 --> 00:01:20,680
-coming in
+00:00:38,879 --> 00:00:41,579
+next up<font color="#E5E5E5"> big thing this update we</font><font color="#CCCCCC"> fixed</font>
 
 18
-00:01:22,069 --> 00:01:25,670
-yeah now
+00:00:41,579 --> 00:00:43,559
+the posting bug<font color="#CCCCCC"> no</font><font color="#E5E5E5"> longer will your</font>
 
 19
-00:01:40,909 --> 00:01:44,689
-nope don't mess with the camera
+00:00:43,559 --> 00:00:45,510
+posting gets stuck now that goes
 
 20
-00:01:44,689 --> 00:01:59,179
-<font color="#E5E5E5">Oh trying to get home now</font>
+00:00:45,510 --> 00:00:46,950
+smoothly
 
 21
-00:01:59,179 --> 00:02:01,009
-we took an uber<font color="#E5E5E5"> we probably should</font><font color="#CCCCCC"> have</font>
+00:00:46,950 --> 00:00:49,289
+tiny<font color="#CCCCCC"> Easter Egg</font><font color="#E5E5E5"> in there when you touch</font>
 
 22
-00:02:01,009 --> 00:02:09,348
-walked traffic<font color="#E5E5E5"> is miserable without on</font>
+00:00:49,289 --> 00:00:51,149
+where it says posting the<font color="#E5E5E5"> red text which</font>
 
 23
-00:02:09,348 --> 00:02:10,878
-the electric skateboard going to get
+00:00:51,149 --> 00:00:53,100
+<font color="#CCCCCC">says posting underneath that</font><font color="#E5E5E5"> it will</font>
 
 24
-00:02:10,878 --> 00:02:13,730
-snacks for<font color="#E5E5E5"> Candace to me and I think I</font>
+00:00:53,100 --> 00:00:55,260
+show you the exact progress of<font color="#E5E5E5"> your</font>
 
 25
-00:02:13,730 --> 00:02:16,400
-<font color="#CCCCCC">just spotted one</font><font color="#E5E5E5"> of my favorite people</font>
+00:00:55,260 --> 00:00:57,690
+<font color="#CCCCCC">posts</font><font color="#E5E5E5"> it'll show you the percentage of</font>
 
 26
-00:02:16,400 --> 00:02:19,180
-in<font color="#CCCCCC"> local</font>
+00:00:57,690 --> 00:00:59,609
+the post how much is done down to the
 
 27
-00:02:24,990 --> 00:02:32,310
-oh my god buddy<font color="#CCCCCC"> I love that guy</font>
+00:00:59,609 --> 00:01:01,680
+one hundredth of<font color="#CCCCCC"> one percent</font><font color="#E5E5E5"> it will</font>
 
 28
-00:02:32,310 --> 00:02:34,980
-<font color="#CCCCCC">Candace and</font><font color="#E5E5E5"> the baby are home now</font><font color="#CCCCCC"> I've</font>
+00:01:01,680 --> 00:01:04,110
+<font color="#CCCCCC">also show you in bytes how many bytes</font>
 
 29
-00:02:34,980 --> 00:02:37,860
-been sent on a<font color="#CCCCCC"> mission to go get food</font>
+00:01:04,110 --> 00:01:06,210
+are remaining<font color="#CCCCCC"> it's really cool okay</font><font color="#E5E5E5"> this</font>
 
 30
-00:02:37,860 --> 00:02:39,750
-<font color="#E5E5E5">and then a little later today I need to</font>
+00:01:06,210 --> 00:01:08,820
+right here<font color="#CCCCCC"> we slowed</font><font color="#E5E5E5"> this way down they</font>
 
 31
-00:02:39,750 --> 00:02:41,490
-do something I've done a very<font color="#E5E5E5"> long time</font>
+00:01:08,820 --> 00:01:10,650
+post much faster<font color="#E5E5E5"> than this I just</font><font color="#CCCCCC"> wanted</font>
 
 32
-00:02:41,490 --> 00:02:45,000
-which is<font color="#E5E5E5"> to go on a</font><font color="#CCCCCC"> time-lapse mission</font>
+00:01:10,650 --> 00:01:12,299
+you guys to see<font color="#CCCCCC"> how cool it looks</font>
 
 33
-00:02:45,000 --> 00:02:46,860
-around<font color="#E5E5E5"> New</font><font color="#CCCCCC"> York</font><font color="#E5E5E5"> City</font><font color="#CCCCCC"> I know the</font>
+00:01:12,299 --> 00:01:15,299
+singing it upload in<font color="#CCCCCC"> real time it's</font>
 
 34
-00:02:46,860 --> 00:02:50,100
-time-lapse is in my<font color="#E5E5E5"> vlogs and be getting</font>
+00:01:15,299 --> 00:01:19,890
+awesome<font color="#CCCCCC"> okie</font><font color="#E5E5E5"> stickers I said on</font>
 
 35
-00:02:50,100 --> 00:02:51,720
-a little<font color="#E5E5E5"> snail as the plane</font>
+00:01:19,890 --> 00:01:23,340
+yesterday's vlog<font color="#CCCCCC"> I wasn't too keen on</font>
 
 36
-00:02:51,720 --> 00:02:55,670
-I want to go shoot all new<font color="#E5E5E5"> ones today</font>
+00:01:23,340 --> 00:01:28,320
+<font color="#E5E5E5">these stickers like this one and this</font>
 
 37
-00:03:05,360 --> 00:03:08,090
-so it's a lot later than<font color="#E5E5E5"> I</font><font color="#CCCCCC"> wanted</font><font color="#E5E5E5"> to get</font>
+00:01:28,320 --> 00:01:31,170
+one<font color="#CCCCCC"> I think they're fine they just</font><font color="#E5E5E5"> like</font>
 
 38
-00:03:08,090 --> 00:03:10,670
-out to go shoot some time lapse but I've
+00:01:31,170 --> 00:01:35,220
+they<font color="#E5E5E5"> are awesome so I said you guys send</font>
 
 39
-00:03:10,670 --> 00:03:12,740
-still<font color="#E5E5E5"> got</font><font color="#CCCCCC"> plenty</font><font color="#E5E5E5"> of Sun to get a couple</font>
+00:01:35,220 --> 00:01:37,380
+me stickers<font color="#CCCCCC"> two stickers</font><font color="#E5E5E5"> at beam com</font>
 
 40
-00:03:12,740 --> 00:03:14,570
-<font color="#E5E5E5">of shots</font><font color="#CCCCCC"> first stop</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> going</font><font color="#E5E5E5"> to be</font>
+00:01:37,380 --> 00:01:39,780
+some of them been coming in they're kind
 
 41
-00:03:14,570 --> 00:03:17,180
-<font color="#E5E5E5">underneath</font><font color="#CCCCCC"> the Williamsburg</font><font color="#E5E5E5"> Bridge</font><font color="#CCCCCC"> it's</font>
+00:01:39,780 --> 00:01:42,659
+<font color="#E5E5E5">of great some are terrible</font><font color="#CCCCCC"> this is what</font>
 
 42
-00:03:17,180 --> 00:03:18,560
-a pretty amazing view of Brooklyn down
+00:01:42,659 --> 00:01:45,540
+some<font color="#CCCCCC"> of them look like these</font><font color="#E5E5E5"> are some of</font>
 
 43
-00:03:18,560 --> 00:03:19,760
-there and I<font color="#CCCCCC"> haven't filmed down there</font>
+00:01:45,540 --> 00:01:50,700
+what you<font color="#E5E5E5"> guys have been sending us some</font>
 
 44
-00:03:19,760 --> 00:03:26,800
-yet<font color="#CCCCCC"> so whoa watch it what's up</font>
+00:01:50,700 --> 00:01:53,689
+of these are<font color="#E5E5E5"> kind of great right</font>
 
 45
-00:03:36,280 --> 00:03:38,750
-<font color="#CCCCCC">all right time-lapse session in full</font>
+00:01:56,409 --> 00:01:59,840
+<font color="#E5E5E5">okay anyways you've been sending us like</font>
 
 46
-00:03:38,750 --> 00:03:42,560
-effect<font color="#CCCCCC"> I got one going here another one</font>
+00:01:59,840 --> 00:02:02,630
+a zillion<font color="#E5E5E5"> of these things</font><font color="#CCCCCC"> and we</font>
 
 47
-00:03:42,560 --> 00:03:45,590
-<font color="#E5E5E5">going</font><font color="#CCCCCC"> right here and then I got my GoPro</font>
+00:02:02,630 --> 00:02:03,619
+appreciate it
 
 48
-00:03:45,590 --> 00:03:47,440
-<font color="#E5E5E5">right there</font>
+00:02:03,619 --> 00:02:05,750
+keep them coming<font color="#CCCCCC"> we'll select a couple</font>
 
 49
-00:03:47,440 --> 00:03:50,330
-check out these jet skiers man does that
+00:02:05,750 --> 00:02:06,979
+<font color="#E5E5E5">that we really like and</font><font color="#CCCCCC"> we'll actually</font>
 
 50
-00:03:50,330 --> 00:03:52,940
-<font color="#E5E5E5">look like fun so this is a particularly</font>
+00:02:06,979 --> 00:02:10,008
+<font color="#E5E5E5">send them</font><font color="#CCCCCC"> into production</font><font color="#E5E5E5"> last thing on</font>
 
 51
-00:03:52,940 --> 00:03:55,670
-rich spot for<font color="#E5E5E5"> time-lapse this year my</font>
+00:02:10,008 --> 00:02:13,849
+today's agenda<font color="#E5E5E5"> is today's</font><font color="#CCCCCC"> recommendation</font>
 
 52
-00:03:55,670 --> 00:03:57,170
-<font color="#E5E5E5">cameras are a little spaced out here</font>
+00:02:13,849 --> 00:02:16,130
+is a young lady<font color="#E5E5E5"> named Claudia</font><font color="#CCCCCC"> I think</font>
 
 53
-00:03:57,170 --> 00:03:58,880
-though there's two<font color="#E5E5E5"> here and then one all</font>
+00:02:16,130 --> 00:02:18,319
+that's her name<font color="#E5E5E5"> her user name is Claudia</font>
 
 54
-00:03:58,880 --> 00:04:01,220
-the way over there<font color="#E5E5E5"> so keep a close eye</font>
+00:02:18,319 --> 00:02:21,110
+<font color="#CCCCCC">cats I don't know her</font><font color="#E5E5E5"> she lives in</font>
 
 55
-00:04:01,220 --> 00:04:05,209
-<font color="#CCCCCC">on them I'm moving to location 2 now so</font>
+00:02:21,110 --> 00:02:21,800
+Poland
 
 56
-00:04:05,209 --> 00:04:08,200
-all of<font color="#CCCCCC"> my vlogs start with a time-lapse</font>
+00:02:21,800 --> 00:02:23,989
+I've never been<font color="#E5E5E5"> to Poland</font><font color="#CCCCCC"> and she's</font>
 
 57
-00:04:08,200 --> 00:04:11,950
-<font color="#CCCCCC">and</font><font color="#E5E5E5"> you have for a couple reasons</font>
+00:02:23,989 --> 00:02:25,160
+always like sharing her little
 
 58
-00:04:12,480 --> 00:04:14,730
-number one it's<font color="#E5E5E5"> really pretty</font><font color="#CCCCCC"> and fun to</font>
+00:02:25,160 --> 00:02:27,140
+experiences in Poland<font color="#E5E5E5"> like riding on a</font>
 
 59
-00:04:14,730 --> 00:04:17,250
-look<font color="#CCCCCC"> at</font><font color="#E5E5E5"> out</font><font color="#CCCCCC"> I don't people</font><font color="#E5E5E5"> paying</font>
+00:02:27,140 --> 00:02:30,280
+<font color="#E5E5E5">train with her girlfriends</font>
 
 60
-00:04:17,250 --> 00:04:20,250
-<font color="#E5E5E5">attention</font><font color="#CCCCCC"> number two it's like we're the</font>
+00:02:35,250 --> 00:02:38,040
+or what looks like some beautiful<font color="#E5E5E5"> palace</font>
 
 61
-00:04:20,250 --> 00:04:21,510
-<font color="#CCCCCC">two most important pieces of information</font>
+00:02:38,040 --> 00:02:41,440
+<font color="#CCCCCC">I don't know I find</font><font color="#E5E5E5"> her very interesting</font>
 
 62
-00:04:21,510 --> 00:04:24,150
-when watching a vlog for<font color="#CCCCCC"> me it's</font><font color="#E5E5E5"> like</font>
+00:02:41,440 --> 00:02:42,400
+and kind of funny
 
 63
-00:04:24,150 --> 00:04:27,360
-where is it<font color="#CCCCCC"> and what time is it so I</font>
+00:02:42,400 --> 00:02:43,870
+she usually speaks in English sometimes
 
 64
-00:04:27,360 --> 00:04:29,280
-start my vlogs with<font color="#E5E5E5"> a time and a</font>
+00:02:43,870 --> 00:02:46,270
+<font color="#CCCCCC">in</font><font color="#E5E5E5"> Polish check her out if you're</font>
 
 65
-00:04:29,280 --> 00:04:32,100
-<font color="#CCCCCC">location and the time-lapse helps like</font>
+00:02:46,270 --> 00:02:50,980
+<font color="#CCCCCC">interested I think that's I think</font><font color="#E5E5E5"> that's</font>
 
 66
-00:04:32,100 --> 00:04:34,710
-reinforce the location header<font color="#CCCCCC"> location</font>
+00:02:50,980 --> 00:02:52,840
+it<font color="#E5E5E5"> for today's beam news thanks for</font>
 
 67
-00:04:34,710 --> 00:04:36,690
-number<font color="#E5E5E5"> two right</font><font color="#CCCCCC"> now for time-lapse</font><font color="#E5E5E5"> and</font>
-
-68
-00:04:36,690 --> 00:04:38,550
-<font color="#CCCCCC">that's going to</font><font color="#E5E5E5"> be right underneath the</font>
-
-69
-00:04:38,550 --> 00:04:41,240
-Brooklyn Bridge
-
-70
-00:04:56,140 --> 00:04:59,740
-<font color="#CCCCCC">Yeah right</font><font color="#E5E5E5"> here from this location here</font>
-
-71
-00:04:59,740 --> 00:05:02,710
-<font color="#CCCCCC">I was able to</font><font color="#E5E5E5"> shoot like I think six</font>
-
-72
-00:05:02,710 --> 00:05:04,090
-different<font color="#CCCCCC"> setups or seven different</font>
-
-73
-00:05:04,090 --> 00:05:05,920
-setups<font color="#CCCCCC"> I take the helmet off when I do</font>
-
-74
-00:05:05,920 --> 00:05:07,180
-the shooting<font color="#E5E5E5"> I'm just about to leave the</font>
-
-75
-00:05:07,180 --> 00:05:08,650
-fight<font color="#E5E5E5"> for the background</font><font color="#CCCCCC"> but</font><font color="#E5E5E5"> this</font><font color="#CCCCCC"> one's</font>
-
-76
-00:05:08,650 --> 00:05:10,210
-<font color="#CCCCCC">probably</font><font color="#E5E5E5"> my favorite I shot on the</font>
-
-77
-00:05:10,210 --> 00:05:12,130
-little camera<font color="#CCCCCC"> it's kind of like a</font>
-
-78
-00:05:12,130 --> 00:05:14,230
-perfect half of that<font color="#E5E5E5"> side half of this</font>
-
-79
-00:05:14,230 --> 00:05:16,630
-side<font color="#E5E5E5"> and then the lights just amazing</font>
-
-80
-00:05:16,630 --> 00:05:18,850
-<font color="#E5E5E5">this is probably the weakest camera I</font>
-
-81
-00:05:18,850 --> 00:05:21,070
-have when it gets the job<font color="#CCCCCC"> done</font>
-
-82
-00:05:21,070 --> 00:05:23,800
-okay next<font color="#E5E5E5"> location is going to</font><font color="#CCCCCC"> be</font><font color="#E5E5E5"> the</font>
-
-83
-00:05:23,800 --> 00:05:26,050
-pier at the South<font color="#E5E5E5"> Street Seaport</font><font color="#CCCCCC"> I think</font>
-
-84
-00:05:26,050 --> 00:05:27,490
-I should be able<font color="#E5E5E5"> to get good views of</font>
-
-85
-00:05:27,490 --> 00:05:29,470
-<font color="#E5E5E5">lower Manhattan from under there not</font>
-
-86
-00:05:29,470 --> 00:05:32,790
-sure<font color="#E5E5E5"> but I think so</font>
-
-87
-00:05:33,910 --> 00:05:38,930
-this is the<font color="#E5E5E5"> pier here honestly</font><font color="#CCCCCC"> don't</font>
-
-88
-00:05:38,930 --> 00:05:40,310
-know<font color="#E5E5E5"> if</font><font color="#CCCCCC"> I've ever been on the South</font>
-
-89
-00:05:40,310 --> 00:05:42,680
-Street Seaport<font color="#E5E5E5"> Pier as long as I've</font>
-
-90
-00:05:42,680 --> 00:05:44,870
-lived in<font color="#CCCCCC"> New York</font><font color="#E5E5E5"> City</font><font color="#CCCCCC"> a lot going on</font>
-
-91
-00:05:44,870 --> 00:06:00,830
-out<font color="#CCCCCC"> here all</font><font color="#E5E5E5"> right that was a really</font>
-
-92
-00:06:00,830 --> 00:06:04,010
-<font color="#E5E5E5">good Vantage but a lot of people</font><font color="#CCCCCC"> and</font>
-
-93
-00:06:04,010 --> 00:06:05,780
-<font color="#CCCCCC">people kept talking to</font><font color="#E5E5E5"> me</font><font color="#CCCCCC"> because</font><font color="#E5E5E5"> only a</font>
-
-94
-00:06:05,780 --> 00:06:07,760
-weirdo has six cameras rolling at once
-
-95
-00:06:07,760 --> 00:06:10,790
-<font color="#E5E5E5">and they made it</font><font color="#CCCCCC"> really hard to</font><font color="#E5E5E5"> actually</font>
-
-96
-00:06:10,790 --> 00:06:12,620
-get anything done<font color="#CCCCCC"> so I'm</font><font color="#E5E5E5"> going to try to</font>
-
-97
-00:06:12,620 --> 00:06:15,080
-<font color="#E5E5E5">move to the</font><font color="#CCCCCC"> room</font><font color="#E5E5E5"> to the other</font><font color="#CCCCCC"> side</font><font color="#E5E5E5"> of</font>
-
-98
-00:06:15,080 --> 00:06:16,730
-the island right<font color="#CCCCCC"> now</font><font color="#E5E5E5"> and catch the last</font>
-
-99
-00:06:16,730 --> 00:06:19,190
-of the<font color="#E5E5E5"> sunset</font><font color="#CCCCCC"> over there</font><font color="#E5E5E5"> I'm on the east</font>
-
-100
-00:06:19,190 --> 00:06:22,270
-side now going to the<font color="#E5E5E5"> west side</font>
-
-101
-00:06:33,470 --> 00:06:36,900
-<font color="#E5E5E5">all right it's just about dark the Sun</font>
-
-102
-00:06:36,900 --> 00:06:39,560
-is set which usually means<font color="#E5E5E5"> the end of</font>
-
-103
-00:06:39,560 --> 00:06:43,620
-<font color="#E5E5E5">time</font><font color="#CCCCCC"> lapses</font><font color="#E5E5E5"> but</font><font color="#CCCCCC"> there's one more</font><font color="#E5E5E5"> set up</font>
-
-104
-00:06:43,620 --> 00:06:45,030
-that<font color="#E5E5E5"> I want</font><font color="#CCCCCC"> to get but I think I can get</font>
-
-105
-00:06:45,030 --> 00:06:47,340
-it<font color="#CCCCCC"> dust</font><font color="#E5E5E5"> and then I</font><font color="#CCCCCC"> get to</font><font color="#E5E5E5"> get home</font>
-
-106
-00:06:47,340 --> 00:06:50,730
-so<font color="#CCCCCC"> Candice doesn't divorce</font><font color="#E5E5E5"> me</font><font color="#CCCCCC"> so this</font><font color="#E5E5E5"> is</font>
-
-107
-00:06:50,730 --> 00:06:52,620
-the last set up<font color="#E5E5E5"> this is like a Canyon</font>
-
-108
-00:06:52,620 --> 00:06:55,620
-shot here looking up this street with
-
-109
-00:06:55,620 --> 00:06:57,720
-the World Trade<font color="#CCCCCC"> Center there</font><font color="#E5E5E5"> that was</font>
-
-110
-00:06:57,720 --> 00:06:59,760
-last one I want to get<font color="#E5E5E5"> that I'm going</font>
-
-111
-00:06:59,760 --> 00:07:02,040
-home<font color="#CCCCCC"> and this is</font><font color="#E5E5E5"> it</font>
-
-112
-00:07:02,040 --> 00:07:05,270
-somewhat poetic end to an otherwise very
-
-113
-00:07:05,270 --> 00:07:11,690
-successful shoot<font color="#CCCCCC"> wah-wah-wah</font>
-
-114
-00:07:24,350 --> 00:07:27,450
-<font color="#CCCCCC">daddy's camera</font>
-
-115
-00:07:27,450 --> 00:00:00,000
-that daddy's camera
+00:02:52,840 --> 00:00:00,000
+tuning in
 

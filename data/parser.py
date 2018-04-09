@@ -38,7 +38,7 @@ for folder in os.listdir("output_dir/raw"):
 
             count += 1
 
-            if count % 2000 == 0:
-                print("Now at " + str(count))
+            # if count % 2000 == 0:
+            print("Now at " + str(count) + ": " + folder + ", " + filename)
 
 print("FINISHED")

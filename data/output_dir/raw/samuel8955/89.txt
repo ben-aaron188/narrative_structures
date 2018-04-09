@@ -1,0 +1,44 @@
+1
+00:00:30,349 --> 00:01:07,970
+<font color="#E5E5E5">button se hizo con la</font><font color="#CCCCCC"> victoria</font>
+
+2
+00:01:48,479 --> 00:02:25,500
+<font color="#CCCCCC">al igual que</font><font color="#E5E5E5"> el blog</font>
+
+3
+00:02:35,470 --> 00:03:56,290
+<font color="#CCCCCC">mi madre</font><font color="#E5E5E5"> también</font>
+
+4
+00:04:55,160 --> 00:05:31,460
+<font color="#CCCCCC">de</font><font color="#E5E5E5"> momento</font><font color="#CCCCCC"> con mi firma</font>
+
+5
+00:05:40,409 --> 00:06:23,879
+<font color="#CCCCCC">y 10 de abril</font>
+
+6
+00:06:50,060 --> 00:07:48,290
+<font color="#E5E5E5">hay que vivir</font><font color="#CCCCCC"> con sus equipos</font>
+
+7
+00:08:48,810 --> 00:09:22,200
+<font color="#CCCCCC">pero ya no</font>
+
+8
+00:10:11,480 --> 00:10:45,920
+<font color="#CCCCCC">ya me digo a mí mismo</font>
+
+9
+00:11:14,750 --> 00:11:17,750
+<font color="#CCCCCC">ya</font>
+
+10
+00:14:02,250 --> 00:14:05,730
+<font color="#CCCCCC">louis guay</font>
+
+11
+00:14:27,980 --> 00:00:00,000
+<font color="#CCCCCC">el monto</font>
+

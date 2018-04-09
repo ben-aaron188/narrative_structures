@@ -1,0 +1,20 @@
+1
+00:00:00,000 --> 00:00:04,529
+<font color="#CCCCCC">zo</font><font color="#E5E5E5"> kaliber</font><font color="#CCCCCC"> ping is van jullie beurt</font>
+
+2
+00:00:04,529 --> 00:00:26,970
+<font color="#CCCCCC">jerry de 2</font><font color="#E5E5E5"> bar</font><font color="#CCCCCC"> and that no vent</font>
+
+3
+00:00:26,970 --> 00:00:30,960
+<font color="#CCCCCC">cody de zware voetstap leeuwen</font><font color="#E5E5E5"> mama</font>
+
+4
+00:00:30,960 --> 00:00:35,989
+<font color="#CCCCCC">sir ze</font><font color="#E5E5E5"> kunnen</font><font color="#CCCCCC"> nog amper</font>
+
+5
+00:00:51,490 --> 00:00:00,000
+<font color="#CCCCCC">dat was iets</font><font color="#E5E5E5"> dat we</font><font color="#CCCCCC"> eens nadenken</font>
+

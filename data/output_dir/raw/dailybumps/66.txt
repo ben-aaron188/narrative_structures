@@ -1,1459 +1,1321 @@
 1
-00:00:00,017 --> 00:00:02,291
-- So we just got out of the Disney Store,
+00:00:00,000 --> 00:00:01,830
+- [Grandma] Are you gonna
+put Auntie on your zip line?
 
 2
-00:00:02,291 --> 00:00:04,673
-and I picked up my friend, Poe Dameron!
+00:00:01,830 --> 00:00:04,347
+- [Ollie] Yeah, I don't want her to fall.
 
 3
-00:00:04,673 --> 00:00:07,120
-You are the cutest
-little pilot ever, dude.
+00:00:04,347 --> 00:00:05,820
+- [Grandma] You don't want her to fall?
 
 4
-00:00:07,120 --> 00:00:10,789
-Look at this pilot suit we
-just grabbed (chuckles).
+00:00:05,820 --> 00:00:07,240
+Whoa.
 
 5
-00:00:10,789 --> 00:00:12,044
-Looking good man!
-
-6
-00:00:12,044 --> 00:00:12,877
-Alright, let's go!
-
-7
-00:00:12,877 --> 00:00:13,964
-♪ This is our life. ♪
-
-8
-00:00:13,964 --> 00:00:14,845
-♪ This is our fun. ♪
-
-9
-00:00:14,845 --> 00:00:17,628
-♪ This is who we are. ♪
-
-10
-00:00:17,628 --> 00:00:18,624
-♪ This is our dream. ♪
-
-11
-00:00:18,624 --> 00:00:19,949
-♪ This is our team. ♪
-
-12
-00:00:19,949 --> 00:00:22,371
-♪ Shot among the stars. ♪
-
-13
-00:00:22,371 --> 00:00:24,819
-♪ Take this shield and you'll be fine. ♪
-
-14
-00:00:24,819 --> 00:00:26,876
-♪ Take this hand and watch us shine. ♪
-
-15
-00:00:26,876 --> 00:00:28,749
-♪ This is our life. ♪
-
-16
-00:00:28,749 --> 00:00:31,373
-♪ Let's live it. ♪
-
-17
-00:00:31,373 --> 00:00:33,166
-♪ Live it forever. ♪
-
-18
-00:00:33,166 --> 00:00:34,416
-- Good morning!
-- Good morning!
-
-19
-00:00:34,416 --> 00:00:37,088
-(baby yells)
-
-20
-00:00:37,088 --> 00:00:38,846
-- They are so excited right now,
-
-21
-00:00:38,846 --> 00:00:42,287
-'cause I'm pretty sure they
-already found Fred, right?
-
-22
-00:00:42,287 --> 00:00:43,120
-- Yeah.
-
-23
-00:00:43,120 --> 00:00:45,080
-- Yeah, I haven't seen him
-yet, but they found him,
-
-24
-00:00:45,080 --> 00:00:47,160
-and so were gonna go see what he's doing.
-
-25
-00:00:47,160 --> 00:00:47,993
-- Dad come on!
-
-26
-00:00:47,993 --> 00:00:48,826
-- You guys found Fred?
-
-27
-00:00:48,826 --> 00:00:50,284
-- Yeah, come on!
-
-28
-00:00:50,284 --> 00:00:52,539
-You got a Star Wars shirt?
-
-29
-00:00:52,539 --> 00:00:55,467
-- Yeah, 'cause we're gonna
-go see the Star Wars movie!
-
-30
-00:00:55,467 --> 00:00:56,385
-- Alright.
-
-31
-00:00:56,385 --> 00:00:57,556
-- Is it out now?
-
-32
-00:00:57,556 --> 00:00:58,767
-- Its out!
-
-33
-00:00:58,767 --> 00:00:59,600
-- Yay!
-
-34
-00:00:59,600 --> 00:01:01,264
-- We're gonna go see it.
-
-35
-00:01:01,264 --> 00:01:02,549
-- Fred!
-
-36
-00:01:02,549 --> 00:01:03,507
-- Where's he at?
-
-37
-00:01:03,507 --> 00:01:05,007
-- What's he doing?
-
-38
-00:01:06,289 --> 00:01:07,122
-He's in the...
-
-39
-00:01:07,122 --> 00:01:10,158
-Oh he left a note you guys!
-
-40
-00:01:10,158 --> 00:01:11,308
-- Oh my goodness!
-
-41
-00:01:11,308 --> 00:01:12,593
-- Try read it!
-
-42
-00:01:12,593 --> 00:01:13,426
-- What Ollie?
-
-43
-00:01:13,426 --> 00:01:14,259
-- Read it!
-
-44
-00:01:14,259 --> 00:01:15,833
-- Okay, the note says, "Help!
-
-45
-00:01:15,833 --> 00:01:19,245
-The dark side has taken me hostage."
-
-46
-00:01:19,245 --> 00:01:20,333
-(gasping)
-
-47
-00:01:20,333 --> 00:01:23,745
-"You must find BB-8 to
-help defeat Darth Vader.
-
-48
-00:01:23,745 --> 00:01:26,304
-You're my only hope, Ollie and Finn."
-
-49
-00:01:26,304 --> 00:01:27,551
-Fred.
-
-50
-00:01:27,551 --> 00:01:28,835
-- You guys have to save Fred.
-
-51
-00:01:28,835 --> 00:01:31,752
-- Darth Vader has him held captive.
-
-52
-00:01:32,922 --> 00:01:34,538
-You guys want to help save Fred today?
-
-53
-00:01:34,538 --> 00:01:35,420
-- Yeah.
-
-54
-00:01:35,420 --> 00:01:36,713
-- That means that we have to be
-
-55
-00:01:36,713 --> 00:01:38,139
-a part of the good side, okay?
-
-56
-00:01:38,139 --> 00:01:39,474
-No bad side okay?
-
-57
-00:01:39,474 --> 00:01:40,764
-Only the good side.
-
-58
-00:01:40,764 --> 00:01:41,759
-Put your hand in Finn!
-
-59
-00:01:41,759 --> 00:01:42,592
+00:00:07,240 --> 00:00:08,428
 Okay.
 
+6
+00:00:08,428 --> 00:00:09,928
+- One, two, three.
+
+7
+00:00:10,769 --> 00:00:13,558
+♪ This is our life, this is our fun ♪
+
+8
+00:00:13,558 --> 00:00:15,931
+♪ This is who we are ♪
+
+9
+00:00:15,931 --> 00:00:17,956
+♪ This is our dream, this is our team ♪
+
+10
+00:00:17,956 --> 00:00:20,686
+♪ Shot among the stars ♪
+
+11
+00:00:20,686 --> 00:00:23,012
+♪ Take this shield and you'll be fine ♪
+
+12
+00:00:23,012 --> 00:00:26,086
+♪ Take this hand and watch us shine ♪
+
+13
+00:00:26,086 --> 00:00:27,764
+♪ This is our life ♪
+
+14
+00:00:27,764 --> 00:00:29,645
+♪ Let's live it ♪
+
+15
+00:00:29,645 --> 00:00:31,790
+♪ Live it forever ♪
+
+16
+00:00:31,790 --> 00:00:34,880
+- Hi guys, welcome to
+Missy and Bryan's video.
+
+17
+00:00:34,880 --> 00:00:36,567
+I'm with my buddy, Ollie, here, right?
+
+18
+00:00:36,567 --> 00:00:37,400
+- Yeah.
+
+19
+00:00:37,400 --> 00:00:39,620
+- And I thought that we would
+vlog for Missy and Bryan
+
+20
+00:00:39,620 --> 00:00:42,000
+because they're headed back
+from Las Vegas right now.
+
+21
+00:00:42,000 --> 00:00:44,133
+What are you?
+
+22
+00:00:44,133 --> 00:00:45,462
+- (baby talk)
+
+23
+00:00:45,462 --> 00:00:47,860
+- [Auntie] Is he a abominable snowman?
+
+24
+00:00:47,860 --> 00:00:48,693
+- Yeah.
+
+25
+00:00:48,693 --> 00:00:50,405
+- [Auntie] You look so terrifying,
+give me your best roar.
+
+26
+00:00:50,405 --> 00:00:51,380
+- No.
+
+27
+00:00:51,380 --> 00:00:52,365
+(roaring)
+
+28
+00:00:52,365 --> 00:00:53,417
+- Watch my roar.
+
+29
+00:00:53,417 --> 00:00:54,250
+- [Auntie] Okay. (laughs)
+
+30
+00:00:54,250 --> 00:00:56,076
+- [Ollie] Watch my roar.
+
+31
+00:00:56,076 --> 00:00:57,395
+- [Auntie] What's your roar?
+
+32
+00:00:57,395 --> 00:00:59,672
+(roars)
+
+33
+00:00:59,672 --> 00:01:00,505
+- [Auntie] Finn?
+
+34
+00:01:00,505 --> 00:01:01,338
+- [Papa] Let's hear your roar.
+
+35
+00:01:01,338 --> 00:01:03,500
+(roars)
+
+36
+00:01:03,500 --> 00:01:05,532
+- [Auntie] (laughs) Good
+Job, Boys, Good job.
+
+37
+00:01:05,532 --> 00:01:06,670
+We're outside right now, it is absolutely
+
+38
+00:01:06,670 --> 00:01:08,264
+actually freezing, Mom.
+
+39
+00:01:08,264 --> 00:01:10,110
+It is freezing.
+
+40
+00:01:10,110 --> 00:01:11,170
+It's freezing.
+
+41
+00:01:11,170 --> 00:01:13,220
+- [Grandma] There are
+people out in the East Coast
+
+42
+00:01:13,220 --> 00:01:15,980
+dealing with a snowpocalypse or something.
+
+43
+00:01:15,980 --> 00:01:17,535
+- All right, fine, it's above average.
+
+44
+00:01:17,535 --> 00:01:18,750
+- [Grandma] Snowmageddon, or--
+
+45
+00:01:18,750 --> 00:01:20,993
+- No, it's like 50 or 60 out.
+
+46
+00:01:20,993 --> 00:01:22,394
+- [Grandma] A bomb cyclone,
+that's what they called it.
+
+47
+00:01:22,394 --> 00:01:23,340
+- Bomb cyclone.
+
+48
+00:01:23,340 --> 00:01:25,530
+We're outside playing with Koda right now
+
+49
+00:01:25,530 --> 00:01:27,450
+and the other dogs, and
+we're just hanging out.
+
+50
+00:01:27,450 --> 00:01:29,531
+- [Grandma] Okay, are you gonna
+put Auntie on your zip line?
+
+51
+00:01:29,531 --> 00:01:31,900
+- [Ollie] Yeah, I don't want her to fall.
+
+52
+00:01:31,900 --> 00:01:33,610
+- [Grandma] You don't want her to fall?
+
+53
+00:01:33,610 --> 00:01:35,770
+Yeah, I don't think she wants to fall.
+
+54
+00:01:35,770 --> 00:01:37,120
+Whoa.
+
+55
+00:01:37,120 --> 00:01:38,290
+- Don't touch that wire.
+
+56
+00:01:38,290 --> 00:01:39,123
+- I won't.
+
+57
+00:01:39,123 --> 00:01:39,956
+- [Grandma] All right, all right,
+
+58
+00:01:39,956 --> 00:01:41,820
+we gotta help her down at the bottom.
+
+59
+00:01:41,820 --> 00:01:43,796
+We got uncle down there.
+
 60
-00:01:42,592 --> 00:01:44,150
-On three, say use the force okay?
+00:01:43,796 --> 00:01:44,972
+- I will not touch the wire.
 
 61
-00:01:44,150 --> 00:01:45,615
-- Use the force!
+00:01:44,972 --> 00:01:45,831
+- [Grandma] Okay.
 
 62
-00:01:45,615 --> 00:01:46,689
-- One, two, three,
+00:01:45,831 --> 00:01:47,004
+- One, two, three.
 
 63
-00:01:46,689 --> 00:01:48,398
-use the force!
+00:01:47,004 --> 00:01:49,337
+(screaming)
 
 64
-00:01:48,398 --> 00:01:50,008
-(laughing)
+00:01:50,389 --> 00:01:51,222
+- [Papa] Oh!
 
 65
-00:01:50,008 --> 00:01:51,019
-- Alright, we're gonna be
+00:01:51,222 --> 00:01:52,472
+- [Grandma] Oh!
 
 66
-00:01:51,019 --> 00:01:52,297
-on the good side today,
-and we're gonna go see
+00:01:53,930 --> 00:01:55,669
+Okay, she kinda hit the bottom.
 
 67
-00:01:52,297 --> 00:01:53,255
-Star Wars okay?
+00:01:55,669 --> 00:01:57,608
+Kinda hit the bottom.
 
 68
-00:01:53,255 --> 00:01:54,088
-- Yeah.
+00:01:57,608 --> 00:01:59,040
+- [Ollie] My turn, my turn!
 
 69
-00:01:54,088 --> 00:01:55,285
-- You gotta save Fred, right?
+00:01:59,040 --> 00:02:00,850
+- [Grandma] Okay, is it your turn?
 
 70
-00:01:55,285 --> 00:01:56,118
-- Yeah.
+00:02:00,850 --> 00:02:02,752
+Here we go! (laughs)
 
 71
-00:01:56,118 --> 00:01:57,631
-- K, lets go get ready.
+00:02:02,752 --> 00:02:05,669
+- [Finn] (screams)
 
 72
-00:01:57,631 --> 00:02:00,548
-(bells playing)
+00:02:06,703 --> 00:02:10,500
+- [Grandma] So we put a lower
+handle for Finn this time
 
 73
-00:02:10,520 --> 00:02:13,990
-- Check out Ollie's Star Wars shirt!
+00:02:10,500 --> 00:02:12,410
+so he's not reaching so high up.
 
 74
-00:02:13,990 --> 00:02:16,499
-- I'm so excited to see Star Wars!
+00:02:12,410 --> 00:02:14,100
+All right, your turn?
 
 75
-00:02:16,499 --> 00:02:17,966
-- I know, me too buddy,
+00:02:14,100 --> 00:02:15,590
+Okay, go for it!
 
 76
-00:02:17,966 --> 00:02:19,003
-I love your shirt.
+00:02:15,590 --> 00:02:16,423
+Here he comes!
 
 77
-00:02:19,003 --> 00:02:20,304
-Look, its got stormtroopers.
+00:02:19,752 --> 00:02:22,669
+- [Finn] (screams)
 
 78
-00:02:20,304 --> 00:02:23,356
-It says merry force be with you.
+00:02:24,303 --> 00:02:27,310
+- [Grandma] Yay!
 
 79
-00:02:23,356 --> 00:02:24,738
-(laughing)
+00:02:27,310 --> 00:02:29,470
+All right, it's Ollie's turn.
 
 80
-00:02:24,738 --> 00:02:26,416
-- It has Darth Vader on it.
+00:02:30,418 --> 00:02:31,335
+Here we go.
 
 81
-00:02:26,416 --> 00:02:28,929
-- Oh Darth Vader he's the one that
+00:02:39,057 --> 00:02:39,890
+Woo hoo!
 
 82
-00:02:28,929 --> 00:02:31,232
-messed with Fred, our elf, huh?
+00:02:41,080 --> 00:02:42,460
+- All right, ready? Go back!
 
 83
-00:02:31,232 --> 00:02:32,360
-- Yeah!
+00:02:49,830 --> 00:02:51,531
+- [Grandma] All right
 
 84
-00:02:32,360 --> 00:02:34,615
-- Yeah. Hey Finley,
+00:02:51,531 --> 00:02:52,690
+we added the other two dogs to the mix.
 
 85
-00:02:34,615 --> 00:02:36,532
-I like your shirt dude!
+00:02:52,690 --> 00:02:54,610
+We had to wear out Koda a little bit
 
 86
-00:02:38,482 --> 00:02:39,767
-Is that the bad guy?
+00:02:54,610 --> 00:02:56,070
+before we brought the other dogs out.
 
 87
-00:02:39,767 --> 00:02:40,774
-- Yeah.
+00:02:56,070 --> 00:02:58,130
+Otherwise, he just gets all mad at them.
 
 88
-00:02:40,774 --> 00:02:41,607
-- Yeah!
+00:02:58,130 --> 00:02:59,628
+I think we wore him out
+pretty good. (laughs)
 
 89
-00:02:41,607 --> 00:02:42,911
-- Darth Vader!
+00:02:59,628 --> 00:03:02,128
+(dog barking)
 
 90
-00:02:42,911 --> 00:02:46,727
-- Yeah, my shirt has Star
-Wars characters on it too huh?
+00:03:04,410 --> 00:03:07,390
+- [Grandma] Poor Karma, though,
+he hasn't got the ball once.
 
 91
-00:02:46,727 --> 00:02:48,539
-(laughs)
+00:03:07,390 --> 00:03:08,300
+He's getting old.
 
 92
-00:02:48,539 --> 00:02:49,376
-You're so cute.
+00:03:09,369 --> 00:03:11,010
+- [Papa] Oh, look at that.
 
 93
-00:02:49,376 --> 00:02:50,615
-That's Han Solo!
+00:03:11,010 --> 00:03:13,699
+- [Grandma] Oh, a sneak attack.
 
 94
-00:02:50,615 --> 00:02:51,580
-Too soon.
+00:03:13,699 --> 00:03:14,990
+- [Papa] Yay!
 
 95
-00:02:51,580 --> 00:02:53,830
-Missy is rocking her Santa,
+00:03:14,990 --> 00:03:16,870
+- [Grandma] Hey guys.
 
 96
-00:02:54,728 --> 00:02:55,815
-- R2-D2!
+00:03:16,870 --> 00:03:17,703
+- [Auntie] Karma's like, oh my God.
 
 97
-00:02:55,815 --> 00:02:57,565
-- R2-D2. Yep.
+00:03:17,703 --> 00:03:18,670
+- [Grandma] Where'd it go?
 
 98
-00:02:58,595 --> 00:02:59,511
-- I'm going old school.
+00:03:18,670 --> 00:03:20,194
+- [Auntie] Please start throwing it.
 
 99
-00:02:59,511 --> 00:03:00,893
-- Yeah. Looking good babe.
+00:03:20,194 --> 00:03:21,620
+- [Grandma] (laughs)
 
 100
-00:03:00,893 --> 00:03:02,584
-She's mixing Christmas with Star Wars,
+00:03:21,620 --> 00:03:22,453
+- [Auntie] Good job.
 
 101
-00:03:02,584 --> 00:03:04,084
-for the Star Wars movie today.
+00:03:22,453 --> 00:03:23,470
+Karma is like, I'm
+never gonna drop it now.
 
 102
-00:03:04,084 --> 00:03:08,128
-I am so excited for Star
-Wars today, you guys.
+00:03:23,470 --> 00:03:26,680
+All right, well I had such
+a fun day with you guys
 
 103
-00:03:08,128 --> 00:03:09,462
-I have been looking
-forward to this day for
+00:03:26,680 --> 00:03:27,513
+you know that?
 
 104
-00:03:09,462 --> 00:03:11,539
-a really long time, really
-excited about the movie,
+00:03:27,513 --> 00:03:28,346
+- Yeah.
 
 105
-00:03:11,539 --> 00:03:13,444
-I love that Ollie is so into it,
+00:03:28,346 --> 00:03:29,179
+- What did we do today?
 
 106
-00:03:13,444 --> 00:03:15,777
-its one of those things it's like,
+00:03:29,179 --> 00:03:30,110
+Can you tell them what we did?
 
 107
-00:03:15,777 --> 00:03:17,976
-a dad taking his kid to Star Wars,
+00:03:30,110 --> 00:03:30,943
+- Yeah.
 
 108
-00:03:17,976 --> 00:03:19,346
-I think that's, there's something
+00:03:30,943 --> 00:03:33,750
+- We filmed a super,
+super fun video together.
 
 109
-00:03:19,346 --> 00:03:22,029
-really iconic about that,
-and I'm like, so happy.
+00:03:33,750 --> 00:03:35,520
+It was very interesting.
 
 110
-00:03:22,029 --> 00:03:22,862
-Hey dude!
+00:03:35,520 --> 00:03:36,830
+We tried our best.
 
 111
-00:03:22,862 --> 00:03:23,883
-I was just talking about how
+00:03:36,830 --> 00:03:38,160
+If you guys wanna click
+the I-card right there
 
 112
-00:03:23,883 --> 00:03:25,466
-we're going to Star Wars.
+00:03:38,160 --> 00:03:39,040
+you guys can check out the video
 
 113
-00:03:25,466 --> 00:03:26,299
-You excited?
+00:03:39,040 --> 00:03:42,280
+that me, Ollie, and Finn, and
+my dad, and everybody filmed
 
 114
-00:03:26,299 --> 00:03:27,132
-- Yeah.
+00:03:42,280 --> 00:03:43,380
+while Missy and Bryan were gone.
 
 115
-00:03:27,132 --> 00:03:27,965
-- What are you doing?
+00:03:43,380 --> 00:03:44,730
+You guys can see the mess we made.
 
 116
-00:03:27,965 --> 00:03:28,798
-- Just playing.
+00:03:44,730 --> 00:03:46,843
+But I'm actually gonna
+leave, so, I love you.
 
 117
-00:03:28,798 --> 00:03:29,631
-- Okay.
+00:03:46,843 --> 00:03:47,780
+- Love you too.
 
 118
-00:03:29,631 --> 00:03:30,975
-Alright, so we have to try and
+00:03:47,780 --> 00:03:48,730
+- You look like Mimi. (laughs)
 
 119
-00:03:30,975 --> 00:03:32,654
-find BB-8, right Ollie?
+00:03:48,730 --> 00:03:49,899
+All right, bye, buddy.
 
 120
-00:03:32,654 --> 00:03:33,487
-- Yeah.
+00:03:49,899 --> 00:03:51,630
+- [Finn] Bye Mimi.
 
 121
-00:03:33,487 --> 00:03:35,196
-- And maybe our little Christmas cage here
+00:03:51,630 --> 00:03:53,580
+- Bye sweetie, I love you.
 
 122
-00:03:35,196 --> 00:03:37,495
-can actually be of some
-use, and we can catch
+00:03:53,580 --> 00:03:55,586
+- [Finn] Bye sweetie.
 
 123
-00:03:37,495 --> 00:03:39,659
-something that we need
-to help Fred, right?
+00:03:55,586 --> 00:03:56,419
+- [Auntie] (laughs)
 
 124
-00:03:39,659 --> 00:03:40,532
-- Yeah.
+00:03:56,419 --> 00:03:57,640
+- [Missy and Bryan] (shout) We're home!
 
 125
-00:03:40,532 --> 00:03:42,287
-- So, we have set a trap,
+00:03:59,927 --> 00:04:01,630
+- [Bryan] What's up, boys?
 
 126
-00:03:42,287 --> 00:03:44,791
-for BB-8, and we have got...
+00:04:02,487 --> 00:04:03,611
+- Give Mommy a hug.
 
 127
-00:03:44,791 --> 00:03:45,830
-- Is it under the trap?
+00:04:03,611 --> 00:04:05,710
+- [Missy and Bryan] Aww, we missed you.
 
 128
-00:03:45,830 --> 00:03:47,418
-- Yep, its under there.
+00:04:05,710 --> 00:04:08,170
+- [Missy] How was Mimi
+and Papa, was it fun?
 
 129
-00:03:47,418 --> 00:03:48,928
-So we have our Christmas
-cage hanging up there,
+00:04:08,170 --> 00:04:09,003
+- Yeah.
 
 130
-00:03:48,928 --> 00:03:52,512
-- We've got WD-40 as his like drink right?
+00:04:09,003 --> 00:04:10,240
+- [Missy] Did you hang
+out with Auntie today?
 
 131
-00:03:52,512 --> 00:03:53,372
-Nuts and bolts,
+00:04:10,240 --> 00:04:11,080
+- Mm-hmm.
 
 132
-00:03:53,372 --> 00:03:54,586
-- Nuts and bolts, so,
+00:04:11,080 --> 00:04:11,961
+- [Missy] (gasps) I was kinda--
 
 133
-00:03:54,586 --> 00:03:55,421
-- I feel like thats a good bait.
+00:04:11,961 --> 00:04:12,794
+- [Bryan] What'd you do?
 
 134
-00:03:55,421 --> 00:03:57,002
-- You think we can catch BB-8 with this?
+00:04:12,794 --> 00:04:15,081
+- We did a big slide video,
 
 135
-00:03:57,002 --> 00:03:57,835
-- Yeah.
+00:04:15,081 --> 00:04:19,668
+and there was a big green rope above it.
 
 136
-00:03:57,835 --> 00:03:59,733
-- Well we really need to catch BB-8,
+00:04:19,668 --> 00:04:20,519
+- [Bryan] Oh, cool.
 
 137
-00:03:59,733 --> 00:04:01,204
-because that's what Fred said we do.
+00:04:20,519 --> 00:04:23,160
+- There was just a muddy pipe in there.
 
 138
-00:04:01,204 --> 00:04:02,375
-We gotta save our Elf on the shelf.
+00:04:23,160 --> 00:04:25,850
+- Oh my goodness, I think
+he's telling secrets
 
 139
-00:04:02,375 --> 00:04:04,958
-(upbeat music)
+00:04:25,850 --> 00:04:26,840
+from Auntie's video.
 
 140
-00:04:06,170 --> 00:04:07,384
-Alright, so as you guys know,
+00:04:26,840 --> 00:04:28,260
+Look, even Karma missed us.
 
 141
-00:04:07,384 --> 00:04:08,505
-we are on the lookout for BB-8,
+00:04:28,260 --> 00:04:30,079
+Did you miss Mama, too?
 
 142
-00:04:08,505 --> 00:04:10,012
-so we just got out of the Disney Store,
+00:04:30,079 --> 00:04:32,400
+We got the best welcome home, though.
 
 143
-00:04:10,012 --> 00:04:13,293
-and I picked up my friend, Poe Dameron!
+00:04:34,338 --> 00:04:37,860
+- I'm not old enough
+to climb this anymore.
 
 144
-00:04:13,293 --> 00:04:15,708
-Because Poe and BB-8 are besties, right?
+00:04:37,860 --> 00:04:40,300
+- [Missy] Yeah, you gotta
+just go up the door, huh?
 
 145
-00:04:15,708 --> 00:04:16,541
-- Yeah.
+00:04:40,300 --> 00:04:41,133
+- Mm-hmm.
 
 146
-00:04:16,541 --> 00:04:18,288
-- You are the cutest
-little pilot ever dude.
+00:04:41,133 --> 00:04:42,190
+- So while we were in Vegas
 
 147
-00:04:18,288 --> 00:04:19,120
-Look at this pilot suit we just grabbed.
+00:04:42,190 --> 00:04:44,870
+we got the boys some little presents.
 
 148
-00:04:19,120 --> 00:04:19,953
-(laughs)
+00:04:44,870 --> 00:04:46,360
+- We have goodies for you!
 
 149
-00:04:21,586 --> 00:04:22,715
-Looking good man.
+00:04:46,360 --> 00:04:47,193
+You wanna see?
 
 150
-00:04:22,715 --> 00:04:23,709
-Alright, lets go!
+00:04:47,193 --> 00:04:48,048
+- Mm-hmm.
 
 151
-00:04:23,709 --> 00:04:26,332
-He is so excited to see the new movie,
+00:04:48,048 --> 00:04:49,266
+- [Bryan] Oh, my Karma!
 
 152
-00:04:26,332 --> 00:04:27,334
-and so am I.
+00:04:49,266 --> 00:04:50,204
+- [Missy] Sit down and pet him.
 
 153
-00:04:27,334 --> 00:04:28,876
-We're headed in now.
+00:04:50,204 --> 00:04:51,240
+- [Bryan] Look at those dogs, they're like
 
 154
-00:04:28,876 --> 00:04:31,459
-(heroic music)
+00:04:51,240 --> 00:04:52,497
+wait, presents for us?
 
 155
-00:04:36,320 --> 00:04:39,588
-And we just got out of seeing Star Wars,
+00:04:52,497 --> 00:04:53,330
+- [Missy] (laughs)
 
 156
-00:04:39,588 --> 00:04:41,660
-The Last Jedi, Ollie what did you think?
+00:04:53,330 --> 00:04:54,633
+Oh, maybe you got some.
 
 157
-00:04:41,660 --> 00:04:42,910
-Of the movie?
+00:04:54,633 --> 00:04:55,466
+Come here Lena, come.
 
 158
-00:04:42,910 --> 00:04:43,743
-- Good.
+00:04:55,466 --> 00:04:56,870
+- I don't know which one
+you guys are gonna get
 
 159
-00:04:43,743 --> 00:04:44,803
-- And who was your favorite character?
+00:04:56,870 --> 00:04:59,020
+so I'm gonna give you
+each one of these, okay?
 
 160
-00:04:44,803 --> 00:04:45,684
-- Kylo Ren!
+00:04:59,020 --> 00:05:00,030
+- I feel it.
 
 161
-00:04:45,684 --> 00:04:47,031
-- Kylo Ren.
+00:05:00,030 --> 00:05:01,281
+- [Bryan] Okay, open it up.
 
 162
-00:04:47,031 --> 00:04:48,809
-Always rooting for the bad guy, huh?
+00:05:01,281 --> 00:05:02,587
+What is is?
 
 163
-00:04:48,809 --> 00:04:49,808
-(laughing)
+00:05:02,587 --> 00:05:06,239
+Open it, open it, open it!
 
 164
-00:04:49,808 --> 00:04:51,727
-I think he knows, secretly,
+00:05:06,239 --> 00:05:07,520
+- Dragon.
 
 165
-00:04:51,727 --> 00:04:54,137
-in his heart, that he's q good guy, right?
+00:05:07,520 --> 00:05:08,872
+- [Missy] What is it?
 
 166
-00:04:54,137 --> 00:04:55,127
-Ollie sees the good in everyone.
+00:05:08,872 --> 00:05:09,705
+Awe!
 
 167
-00:04:55,127 --> 00:04:56,802
-- I mean, right now you're a good guy,
+00:05:09,705 --> 00:05:11,734
+- [Bryan] Whoa, it's a dragon?
 
 168
-00:04:56,802 --> 00:04:58,912
-and good guys have to
-help save Fred, right?
+00:05:11,734 --> 00:05:13,215
+- No, it's a little puppy.
 
 169
-00:04:58,912 --> 00:05:00,374
-- Yeah.
+00:05:13,215 --> 00:05:14,545
+- [Bryan] Oh, it's a puppy?
 
 170
-00:05:00,374 --> 00:05:01,629
-(laughing)
+00:05:14,545 --> 00:05:15,480
+- Mm-hmm.
 
 171
-00:05:01,629 --> 00:05:03,344
-He's been wearing his costume all day,
+00:05:15,480 --> 00:05:16,650
+- [Bryan] Hmm, I think it's a dragon.
 
 172
-00:05:03,344 --> 00:05:05,016
-he sat through the whole movie.
+00:05:16,650 --> 00:05:17,720
+- No, it's a puppy.
 
 173
-00:05:05,016 --> 00:05:06,014
-- He loves it
+00:05:17,720 --> 00:05:19,270
+- [Bryan] Okay, but
+which one is that, Ollie?
 
 174
-00:05:06,014 --> 00:05:08,712
-- He loved it, it was a
-really, really fun time.
+00:05:19,270 --> 00:05:20,103
+- [Missy] Let's see, Finn.
 
 175
-00:05:08,712 --> 00:05:10,821
-- We're home, I missed you Finn!
+00:05:20,103 --> 00:05:20,936
+What is it Finn?
 
 176
-00:05:10,821 --> 00:05:13,147
-I'm so bummed that he didn't get to go.
+00:05:20,936 --> 00:05:22,192
+- [Bryan] See which one Finn got.
 
 177
-00:05:13,147 --> 00:05:14,982
-But we're home now, its so nice out!
+00:05:22,192 --> 00:05:23,524
+Which one did Finn get?
 
 178
-00:05:14,982 --> 00:05:19,095
-It feels like chilly, but
-not that cold, you know.
+00:05:23,524 --> 00:05:24,445
+- [Missy] What is it?
 
 179
-00:05:19,095 --> 00:05:21,482
-The boys are kind of
-on a mission right now,
+00:05:24,445 --> 00:05:25,392
+- [Bryan] Whoa.
 
 180
-00:05:21,482 --> 00:05:23,363
-to find BB-8, 'cause Fred told us
+00:05:25,392 --> 00:05:26,890
+- [Missy] Is that a kitty cat?
 
 181
-00:05:23,363 --> 00:05:25,565
-to find BB-8, and we
-haven't seen him yet, right?
+00:05:26,890 --> 00:05:29,220
+- [Bryan] They're little sculptures.
 
 182
-00:05:25,565 --> 00:05:26,398
-- Yeah.
+00:05:29,220 --> 00:05:30,470
+They're made out of wood, Ollie.
 
 183
-00:05:26,398 --> 00:05:27,231
-- We're kind of just looking
-around the chicken coop,
+00:05:30,470 --> 00:05:31,560
+Someone carved it.
 
 184
-00:05:27,231 --> 00:05:28,572
-check on the chickens, and hopefully
+00:05:31,560 --> 00:05:35,080
+- Cool, we can put that
+up on your shelf, huh?
 
 185
-00:05:28,572 --> 00:05:30,889
-we can find BB-8 soon.
+00:05:35,080 --> 00:05:36,220
+- [Ollie] Let's put it on.
 
 186
-00:05:30,889 --> 00:05:33,889
-(chirps and clicks)
+00:05:36,220 --> 00:05:37,532
+- Okay.
 
 187
-00:05:37,520 --> 00:05:41,230
-- Alright, we got one
-egg from the chickens,
+00:05:37,532 --> 00:05:40,830
+- [Bryan] (laughs) Good job.
 
 188
-00:05:41,230 --> 00:05:43,145
-we played outside for a little bit,
+00:05:40,830 --> 00:05:44,700
+All right, I got one more
+present for you boys, okay?
 
 189
-00:05:43,145 --> 00:05:46,156
-and we had a ton of fun,
-its so nice out there.
+00:05:44,700 --> 00:05:45,946
+What'd you think is in here?
 
 190
-00:05:46,156 --> 00:05:49,412
-The weather is nice, and yeah.
+00:05:45,946 --> 00:05:47,220
+What'd you think is in this box, Ollie?
 
 191
-00:05:49,412 --> 00:05:51,085
-Ollie did you hear that noise?
-
-192
-00:05:51,085 --> 00:05:51,918
-- Yeah.
-
-193
-00:05:51,918 --> 00:05:52,963
-- What do you think it was?
-
-194
-00:05:52,963 --> 00:05:53,796
+00:05:47,220 --> 00:05:48,053
 - I don't know.
 
+192
+00:05:48,053 --> 00:05:49,830
+- [Bryan] You'll never guess.
+
+193
+00:05:49,830 --> 00:05:50,720
+What about you, Finn?
+
+194
+00:05:50,720 --> 00:05:51,640
+What'd you think is in it?
+
 195
-00:05:53,796 --> 00:05:57,274
-- Maybe, it's what we've
-been looking for all day.
+00:05:51,640 --> 00:05:52,473
+- Yah.
 
 196
-00:05:57,274 --> 00:05:58,297
-What?
+00:05:52,473 --> 00:05:54,490
+- [Bryan] What's you think is it?
 
 197
-00:05:58,297 --> 00:05:59,558
-Come here, come here!
+00:05:54,490 --> 00:05:56,363
+All right, open it up, boys!
 
 198
-00:05:59,558 --> 00:06:00,821
-- [Bryan] He's caught!
+00:05:56,363 --> 00:05:58,077
+Open it up!
 
 199
-00:06:00,821 --> 00:06:01,654
-- BB-8!!
+00:05:58,077 --> 00:05:59,400
+- It's a hard one to open, here--
 
 200
-00:06:03,270 --> 00:06:04,687
-- Oh my goodness.
+00:05:59,400 --> 00:06:02,400
+- [Bryan] They're going to love this.
 
 201
-00:06:05,627 --> 00:06:08,077
-- BB-8, what are you doing in there?
+00:06:02,400 --> 00:06:04,180
+- There we go, it opens from the top.
 
 202
-00:06:08,077 --> 00:06:09,711
-Wait, that's not BB-8, Ollie.
+00:06:04,180 --> 00:06:05,880
+- [Bryan] Yeah, it's kinda upside down.
 
 203
-00:06:09,711 --> 00:06:12,606
-That's Santa BB-8, he's
-wearing a Christmas hat.
+00:06:07,816 --> 00:06:08,956
+- Yay!
 
 204
-00:06:12,606 --> 00:06:13,703
-- Aww!
+00:06:08,956 --> 00:06:09,858
+- [Missy] What is that?
 
 205
-00:06:13,703 --> 00:06:15,539
-- He does not like being this cage.
+00:06:09,858 --> 00:06:12,300
+- [Bryan] What is it, guys?
 
 206
-00:06:15,539 --> 00:06:16,723
-Let's take this cage off him huh?
-
-207
-00:06:16,723 --> 00:06:17,556
-- Yeah.
-
-208
-00:06:17,556 --> 00:06:19,125
-- I can't believe we caught BB-8.
-
-209
-00:06:19,125 --> 00:06:21,241
-Okay, Fred told us to find him.
-
-210
-00:06:21,241 --> 00:06:22,624
-- [Bryan] Gonna set BB-8 ...
-
-211
-00:06:22,624 --> 00:06:26,214
-- And our little, and our bait worked!
-
-212
-00:06:26,214 --> 00:06:27,047
-Hi BB-8.
-
-213
-00:06:28,978 --> 00:06:30,402
-(baby squeals)
-
-214
-00:06:30,402 --> 00:06:31,235
-(laughs)
-
-215
-00:06:31,235 --> 00:06:33,051
-- Go see him, say hi.
-
-216
-00:06:33,051 --> 00:06:34,963
-- BB-8, please help us.
-
-217
-00:06:34,963 --> 00:06:38,384
-Fred told us that you could
-help us save him, right?
-
-218
-00:06:38,384 --> 00:06:39,217
-- Yeah.
-
-219
-00:06:39,217 --> 00:06:42,253
-- BB-8, how can you help us save Fred?
-
-220
-00:06:42,253 --> 00:06:45,072
-(beep and chirps)
-
-221
-00:06:45,072 --> 00:06:46,944
-- Okay, we'll follow you.
-
-222
-00:06:46,944 --> 00:06:49,444
-I think we have to follow him.
-
-223
-00:06:51,259 --> 00:06:53,509
-Let's see where he's going.
-
-224
-00:06:56,599 --> 00:06:58,346
-I guess we're going this way.
-
-225
-00:06:58,346 --> 00:06:59,522
-You gotta follow him.
-
-226
-00:06:59,522 --> 00:07:00,355
-- Let's follow BB-8.
-
-227
-00:07:00,355 --> 00:07:02,204
-- I hope he helps us save Fred, huh?
-
-228
-00:07:02,204 --> 00:07:03,342
-- Yeah!
-
-229
-00:07:03,342 --> 00:07:05,833
-Okay BB-8 we came to Ollie's room,
-
-230
-00:07:05,833 --> 00:07:06,666
-what's in here?
-
-231
-00:07:06,666 --> 00:07:07,499
-Ahh!
-
-232
-00:07:07,499 --> 00:07:08,332
-(laughs)
-
-233
-00:07:08,332 --> 00:07:09,589
-He almost ran into you.
-
-234
-00:07:09,589 --> 00:07:11,139
-you guy's he's coming this way, come on.
-
-235
-00:07:11,139 --> 00:07:15,453
-- Follow BB-8, let's see
-if he leads us to Fred.
-
-236
-00:07:15,453 --> 00:07:17,536
-(laughs)
-
-237
-00:07:19,163 --> 00:07:20,382
-- Going in our room?
-
-238
-00:07:20,382 --> 00:07:21,361
-- Where's he going?
-
-239
-00:07:21,361 --> 00:07:22,216
-Come on boys.
-
-240
-00:07:22,216 --> 00:07:23,808
-I think he's headed in here.
-
-241
-00:07:23,808 --> 00:07:25,844
-BB-8 what are you trying to tell us?
-
-242
-00:07:25,844 --> 00:07:27,353
-Where do we go?
-
-243
-00:07:27,353 --> 00:07:28,495
-(laughs)
-
-244
-00:07:28,495 --> 00:07:31,495
-Where do we go BB-8, where do we go?
-
-245
-00:07:33,751 --> 00:07:36,355
-I mean does BB-8 even
-know where he's going?
-
-246
-00:07:36,355 --> 00:07:39,407
-Okay, hang on he's taking
-us somewhere else now.
-
-247
-00:07:39,407 --> 00:07:40,798
-Where are we going?
-
-248
-00:07:40,798 --> 00:07:42,267
-(gasps)
-
-249
-00:07:42,267 --> 00:07:43,530
-- Mama, what's Kylo Ren doing?
-
-250
-00:07:43,530 --> 00:07:45,334
-- Oh my goodness.
-
-251
-00:07:45,334 --> 00:07:47,565
-What is going on here?
-
-252
-00:07:47,565 --> 00:07:48,982
-Is that Kylo Ren?
-
-253
-00:07:49,970 --> 00:07:51,470
-And he's got Fred!
-
-254
-00:07:52,334 --> 00:07:53,838
-- Oh no!
-
-255
-00:07:53,838 --> 00:07:55,548
-- Fred are you okay?
-
-256
-00:07:55,548 --> 00:07:57,424
-You know what, I think BB-8 is telling us
-
-257
-00:07:57,424 --> 00:07:58,565
-what we need to do.
-
-258
-00:07:58,565 --> 00:08:00,481
-We need to defeat Kylo Ren!
-
-259
-00:08:00,481 --> 00:08:02,648
-(screams)
-
-260
-00:08:04,239 --> 00:08:06,261
-- Kylo Ren is still a bad guy huh?
-
-261
-00:08:06,261 --> 00:08:07,156
-- Yeah!
-
-262
-00:08:07,156 --> 00:08:11,060
-- Yes, he's a bad guy, who has
-not treated Fred very nice.
-
-263
-00:08:11,060 --> 00:08:12,454
-- We saved you Fred.
-
-264
-00:08:12,454 --> 00:08:14,411
-You can go home now when you need to.
-
-265
-00:08:14,411 --> 00:08:17,183
-At least we had BB-8, Santa BB-8 here to
-
-266
-00:08:17,183 --> 00:08:19,664
-help us find Fred and save him huh?
-
-267
-00:08:19,664 --> 00:08:20,598
-- Yeah.
-
-268
-00:08:20,598 --> 00:08:22,186
-- That was crazy.
-
-269
-00:08:22,186 --> 00:08:23,898
-- Are you okay Fred?
-
-270
-00:08:23,898 --> 00:08:26,538
-- Are you okay, I think he's okay, bud.
-
-271
-00:08:26,538 --> 00:08:27,371
-Luckily --
-
-272
-00:08:27,371 --> 00:08:28,984
-- What about BB-8 Santa?
-
-273
-00:08:28,984 --> 00:08:30,939
-- We should tell him thank you.
-
-274
-00:08:30,939 --> 00:08:32,530
-- Say thank you BB-8 guys.
-
-275
-00:08:32,530 --> 00:08:34,119
-- Thank you BB-8!
-
-276
-00:08:34,119 --> 00:08:37,172
-(beeps and chirps)
-
-277
-00:08:37,172 --> 00:08:38,797
-- Awwwww.
-
-278
-00:08:38,797 --> 00:08:41,236
-(laughs)
-
-279
-00:08:41,236 --> 00:08:44,069
-Finn, you want to give BB-8 a hug?
-
-280
-00:08:45,108 --> 00:08:45,941
-- Awwwww.
-
-281
-00:08:47,470 --> 00:08:48,303
-How sweet.
-
-282
-00:08:49,390 --> 00:08:52,723
-(happy Christmas music)
-
-283
-00:08:54,317 --> 00:08:56,149
-BB-8, why are you so cool?
-
-284
-00:08:56,149 --> 00:08:57,700
-- Huge thanks to BB-8 for helping us
-
-285
-00:08:57,700 --> 00:09:00,148
-save our Elf on a Shelf Fred today.
-
-286
-00:09:00,148 --> 00:09:01,698
-That was so nice of him huh boys?
-
-287
-00:09:01,698 --> 00:09:02,878
-- [Both] Yeah.
-
-288
-00:09:02,878 --> 00:09:03,734
-(laughs)
-
-289
-00:09:03,734 --> 00:09:05,887
-- Do you guys want to play
-with him a little bit?
-
-290
-00:09:05,887 --> 00:09:07,761
-Here, go chase him.
-
-291
-00:09:07,761 --> 00:09:08,738
+00:06:12,300 --> 00:06:13,133
 - Whoa.
 
+207
+00:06:14,820 --> 00:06:15,737
+A scorpion?
+
+208
+00:06:16,990 --> 00:06:20,010
+- [Bryan] It's your
+very own scorpion, boys.
+
+209
+00:06:20,010 --> 00:06:21,345
+- Is it real?
+
+210
+00:06:21,345 --> 00:06:22,178
+- [Bryan] Yeah.
+
+211
+00:06:22,178 --> 00:06:23,390
+- It's real inside.
+
+212
+00:06:23,390 --> 00:06:24,910
+- [Bryan] Yeah, that's a
+real scorpion inside there.
+
+213
+00:06:24,910 --> 00:06:26,394
+We got it from Vegas.
+
+214
+00:06:26,394 --> 00:06:27,227
+- Really?
+
+215
+00:06:27,227 --> 00:06:28,540
+- [Bryan] Because they
+have lots of scorpions.
+
+216
+00:06:28,540 --> 00:06:30,103
+- But is it real?
+
+217
+00:06:30,103 --> 00:06:30,936
+- [Bryan] Yeah.
+
+218
+00:06:30,936 --> 00:06:31,800
+- [Missy] It's real.
+
+219
+00:06:31,800 --> 00:06:33,830
+- Do they have a spider one?
+
+220
+00:06:33,830 --> 00:06:37,100
+- [Bryan] I don't know,
+they had a scorpion
+
+221
+00:06:37,100 --> 00:06:39,400
+and a butterfly, so I
+thought, you know what,
+
+222
+00:06:39,400 --> 00:06:41,020
+my boys, they would
+like the scorpion, huh?
+
+223
+00:06:41,020 --> 00:06:42,860
+- I really like this one.
+
+224
+00:06:42,860 --> 00:06:43,957
+- [Bryan] You like it?
+
+225
+00:06:43,957 --> 00:06:46,021
+- I like black ones and red ones.
+
+226
+00:06:46,021 --> 00:06:47,135
+- [Missy] Awe.
+
+227
+00:06:47,135 --> 00:06:48,044
+- [Bryan] Yeah.
+
+228
+00:06:48,044 --> 00:06:48,877
+So it was a good present?
+
+229
+00:06:48,877 --> 00:06:49,710
+- Yeah.
+
+230
+00:06:49,710 --> 00:06:50,543
+- [Bryan] Yay!
+
+231
+00:06:50,543 --> 00:06:51,591
+- Wait, do you have one more present?
+
+232
+00:06:51,591 --> 00:06:52,576
+- [Bryan] No.
+
+233
+00:06:52,576 --> 00:06:53,790
+- I have a little present for you guys.
+
+234
+00:06:53,790 --> 00:06:54,623
+- [Bryan] Mommy has some presents.
+
+235
+00:06:54,623 --> 00:06:56,740
+- [Missy] One more, okay?
+
+236
+00:06:56,740 --> 00:06:58,100
+- [Bryan] Hey, what'd you say to daddy?
+
+237
+00:06:58,100 --> 00:06:59,599
+- [Ollie] Thank you, daddy.
+
+238
+00:06:59,599 --> 00:07:00,605
+- [Bryan] You're welcome.
+
+239
+00:07:00,605 --> 00:07:02,405
+- It's really cool because it has pinchers
+
+240
+00:07:02,405 --> 00:07:05,198
+and that yellow stinging tail.
+
+241
+00:07:05,198 --> 00:07:06,126
+- [Bryan] Yeah.
+
+242
+00:07:06,126 --> 00:07:08,690
+Ollie is obsessed with scorpions
+
+243
+00:07:08,690 --> 00:07:10,690
+so when I saw it, I was like
+
+244
+00:07:10,690 --> 00:07:12,140
+"Oh, they're going to love that."
+
+245
+00:07:12,140 --> 00:07:13,880
+We see them everywhere around here.
+
+246
+00:07:13,880 --> 00:07:14,780
+- Okay, ready?
+
+247
+00:07:14,780 --> 00:07:17,174
+Your other prize is...
+
+248
+00:07:17,174 --> 00:07:19,410
+Chocolate pajamas!
+
+249
+00:07:19,410 --> 00:07:20,690
+- [Bryan] Oh yeah, we got you pajamas
+
+250
+00:07:20,690 --> 00:07:21,920
+from the Hershey store!
+
+251
+00:07:22,850 --> 00:07:26,300
+Look, they have like little
+chocolate guys on them. (laughs)
+
+252
+00:07:26,300 --> 00:07:28,396
+Pajamas, mom, that's not a present.
+
+253
+00:07:28,396 --> 00:07:30,044
+- [Missy] Say, thank you mama.
+
+254
+00:07:30,044 --> 00:07:32,024
+- Thank you, mama.
+
+255
+00:07:32,024 --> 00:07:33,691
+- Aww well, Finn likes them.
+
+256
+00:07:33,691 --> 00:07:36,524
+(feel-good music)
+
+257
+00:07:44,120 --> 00:07:47,130
+- I am getting the kids ready for bed
+
+258
+00:07:47,130 --> 00:07:48,960
+and I have missed putting them to bed
+
+259
+00:07:48,960 --> 00:07:50,460
+the last couple of nights.
+
+260
+00:07:50,460 --> 00:07:52,470
+But, they were so good for Mimi and Papa
+
+261
+00:07:52,470 --> 00:07:54,260
+and so, I'm so proud of them.
+
+262
+00:07:54,260 --> 00:07:55,800
+Slept in your bed all night.
+
+263
+00:07:55,800 --> 00:07:57,550
+There was one night where
+he got a little nervous
+
+264
+00:07:57,550 --> 00:07:59,539
+and needed Mimi, huh?
+
+265
+00:07:59,539 --> 00:08:00,378
+- Yeah.
+
+266
+00:08:00,378 --> 00:08:02,010
+- But the other night, he did great.
+
+267
+00:08:02,010 --> 00:08:04,110
+I did get something in the mail
+
+268
+00:08:04,110 --> 00:08:05,550
+that I ordered a little while ago.
+
+269
+00:08:05,550 --> 00:08:07,940
+It's this little Okay to Wake owl
+
+270
+00:08:07,940 --> 00:08:09,220
+and I'm really excited about it
+
+271
+00:08:09,220 --> 00:08:11,787
+because his little eyes, when you press
+
+272
+00:08:11,787 --> 00:08:16,150
+turn yellow, and it kinda
+plays a little lullaby.
+
+273
+00:08:16,150 --> 00:08:17,350
+What it also does is
+
+274
+00:08:17,350 --> 00:08:21,270
+in the morning, when
+it's time to wake up--
+
+275
+00:08:21,270 --> 00:08:24,180
+I set the timer for
+them to wake up at 7AM.
+
+276
+00:08:24,180 --> 00:08:26,210
+They can press it, and if it turns green
+
+277
+00:08:26,210 --> 00:08:29,100
+it'll say, "Good morning,
+it's time to wake up."
+
+278
+00:08:29,100 --> 00:08:31,500
+And so, they know not to get out of bed
+
+279
+00:08:31,500 --> 00:08:33,799
+until the eyes are green.
+
+280
+00:08:33,799 --> 00:08:35,028
+Isn't that pretty cool?
+
+281
+00:08:35,029 --> 00:08:35,861
+- Yeah.
+
+282
+00:08:35,861 --> 00:08:36,694
+- So they're excited about it too
+
+283
+00:08:36,695 --> 00:08:37,528
+because they always are like--
+
+284
+00:08:37,528 --> 00:08:40,480
+They don't necessarily know
+if it's too early to get up.
+
+285
+00:08:40,480 --> 00:08:43,440
+Other than, I tell them to not
+get up until the sun is up.
+
+286
+00:08:43,440 --> 00:08:44,650
+But, (laughs) you know
+
+287
+00:08:44,650 --> 00:08:46,360
+I think it can be difficult sometimes
+
+288
+00:08:46,360 --> 00:08:49,680
+so I was like, "All right, in
+the morning you press this."
+
+289
+00:08:49,680 --> 00:08:52,690
+If it says it's time to wake
+up, or if the lights are green
+
+290
+00:08:52,690 --> 00:08:54,214
+that means go, go, go, huh?
+
+291
+00:08:54,214 --> 00:08:55,047
+- Go, go, go.
+
 292
-00:09:08,738 --> 00:09:10,292
-- I got him.
+00:08:55,047 --> 00:08:56,120
+- [Missy] Go, go, go see mama.
 
 293
-00:09:10,292 --> 00:09:11,625
-- There he goes.
+00:08:56,120 --> 00:08:57,270
+- Yeah, yeah.
 
 294
-00:09:14,511 --> 00:09:17,011
-- Go get him, go get him boys!
+00:08:57,270 --> 00:08:58,880
+- If they press it just a little too early
 
 295
-00:09:18,109 --> 00:09:19,610
-- Get ya.
+00:08:58,880 --> 00:09:00,530
+it'll say, "Go back to bed."
 
 296
-00:09:19,610 --> 00:09:20,710
-- (laughing)
+00:09:00,530 --> 00:09:02,310
+or, "It's almost time to get up."
 
 297
-00:09:20,710 --> 00:09:21,627
-- I got ya!
+00:09:02,310 --> 00:09:03,550
+but the eyes will still be yellow.
 
 298
-00:09:24,008 --> 00:09:27,061
-Awww, you guys chasing each other.
+00:09:03,550 --> 00:09:04,520
+So, I'm excited!
 
 299
-00:09:27,061 --> 00:09:29,587
-You guys are gonna be like,
-best friends after this.
+00:09:04,520 --> 00:09:05,460
+I'm hoping it works.
 
 300
-00:09:29,587 --> 00:09:32,897
-Cool, you have like your
-own little robot now.
+00:09:05,460 --> 00:09:06,585
+We'll see how it works, huh?
 
 301
-00:09:32,897 --> 00:09:34,731
-- BB-8, stormtroopers!
+00:09:06,585 --> 00:09:07,470
+- Yeah.
 
 302
-00:09:34,731 --> 00:09:36,161
-(gasps)
+00:09:07,470 --> 00:09:09,280
+- [Missy] You're gonna stay
+in bed until the lights are--?
 
 303
-00:09:36,161 --> 00:09:37,624
-Turn yours on Finn.
+00:09:09,280 --> 00:09:10,113
+- Open.
 
 304
-00:09:37,624 --> 00:09:39,621
-(laughs)
+00:09:10,970 --> 00:09:12,367
+- Green! (laughs)
 
 305
-00:09:39,621 --> 00:09:40,639
-- Ohhhh!
+00:09:12,367 --> 00:09:14,457
+All right, kids are in bed.
 
 306
-00:09:40,639 --> 00:09:42,676
-Why are they so cute?!
+00:09:14,457 --> 00:09:18,090
+We have had a long day driving.
 
 307
-00:09:42,676 --> 00:09:44,790
-Turn your lightsaber on.
+00:09:18,090 --> 00:09:19,640
+It's so nice, though, to be home
 
 308
-00:09:44,790 --> 00:09:46,123
-Oh, there it is.
+00:09:19,640 --> 00:09:22,760
+and it's so nice just to be with the kids.
 
 309
-00:09:47,148 --> 00:09:49,835
-- Alright guys, Santa
-BB-8 has to go back to the
+00:09:22,760 --> 00:09:25,490
+Putting them to bed is just
+always really cute and fun.
 
 310
-00:09:49,835 --> 00:09:51,550
-North Pole and charge up.
+00:09:25,490 --> 00:09:27,820
+I think we're gonna go
+ahead and end the vlog
 
 311
-00:09:51,550 --> 00:09:52,496
-So say goodbye.
+00:09:27,820 --> 00:09:29,660
+so we can go to bed (laughs).
 
 312
-00:09:52,496 --> 00:09:53,676
-- Bye bye!!
+00:09:29,660 --> 00:09:32,580
+We drove for like five hours.
 
 313
-00:09:53,676 --> 00:09:56,078
-- Bye, say bye BB-8.
+00:09:32,580 --> 00:09:34,370
+It was a long drive.
 
 314
-00:09:56,078 --> 00:09:57,462
-- Bye BB-8.
+00:09:34,370 --> 00:09:35,760
+I hope you enjoyed today's video.
 
 315
-00:09:57,462 --> 00:09:58,358
-(laughs)
+00:09:35,760 --> 00:09:38,091
+Make sure you give it a
+big thumbs up, if you did.
 
 316
-00:09:58,358 --> 00:09:59,946
-- Say bye Finn.
+00:09:38,091 --> 00:09:39,782
+We'll see you guys tomorrow.
 
 317
-00:09:59,946 --> 00:10:00,779
-- Bye.
+00:09:39,782 --> 00:09:40,615
+Bye.
 
 318
-00:10:00,779 --> 00:10:03,529
-- Bye, thanks for all your help.
-
-319
-00:10:03,529 --> 00:10:06,279
-(dramatic music)
-
-320
-00:10:20,994 --> 00:10:23,279
-- I cannot stop thinking about the new
-
-321
-00:10:23,279 --> 00:10:25,239
-Star Wars movie you guys, the Last Jedi.
-
-322
-00:10:25,239 --> 00:10:27,809
-It was so good and I gotta say
-
-323
-00:10:27,809 --> 00:10:29,952
-I am a new Star Wars fan.
-
-324
-00:10:29,952 --> 00:10:30,785
-I've just been watching for like
-
-325
-00:10:30,785 --> 00:10:32,365
-the past three years or so.
-
-326
-00:10:32,365 --> 00:10:34,202
-But it was just such a great movie,
-
-327
-00:10:34,202 --> 00:10:36,037
-I just loved like the humor,
-
-328
-00:10:36,037 --> 00:10:38,556
-I loved the emotion, I loved the message.
-
-329
-00:10:38,556 --> 00:10:39,780
-There was a part in the movie and
-
-330
-00:10:39,780 --> 00:10:41,540
-I'm not gonna give anything away, but.
-
-331
-00:10:41,540 --> 00:10:43,002
-There was a part in the movie where
-
-332
-00:10:43,002 --> 00:10:45,119
-she said: this is how we're gonna win.
-
-333
-00:10:45,119 --> 00:10:47,694
-Not by destroying what we hate,
-
-334
-00:10:47,694 --> 00:10:49,610
-but by saving what we love.
-
-335
-00:10:49,610 --> 00:10:51,283
-And I think that's such a great message
-
-336
-00:10:51,283 --> 00:10:52,670
-for this day and age.
-
-337
-00:10:52,670 --> 00:10:54,627
-Because negativity is something that's
-
-338
-00:10:54,627 --> 00:10:56,214
-really easy to attract.
-
-339
-00:10:56,214 --> 00:10:59,232
-I feel like to our culture and our people.
-
-340
-00:10:59,232 --> 00:11:02,000
-And if you really stop and look around,
-
-341
-00:11:02,000 --> 00:11:04,991
-I think you'll see that
-love is really everywhere.
-
-342
-00:11:04,991 --> 00:11:06,462
-And we just kinda need to save that,
-
-343
-00:11:06,462 --> 00:11:09,149
-and hold on to that and believe in that.
-
-344
-00:11:09,149 --> 00:11:10,331
-So that was really cool.
-
-345
-00:11:10,331 --> 00:11:11,164
-That was a really cool message.
-
-346
-00:11:11,164 --> 00:11:13,586
-It was just one of those
-full circle moments.
-
-347
-00:11:13,586 --> 00:11:15,218
-Being able to experience the duality.
-
-348
-00:11:15,218 --> 00:11:16,277
-So, it was really cool.
-
-349
-00:11:16,277 --> 00:11:18,641
-But, anyway I think that's
-all for today's blog.
-
-350
-00:11:18,641 --> 00:11:19,617
-If you enjoyed it you should
-
-351
-00:11:19,617 --> 00:11:20,963
-give this video a big thumbs up.
-
-352
-00:11:20,963 --> 00:11:23,092
-Subscribe, thanks for watching and
-
-353
-00:11:23,092 --> 00:11:24,192
-we will see you guys minyanta.
-
-354
-00:11:24,192 --> 00:11:25,025
-Byeeeeeee.
-
-355
-00:11:26,394 --> 00:00:00,000
-(fast beat music playing)
+00:09:42,381 --> 00:00:00,000
+(lively music)
 

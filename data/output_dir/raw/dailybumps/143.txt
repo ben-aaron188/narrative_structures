@@ -1,1731 +1,593 @@
 1
-00:00:00,234 --> 00:00:01,856
-- [Missy] Ollie, what's wrong with you?
+00:00:00,152 --> 00:00:03,235
+(cute, spooky music)
 
 2
-00:00:01,856 --> 00:00:04,191
-- I don't feel good, mama, moo!
+00:00:09,345 --> 00:00:13,012
+(children babbling happily)
 
 3
-00:00:04,191 --> 00:00:05,104
-- [Missy] Moo!
+00:00:18,209 --> 00:00:22,412
+- [Bryan] Ollie, Finn, time
+to go to the pumpkin patch!
 
 4
-00:00:05,104 --> 00:00:06,104
-Oh, my gosh.
+00:00:22,412 --> 00:00:26,245
+Let's go!
+(cute, spooky music)
 
 5
-00:00:07,053 --> 00:00:09,137
-Do you not feel good either, Fin?
+00:00:35,885 --> 00:00:37,482
+- Whoa.
+- Whoa!
 
 6
-00:00:09,137 --> 00:00:10,255
-(Fin whining)
+00:00:37,482 --> 00:00:39,227
+- What's this?
+- It seems to be
 
 7
-00:00:10,255 --> 00:00:11,088
-No? Meow!
+00:00:39,227 --> 00:00:42,260
+some kind of house.
+(Zero barks)
 
 8
-00:00:12,194 --> 00:00:15,653
-Oh my goodness, you
-turned into a kitty cat?
+00:00:42,260 --> 00:00:44,982
+- This is cool.
+- Oh, Jack.
 
 9
-00:00:15,653 --> 00:00:16,590
-♫ This is our life
+00:00:44,982 --> 00:00:47,490
+I don't know about this;
+we shouldn't intrude.
 
 10
-00:00:16,590 --> 00:00:17,805
-♫ This is our fight
+00:00:47,490 --> 00:00:51,657
+- Nonsense, let's go!
+(sweeping music)
 
 11
-00:00:17,805 --> 00:00:20,209
-♫ This is who we are
+00:01:02,978 --> 00:01:06,228
+(bouncy, spooky music)
 
 12
-00:00:20,209 --> 00:00:21,401
-♫ This is our dream
+00:01:21,821 --> 00:01:23,942
+Where's the coffin?
 
 13
-00:00:21,401 --> 00:00:22,555
-♫ This is our team
+00:01:23,942 --> 00:01:25,692
+This bed's too comfy.
 
 14
-00:00:22,555 --> 00:00:24,948
-♫ Shout among the stars
+00:01:31,453 --> 00:01:34,183
+- They must really love to entertain.
 
 15
-00:00:24,948 --> 00:00:27,391
-♫ Take this shield and we'll be fine
+00:01:34,183 --> 00:01:38,218
+They have so many ingredients for potions.
 
 16
-00:00:27,391 --> 00:00:30,298
-♫ Take this hand and watch us shine
+00:01:38,218 --> 00:01:42,332
+(Zero barks)
 
 17
-00:00:30,298 --> 00:00:32,026
-♫ This is our life
+00:01:42,332 --> 00:01:45,125
+Jack, we really should be going.
 
 18
-00:00:32,026 --> 00:00:33,960
-♫ Let's live it
+00:01:45,125 --> 00:01:46,355
+I don't wanna intrude on these
 
 19
-00:00:33,960 --> 00:00:35,726
-♫ Live it forever
+00:01:46,355 --> 00:01:48,840
+nice people.
+- Yes, I know.
 
 20
-00:00:35,726 --> 00:00:36,559
-- [Missy] Good morning.
+00:01:48,840 --> 00:01:51,454
+Let's look at his master closet.
 
 21
-00:00:36,559 --> 00:00:38,282
-- Good mornin'!
+00:01:51,454 --> 00:01:55,621
+I bet it's so big!
+(bouncy, spooky music)
 
 22
-00:00:38,282 --> 00:00:39,929
-- [Missy] Alright, I
-think I got a good one.
+00:02:00,210 --> 00:02:05,013
+(Jack and Sally screaming)
+(Zero barking)
 
 23
-00:00:39,929 --> 00:00:40,923
-Good morning!
+00:02:05,013 --> 00:02:08,180
+- Well, well, well, what have we here?
 
 24
-00:00:40,923 --> 00:00:41,808
-- Good mornin'!
+00:02:09,483 --> 00:02:12,978
+Trying to escape
+Halloween Town again, huh?
 
 25
-00:00:41,808 --> 00:00:43,554
-- [Missy] It's time for school, huh?
+00:02:12,978 --> 00:02:16,506
+- Oh no, it's Oogie Boogie!
+- Run!
 
 26
-00:00:43,554 --> 00:00:45,376
-Hi Peyton!
-- Hi.
+00:02:16,506 --> 00:02:19,756
+(dramatic chase music)
 
 27
-00:00:45,376 --> 00:00:46,411
-- [Missy] Your mommy was smart
+00:02:32,063 --> 00:02:34,448
+- I don't understand.
 
 28
-00:00:46,411 --> 00:00:47,501
-and gave you a little sweater.
+00:02:34,448 --> 00:02:36,206
+Where's Halloween Town?
 
 29
-00:00:47,501 --> 00:00:49,858
-I put him in shorts.
+00:02:36,206 --> 00:02:39,094
+All this running and I'm gonna pop a seam.
 
 30
-00:00:49,858 --> 00:00:51,447
-It's a little chilly today.
+00:02:39,094 --> 00:02:42,463
+- Quick, in here, before Oogie gets us!
 
 31
-00:00:51,447 --> 00:00:52,280
-- Yeah.
+00:02:42,463 --> 00:02:46,630
+(screaming)
+(gentle, pleasant music)
 
 32
-00:00:52,280 --> 00:00:54,050
-- Good morning, June.
+00:02:48,034 --> 00:02:50,972
+What's this?
+- Welcome to Valentine Valley.
 
 33
-00:00:54,050 --> 00:00:55,720
-Did you have a good night's sleep?
+00:02:50,972 --> 00:02:54,019
+(gasps) Jack, I've heard of you!
 
 34
-00:00:55,720 --> 00:00:56,553
-Oh hi, Paris.
+00:02:54,019 --> 00:02:55,682
+Please don't steal our holiday.
 
 35
-00:00:56,553 --> 00:00:57,386
-Good morning, Paris.
+00:02:55,682 --> 00:02:59,122
+- I will never do that again.
+- That's a relief.
 
 36
-00:00:57,386 --> 00:00:59,219
-I just dropped Ollie off at school,
+00:02:59,122 --> 00:03:01,118
+- We're being chased by Oogie Boogie.
 
 37
-00:00:59,219 --> 00:01:03,403
-and then I ended up
-dropping Fin off at my mom's
+00:03:01,118 --> 00:03:05,285
+We came here to hide.
+(bouncy, spooky music)
 
 38
-00:01:03,403 --> 00:01:05,293
-before I dropped Ollie off at school,
+00:03:06,477 --> 00:03:09,578
+- Hmm, where could they have gone?
 
 39
-00:01:05,293 --> 00:01:07,981
-because me and Kelsey
-are going to the gym,
+00:03:09,578 --> 00:03:14,400
+Come on, bugs, follow me.
+(gentle skittering)
 
 40
-00:01:07,981 --> 00:01:09,779
-and Bryan is just still
-not feeling very good,
+00:03:14,400 --> 00:03:18,877
+- I think he's gone.
+- Thanks for keeping us safe.
 
 41
-00:01:09,779 --> 00:01:13,153
-and nights and mornings
-tend to be the worst time.
+00:03:18,877 --> 00:03:22,472
+- No problem; that Oogie
+Boogie must be taken care of.
 
 42
-00:01:13,153 --> 00:01:15,837
-Oh, you're just being so gentle petting!
-
-43
-00:01:15,837 --> 00:01:17,266
-So I thought I'd give him a little break
-
-44
-00:01:17,266 --> 00:01:18,950
-while I go to the gym.
-
-45
-00:01:18,950 --> 00:01:20,925
-But what's cool, is
-that today me and Kelsey
-
-46
-00:01:20,925 --> 00:01:22,406
-are going rock climbing.
-
-47
-00:01:22,406 --> 00:01:24,268
-We're going to a different
-gym than we normally go to.
-
-48
-00:01:24,268 --> 00:01:25,796
-We're gonna go to a rock climbing gym,
-
-49
-00:01:25,796 --> 00:01:27,865
-and we are so excited!
-
-50
-00:01:27,865 --> 00:01:29,067
-The kids are all taken care of,
-
-51
-00:01:29,067 --> 00:01:30,610
-you're gonna stay home with Papa?
-
-52
-00:01:30,610 --> 00:01:31,673
-Does that sound good?
-
-53
-00:01:31,673 --> 00:01:32,506
-(baby cooing)
-
-54
-00:01:32,506 --> 00:01:33,798
-Yeah, and Paris?
-
-55
-00:01:33,798 --> 00:01:35,485
-But anyways, we are super excited.
-
-56
-00:01:35,485 --> 00:01:37,116
-Alright guys, we are at the rock gym,
-
-57
-00:01:37,116 --> 00:01:40,641
-and this place is so cool,
-I've never been here before.
-
-58
-00:01:40,641 --> 00:01:42,451
-We can even rock climb
-alone, 'cause they have
-
-59
-00:01:42,451 --> 00:01:45,119
-these handy-dandy little,
-I don't know what they are.
-
-60
-00:01:45,119 --> 00:01:46,696
-Yeah, and look at this.
-
-61
-00:01:46,696 --> 00:01:48,493
-We have the whole place to ourself.
-
-62
-00:01:48,493 --> 00:01:50,748
-It's so fun!
-- Yes!
-
-63
-00:01:50,748 --> 00:01:52,086
-- So, I'm gonna set up the camera
-
-64
-00:01:52,086 --> 00:01:53,001
-and show you guys our climb.
-
-65
-00:01:53,001 --> 00:01:53,909
-This is gonna be our first climb,
-
-66
-00:01:53,909 --> 00:01:55,663
-so it might be kind of slow.
-
-67
-00:01:55,663 --> 00:01:57,390
-- Okay, so like he was
-saying, the five-five
-
-68
-00:01:57,390 --> 00:01:59,973
-is the easiest, besides the VO.
-
-69
-00:02:01,167 --> 00:02:04,031
-- [Missy] I think so,
-well the VO is like--
-
-70
-00:02:04,031 --> 00:02:05,564
-- [Kelsey] For the bouldering?
-
-71
-00:02:05,564 --> 00:02:06,764
-- I think so.
-- We don't know.
-
-72
-00:02:06,764 --> 00:02:08,783
-- [Missy] So I'm doing easiest,
-
-73
-00:02:08,783 --> 00:02:10,479
-you're doing a little bit harder.
-
-74
-00:02:10,479 --> 00:02:11,516
-- Okay so, it goes like--
-
-75
-00:02:11,516 --> 00:02:13,538
-- [Missy] Oh actually, that
-looks really hard, Kelsey.
-
-76
-00:02:13,538 --> 00:02:15,007
-(Missy laughing)
-
-77
-00:02:15,007 --> 00:02:15,840
-You can do it?
-
-78
-00:02:15,840 --> 00:02:17,154
-- I have no idea.
-
-79
-00:02:17,154 --> 00:02:18,083
-I can try.
-(Missy laughing)
-
-80
-00:02:18,083 --> 00:02:19,457
-- This might take us
-awhile, but we're excited.
-
-81
-00:02:19,457 --> 00:02:20,685
-Alright, let's see how we do.
-
-82
-00:02:20,685 --> 00:02:24,185
-(upbeat electronic music)
-
-83
-00:02:44,609 --> 00:02:46,934
-You guys, I got really scared
-to jump, I couldn't do it.
-
-84
-00:02:46,934 --> 00:02:47,981
-- You did it, though.
-
-85
-00:02:47,981 --> 00:02:50,103
-- I had to just make sure
-that I wasn't gonna fall,
-
-86
-00:02:50,103 --> 00:02:51,799
-though, watching Kelsey.
-
-87
-00:02:51,799 --> 00:02:53,164
-Alright, we're gonna switch because I got
-
-88
-00:02:53,164 --> 00:02:54,881
-the really easy side.
-
-89
-00:02:54,881 --> 00:02:57,276
-She got the, I feel like, very hard.
-
-90
-00:02:57,276 --> 00:03:00,450
-Look at these little,
-tiny things to hold onto.
-
-91
-00:03:00,450 --> 00:03:03,860
-That's like nothing,
-that's like a finger grip.
-
-92
-00:03:03,860 --> 00:03:05,034
-(exhausted exhale)
-
-93
-00:03:05,034 --> 00:03:05,949
-- I'm already dead.
-
-94
-00:03:05,949 --> 00:03:06,782
-Like, dead.
-
-95
-00:03:06,782 --> 00:03:08,857
-I've done one run, and I'm dead.
-
-96
-00:03:08,857 --> 00:03:10,279
-(Missy laughing)
-
-97
-00:03:10,279 --> 00:03:12,754
-- So we're gonna go again,
-
-98
-00:03:12,754 --> 00:03:14,894
-and we're gonna try and
-switch it this time.
-
-99
-00:03:14,894 --> 00:03:16,095
-So, we'll see how we do.
-
-100
-00:03:16,095 --> 00:03:19,595
-(upbeat electronic music)
-
-101
-00:03:24,586 --> 00:03:26,291
-I could not even close my hand.
-
-102
-00:03:26,291 --> 00:03:27,544
-- [Kelsey] I know, right?
-
-103
-00:03:27,544 --> 00:03:31,447
-- I can barely hold this
-camera, I'm like shaking.
-
-104
-00:03:31,447 --> 00:03:32,864
-My hand's a claw.
-
-105
-00:03:34,105 --> 00:03:36,533
-Did you watch Friends,
-where Chandler's hand
-
-106
-00:03:36,533 --> 00:03:38,116
-turned into a claw?
-
-107
-00:03:38,985 --> 00:03:40,819
-That's my hand.
-
-108
-00:03:40,819 --> 00:03:42,319
-Good morning, Fin!
-
-109
-00:03:43,400 --> 00:03:45,539
-Did you have fun with Mimi and Papa?
-
-110
-00:03:45,539 --> 00:03:46,372
-- Yeah.
-
-111
-00:03:46,372 --> 00:03:47,242
-- Yeah?
-
-112
-00:03:47,242 --> 00:03:49,556
-I just got to my parents, and oh my gosh,
-
-113
-00:03:49,556 --> 00:03:51,130
-my arms are so bad.
-
-114
-00:03:51,130 --> 00:03:52,992
-It was really, really fun.
-
-115
-00:03:52,992 --> 00:03:55,391
-It was definitely a
-different kind of work out,
-
-116
-00:03:55,391 --> 00:03:57,226
-'cause normally we get
-done with our work outs
-
-117
-00:03:57,226 --> 00:04:02,202
-and we usually run, and we
-work on a certain thing,
-
-118
-00:04:02,202 --> 00:04:03,617
-and so it's definitely different.
-
-119
-00:04:03,617 --> 00:04:06,263
-My arms are in so much
-pain, I can barely hold
-
-120
-00:04:06,263 --> 00:04:08,402
-up the camera, it's like ow!
-
-121
-00:04:08,402 --> 00:04:10,301
-Like, I can finally close
-my hand, 'cause earlier
-
-122
-00:04:10,301 --> 00:04:12,112
-I was like, I can't close it.
-
-123
-00:04:12,112 --> 00:04:14,113
-Alright, say bye bye, Mimi and Papa!
-
-124
-00:04:14,113 --> 00:04:16,551
-- Bye Mimi and Papa!
-
-125
-00:04:16,551 --> 00:04:20,034
-- Awww, that was a full sentence!
-
-126
-00:04:20,034 --> 00:04:21,909
-Good job, bud!
-
-127
-00:04:21,909 --> 00:04:23,875
-You're gettin' so good.
-
-128
-00:04:23,875 --> 00:04:25,476
-So, I had a little bit of a mix up.
-
-129
-00:04:25,476 --> 00:04:29,319
-I left my keys with Kelsey,
-and so my dad is now driving me
-
-130
-00:04:29,319 --> 00:04:31,576
-quickly to Rite Aid
-because I just got a call,
-
-131
-00:04:31,576 --> 00:04:34,257
-Bryan is in desperate need of medicine.
-
-132
-00:04:34,257 --> 00:04:35,921
-- You are so absent-minded.
-
-133
-00:04:35,921 --> 00:04:39,410
-I left my phone at home, so
-I can't go anywhere, okay.
-
-134
-00:04:39,410 --> 00:04:40,243
-- I know.
-
-135
-00:04:40,243 --> 00:04:43,201
-Yeah, I left my keys, my dad
-took me, he left his phone.
-
-136
-00:04:43,201 --> 00:04:45,245
-We're just very much related, and--
-
-137
-00:04:45,245 --> 00:04:47,069
-- We're not gonna set
-anything down in this store.
-
-138
-00:04:47,069 --> 00:04:47,934
-(Missy laughing)
-
-139
-00:04:47,934 --> 00:04:49,079
-- But anyways, Bryan
-
-140
-00:04:49,079 --> 00:04:51,142
-- Wait, where's Fin?
-- is in desperate need
-
-141
-00:04:51,142 --> 00:04:54,751
-of medicine, and I feel
-so bad, so, here I go.
-
-142
-00:04:54,751 --> 00:04:57,334
-(bright music)
-
-143
-00:05:16,714 --> 00:05:18,546
-Alright, I am home and I have made
-
-144
-00:05:18,546 --> 00:05:20,879
-him an entire emergency kit.
-
-145
-00:05:22,389 --> 00:05:25,413
-He's got bananas, and
-applesauce, and graham crackers,
-
-146
-00:05:25,413 --> 00:05:28,879
-and all kinds of medicine,
-and cough medicine,
-
-147
-00:05:28,879 --> 00:05:31,583
-and drinks, and ice
-cream, 'cause you know,
-
-148
-00:05:31,583 --> 00:05:32,909
-who doesn't want ice cream?
-
-149
-00:05:32,909 --> 00:05:34,505
-I'm gonna go give this to him now,
-
-150
-00:05:34,505 --> 00:05:38,097
-and hopefully this makes him
-feel just a little bit better.
-
-151
-00:05:38,097 --> 00:05:39,823
-I forgot tissues.
-
-152
-00:05:39,823 --> 00:05:43,098
-I gotta give him these tissues,
-and then hopefully he's set.
-
-153
-00:05:43,098 --> 00:05:44,741
-Alright Fin, what are we doin' now?
-
-154
-00:05:44,741 --> 00:05:46,445
-Say, we're gettin' Ollie!
-
-155
-00:05:46,445 --> 00:05:47,671
-(Fin babbling)
-
-156
-00:05:47,671 --> 00:05:48,790
-Say Ollie!
-
-157
-00:05:48,790 --> 00:05:49,634
-- Owwie.
-
-158
-00:05:49,634 --> 00:05:50,467
-- Ollie.
-
-159
-00:05:50,467 --> 00:05:52,436
-- Yep, we are gettin' Ollie right now.
-
-160
-00:05:52,436 --> 00:05:54,525
-Oh, somethin's wrong with his shoe,
-
-161
-00:05:54,525 --> 00:05:57,265
-and we are excited to see him.
-
-162
-00:05:57,265 --> 00:05:58,098
-Oh, hey.
-
-163
-00:06:01,656 --> 00:06:02,819
-- [Fin] Hey!
-
-164
-00:06:02,819 --> 00:06:04,280
-(Missy shushing)
-
-165
-00:06:04,280 --> 00:06:07,197
+00:03:22,472 --> 00:03:26,639
+Here, have a sucker.
 (gentle music)
 
-166
-00:06:07,197 --> 00:06:09,536
-- Alright, just got home with the boys,
-
-167
-00:06:09,536 --> 00:06:10,991
-and they both fell asleep in the car,
-
-168
-00:06:10,991 --> 00:06:13,138
-so they are just a little bit grouchy.
-
-169
-00:06:13,138 --> 00:06:15,054
-They are needing some
-extra little cuddles,
-
-170
-00:06:15,054 --> 00:06:16,620
-and maybe a little bit more rest
-
-171
-00:06:16,620 --> 00:06:17,929
-before we do anything else.
-
-172
-00:06:17,929 --> 00:06:20,570
-But, we have actually quite
-a bit of fun planned today,
-
-173
-00:06:20,570 --> 00:06:22,526
-so I'm hoping they snap out of it.
-
-174
-00:06:22,526 --> 00:06:25,537
-I'm hoping they snap out
-of it so we can have fun.
-
-175
-00:06:25,537 --> 00:06:26,370
-Okay?
-
-176
-00:06:26,370 --> 00:06:27,287
-- No!
-
-177
-00:06:27,287 --> 00:06:29,377
-- No, I don't wanna have fun.
-
-178
-00:06:29,377 --> 00:06:31,587
-You wanna have fun?
-
-179
-00:06:31,587 --> 00:06:32,705
-Nope.
-
-180
-00:06:32,705 --> 00:06:34,339
-Ollie, what's wrong with you?
-
-181
-00:06:34,339 --> 00:06:36,582
-- I don't feel good, mama, moo!
-
-182
-00:06:36,582 --> 00:06:37,436
-- [Missy] Moo!
-
-183
-00:06:37,436 --> 00:06:38,353
-Oh my gosh!
-
-184
-00:06:39,511 --> 00:06:41,589
-Do you not feel good either, Fin?
-
-185
-00:06:41,589 --> 00:06:42,746
-(Fin whining)
-
-186
-00:06:42,746 --> 00:06:43,579
-No? Meow!
-
-187
-00:06:44,647 --> 00:06:48,094
-Oh my goodness, you
-turned into a kitty cat?
-
-188
-00:06:48,094 --> 00:06:50,734
-You guys turned into farm animals?
-
-189
-00:06:50,734 --> 00:06:51,567
-- Moo.
-
-190
-00:06:51,567 --> 00:06:53,664
-- [Missy] Oh no!
-
-191
-00:06:53,664 --> 00:06:56,552
-Ah! They're runnin' out of the house!
-
-192
-00:06:56,552 --> 00:07:00,399
-This kitty cat seems to be exhausted.
-
-193
-00:07:00,399 --> 00:07:02,835
-Look at this kitty cat!
-
-194
-00:07:02,835 --> 00:07:03,789
-Meow!
-
-195
-00:07:03,789 --> 00:07:04,622
-And a cow.
-
-196
-00:07:06,091 --> 00:07:08,005
-Oh my goodness!
-
-197
-00:07:08,005 --> 00:07:10,672
-(playful music)
-
-198
-00:07:18,208 --> 00:07:20,661
-You guys, they've been saying
-they didn't feel good all day,
-
-199
-00:07:20,661 --> 00:07:24,001
-and I cannot believe that they
-actually turned into animals.
-
-200
-00:07:24,001 --> 00:07:25,764
-A little cow and a little kitty cat,
-
-201
-00:07:25,764 --> 00:07:29,173
-and I gotta say, they're
-pretty stinking adorable.
-
-202
-00:07:29,173 --> 00:07:32,209
-Ollie is just running around
-the yard eating the grass,
-
-203
-00:07:32,209 --> 00:07:36,186
-and little Fin is acting like a kitty cat.
-
-204
-00:07:36,186 --> 00:07:37,614
-Aww!
-
-205
-00:07:37,614 --> 00:07:40,543
-Look at this cow eating all our grass.
-
-206
-00:07:40,543 --> 00:07:42,155
-You're gonna ruin our grass!
-
-207
-00:07:42,155 --> 00:07:45,092
-I have one question for you; got milk?
-
-208
-00:07:45,092 --> 00:07:47,509
-And look at miss farmer June!
-
-209
-00:07:48,750 --> 00:07:53,298
-She's got all her little
-animals and she's pettin' them.
-
-210
-00:07:53,298 --> 00:07:55,048
-You guys are so cute!
-
-211
-00:07:56,532 --> 00:07:59,219
-If you guys wanna see
-how she wrangles them all
-
-212
-00:07:59,219 --> 00:08:01,975
-and their cute little skit
-over on Steps to Wander
-
-213
-00:08:01,975 --> 00:08:03,658
-make sure you guys go check the I card.
-
-214
-00:08:03,658 --> 00:08:06,188
-It is so stinkin' cute,
-and they're all just like,
-
-215
-00:08:06,188 --> 00:08:10,175
-actually little farm animals
-hanging out with farmer June.
-
-216
-00:08:10,175 --> 00:08:12,008
-You guys are so cute.
-
-217
-00:08:12,008 --> 00:08:15,804
-I think Ollie, he's really taken
-on his role very seriously.
-
-218
-00:08:15,804 --> 00:08:16,788
-- [Man] He'll only moo.
-
-219
-00:08:16,788 --> 00:08:19,728
-- [Missy] Yeah, he only
-moos and eats grass.
-
-220
-00:08:19,728 --> 00:08:20,835
-- [Man] And shakes his tail.
-
-221
-00:08:20,835 --> 00:08:22,611
-(Missy laughing)
-
-222
-00:08:22,611 --> 00:08:24,442
-You're a real cow!
-
-223
-00:08:24,442 --> 00:08:25,963
-- That was so much fun.
-
-224
-00:08:25,963 --> 00:08:28,214
-They are still dressed
-up in their little cow
-
-225
-00:08:28,214 --> 00:08:30,858
-and kitty cat costume, but
-I did was to say, guys,
-
-226
-00:08:30,858 --> 00:08:35,326
-that since Ollie is gonna
-be out tonight, aren't ya?
-
-227
-00:08:35,326 --> 00:08:36,907
-You're gonna be out partyin' tonight?
-
-228
-00:08:36,907 --> 00:08:39,496
-We are gonna do our
-advent calendar right now.
-
-229
-00:08:39,496 --> 00:08:42,176
-So as you guys know, we started
-doing this advent calendar,
-
-230
-00:08:42,177 --> 00:08:43,010
-or is it an advent calendar?
-
-231
-00:08:43,010 --> 00:08:44,778
-I don't know, it's a Halloween calendar.
-
-232
-00:08:44,778 --> 00:08:49,117
-The boys are gonna pick out
-their little candy for today.
-
-233
-00:08:49,117 --> 00:08:50,647
-Yay!
-
-234
-00:08:50,647 --> 00:08:52,369
-Okay, get the number three!
-
-235
-00:08:52,369 --> 00:08:53,410
-No, not that one!
-
-236
-00:08:53,410 --> 00:08:54,797
-Oh well, I'll just fill it.
-
-237
-00:08:54,797 --> 00:08:56,983
-Oh, at the top, the top!
-
-238
-00:08:56,983 --> 00:08:58,483
-Oh, good job, yay!
-
-239
-00:09:01,125 --> 00:09:03,137
-Alright, we'll just put this one in here.
-
-240
-00:09:03,137 --> 00:09:04,243
-(Missy laughing)
-
-241
-00:09:04,243 --> 00:09:06,682
-Alright, since Fin got
-to pick the candy out,
-
-242
-00:09:06,682 --> 00:09:10,865
-we got the colors, an Ollie
-gets to pick the color.
-
-243
-00:09:10,865 --> 00:09:13,281
-Red, and Fin gets orange.
-
-244
-00:09:13,281 --> 00:09:14,940
-Yay, what do you guys say?
-
-245
-00:09:14,940 --> 00:09:16,510
-- Thank you.
-(Fin babbling)
-
-246
-00:09:16,510 --> 00:09:17,541
-(Missy laughing)
-
-247
-00:09:17,541 --> 00:09:19,291
-- Look who's up guys.
-
-248
-00:09:20,882 --> 00:09:24,215
-It's daddy, the boys missed him so much.
-
-249
-00:09:25,656 --> 00:09:28,121
-He's come out of his
-cave for a little bit.
-
-250
-00:09:28,121 --> 00:09:30,038
-- Yeah, just for dessert.
-
-251
-00:09:30,038 --> 00:09:31,889
-- [Missy] Did you miss daddy, Fin?
-
-252
-00:09:31,889 --> 00:09:33,315
-(Fin laughing)
-
-253
-00:09:33,315 --> 00:09:34,148
-They missed him.
-
-254
-00:09:34,148 --> 00:09:35,006
-- Guess what?
-- What?
-
-255
-00:09:35,006 --> 00:09:37,589
-- Papa gets to take care of me!
-
-256
-00:09:38,872 --> 00:09:39,980
-- [Missy] Yeah!
-
-257
-00:09:39,980 --> 00:09:41,951
-- Papa's takin' him to
-the little hoe down at--
-
-258
-00:09:41,951 --> 00:09:44,322
-- I know, we're so bummed.
-
-259
-00:09:44,322 --> 00:09:47,438
-We're bummed because Bryan is so sick
-
-260
-00:09:47,438 --> 00:09:51,521
-that he just can't take
-Ollie to the dad's night.
-
-261
-00:09:52,461 --> 00:09:55,158
-Such a bummer, but luckily we've got Papa.
-
-262
-00:09:55,158 --> 00:09:56,430
-He's a pretty good dad to me.
-
-263
-00:09:56,430 --> 00:09:59,680
-So, he is gonna go hang out with Ollie.
-
-264
-00:10:00,543 --> 00:10:03,550
-(Ollie babbling)
-
-265
-00:10:03,550 --> 00:10:04,764
-- They're real excited, he's gonna go
-
-266
-00:10:04,764 --> 00:10:06,060
-out tonight and have fun.
-
-267
-00:10:06,060 --> 00:10:08,675
-But yeah, Bryan's up, we're
-havin' a little family time
-
-268
-00:10:08,675 --> 00:10:11,783
-right now, but I have to
-tell Bryan a little story.
-
-269
-00:10:11,783 --> 00:10:15,950
-Earlier today, me and Fin
-were sitting on the couch,
-
-270
-00:10:16,827 --> 00:10:19,284
-and me and Fin found something
-
-271
-00:10:19,284 --> 00:10:21,501
-very disgusting sitting on our couch.
-
-272
-00:10:21,501 --> 00:10:22,334
-- [Bryan] What'd you find?
-
-273
-00:10:22,334 --> 00:10:23,506
-- Do you wanna see what we found?
-
-274
-00:10:23,506 --> 00:10:25,782
-It's okay, I trapped it in here
-
-275
-00:10:25,782 --> 00:10:27,573
-so that you can see it specially.
-
-276
-00:10:27,573 --> 00:10:29,207
-- Oh my god.
-
-277
-00:10:29,207 --> 00:10:30,843
-Oh my gosh, that's scorpions.
-
-278
-00:10:30,843 --> 00:10:31,915
-Oh my god, and they're alive?
-
-279
-00:10:31,915 --> 00:10:32,748
-- [Missy] Yes.
-
-280
-00:10:32,748 --> 00:10:36,410
-- Why are they so small?
-- Two baby scorpions.
-
-281
-00:10:36,410 --> 00:10:37,398
-- In our couch?
-
-282
-00:10:37,398 --> 00:10:40,180
-- On the couch, just
-sitting there hanging out.
-
-283
-00:10:40,180 --> 00:10:41,161
-Chilling.
-
-284
-00:10:41,161 --> 00:10:45,328
-I literally tore this place
-apart, flipped everything upside
-
-285
-00:10:46,315 --> 00:10:49,178
-down, vacuumed everything.
-
-286
-00:10:49,178 --> 00:10:50,011
-- Look at 'em.
-
-287
-00:10:50,011 --> 00:10:52,170
-- I haven't found
-anymore, there's just two,
-
-288
-00:10:52,170 --> 00:10:54,294
-but I'm kind of scared,
-like where is the mom?
-
-289
-00:10:54,294 --> 00:10:55,934
-- I've never seen scorpions anywhere,
-
-290
-00:10:55,934 --> 00:10:58,299
-and then all of a sudden we
-see those two in the garage,
-
-291
-00:10:58,299 --> 00:10:59,940
-and then these two are smaller than those.
-
-292
-00:10:59,940 --> 00:11:01,956
-- I know, those are babies.
-
-293
-00:11:01,956 --> 00:11:06,625
-I'm freaking out, I literally
-torn this place upside down.
-
-294
-00:11:06,625 --> 00:11:09,252
-I just called our pest
-guy, so he will be here
-
-295
-00:11:09,252 --> 00:11:11,343
-in a few days, so that'll help,
-
-296
-00:11:11,343 --> 00:11:12,705
-but I'm definitely traumatized.
-
-297
-00:11:12,705 --> 00:11:15,273
-Now, first thing you have to know
-
-298
-00:11:15,273 --> 00:11:16,774
-is that these are not deadly.
-
-299
-00:11:16,774 --> 00:11:19,031
-They will give you a good
-sting, and they'll hurt,
-
-300
-00:11:19,031 --> 00:11:21,547
-and they'll probably feel
-worse than a bee sting.
-
-301
-00:11:21,547 --> 00:11:24,737
-But, they're not deadly,
-so that's good to know.
-
-302
-00:11:24,737 --> 00:11:27,100
-Second, that's just
-disgusting, I don't know.
-
-303
-00:11:27,100 --> 00:11:29,413
-I'm hoping they just got
-brought in maybe on like a towel
-
-304
-00:11:29,413 --> 00:11:33,407
-or something, and then
-they just jumped off.
-
-305
-00:11:33,407 --> 00:11:35,681
-That's what my hope is,
-I've cleaned everything up,
-
-306
-00:11:35,681 --> 00:11:38,250
-so hopefully we don't
-see any more around here.
-
-307
-00:11:38,250 --> 00:11:39,083
-So gross.
-
-308
-00:11:40,208 --> 00:11:42,791
-(upbeat music)
-
-309
-00:11:48,622 --> 00:11:51,691
-Alright, where you heading?
-
-310
-00:11:51,691 --> 00:11:54,274
-(all laughing)
-
-311
-00:11:55,795 --> 00:11:57,242
-So, where are you heading, baby?
-
-312
-00:11:57,242 --> 00:11:58,514
-- To my school!
-
-313
-00:11:58,514 --> 00:12:00,242
-- [Missy] Yeah, and who's coming with you?
-
-314
-00:12:00,242 --> 00:12:01,200
-- Papa!
-
-315
-00:12:01,200 --> 00:12:02,494
-- [Missy] Are you so excited?
-
-316
-00:12:02,494 --> 00:12:03,327
-- Yeah!
-
-317
-00:12:03,327 --> 00:12:04,424
-- Alright, well just so you know,
-
-318
-00:12:04,424 --> 00:12:08,591
-you do have a curfew, so you
-better be home on time, okay?
-
-319
-00:12:09,526 --> 00:12:10,359
-- Okay.
-
-320
-00:12:10,359 --> 00:12:11,756
-(Missy giggling)
-
-321
-00:12:11,756 --> 00:12:13,860
-- [Missy] Fin doesn't want him to go.
-
-322
-00:12:13,860 --> 00:12:15,169
-(Missy laughing)
-
-323
-00:12:15,169 --> 00:12:17,077
-- I'm gonna miss you, Fin.
-
-324
-00:12:17,077 --> 00:12:19,937
-I promise I won't be mean.
-
-325
-00:12:19,937 --> 00:12:21,520
-I don't walk right.
-
-326
-00:12:23,057 --> 00:12:24,059
-- [Missy] You're so cute, bud.
-
-327
-00:12:24,059 --> 00:12:26,116
-I'm gonna miss you, too.
-
-328
-00:12:26,116 --> 00:12:27,185
-Aww.
-
-329
-00:12:27,185 --> 00:12:30,018
-(laid back music)
-
-330
-00:12:36,183 --> 00:12:39,847
-(Ollie squealing)
-
-331
-00:12:39,847 --> 00:12:43,200
-- [Papa] What do you got there?
-
-332
-00:12:43,200 --> 00:12:44,919
-Alright, want me to get him off?
-
-333
-00:12:44,919 --> 00:12:47,194
-(Ollie panicking)
-
-334
-00:12:47,194 --> 00:12:51,361
-(crowd chattering)
-(laid back music)
-
-335
-00:13:15,662 --> 00:13:17,294
-- Is it your bedtime?
-
-336
-00:13:17,294 --> 00:13:18,429
-(Fin babbling)
-
-337
-00:13:18,429 --> 00:13:20,914
-He's so excited, 'cause he
-has his Halloween outfit on.
-
-338
-00:13:20,914 --> 00:13:22,415
-(Fin yelling)
-
-339
-00:13:22,415 --> 00:13:23,248
-Halloween!
-
-340
-00:13:24,372 --> 00:13:25,626
-It is time for bed.
-
-341
-00:13:25,626 --> 00:13:28,460
-Me and Fin are all cleaned
-up and ready for bed,
-
-342
-00:13:28,460 --> 00:13:30,663
-Ollie is out late tonight, and
-
-343
-00:13:30,663 --> 00:13:32,561
-it's so weird not having him here,
-
-344
-00:13:32,561 --> 00:13:34,436
-but it is always fun
-to have a special night
-
-345
-00:13:34,436 --> 00:13:36,266
-every once in a while which just Fin
-
-346
-00:13:36,266 --> 00:13:38,127
-to read him books and have a special time.
-
-347
-00:13:38,127 --> 00:13:41,221
-I did wanna show you guys Fin's bed.
-
-348
-00:13:41,221 --> 00:13:44,687
-If you guys didn't know,
-he can officially climb out
-
-349
-00:13:44,687 --> 00:13:47,336
-of the mattress sitting on the floor.
-
-350
-00:13:47,336 --> 00:13:50,320
-It is a pretty far
-climb, but he just climbs
-
-351
-00:13:50,320 --> 00:13:51,892
-right up and climbs right out.
-
-352
-00:13:51,892 --> 00:13:55,348
-And it made nap time basically impossible,
-
-353
-00:13:55,348 --> 00:13:57,850
-and bedtime very difficult, so I had
-
-354
-00:13:57,850 --> 00:13:59,904
-to go ahead and get a net.
-
-355
-00:13:59,904 --> 00:14:01,012
-And I'm super bummed about it,
-
-356
-00:14:01,012 --> 00:14:03,624
-because it does make bedtime
-a little bit difficult
-
-357
-00:14:03,624 --> 00:14:05,297
-because I basically have to put him it,
-
-358
-00:14:05,297 --> 00:14:06,626
-and then I have to zip him up,
-
-359
-00:14:06,626 --> 00:14:08,380
-and usually is like,
-what are you doing, mom?
-
-360
-00:14:08,380 --> 00:14:09,213
-What are you doing?
-
-361
-00:14:09,213 --> 00:14:11,812
-He tries to get out, and it's so horrible.
-
-362
-00:14:11,812 --> 00:14:14,181
-I hate it, and another reason
-why I hate it is because
-
-363
-00:14:14,181 --> 00:14:15,718
-we have Nest cams all over the room
-
-364
-00:14:15,718 --> 00:14:19,291
-as you guys probably
-know, and I can't see him.
-
-365
-00:14:19,291 --> 00:14:21,788
-I basically can't see
-him, I can only hear him
-
-366
-00:14:21,788 --> 00:14:23,973
-through this monitor and hear
-him through the Nest cams,
-
-367
-00:14:23,973 --> 00:14:26,484
-and it's such a bummer,
-because I love checking on them
-
-368
-00:14:26,484 --> 00:14:28,394
-throughout the night, making
-sure that they're good
-
-369
-00:14:28,394 --> 00:14:31,200
-and sleeping good, and in a good position.
-
-370
-00:14:31,200 --> 00:14:33,141
-So, if anyone has any
-suggestions for that,
-
-371
-00:14:33,141 --> 00:14:35,986
-let me know, because I
-am definitely bummed.
-
-372
-00:14:35,986 --> 00:14:37,444
-It's just a big, white net.
-
-373
-00:14:37,444 --> 00:14:40,775
-He is sleeping good in it, though.
-
-374
-00:14:40,775 --> 00:14:43,400
-It has solved our issue,
-at least for bedtime.
-
-375
-00:14:43,400 --> 00:14:45,690
-Nap time does seem to be a
-little bit more difficult
-
-376
-00:14:45,690 --> 00:14:48,118
-because he doesn't really
-wanna go to bed anyways,
-
-377
-00:14:48,118 --> 00:14:51,304
-and then when I go to zip
-him up into it at nap time,
-
-378
-00:14:51,304 --> 00:14:53,268
-he's like, get me out of here!
-
-379
-00:14:53,268 --> 00:14:55,323
-And I'm like, no, take a nap!
-
-380
-00:14:55,323 --> 00:14:57,273
-If you guys have any suggestions,
-
-381
-00:14:57,273 --> 00:14:58,975
-let me know down in the comments.
-
-382
-00:14:58,975 --> 00:15:00,410
-But it is bedtime.
-
-383
-00:15:00,410 --> 00:15:03,810
-I try and get him to bed by
-7:30, and it's 7:15 right now.
-
-384
-00:15:03,810 --> 00:15:05,164
-So I think that's pretty good.
-
-385
-00:15:05,164 --> 00:15:06,566
-Let me know down in the comments, though,
-
-386
-00:15:06,566 --> 00:15:08,527
-what time do you guys usually go to bed?
-
-387
-00:15:08,527 --> 00:15:09,662
-Do you have a bedtime?
-
-388
-00:15:09,662 --> 00:15:11,832
-I definitely have bedtime for the boys.
-
-389
-00:15:11,832 --> 00:15:13,653
-I like to get Fin in bed by 7:30,
-
-390
-00:15:13,653 --> 00:15:15,717
-and Ollie in bed by eight o'clock.
-
-391
-00:15:15,717 --> 00:15:18,077
-I usually try and be in
-bed by like midnight.
-
-392
-00:15:18,077 --> 00:15:19,115
-I know it's a little bit late,
-
-393
-00:15:19,115 --> 00:15:20,691
-but that's what I like to do.
-
-394
-00:15:20,691 --> 00:15:22,208
-Hope you guys enjoyed today's video.
-
-395
-00:15:22,208 --> 00:15:24,590
-Alright, say, give the
-video a big thumbs up!
-
-396
-00:15:24,590 --> 00:15:25,753
-Yeah!
-
-397
-00:15:25,753 --> 00:15:26,586
-- Halloween!
-
-398
-00:15:26,586 --> 00:15:28,511
-- Halloween, happy Halloween!
-
-399
-00:15:28,511 --> 00:15:30,635
-Say, leave in the
-comments happy Halloween!
-
-400
-00:15:30,635 --> 00:15:32,657
-(Fin grunting)
-
-401
-00:15:32,657 --> 00:15:34,213
-And say, we'll see you guys tomorrow!
-
-402
-00:15:34,213 --> 00:15:35,046
-Say, bye!
-
-403
-00:15:37,126 --> 00:15:38,454
-- [Fin] Boop.
-
-404
-00:15:38,454 --> 00:00:00,000
-(upbeat music)
+43
+00:03:31,268 --> 00:03:35,435
+(Zero barks)
+- We must find Halloween Town.
+
+44
+00:03:36,546 --> 00:03:40,129
+(screaming)
+Oh, no, Sally!
+
+45
+00:03:42,462 --> 00:03:44,848
+We're coming to get you; come on, Zero!
+
+46
+00:03:44,848 --> 00:03:48,506
+(dramatic music)
+(barking and screaming)
+
+47
+00:03:48,506 --> 00:03:50,423
+(bouncy, happy music)
+
+48
+00:03:50,423 --> 00:03:54,590
+- Oh, hmm, hello, sir?
+(rabbit giggles)
+
+49
+00:03:56,595 --> 00:04:00,469
+- Oh no, Sally, are you okay?
+- I'm okay, Jack.
+
+50
+00:04:00,469 --> 00:04:03,199
+- Nice to see you again, Easter Bunny.
+
+51
+00:04:03,199 --> 00:04:06,199
+I promise we won't kidnap you again.
+
+52
+00:04:08,008 --> 00:04:11,758
+Let's go, Sally.
+(Zero barks)
+
+53
+00:04:13,388 --> 00:04:16,356
+- I don't understand,
+where did our tree go?
+
+54
+00:04:16,356 --> 00:04:21,152
+- We're never gonna get home.
+(sleigh bells jingling)
+
+55
+00:04:21,152 --> 00:04:23,819
+Santa Claus, so good to see you!
+
+56
+00:04:25,067 --> 00:04:27,538
+- What are you doing
+out of your tree, Santa?
+
+57
+00:04:27,538 --> 00:04:30,901
+- I stumbled and fell and
+landed here, ho ho ho.
+
+58
+00:04:30,901 --> 00:04:34,505
+I'm lost and Mrs. Claus is
+making a pot roast tonight.
+
+59
+00:04:34,505 --> 00:04:37,882
+- We can help you, Sandy.
+- Yes, we will.
+
+60
+00:04:37,882 --> 00:04:40,029
+We know this forest better than anyone.
+
+61
+00:04:40,029 --> 00:04:41,702
+Your tree is right over here.
+
+62
+00:04:41,702 --> 00:04:44,754
+- You a gambling man, Sandy Claws?
+
+63
+00:04:44,754 --> 00:04:49,486
+- Oh no, Oogie Boogie; jump!
+(screaming)
+
+64
+00:04:49,486 --> 00:04:51,560
+(gentle Christmas music)
+- I'm home!
+
+65
+00:04:51,560 --> 00:04:55,443
+Oh, thank you, Jack.
+- You ain't going nowhere.
+
+66
+00:04:55,443 --> 00:04:59,465
+(laughs wickedly)
+- Not so fast.
+
+67
+00:04:59,465 --> 00:05:03,061
+- Ella, my most loyal elf!
+- That's right, Santa.
+
+68
+00:05:03,061 --> 00:05:05,390
+I'm not letting Oogie
+Boogie get to you again.
+
+69
+00:05:05,390 --> 00:05:07,517
+Not this time!
+(dramatic music)
+
+70
+00:05:07,517 --> 00:05:12,047
+- (gasps) Not my bugs!
+(powerful whoosh)
+
+71
+00:05:12,047 --> 00:05:16,214
+(magic chime)
+(gentle music)
+
+72
+00:05:17,428 --> 00:05:19,596
+- I know who would enjoy this very much.
+
+73
+00:05:19,596 --> 00:05:21,317
+Our pals Ollie and Finn!
+
+74
+00:05:21,317 --> 00:05:26,029
+I bet you they're missing
+their other toys right now.
+
+75
+00:05:26,029 --> 00:05:28,245
+Now that Oogie Boogie's taken care of,
+
+76
+00:05:28,245 --> 00:05:32,823
+let's get you guys home.
+(magic chime)
+
+77
+00:05:32,823 --> 00:05:34,972
+- We made it!
+- It's good to be home.
+
+78
+00:05:34,972 --> 00:05:37,242
+(Zero barks)
+- Happy Halloween to all
+
+79
+00:05:37,242 --> 00:05:41,409
+and to all a good fright!
+(gentle music)
+
+80
+00:05:47,331 --> 00:05:50,081
+(doorbell rings)
+
+81
+00:05:58,445 --> 00:06:01,945
+(children talk excitedly)
+
+82
+00:06:11,169 --> 00:06:14,470
+- Hey, babe, did you get them those toys?
+
+83
+00:06:14,470 --> 00:06:16,652
+- No, I didn't; I
+thought you ordered them.
+
+84
+00:06:16,652 --> 00:06:18,749
+- (laughs) No, it's not even Amazon.
+
+85
+00:06:18,749 --> 00:06:20,411
+Is that a Christmas box?
+- Oh, you're right.
+
+86
+00:06:20,411 --> 00:06:22,220
+That's so weird.
+- That's so weird!
+
+87
+00:06:22,220 --> 00:06:25,803
+(children playing happily)
+
+88
+00:06:30,194 --> 00:06:33,361
+(gentle spooky music)
+
+89
+00:07:20,261 --> 00:07:22,856
+And there you have it, you guys.
+
+90
+00:07:22,856 --> 00:07:24,981
+- Yay!
+- Our Halloween special.
+
+91
+00:07:24,981 --> 00:07:27,435
+The boys are absolutely obsessed
+
+92
+00:07:27,435 --> 00:07:28,988
+with Nightmare Before Christmas,
+
+93
+00:07:28,988 --> 00:07:31,049
+so I knew we would have
+to do this this year,
+
+94
+00:07:31,049 --> 00:07:33,787
+and they had such a blast filming,
+
+95
+00:07:33,787 --> 00:07:37,075
+and they loved it.
+- Ollie loved being Jack.
+
+96
+00:07:37,075 --> 00:07:39,569
+I think that was the cutest thing ever,
+
+97
+00:07:39,569 --> 00:07:43,354
+and the fact that I made that Zero costume
+
+98
+00:07:43,354 --> 00:07:46,287
+for Finn is pretty cool.
+- Super cool, yes.
+
+99
+00:07:46,287 --> 00:07:48,745
+Missy worked her butt off on that thing.
+
+100
+00:07:48,745 --> 00:07:50,958
+- Yeah, we had a lot of
+fun, and I just wanted
+
+101
+00:07:50,958 --> 00:07:53,242
+to say a big thank you to my family
+
+102
+00:07:53,242 --> 00:07:55,902
+for always being so
+willing to get involved,
+
+103
+00:07:55,902 --> 00:07:57,549
+(laughs) and get dressed up.
+
+104
+00:07:57,549 --> 00:08:00,142
+- Jimmy's like, "Sure,
+I'll dress up like a
+
+105
+00:08:00,142 --> 00:08:01,929
+"Easter Bunny on a green screen."
+
+106
+00:08:01,929 --> 00:08:03,638
+- I know, my poor dad, it's like, actually
+
+107
+00:08:03,638 --> 00:08:06,991
+100 degrees out, he's just
+like Santa Claus. (laugh)
+
+108
+00:08:06,991 --> 00:08:08,730
+- And special thanks to Corbin
+
+109
+00:08:08,730 --> 00:08:10,933
+for helping us film and
+get everything organized.
+
+110
+00:08:10,933 --> 00:08:12,471
+Be sure to check out his channel.
+
+111
+00:08:12,471 --> 00:08:15,242
+Check out the iCard for last
+year's Halloween special
+
+112
+00:08:15,242 --> 00:08:17,387
+and all of the other fun
+ones that we've done.
+
+113
+00:08:17,387 --> 00:08:19,125
+It's something we like to do every year,
+
+114
+00:08:19,125 --> 00:08:20,544
+just to keep things interesting,
+
+115
+00:08:20,544 --> 00:08:21,837
+and the kids enjoy it, and we love
+
+116
+00:08:21,837 --> 00:08:23,971
+having these videos to
+watch for years to come.
+
+117
+00:08:23,971 --> 00:08:27,246
+- Yeah, so much fun, we
+love watching all the
+
+118
+00:08:27,246 --> 00:08:28,755
+first year (laughs) being pranked.
+
+119
+00:08:28,755 --> 00:08:30,492
+There was one that was so cute.
+
+120
+00:08:30,492 --> 00:08:32,986
+We've progressively gotten
+a little bit better.
+
+121
+00:08:32,986 --> 00:08:34,217
+(both laughing)
+
+122
+00:08:34,217 --> 00:08:35,718
+And let us know down in the comments below
+
+123
+00:08:35,719 --> 00:08:38,537
+what was your favorite
+character from the skit.
+
+124
+00:08:38,537 --> 00:08:40,308
+- That's right, and be
+sure to give this video
+
+125
+00:08:40,308 --> 00:08:42,524
+a big thumbs up, share
+it with all your friends
+
+126
+00:08:42,524 --> 00:08:44,332
+and family or anyone you
+think would enjoy it,
+
+127
+00:08:44,332 --> 00:08:46,144
+because that helps out a ton.
+
+128
+00:08:46,144 --> 00:08:47,457
+Thanks so much for watching, guys.
+
+129
+00:08:47,457 --> 00:08:49,790
+We will see you manana, bye!
+
+130
+00:08:50,879 --> 00:08:52,834
+- Bye!
+- Happy Halloween!
+
+131
+00:08:52,834 --> 00:00:00,000
+(energetic spooky music)
 

@@ -1,856 +1,908 @@
 1
-00:00:01,810 --> 00:00:04,319
-[Music]
+00:00:04,140 --> 00:00:07,120
+hi guys<font color="#E5E5E5"> my name is Martin</font><font color="#CCCCCC"> I'm from</font>
 
 2
-00:00:04,319 --> 00:00:07,839
-hello from<font color="#CCCCCC"> the Swiss Alps I'm</font><font color="#E5E5E5"> Nima and</font>
+00:00:07,120 --> 00:00:09,519
+Denmark<font color="#E5E5E5"> but right now I'm here</font><font color="#CCCCCC"> in Egypt</font>
 
 3
-00:00:07,839 --> 00:00:12,070
-you're watching<font color="#E5E5E5"> fun for Louis good</font>
+00:00:09,519 --> 00:00:11,080
+<font color="#E5E5E5">and you're watching fun for</font><font color="#CCCCCC"> Louie</font>
 
 4
-00:00:12,070 --> 00:00:12,969
-afternoon<font color="#CCCCCC"> guys</font>
+00:00:11,080 --> 00:00:16,268
+enjoy good morning guys Dave just got up
 
 5
-00:00:12,969 --> 00:00:15,759
-today is day<font color="#CCCCCC"> seven of</font><font color="#E5E5E5"> the Toyota road</font>
+00:00:16,268 --> 00:00:18,100
+and<font color="#E5E5E5"> headed down to this cafe down the</font>
 
 6
-00:00:15,759 --> 00:00:19,480
-trip<font color="#CCCCCC"> and we</font><font color="#E5E5E5"> are in San Francisco before</font>
+00:00:18,100 --> 00:00:21,070
+road to meet Ryan<font color="#E5E5E5"> and Rachel put some</font>
 
 7
-00:00:19,480 --> 00:00:22,090
-we go off<font color="#CCCCCC"> on our next little leg of the</font>
+00:00:21,070 --> 00:00:26,910
+lunch they do the world's best burgers
 
 8
-00:00:22,090 --> 00:00:26,019
-journey<font color="#E5E5E5"> I've been invited to hang out</font>
+00:00:27,179 --> 00:00:29,009
+perfect timing
 
 9
-00:00:26,019 --> 00:00:28,060
-with GoPro and the discovery team
+00:00:29,009 --> 00:00:36,190
+<font color="#E5E5E5">they praise your food</font><font color="#CCCCCC"> boy cheers guys</font>
 
 10
-00:00:28,060 --> 00:00:30,460
-they're filming<font color="#E5E5E5"> some 360 video you know</font>
+00:00:36,190 --> 00:00:40,200
+dude it's gonna be a good day
 
 11
-00:00:30,460 --> 00:00:32,168
-like I did the other<font color="#E5E5E5"> day I was trying</font>
+00:00:45,850 --> 00:00:48,500
+<font color="#CCCCCC">we've wanders</font><font color="#E5E5E5"> back to the hotel</font><font color="#CCCCCC"> we're</font>
 
 12
-00:00:32,168 --> 00:00:34,210
-<font color="#E5E5E5">out that camera</font><font color="#CCCCCC"> well they're doing</font><font color="#E5E5E5"> it</font>
+00:00:48,500 --> 00:00:51,710
+gonna grab<font color="#CCCCCC"> our bags</font><font color="#E5E5E5"> get a car</font><font color="#CCCCCC"> and then</font>
 
 13
-00:00:34,210 --> 00:00:37,660
-professionally<font color="#CCCCCC"> with some some GoPro</font>
+00:00:51,710 --> 00:00:53,989
+we're<font color="#CCCCCC"> heading over to this</font><font color="#E5E5E5"> the studio</font>
 
 14
-00:00:37,660 --> 00:00:39,489
-athletes<font color="#E5E5E5"> some of the longboarders they</font>
+00:00:53,989 --> 00:00:55,579
+quickly we're<font color="#E5E5E5"> gonna visit my friend</font>
 
 15
-00:00:39,489 --> 00:00:42,250
-have so we're gonna head over there<font color="#E5E5E5"> for</font>
+00:00:55,579 --> 00:00:57,559
+<font color="#E5E5E5">before heading</font><font color="#CCCCCC"> over to Anaheim for</font>
 
 16
-00:00:42,250 --> 00:00:43,510
-an hour to hang out with<font color="#E5E5E5"> them</font>
+00:00:57,559 --> 00:01:03,019
+<font color="#E5E5E5">VidCon</font><font color="#CCCCCC"> thanks also guys I just want to</font>
 
 17
-00:00:43,510 --> 00:00:50,260
-and then we're<font color="#CCCCCC"> hittin</font><font color="#E5E5E5"> the road guys this</font>
+00:01:03,019 --> 00:01:05,180
+show you the view of the beach<font color="#E5E5E5"> from my</font>
 
 18
-00:00:50,260 --> 00:00:51,699
-is<font color="#E5E5E5"> the angle of the road we were on I</font>
+00:01:05,180 --> 00:01:21,500
+hotel<font color="#CCCCCC"> so basically</font><font color="#E5E5E5"> guys on the beach</font>
 
 19
-00:00:51,699 --> 00:00:53,079
-<font color="#CCCCCC">don't know you can see</font><font color="#E5E5E5"> how steep this is</font>
+00:01:21,500 --> 00:01:23,240
+<font color="#E5E5E5">clean I'm</font><font color="#CCCCCC"> laying on</font><font color="#E5E5E5"> there go for Molly</font>
 
 20
-00:00:53,079 --> 00:00:58,480
- that that's that's flat<font color="#E5E5E5"> those</font>
+00:01:23,240 --> 00:01:25,970
+<font color="#E5E5E5">who invited me to come down to their</font>
 
 21
-00:00:58,480 --> 00:01:01,410
-<font color="#E5E5E5">houses that's vertical</font>
+00:01:25,970 --> 00:01:28,429
+media company called riot just<font color="#E5E5E5"> to pop in</font>
 
 22
-00:01:03,150 --> 00:01:08,279
-[Music]
+00:01:28,429 --> 00:01:29,960
+and see some cool stuff<font color="#CCCCCC"> they're doing so</font>
 
 23
-00:01:12,600 --> 00:01:17,860
-look at this red guys<font color="#E5E5E5"> that is insane how</font>
+00:01:29,960 --> 00:01:33,229
+we decided to pop in today before
 
 24
-00:01:17,860 --> 00:01:20,549
-<font color="#CCCCCC">did it look</font>
+00:01:33,229 --> 00:01:39,200
+<font color="#E5E5E5">heading</font><font color="#CCCCCC"> down to VidCon this is Molly hey</font>
 
 25
-00:01:22,740 --> 00:01:24,850
-yeah I don't know where this is<font color="#E5E5E5"> going</font>
+00:01:39,200 --> 00:01:42,409
+<font color="#E5E5E5">you gonna show us around this is a sweet</font>
 
 26
-00:01:24,850 --> 00:01:28,420
-<font color="#CCCCCC">there's a 360 camera</font><font color="#E5E5E5"> there's a 360</font>
+00:01:42,409 --> 00:01:44,180
+<font color="#CCCCCC">release</font>
 
 27
-00:01:28,420 --> 00:01:33,690
-camera<font color="#CCCCCC"> at the helmet</font><font color="#E5E5E5"> it's probably a ton</font>
+00:01:44,180 --> 00:01:53,740
+hello oh yeah
 
 28
-00:01:37,130 --> 00:01:40,220
-[Music]
+00:01:54,860 --> 00:01:57,650
+<font color="#CCCCCC">Kirt away that if you</font><font color="#E5E5E5"> got rice bags with</font>
 
 29
-00:01:40,570 --> 00:02:00,890
-yes indeed<font color="#CCCCCC"> yo guys this is Griffin he</font>
+00:01:57,650 --> 00:02:01,990
+<font color="#CCCCCC">denim we're</font><font color="#E5E5E5"> gonna</font><font color="#CCCCCC"> Troy</font><font color="#E5E5E5"> some video stuff</font>
 
 30
-00:02:00,890 --> 00:02:05,810
-works for the<font color="#CCCCCC"> Discovery 360 team had a</font>
+00:02:01,990 --> 00:02:04,760
+<font color="#CCCCCC">so the is this stuff</font><font color="#E5E5E5"> that you film does</font>
 
 31
-00:02:05,810 --> 00:02:09,199
-<font color="#E5E5E5">lot they called check that out yeah</font>
+00:02:04,760 --> 00:02:52,700
+a company like I'm gonna say anything<font color="#CCCCCC"> X</font>
 
 32
-00:02:09,199 --> 00:02:10,190
-we're just getting them prepped right
+00:02:52,700 --> 00:02:55,070
+plus with a case<font color="#CCCCCC"> of an awesome iPhone 6</font>
 
 33
-00:02:10,190 --> 00:02:11,769
-now and you<font color="#E5E5E5"> see how many GoPros is it a</font>
+00:02:55,070 --> 00:02:56,000
+plus
 
 34
-00:02:11,769 --> 00:02:14,540
-10/10 on the go here<font color="#CCCCCC"> so you know the</font>
+00:02:56,000 --> 00:03:02,450
+that's an order lens<font color="#CCCCCC"> in it Mike</font><font color="#E5E5E5"> so</font>
 
 35
-00:02:14,540 --> 00:02:16,489
-<font color="#E5E5E5">other day guys when I had four full</font>
+00:03:02,450 --> 00:03:03,680
+you'll give me<font color="#E5E5E5"> these</font><font color="#CCCCCC"> two like just like</font>
 
 36
-00:02:16,489 --> 00:02:18,560
-GoPros this is basically the same<font color="#CCCCCC"> thing</font>
+00:03:03,680 --> 00:03:07,489
+smooth filmmakers as journalists so
 
 37
-00:02:18,560 --> 00:02:21,200
-<font color="#CCCCCC">but like way high resolution and this</font>
+00:03:07,489 --> 00:03:09,500
+basically you can do a little<font color="#E5E5E5"> Mike or if</font>
 
 38
-00:02:21,200 --> 00:02:23,180
-cooler stuff I'm<font color="#E5E5E5"> learning I'm learning</font>
+00:03:09,500 --> 00:03:11,000
+you're doing<font color="#E5E5E5"> like a selfie style you can</font>
 
 39
-00:02:23,180 --> 00:02:25,849
-everything I can of these<font color="#E5E5E5"> guys guys what</font>
+00:03:11,000 --> 00:03:12,920
+<font color="#E5E5E5">turn it like this</font><font color="#CCCCCC"> but what we're trying</font>
 
 40
-00:02:25,849 --> 00:02:31,879
-is that<font color="#CCCCCC"> Oh next time we come to San Fran</font>
+00:03:12,920 --> 00:03:15,260
+<font color="#E5E5E5">to show</font><font color="#CCCCCC"> is that like now with</font><font color="#E5E5E5"> kids</font>
 
 41
-00:02:31,879 --> 00:02:34,340
-can we get one<font color="#CCCCCC"> of those these clothes</font>
+00:03:15,260 --> 00:03:17,090
+<font color="#CCCCCC">everything is hooked up to</font><font color="#E5E5E5"> the cloud so</font>
 
 42
-00:02:34,340 --> 00:02:36,590
-better move pretty quickly otherwise
+00:03:17,090 --> 00:03:18,620
+everything goes through<font color="#CCCCCC"> that computer</font><font color="#E5E5E5"> if</font>
 
 43
-00:02:36,590 --> 00:02:39,459
-<font color="#E5E5E5">you're gonna get</font><font color="#CCCCCC"> crashed into</font>
+00:03:18,620 --> 00:03:20,060
+somebody<font color="#E5E5E5"> takes a picture</font><font color="#CCCCCC"> and then where</font>
 
 44
-00:02:40,770 --> 00:02:42,750
-<font color="#CCCCCC">Oh can</font><font color="#E5E5E5"> you guys come off the road</font>
+00:03:20,060 --> 00:03:21,530
+does<font color="#E5E5E5"> this</font><font color="#CCCCCC"> one's this contents going</font><font color="#E5E5E5"> on</font>
 
 45
-00:02:42,750 --> 00:02:44,220
-<font color="#CCCCCC">there's some</font><font color="#E5E5E5"> skateboarders coming down</font>
+00:03:21,530 --> 00:03:23,209
+<font color="#E5E5E5">to your</font><font color="#CCCCCC"> site alignment</font><font color="#E5E5E5"> is our site or</font>
 
 46
-00:02:44,220 --> 00:03:07,830
-<font color="#CCCCCC">so</font><font color="#E5E5E5"> watch out on again</font><font color="#CCCCCC"> I wanna get</font><font color="#E5E5E5"> into</font>
+00:03:23,209 --> 00:03:24,590
+the kids use it<font color="#CCCCCC"> for whatever they want</font>
 
 47
-00:03:07,830 --> 00:03:08,970
-long<font color="#CCCCCC"> body I've never seen those long</font>
+00:03:24,590 --> 00:03:26,120
+<font color="#E5E5E5">like we're specifically given these</font>
 
 48
-00:03:08,970 --> 00:03:10,410
-boards with<font color="#CCCCCC"> the where you can</font><font color="#E5E5E5"> strap</font><font color="#CCCCCC"> on</font>
+00:03:26,120 --> 00:03:28,400
+unlocked<font color="#E5E5E5"> and so it's just like figure</font>
 
 49
-00:03:10,410 --> 00:03:11,690
-your<font color="#E5E5E5"> feet for chess</font>
+00:03:28,400 --> 00:03:30,019
+<font color="#CCCCCC">out what to do</font><font color="#E5E5E5"> you never want</font><font color="#CCCCCC"> to back</font>
 
 50
-00:03:11,690 --> 00:03:14,100
-so looks like<font color="#CCCCCC"> these guys are</font><font color="#E5E5E5"> getting</font>
+00:03:30,019 --> 00:03:32,630
+<font color="#E5E5E5">break</font><font color="#CCCCCC"> him</font><font color="#E5E5E5"> open</font><font color="#CCCCCC"> like put</font><font color="#E5E5E5"> on whatever app</font>
 
 51
-00:03:14,100 --> 00:03:15,720
-<font color="#E5E5E5">ready to head down again</font><font color="#CCCCCC"> I just</font><font color="#E5E5E5"> realized</font>
+00:03:32,630 --> 00:03:35,019
+you<font color="#CCCCCC"> want</font>
 
 52
-00:03:15,720 --> 00:03:17,160
-why that's spinning<font color="#E5E5E5"> around it</font><font color="#CCCCCC"> these</font>
+00:03:38,250 --> 00:03:40,660
+<font color="#E5E5E5">we've</font><font color="#CCCCCC"> arrived at the hotel we just had a</font>
 
 53
-00:03:17,160 --> 00:03:19,700
-<font color="#E5E5E5">wheels here I didn't see these before</font>
+00:03:40,660 --> 00:03:43,120
+fun little meeting with YouTube<font color="#E5E5E5"> thank</font>
 
 54
-00:03:19,700 --> 00:03:23,730
-<font color="#E5E5E5">the</font><font color="#CCCCCC"> guys about</font><font color="#E5E5E5"> to do</font><font color="#CCCCCC"> another run down</font>
+00:03:43,120 --> 00:03:45,300
+<font color="#E5E5E5">you</font>
 
 55
-00:03:23,730 --> 00:03:26,100
-the hill<font color="#E5E5E5"> getting ready getting the</font>
+00:03:45,300 --> 00:03:48,300
+<font color="#CCCCCC">sylia</font>
 
 56
-00:03:26,100 --> 00:03:29,010
-helmet<font color="#E5E5E5"> on</font><font color="#CCCCCC"> the cameras crowds have</font>
+00:03:48,569 --> 00:03:51,040
+<font color="#E5E5E5">we're gonna try the steak quickly</font>
 
 57
-00:03:29,010 --> 00:03:31,370
-gathered
+00:03:51,040 --> 00:03:52,630
+because we haven't<font color="#CCCCCC"> even</font><font color="#E5E5E5"> taken in yet and</font>
 
 58
-00:03:34,650 --> 00:03:37,779
-[Music]
+00:03:52,630 --> 00:03:54,519
+we<font color="#E5E5E5"> need to drop our bags in our room and</font>
 
 59
-00:03:41,790 --> 00:03:48,150
-[Music]
+00:03:54,519 --> 00:03:56,650
+<font color="#CCCCCC">learn to eat something and then I've got</font>
 
 60
-00:03:48,150 --> 00:03:49,830
-the team just<font color="#E5E5E5"> gave me this microphone</font>
+00:03:56,650 --> 00:04:02,290
+lots of people<font color="#CCCCCC"> to</font><font color="#E5E5E5"> meet this is our this</font>
 
 61
-00:03:49,830 --> 00:03:52,920
-<font color="#CCCCCC">and an audio recorder to use when I am</font>
+00:04:02,290 --> 00:04:06,549
+is our room<font color="#E5E5E5"> whilst we're in we've come I</font>
 
 62
-00:03:52,920 --> 00:03:53,580
-<font color="#CCCCCC">filming</font>
+00:04:06,549 --> 00:04:10,290
+think<font color="#CCCCCC"> we hooked up a pretty</font><font color="#E5E5E5"> good room</font>
 
 63
-00:03:53,580 --> 00:03:56,959
-360 video to give like a stereo
+00:04:10,380 --> 00:04:13,840
+Dave Dave's gonna sleep there is that
 
 64
-00:03:56,959 --> 00:03:58,590
-<font color="#E5E5E5">experience</font>
+00:04:13,840 --> 00:04:16,269
+compu-date<font color="#E5E5E5"> it's</font><font color="#CCCCCC"> quite nice and cool yeah</font>
 
 65
-00:03:58,590 --> 00:04:01,809
-[Music]
+00:04:16,269 --> 00:04:20,079
+you sleep there<font color="#CCCCCC"> I miss having sleep here</font>
 
 66
-00:04:02,230 --> 00:04:04,610
-so unfortunately react to your head off
+00:04:20,079 --> 00:04:25,930
+maybe<font color="#E5E5E5"> so we're being</font><font color="#CCCCCC"> asked</font><font color="#E5E5E5"> or</font><font color="#CCCCCC"> two to</font><font color="#E5E5E5"> get</font>
 
 67
-00:04:04,610 --> 00:04:07,880
-and hit the<font color="#E5E5E5"> road because otherwise we're</font>
+00:04:25,930 --> 00:04:27,610
+my past<font color="#E5E5E5"> because it's a bit hectic in the</font>
 
 68
-00:04:07,880 --> 00:04:09,170
-going<font color="#CCCCCC"> to</font><font color="#E5E5E5"> just have the craziest</font>
+00:04:27,610 --> 00:04:28,870
+main<font color="#CCCCCC"> anime is so we have to say the</font>
 
 69
-00:04:09,170 --> 00:04:13,340
-rush-hour traffic<font color="#CCCCCC"> the deal is they have</font>
+00:04:28,870 --> 00:04:30,370
+service elevators<font color="#E5E5E5"> and escape through</font><font color="#CCCCCC"> the</font>
 
 70
-00:04:13,340 --> 00:04:15,400
-to leave them continuing<font color="#E5E5E5"> their filming</font>
+00:04:30,370 --> 00:04:35,650
+kitchen<font color="#E5E5E5"> and</font><font color="#CCCCCC"> now we've arrived it's fine</font>
 
 71
-00:04:15,400 --> 00:04:18,260
-<font color="#E5E5E5">I've I spoke to GoPro and their</font>
+00:04:35,650 --> 00:04:37,720
+where I need to be once I got my past
 
 72
-00:04:18,260 --> 00:04:20,000
-discovery team doing the<font color="#E5E5E5"> filming today</font>
+00:04:37,720 --> 00:04:39,910
+and<font color="#E5E5E5"> saw it this is colonies</font><font color="#CCCCCC"> vmd of</font>
 
 73
-00:04:20,000 --> 00:04:22,250
-and they want to chat more with<font color="#E5E5E5"> me about</font>
+00:04:39,910 --> 00:04:40,690
+VidCon
 
 74
-00:04:22,250 --> 00:04:24,170
-creating<font color="#E5E5E5"> stomach contents and</font><font color="#CCCCCC"> that</font><font color="#E5E5E5"> is</font>
+00:04:40,690 --> 00:04:43,270
+amen you<font color="#E5E5E5"> excited for</font><font color="#CCCCCC"> the it's couple of</font>
 
 75
-00:04:24,170 --> 00:04:26,570
-literally<font color="#E5E5E5"> just about</font><font color="#CCCCCC"> to explode guys so</font>
+00:04:43,270 --> 00:04:46,710
+days yes<font color="#CCCCCC"> it's gonna</font><font color="#E5E5E5"> be amazing</font>
 
 76
-00:04:26,570 --> 00:04:27,710
-all<font color="#CCCCCC"> the</font><font color="#E5E5E5"> next year this is gonna be</font>
+00:04:46,710 --> 00:04:49,919
+<font color="#E5E5E5">it's gonna be crazy</font><font color="#CCCCCC"> right</font>
 
 77
-00:04:27,710 --> 00:04:29,780
-everywhere<font color="#E5E5E5"> you're getting a little bit</font>
+00:04:49,919 --> 00:04:56,800
+hello no it's Laura guys like all<font color="#E5E5E5"> right</font>
 
 78
-00:04:29,780 --> 00:04:34,180
-<font color="#CCCCCC">of a sneak preview</font><font color="#E5E5E5"> of what's to come</font>
+00:04:56,800 --> 00:04:58,620
+you're good
 
 79
-00:04:39,280 --> 00:04:57,400
-[Music]
+00:04:58,620 --> 00:05:09,490
+are you good we just arrived<font color="#E5E5E5"> like just</font>
 
 80
-00:04:57,400 --> 00:05:00,740
-guys I had<font color="#E5E5E5"> to resort to</font><font color="#CCCCCC"> Red Bull Road</font>
+00:05:09,490 --> 00:05:11,830
+about<font color="#E5E5E5"> to head out</font><font color="#CCCCCC"> the hot tub and then</font>
 
 81
-00:05:00,740 --> 00:05:06,530
-<font color="#CCCCCC">Trip</font><font color="#E5E5E5"> it's gonna be a long drive we're</font>
+00:05:11,830 --> 00:05:15,460
+the<font color="#CCCCCC"> Aussie boys arrived</font><font color="#E5E5E5"> one wave yeah</font>
 
 82
-00:05:06,530 --> 00:05:08,960
-going to Jackson Hole<font color="#CCCCCC"> Wyoming</font><font color="#E5E5E5"> to visit</font>
+00:05:15,460 --> 00:05:18,580
+is it one way one<font color="#CCCCCC"> way these are</font><font color="#E5E5E5"> the guys</font>
 
 83
-00:05:08,960 --> 00:05:11,630
-my<font color="#E5E5E5"> best friend Kate and it's quite a</font>
+00:05:18,580 --> 00:05:21,520
+that we chose after<font color="#E5E5E5"> well mainly Dave</font>
 
 84
-00:05:11,630 --> 00:05:15,500
-long drive it's 14 hours<font color="#E5E5E5"> away and riders</font>
+00:05:21,520 --> 00:05:23,950
+spending hours of going through<font color="#E5E5E5"> so we</font>
 
 85
-00:05:15,500 --> 00:05:20,450
-and<font color="#E5E5E5"> drive immediately but it's an</font>
+00:05:23,950 --> 00:05:25,570
+had<font color="#CCCCCC"> Skye prove to</font><font color="#E5E5E5"> people</font><font color="#CCCCCC"> it's the soul</font>
 
 86
-00:05:20,450 --> 00:05:22,820
-<font color="#E5E5E5">adventure isn't it I may need</font><font color="#CCCCCC"> to take</font>
+00:05:25,570 --> 00:05:27,040
+<font color="#E5E5E5">be project that a lot of you know has</font>
 
 87
-00:05:22,820 --> 00:05:25,580
-<font color="#CCCCCC">some power naps on</font><font color="#E5E5E5"> the drive for safety</font>
+00:05:27,040 --> 00:05:28,600
+been going<font color="#E5E5E5"> on for the</font><font color="#CCCCCC"> last</font><font color="#E5E5E5"> I think was</font>
 
 88
-00:05:25,580 --> 00:05:27,979
-and so we were<font color="#E5E5E5"> hoping to get there</font>
+00:05:28,600 --> 00:05:30,580
+it like a month<font color="#CCCCCC"> go monster yeah</font>
 
 89
-00:05:27,979 --> 00:05:33,669
-tomorrow morning let's do<font color="#E5E5E5"> it let's do</font><font color="#CCCCCC"> it</font>
+00:05:30,580 --> 00:05:32,290
+and then these guys have<font color="#CCCCCC"> come over from</font>
 
 90
-00:05:35,380 --> 00:05:46,970
-yes grumpy cat<font color="#CCCCCC"> collected a little forest</font>
+00:05:32,290 --> 00:05:36,420
+<font color="#CCCCCC">Australia</font><font color="#E5E5E5"> to for us to all</font><font color="#CCCCCC"> brainstorm</font>
 
 91
-00:05:46,970 --> 00:05:48,470
-<font color="#CCCCCC">fire going on there where you</font><font color="#E5E5E5"> can feel</font>
+00:05:37,890 --> 00:05:40,270
+and<font color="#E5E5E5"> we're gonna brainstorm and come up</font>
 
 92
-00:05:48,470 --> 00:05:51,620
-<font color="#E5E5E5">the heat</font><font color="#CCCCCC"> you know that is I think that</font>
+00:05:40,270 --> 00:05:41,710
+<font color="#E5E5E5">with some exciting ideas</font><font color="#CCCCCC"> to support what</font>
 
 93
-00:05:51,620 --> 00:05:55,610
-<font color="#E5E5E5">someone's cigarette but</font><font color="#CCCCCC"> you don't do</font>
+00:05:41,710 --> 00:05:43,180
+they're doing we just got<font color="#E5E5E5"> given some</font>
 
 94
-00:05:55,610 --> 00:05:56,010
-that<font color="#CCCCCC"> guys</font>
+00:05:43,180 --> 00:06:06,910
+amazing outfit Crouching Tiger Hidden
 
 95
-00:05:56,010 --> 00:05:59,980
-[Music]
+00:06:06,910 --> 00:06:15,880
+Dragon<font color="#CCCCCC"> oh you look</font><font color="#E5E5E5"> so stunning dive</font><font color="#CCCCCC"> I</font>
 
 96
-00:05:59,980 --> 00:06:02,640
-I think for<font color="#E5E5E5"> now</font>
+00:06:15,880 --> 00:06:20,710
+think we should give it<font color="#CCCCCC"> a spank I'll</font>
 
 97
-00:06:04,030 --> 00:06:07,670
-[Music]
+00:06:20,710 --> 00:06:22,600
+<font color="#E5E5E5">explain this whole</font><font color="#CCCCCC"> thing layer as well</font>
 
 98
-00:06:10,260 --> 00:06:24,069
-[Music]
+00:06:22,600 --> 00:06:26,070
+ways<font color="#E5E5E5"> there's a reason there's a reason</font>
 
 99
-00:06:24,069 --> 00:06:27,219
-thank you
+00:06:32,160 --> 00:06:35,590
+right<font color="#E5E5E5"> just our conversation</font><font color="#CCCCCC"> so everybody</font>
 
 100
-00:06:27,980 --> 00:06:42,290
-[Music]
+00:06:35,590 --> 00:06:37,660
+<font color="#CCCCCC">lawyers like fluro</font><font color="#E5E5E5"> Friday and move down</font>
 
 101
-00:06:49,730 --> 00:07:01,170
-[Music]
+00:06:37,660 --> 00:06:41,650
+sunrise the last two years on<font color="#CCCCCC"> bundo and</font>
 
 102
-00:07:01,170 --> 00:07:03,310
-well guys we have stopped off in
+00:06:41,650 --> 00:06:44,740
+bond is<font color="#CCCCCC"> down at Bondi</font><font color="#E5E5E5"> and then it went</font>
 
 103
-00:07:03,310 --> 00:07:05,700
-Sacramento<font color="#CCCCCC"> we're</font><font color="#E5E5E5"> just outside Sacramento</font>
+00:06:44,740 --> 00:06:46,330
+<font color="#CCCCCC">to</font><font color="#E5E5E5"> it's now eight beaches in Australia</font>
 
 104
-00:07:05,700 --> 00:07:07,720
-<font color="#CCCCCC">I'm gonna get some dinner</font>
+00:06:46,330 --> 00:06:48,970
+<font color="#CCCCCC">every week</font><font color="#E5E5E5"> and we've had</font><font color="#CCCCCC"> 50</font><font color="#E5E5E5"> beach</font>
 
 105
-00:07:07,720 --> 00:07:11,760
-and I'm also stopping past my<font color="#CCCCCC"> friend's</font>
+00:06:48,970 --> 00:06:50,680
+<font color="#E5E5E5">overdue beaches worldwide from like the</font>
 
 106
-00:07:11,760 --> 00:07:15,510
-wine lounge<font color="#E5E5E5"> that we stopped past in</font>
+00:06:50,680 --> 00:06:53,230
+States and Mexico shrank at India and
 
 107
-00:07:15,510 --> 00:07:18,970
-October last year<font color="#E5E5E5"> on our way from</font><font color="#CCCCCC"> Reno</font>
+00:06:53,230 --> 00:06:54,999
+then what we do<font color="#E5E5E5"> addressing</font><font color="#CCCCCC"> for</font>
 
 108
-00:07:18,970 --> 00:07:23,070
-to Yosemite<font color="#E5E5E5"> so I'm gonna see if he's in</font>
+00:06:54,999 --> 00:06:56,499
+before we<font color="#CCCCCC"> go</font><font color="#E5E5E5"> in the oceans everyone</font>
 
 109
-00:07:23,070 --> 00:07:26,340
-and say hello
+00:06:56,499 --> 00:06:59,319
+comes down Iran's welcome all ages<font color="#E5E5E5"> we do</font>
 
 110
-00:07:30,030 --> 00:07:34,330
-I found Kyle and<font color="#CCCCCC"> Rachel and um</font><font color="#E5E5E5"> we've</font>
+00:06:59,319 --> 00:07:01,179
+a talk<font color="#E5E5E5"> about mental health so</font><font color="#CCCCCC"> we let</font>
 
 111
-00:07:34,330 --> 00:07:37,440
-crashed their friend's birthday
+00:07:01,179 --> 00:07:02,919
+them<font color="#E5E5E5"> know what what is all about</font><font color="#CCCCCC"> and we</font>
 
 112
-00:07:39,910 --> 00:07:49,209
-[Music]
+00:07:02,919 --> 00:07:04,419
+share<font color="#CCCCCC"> that personal experiences with</font>
 
 113
-00:07:51,420 --> 00:08:01,620
-we totally<font color="#CCCCCC"> crash</font><font color="#E5E5E5"> the party we just</font>
+00:07:04,419 --> 00:07:06,279
+mental<font color="#CCCCCC"> health just</font><font color="#E5E5E5"> so people know</font>
 
 114
-00:08:01,890 --> 00:08:05,590
-<font color="#CCCCCC">randomly turn up and oh I didn't even</font>
+00:07:06,279 --> 00:07:07,779
+they're not<font color="#E5E5E5"> the only</font><font color="#CCCCCC"> ones going through</font>
 
 115
-00:08:05,590 --> 00:08:07,150
-<font color="#CCCCCC">know these</font><font color="#E5E5E5"> guys are gonna be here but it</font>
+00:07:07,779 --> 00:07:09,819
+it<font color="#CCCCCC"> such a lonely thing</font><font color="#E5E5E5"> to go through</font><font color="#CCCCCC"> and</font>
 
 116
-00:08:07,150 --> 00:08:08,200
-all works out<font color="#CCCCCC"> Oh</font>
+00:07:09,819 --> 00:07:12,039
+then we all go down<font color="#CCCCCC"> the ocean like surf</font>
 
 117
-00:08:08,200 --> 00:08:20,310
-Chinchin just get your<font color="#E5E5E5"> hands and grab it</font>
+00:07:12,039 --> 00:07:12,549
+together
 
 118
-00:08:20,310 --> 00:08:24,420
-awesome we have just got<font color="#CCCCCC"> some dinner</font>
+00:07:12,549 --> 00:07:14,409
+catch pie<font color="#E5E5E5"> away it's just it's some</font>
 
 119
-00:08:36,169 --> 00:08:50,549
-[Music]
+00:07:14,409 --> 00:07:16,149
+<font color="#E5E5E5">people to swarm and then some</font><font color="#CCCCCC"> people do</font>
 
 120
-00:08:50,710 --> 00:08:55,880
-<font color="#E5E5E5">bye guys if you're ever in Sacramento</font>
+00:07:16,149 --> 00:07:18,549
+yoga<font color="#CCCCCC"> so we have free yoga and the whole</font>
 
 121
-00:08:55,880 --> 00:09:02,060
-where where are we<font color="#E5E5E5"> way to town</font><font color="#CCCCCC"> rosemary</font>
+00:07:18,549 --> 00:07:20,229
+<font color="#E5E5E5">idea is</font><font color="#CCCCCC"> just to</font><font color="#E5E5E5"> create this big</font>
 
 122
-00:09:02,060 --> 00:09:04,760
-<font color="#CCCCCC">Osama come</font><font color="#E5E5E5"> check out the house full of</font>
+00:07:20,229 --> 00:07:23,289
+community<font color="#CCCCCC"> that's</font><font color="#E5E5E5"> connected by the ocean</font>
 
 123
-00:09:04,760 --> 00:09:07,220
-<font color="#CCCCCC">our nice wine bar</font><font color="#E5E5E5"> shooting every night</font>
+00:07:23,289 --> 00:07:24,699
+and<font color="#E5E5E5"> give people hope</font><font color="#CCCCCC"> they can beat me</font>
 
 124
-00:09:07,220 --> 00:09:10,180
-<font color="#CCCCCC">good</font><font color="#E5E5E5"> boys</font>
+00:07:24,699 --> 00:07:26,619
+<font color="#E5E5E5">into health issues and so this is the</font>
 
 125
-00:09:11,920 --> 00:09:15,090
-[Music]
+00:07:26,619 --> 00:07:28,119
+whole<font color="#CCCCCC"> thing want to bring</font><font color="#E5E5E5"> tomorrow it's</font>
 
 126
-00:09:19,860 --> 00:09:26,079
-guys<font color="#E5E5E5"> I'm so happy</font><font color="#CCCCCC"> I I love seeing people</font>
+00:07:28,119 --> 00:07:29,919
+to<font color="#E5E5E5"> say</font><font color="#CCCCCC"> book the start in Australia but</font>
 
 127
-00:09:26,079 --> 00:09:28,410
-that<font color="#E5E5E5"> meant a lot</font><font color="#CCCCCC"> to me in the past we've</font>
+00:07:29,919 --> 00:07:31,989
+you know<font color="#CCCCCC"> it</font><font color="#E5E5E5"> doesn't</font><font color="#CCCCCC"> have</font><font color="#E5E5E5"> to be at your</font>
 
 128
-00:09:28,410 --> 00:09:31,050
-we had we've<font color="#CCCCCC"> had good history together</font>
+00:07:31,989 --> 00:07:33,699
+<font color="#E5E5E5">beach you could do it just have a flu at</font>
 
 129
-00:09:31,050 --> 00:09:32,879
-<font color="#E5E5E5">years ago</font>
+00:07:33,699 --> 00:07:34,629
+your school<font color="#E5E5E5"> we could do it</font><font color="#CCCCCC"> at your</font>
 
 130
-00:09:32,879 --> 00:09:37,389
-loads of awesome stories and yeah<font color="#E5E5E5"> it's</font>
+00:07:34,629 --> 00:07:36,819
+<font color="#E5E5E5">workplace</font><font color="#CCCCCC"> and like together if we stand</font>
 
 131
-00:09:37,389 --> 00:09:39,160
-funny when you<font color="#E5E5E5"> live opposite sides of</font>
+00:07:36,819 --> 00:07:38,949
+<font color="#E5E5E5">together we can all bring this ugly</font>
 
 132
-00:09:39,160 --> 00:09:41,649
-<font color="#CCCCCC">the</font><font color="#E5E5E5"> world and living different</font>
+00:07:38,949 --> 00:07:43,889
+issue of mental<font color="#E5E5E5"> health but</font><font color="#CCCCCC"> making it fun</font>
 
 133
-00:09:41,649 --> 00:09:43,889
-lifestyles<font color="#E5E5E5"> but managed to connect</font>
+00:07:46,739 --> 00:07:48,719
+more fun<font color="#E5E5E5"> than that</font>
 
 134
-00:09:43,889 --> 00:09:47,129
-<font color="#E5E5E5">feeling very nostalgic and it's good</font>
+00:07:48,719 --> 00:07:51,249
+<font color="#CCCCCC">just to clarify</font><font color="#E5E5E5"> tomorrow these guys are</font>
 
 135
-00:09:47,129 --> 00:09:50,070
-fair<font color="#E5E5E5"> little warm and fuzzy</font>
+00:07:51,249 --> 00:07:52,479
+doing a panel<font color="#E5E5E5"> with</font><font color="#CCCCCC"> us and that's</font><font color="#E5E5E5"> what</font>
 
 136
-00:09:50,070 --> 00:09:52,639
-and now we've<font color="#E5E5E5"> got a very long drive</font><font color="#CCCCCC"> so</font>
+00:07:52,479 --> 00:07:54,189
+we're planning well that's what they
 
 137
-00:09:52,639 --> 00:09:55,139
-<font color="#CCCCCC">hopefully I can like vie for these happy</font>
+00:07:54,189 --> 00:07:55,449
+planned<font color="#CCCCCC"> it sounds amazing</font>
 
 138
-00:09:55,139 --> 00:09:58,920
-feelings<font color="#E5E5E5"> through the night is very very</font>
+00:07:55,449 --> 00:07:58,749
+<font color="#CCCCCC">I made a vegan</font><font color="#E5E5E5"> and they won't hire these</font>
 
 139
-00:09:58,920 --> 00:10:03,160
-hot<font color="#CCCCCC"> very</font><font color="#E5E5E5"> warm and but I love it</font>
+00:07:58,749 --> 00:08:02,469
+under a<font color="#CCCCCC"> play I have a camera with me</font><font color="#E5E5E5"> as</font>
 
 140
-00:10:03,160 --> 00:10:06,850
-[Music]
+00:08:02,469 --> 00:08:04,599
+<font color="#CCCCCC">I'll set up</font><font color="#E5E5E5"> over</font><font color="#CCCCCC"> and</font><font color="#E5E5E5"> like record the</font>
 
 141
-00:10:06,950 --> 00:10:09,760
-<font color="#E5E5E5">enough</font>
+00:08:04,599 --> 00:08:08,619
+whole session<font color="#E5E5E5"> right so guys I've ordered</font>
 
 142
-00:10:09,760 --> 00:10:12,790
-we've got 12<font color="#E5E5E5"> hours</font>
+00:08:08,619 --> 00:08:10,479
+some<font color="#E5E5E5"> Thai food but whilst waiting for it</font>
 
 143
-00:10:12,790 --> 00:10:14,620
-I'll<font color="#E5E5E5"> probably have a little nap couple</font>
+00:08:10,479 --> 00:08:13,829
+to arrive<font color="#E5E5E5"> we decided to hit</font><font color="#CCCCCC"> the</font><font color="#E5E5E5"> hot</font><font color="#CCCCCC"> tubs</font>
 
 144
-00:10:14,620 --> 00:10:17,730
-of<font color="#CCCCCC"> little</font><font color="#E5E5E5"> naps during that time</font>
+00:08:13,829 --> 00:08:16,509
+so we've all got<font color="#CCCCCC"> ropes underway</font><font color="#E5E5E5"> March</font>
 
 145
-00:10:21,090 --> 00:10:25,870
-time for another fuel stop<font color="#CCCCCC"> I realized my</font>
+00:08:16,509 --> 00:08:19,709
+now hello
 
 146
-00:10:25,870 --> 00:10:26,920
-tank<font color="#E5E5E5"> doesn't last long</font>
+00:08:22,210 --> 00:08:28,040
+it's a good day it's been too long let's
 
 147
-00:10:26,920 --> 00:10:30,330
-<font color="#E5E5E5">no wonder wagon</font><font color="#CCCCCC"> is bit</font><font color="#E5E5E5"> of a guzzler</font><font color="#CCCCCC"> I</font>
+00:08:28,040 --> 00:08:33,289
+<font color="#E5E5E5">jump in</font><font color="#CCCCCC"> alright</font><font color="#E5E5E5"> how are</font><font color="#CCCCCC"> we</font><font color="#E5E5E5"> gonna get out</font>
 
 148
-00:10:30,330 --> 00:10:33,690
-was<font color="#CCCCCC"> just saying</font>
+00:08:33,289 --> 00:08:34,460
+in<font color="#E5E5E5"> 20 minutes to get our food though</font>
 
 149
-00:10:34,900 --> 00:10:38,580
-[Music]
+00:08:34,460 --> 00:08:41,599
+that's my that's<font color="#CCCCCC"> my worry guys I just</font>
 
 150
-00:10:44,660 --> 00:11:03,300
-[Music]
+00:08:41,599 --> 00:08:43,940
+<font color="#E5E5E5">got</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> message from Ange</font><font color="#CCCCCC"> which</font><font color="#E5E5E5"> I think</font>
 
 151
-00:11:03,300 --> 00:11:05,709
-guys I've<font color="#E5E5E5"> been driving all night</font><font color="#CCCCCC"> it's</font>
+00:08:43,940 --> 00:08:47,290
+means that Thai food is ready
 
 152
-00:11:05,709 --> 00:11:09,880
-<font color="#E5E5E5">4:30 in the morning I think</font><font color="#CCCCCC"> and we're</font>
+00:08:49,250 --> 00:08:59,760
+what do we<font color="#CCCCCC"> have</font><font color="#E5E5E5"> here amazing that's what</font>
 
 153
-00:11:09,880 --> 00:11:13,060
-very very<font color="#CCCCCC"> low on fuel I've been trying</font>
+00:08:59,760 --> 00:09:05,570
+I like to<font color="#E5E5E5"> see spicy it is poison it</font><font color="#CCCCCC"> I</font>
 
 154
-00:11:13,060 --> 00:11:15,510
-to<font color="#E5E5E5"> keep an eye</font><font color="#CCCCCC"> out for a gas station I</font>
+00:09:07,790 --> 00:09:10,440
+finished dinner<font color="#E5E5E5"> and I'm now heading down</font>
 
 155
-00:11:15,510 --> 00:11:19,450
-haven't seen one there's<font color="#E5E5E5"> one 20 minutes</font>
+00:09:10,440 --> 00:09:12,750
+<font color="#E5E5E5">to meet up</font><font color="#CCCCCC"> with Steve and then and Nick</font>
 
 156
-00:11:19,450 --> 00:11:22,630
-away but<font color="#E5E5E5"> we are we</font><font color="#CCCCCC"> are like we've been</font>
+00:09:12,750 --> 00:09:15,000
+<font color="#CCCCCC">Hayward of other people and</font><font color="#E5E5E5"> we're</font>
 
 157
-00:11:22,630 --> 00:11:25,330
-<font color="#E5E5E5">running on empty</font><font color="#CCCCCC"> for ages so I'm hoping</font>
+00:09:15,000 --> 00:09:18,980
+heading out somewhere
 
 158
-00:11:25,330 --> 00:11:30,220
-we<font color="#E5E5E5"> make it otherwise</font><font color="#CCCCCC"> I don't really</font><font color="#E5E5E5"> know</font>
+00:09:18,980 --> 00:09:21,010
+Oh
 
 159
-00:11:30,220 --> 00:11:32,280
-what options<font color="#CCCCCC"> have got</font>
+00:09:24,340 --> 00:09:27,120
+<font color="#E5E5E5">millions</font>
 
 160
-00:11:32,280 --> 00:11:35,990
-[Music]
+00:09:27,120 --> 00:09:31,950
+how to do<font color="#CCCCCC"> pardhu's me here</font>
 
 161
-00:11:38,190 --> 00:11:40,300
-[Music]
+00:09:31,950 --> 00:09:41,270
+everyone is in<font color="#E5E5E5"> man</font>
 
 162
-00:11:40,300 --> 00:11:43,300
-<font color="#E5E5E5">Okwe</font>
+00:09:45,889 --> 00:09:52,430
+Wow<font color="#CCCCCC"> like I love that</font><font color="#E5E5E5"> where we headed</font>
 
 163
-00:11:45,550 --> 00:11:47,900
-<font color="#CCCCCC">if this road is</font><font color="#E5E5E5"> really chilly so</font>
+00:09:52,430 --> 00:09:55,800
+okay<font color="#CCCCCC"> I'm Ian but</font><font color="#E5E5E5"> I can eat some dessert</font>
 
 164
-00:11:47,900 --> 00:11:50,600
-[Music]
+00:09:55,800 --> 00:09:57,990
+<font color="#E5E5E5">say how you doin anyway Steve bro</font>
 
 165
-00:11:50,600 --> 00:11:53,980
-something going<font color="#CCCCCC"> on</font><font color="#E5E5E5"> pillows</font><font color="#CCCCCC"> like</font>
+00:09:57,990 --> 00:10:02,430
+good man do you fly in today did you fly
 
 166
-00:11:57,620 --> 00:12:00,460
-we don't know
+00:10:02,430 --> 00:10:06,749
+in today Ben yeah do<font color="#E5E5E5"> you know when you</font>
 
 167
-00:12:02,120 --> 00:12:17,120
-[Music]
+00:10:06,749 --> 00:10:08,430
+need<font color="#E5E5E5"> to go I was just in hot tub bro</font>
 
 168
-00:12:27,320 --> 00:12:30,429
-[Music]
+00:10:08,430 --> 00:10:10,050
+<font color="#E5E5E5">that</font><font color="#CCCCCC"> were</font><font color="#E5E5E5"> relaxed you know I already</font>
 
 169
-00:12:33,619 --> 00:12:38,509
-guys we<font color="#CCCCCC"> just ran out of petrol</font><font color="#E5E5E5"> just now</font>
+00:10:10,050 --> 00:10:14,089
+<font color="#E5E5E5">need a massage</font>
 
 170
-00:12:38,509 --> 00:12:45,139
-can you what
+00:10:15,709 --> 00:10:20,300
+<font color="#E5E5E5">Lois hey man hey Lawrence</font>
 
 171
-00:12:51,630 --> 00:12:54,279
-<font color="#E5E5E5">they're just a mud pit no I just</font>
+00:10:29,130 --> 00:10:32,120
+this is food
 
 172
-00:12:54,279 --> 00:12:57,120
-freeware there
+00:10:54,840 --> 00:10:57,030
+no he's a<font color="#CCCCCC"> disobey Toria</font><font color="#E5E5E5"> and she wanted</font>
 
 173
-00:13:06,120 --> 00:13:08,850
-things you joke about like<font color="#E5E5E5"> you just you</font>
+00:10:57,030 --> 00:10:59,720
+<font color="#E5E5E5">to</font><font color="#CCCCCC"> sing</font><font color="#E5E5E5"> for me</font>
 
 174
-00:13:08,850 --> 00:13:11,200
-<font color="#CCCCCC">just</font><font color="#E5E5E5"> ran out of petrol they've drifted</font>
+00:11:15,290 --> 00:11:17,240
+comment in the video think she's<font color="#E5E5E5"> not</font>
 
 175
-00:13:11,200 --> 00:13:13,900
-into the<font color="#CCCCCC"> procrastination oh my gosh we</font>
+00:11:17,240 --> 00:11:18,950
+<font color="#E5E5E5">great voice</font><font color="#CCCCCC"> leave addiction to pursue</font>
 
 176
-00:13:13,900 --> 00:13:16,230
-did<font color="#E5E5E5"> it</font>
+00:11:18,950 --> 00:11:25,550
+secrets are neither food has arrived
 
 177
-00:13:19,010 --> 00:13:23,060
-come on baby<font color="#E5E5E5"> drink up you're very</font>
+00:11:25,550 --> 00:11:28,430
+it all looks very American that couldn't
 
 178
-00:13:23,060 --> 00:13:25,720
-<font color="#E5E5E5">thirsty</font>
+00:11:28,430 --> 00:11:31,810
+<font color="#E5E5E5">get more America it's a waffle burger</font>
 
 179
-00:13:26,810 --> 00:13:31,850
-I still can't<font color="#CCCCCC"> believe that</font><font color="#E5E5E5"> guys</font><font color="#CCCCCC"> we</font>
+00:11:31,810 --> 00:11:34,640
+this<font color="#E5E5E5"> is a speakeasy some secret trans</font>
 
 180
-00:13:31,850 --> 00:13:35,650
-rolled in<font color="#CCCCCC"> through a destination</font>
+00:11:34,640 --> 00:11:36,740
+<font color="#E5E5E5">lip there's a little rabbit here little</font>
 
 181
-00:13:35,780 --> 00:13:38,740
-the engine cut out<font color="#E5E5E5"> and we rolled it over</font>
+00:11:36,740 --> 00:11:41,930
+<font color="#E5E5E5">rabbit you pulled the rabbit pull the</font>
 
 182
-00:13:38,740 --> 00:13:41,699
-<font color="#E5E5E5">a girl</font>
+00:11:41,930 --> 00:11:44,920
+<font color="#E5E5E5">rabbit look see that little rabbit</font>
 
 183
-00:13:41,699 --> 00:13:44,249
-to be honest I was I was just imagining
+00:11:44,920 --> 00:11:48,260
+<font color="#CCCCCC">there's a door he's door into a secret</font>
 
 184
-00:13:44,249 --> 00:13:46,649
-<font color="#E5E5E5">us breaking down on the</font><font color="#CCCCCC"> highway and</font>
+00:11:48,260 --> 00:11:53,350
+secret place<font color="#CCCCCC"> whoa</font>
 
 185
-00:13:46,649 --> 00:13:49,529
-having to like flag someone down and
+00:11:57,190 --> 00:12:03,220
+yeah<font color="#E5E5E5"> love this like how fun is this</font>
 
 186
-00:13:49,529 --> 00:13:51,959
-come<font color="#E5E5E5"> and pick up some gas and do you</font>
+00:12:03,220 --> 00:12:08,420
+<font color="#E5E5E5">purple of slightly</font><font color="#CCCCCC"> cooler I feel there</font>
 
 187
-00:13:51,959 --> 00:13:53,129
-know what I'm gonna do though<font color="#CCCCCC"> is get a</font>
+00:12:08,420 --> 00:12:13,730
+<font color="#E5E5E5">probably tell yourself</font><font color="#CCCCCC"> this is the</font><font color="#E5E5E5"> exit</font>
 
 188
-00:13:53,129 --> 00:13:56,459
-can<font color="#E5E5E5"> now like a</font><font color="#CCCCCC"> five liter can</font><font color="#E5E5E5"> so take</font>
+00:12:13,730 --> 00:12:17,180
+yeah back through the books<font color="#E5E5E5"> yeah that's</font>
 
 189
-00:13:56,459 --> 00:13:58,759
-you<font color="#E5E5E5"> with us</font>
+00:12:17,180 --> 00:12:19,600
+why<font color="#E5E5E5"> can we see</font>
 
 190
-00:14:05,360 --> 00:14:07,670
-well I'm glad<font color="#E5E5E5"> that</font><font color="#CCCCCC"> all worked out and we</font>
+00:12:21,250 --> 00:12:26,270
+yeah I look at that<font color="#E5E5E5"> secret entrance</font>
 
 191
-00:14:07,670 --> 00:14:11,089
-narrowly avoided disaster<font color="#CCCCCC"> I think I'm</font>
+00:12:26,270 --> 00:12:28,070
+that's<font color="#E5E5E5"> bad</font>
 
 192
-00:14:11,089 --> 00:14:13,189
-going<font color="#E5E5E5"> to sign out the blog here the Sun</font>
+00:12:28,070 --> 00:12:32,270
+that is corner I think<font color="#CCCCCC"> I'm gonna catch</font>
 
 193
-00:14:13,189 --> 00:14:15,499
-is rising<font color="#E5E5E5"> and we should probably get a</font>
+00:12:32,270 --> 00:12:34,980
+me<font color="#E5E5E5"> but back</font><font color="#CCCCCC"> to</font>
 
 194
-00:14:15,499 --> 00:14:18,579
-bit of a<font color="#E5E5E5"> rest before heading off again</font>
+00:12:34,980 --> 00:12:47,699
+I just arrived back at<font color="#CCCCCC"> Hotel I've walked</font>
 
 195
-00:14:18,579 --> 00:14:20,869
-<font color="#CCCCCC">I've just been loving this road trip</font>
+00:12:47,699 --> 00:12:50,010
+in the loading bay<font color="#E5E5E5"> this is the way we</font>
 
 196
-00:14:20,869 --> 00:14:23,899
-guys<font color="#CCCCCC"> and this whole adventure</font><font color="#E5E5E5"> I've</font>
+00:12:50,010 --> 00:12:53,699
+came out<font color="#E5E5E5"> seems the most chilled way to</font>
 
 197
-00:14:23,899 --> 00:14:28,759
-really found like reconnected<font color="#CCCCCC"> with the</font>
+00:12:53,699 --> 00:12:58,920
+get begin to<font color="#E5E5E5"> too many people</font><font color="#CCCCCC"> I'm back</font><font color="#E5E5E5"> in</font>
 
 198
-00:14:28,759 --> 00:14:32,420
-real me you know what I mean and yeah
+00:12:58,920 --> 00:13:01,139
+the room<font color="#E5E5E5"> and I am gonna try and</font><font color="#CCCCCC"> make</font>
 
 199
-00:14:32,420 --> 00:14:35,239
-I'm<font color="#CCCCCC"> just loving life right</font><font color="#E5E5E5"> now and I'm</font>
+00:13:01,139 --> 00:13:05,399
+some coffee with Nick's coffee apparatus
 
 200
-00:14:35,239 --> 00:14:36,679
-excited<font color="#CCCCCC"> that</font><font color="#E5E5E5"> it all worked out that</font>
+00:13:05,399 --> 00:13:07,680
+<font color="#CCCCCC">I don't know this</font><font color="#E5E5E5"> is an arrow</font><font color="#CCCCCC"> pressed</font>
 
 201
-00:14:36,679 --> 00:14:41,170
-Toyota<font color="#E5E5E5"> could sponsor the trip and that</font>
+00:13:07,680 --> 00:13:10,199
+<font color="#E5E5E5">this is a coffee grinder</font><font color="#CCCCCC"> and this is</font>
 
 202
-00:14:41,170 --> 00:14:44,600
-<font color="#CCCCCC">we found a brand that can get behind who</font>
+00:13:10,199 --> 00:13:11,790
+very<font color="#E5E5E5"> good coffee so we're gonna try this</font>
 
 203
-00:14:44,600 --> 00:14:47,179
-I am and embracing the adventure and<font color="#E5E5E5"> the</font>
+00:13:11,790 --> 00:13:13,560
+out<font color="#E5E5E5"> now because I want</font><font color="#CCCCCC"> to do some</font>
 
 204
-00:14:47,179 --> 00:14:49,879
-<font color="#CCCCCC">fun</font><font color="#E5E5E5"> of it all and</font><font color="#CCCCCC"> doing it my own way</font>
+00:13:13,560 --> 00:13:16,529
+editing<font color="#E5E5E5"> tonight so I don't have to get</font>
 
 205
-00:14:49,879 --> 00:14:53,480
-<font color="#CCCCCC">and</font><font color="#E5E5E5"> yeah I'm looking forward to</font><font color="#CCCCCC"> a lot</font>
+00:13:16,529 --> 00:13:19,829
+up super early<font color="#E5E5E5"> and I'm going to try</font><font color="#CCCCCC"> and</font>
 
 206
-00:14:53,480 --> 00:14:55,999
-<font color="#E5E5E5">more adventurous trips like this you</font>
+00:13:19,829 --> 00:13:21,510
+stop<font color="#CCCCCC"> stand</font><font color="#E5E5E5"> up for my editing for you</font>
 
 207
-00:14:55,999 --> 00:14:58,369
-guys<font color="#E5E5E5"> have</font><font color="#CCCCCC"> got any ideas of</font><font color="#E5E5E5"> cool places</font>
+00:13:21,510 --> 00:13:23,070
+guys so I'm getting my vlogs out in time
 
 208
-00:14:58,369 --> 00:15:02,569
-<font color="#E5E5E5">to trip to and take the the</font><font color="#CCCCCC"> Wonder Wagon</font>
+00:13:23,070 --> 00:13:25,680
+because sometimes<font color="#E5E5E5"> I leave it and they go</font>
 
 209
-00:15:02,569 --> 00:15:06,080
-<font color="#CCCCCC">T</font><font color="#E5E5E5"> then let me know in the comments</font>
+00:13:25,680 --> 00:13:27,240
+<font color="#CCCCCC">like a day behind</font><font color="#E5E5E5"> the stuff but I'm</font>
 
 210
-00:15:06,080 --> 00:15:10,360
-and I'll catch<font color="#CCCCCC"> you</font><font color="#E5E5E5"> tomorrow today but</font>
+00:13:27,240 --> 00:13:33,660
+gonna be on<font color="#E5E5E5"> it don't</font><font color="#CCCCCC"> worry this</font><font color="#E5E5E5"> is a</font>
 
 211
-00:15:10,360 --> 00:15:12,420
-tomorrow
+00:13:33,660 --> 00:13:35,579
+slightly more<font color="#E5E5E5"> complicated than</font><font color="#CCCCCC"> I'm room</font>
 
 212
-00:15:12,420 --> 00:15:15,570
-<font color="#E5E5E5">peace-out enjoy life and live the</font>
+00:13:35,579 --> 00:13:39,990
+remember<font color="#CCCCCC"> there's a</font><font color="#E5E5E5"> lot of things here</font>
 
 213
-00:15:15,570 --> 00:15:17,630
-adventure
+00:13:39,990 --> 00:13:56,579
+<font color="#CCCCCC">that I need</font><font color="#E5E5E5"> to somehow fit together I am</font>
 
 214
-00:15:18,490 --> 00:00:00,000
-[Music]
+00:13:56,579 --> 00:13:57,930
+wired on coffee
+
+215
+00:13:57,930 --> 00:14:02,730
+<font color="#CCCCCC">I could even beans in and I'm now full</font>
+
+216
+00:14:02,730 --> 00:14:04,860
+of caffeine but it has mentally managed
+
+217
+00:14:04,860 --> 00:14:10,110
+to<font color="#E5E5E5"> get my vlog edited</font><font color="#CCCCCC"> I'm going to in a</font>
+
+218
+00:14:10,110 --> 00:14:10,730
+minute
+
+219
+00:14:10,730 --> 00:14:13,760
+get this out<font color="#E5E5E5"> this is my bed</font><font color="#CCCCCC"> it's a</font>
+
+220
+00:14:13,760 --> 00:14:18,029
+little fold-out sofa<font color="#E5E5E5"> and Rachel</font><font color="#CCCCCC"> or I</font>
+
+221
+00:14:18,029 --> 00:14:20,730
+sharing this room<font color="#CCCCCC"> naked engine</font><font color="#E5E5E5"> there and</font>
+
+222
+00:14:20,730 --> 00:14:23,250
+then Dave's<font color="#E5E5E5"> over here in the corner he's</font>
+
+223
+00:14:23,250 --> 00:14:25,910
+already gone to sleep
+
+224
+00:14:25,920 --> 00:14:28,470
+yeah we've<font color="#CCCCCC"> just been settling in today</font>
+
+225
+00:14:28,470 --> 00:14:31,619
+and I'm ready<font color="#E5E5E5"> I'm ready for VidCon it's</font>
+
+226
+00:14:31,619 --> 00:14:34,379
+gonna be an amazing few days<font color="#CCCCCC"> yourself</font>
+
+227
+00:14:34,379 --> 00:00:00,000
+into<font color="#CCCCCC"> your life and live</font><font color="#E5E5E5"> the adventure</font>
 

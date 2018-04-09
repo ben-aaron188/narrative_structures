@@ -1,0 +1,28 @@
+1
+00:00:06,960 --> 00:00:09,960
+<font color="#CCCCCC">ok</font>
+
+2
+00:00:19,330 --> 00:00:21,330
+où
+
+3
+00:00:31,700 --> 00:00:35,420
+<font color="#CCCCCC">american eagle</font>
+
+4
+00:00:37,899 --> 00:00:40,899
+<font color="#E5E5E5">il</font>
+
+5
+00:01:09,060 --> 00:01:15,009
+<font color="#CCCCCC">thaçi soclova à</font><font color="#E5E5E5"> jamais ce jeu chemin</font>
+
+6
+00:01:15,009 --> 00:01:17,460
+<font color="#CCCCCC">est</font><font color="#E5E5E5"> long</font><font color="#CCCCCC"> numéro</font>
+
+7
+00:01:44,650 --> 00:00:00,000
+1
+

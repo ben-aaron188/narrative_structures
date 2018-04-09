@@ -1,1560 +1,1856 @@
 1
-00:00:00,000 --> 00:00:02,580
-you want this dog<font color="#CCCCCC"> here's what</font><font color="#E5E5E5"> she likes</font>
+00:00:00,200 --> 00:00:01,420
+ههل لدى أحدكم شاحنة جر المركبات؟
 
 2
-00:00:02,580 --> 00:00:05,040
-she likes<font color="#E5E5E5"> her</font><font color="#CCCCCC"> food wet</font>
+00:00:01,420 --> 00:00:02,420
+هل لديك شاحنة جر المركبات؟
 
 3
-00:00:05,040 --> 00:00:21,750
-she loves doors<font color="#E5E5E5"> popping</font><font color="#CCCCCC"> but this is no</font>
+00:00:02,420 --> 00:00:03,420
+هل تملك شاحنة جر المركبات؟
 
 4
-00:00:21,750 --> 00:00:23,760
-joke bro like<font color="#CCCCCC"> looking at</font><font color="#E5E5E5"> sunroof going</font>
+00:00:03,580 --> 00:00:04,560
+هل أنت مشترك بالقناة؟
 
 5
-00:00:23,760 --> 00:00:27,210
-up are you good<font color="#E5E5E5"> like yo unfortunately</font>
+00:00:04,560 --> 00:00:06,680
+على حصلت على منتجاتي؟ هل تملك منتجاتي؟
 
 6
-00:00:27,210 --> 00:00:28,050
-it's no bueno
+00:00:08,220 --> 00:00:09,500
+متى سيتم إصدار هذا؟
 
 7
-00:00:28,050 --> 00:00:30,330
-especially because I<font color="#E5E5E5"> have to pee so bad</font>
+00:00:10,260 --> 00:00:11,620
+يا إلهي، توقف !
 
 8
-00:00:30,330 --> 00:00:32,880
-<font color="#CCCCCC">but I'm talking more</font><font color="#E5E5E5"> and more I realized</font>
+00:00:11,620 --> 00:00:13,920
+ماذا تفعلين؟ لماذا تبدين كـ (إيواك) (من ستاروورز)
 
 9
-00:00:32,880 --> 00:00:34,890
-I'm not moving I'm driving so this is
+00:00:13,920 --> 00:00:14,880
+دعني وشأني!
 
 10
-00:00:34,890 --> 00:00:36,840
-good<font color="#CCCCCC"> ok</font><font color="#E5E5E5"> guys so as I Drive in no hands</font>
+00:00:14,880 --> 00:00:17,280
+انظري لحالك! ماذا تفعلين يا (ليديا) !
 
 11
-00:00:36,840 --> 00:00:38,129
-<font color="#E5E5E5">it's like new and I had a couple</font>
+00:00:17,280 --> 00:00:18,940
+أحاول إخباء وجهي !
 
 12
-00:00:38,129 --> 00:00:39,840
-<font color="#E5E5E5">business meetings this morning</font><font color="#CCCCCC"> just some</font>
+00:00:19,320 --> 00:00:20,820
+سأموت من الضحك! (إيفان)!
 
 13
-00:00:39,840 --> 00:00:43,710
-real adult stuff I'm adopting<font color="#E5E5E5"> the</font>
+00:00:20,820 --> 00:00:21,500
+(إيفان)!
 
 14
-00:00:43,710 --> 00:00:45,570
-<font color="#CCCCCC">Maverick Enterprise is not going to</font>
+00:00:21,500 --> 00:00:22,960
+(كونغ)، أنظر إلى (ليديا)!
 
 15
-00:00:45,570 --> 00:00:47,640
-build itself<font color="#E5E5E5"> let's talk about a few</font>
+00:00:22,960 --> 00:00:23,880
+(كونغ)، يا كلبي !
 
 16
-00:00:47,640 --> 00:00:49,710
-<font color="#CCCCCC">things ok</font><font color="#E5E5E5"> one the sickness as you guys</font>
+00:00:23,880 --> 00:00:24,580
+مرحبا يا صديقي !
 
 17
-00:00:49,710 --> 00:00:50,879
-know I've been dealing<font color="#E5E5E5"> with the past</font>
+00:00:24,580 --> 00:00:25,180
+(إيفان)
 
 18
-00:00:50,879 --> 00:00:53,010
-<font color="#E5E5E5">like two weeks actually for the</font><font color="#CCCCCC"> first</font>
+00:00:25,180 --> 00:00:26,080
+تعال إلى هنا!
 
 19
-00:00:53,010 --> 00:00:54,750
-time in a while feel better today
+00:00:26,080 --> 00:00:27,260
+إنها تبدو ككُرة صغيرة !
 
 20
-00:00:54,750 --> 00:00:57,360
-<font color="#E5E5E5">however until I'm 100% healed</font><font color="#CCCCCC"> I'm</font>
+00:00:27,260 --> 00:00:28,200
+مثل (إيواك) !
 
 21
-00:00:57,360 --> 00:00:59,280
-keeping<font color="#E5E5E5"> my hobo</font><font color="#CCCCCC"> beard a man if you're</font>
+00:00:28,200 --> 00:00:28,860
+لا!
 
 22
-00:00:59,280 --> 00:01:01,079
-watching this vlog<font color="#CCCCCC"> and you're like one I</font>
+00:00:28,860 --> 00:00:29,880
+هذا مضحك جدا!
 
 23
-00:01:01,079 --> 00:01:02,219
-didn't even know you were sick<font color="#E5E5E5"> -</font><font color="#CCCCCC"> I</font>
+00:00:30,580 --> 00:00:32,460
+صباح الخير (لوجانج)، كيف أحوالكم؟
 
 24
-00:01:02,219 --> 00:01:03,510
-didn't know you didn't<font color="#E5E5E5"> have a beard</font>
+00:00:32,460 --> 00:00:35,420
+لم ننم بما يكفي ليلة أمس، (براندن) لا يزال نائماً !
 
 25
-00:01:03,510 --> 00:01:05,280
-<font color="#CCCCCC">clearly you're not in the low gang hi</font>
+00:00:35,420 --> 00:00:36,380
+أتريد أن تصبح (براندن)؟
 
 26
-00:01:05,280 --> 00:01:07,080
-how are you<font color="#CCCCCC"> i'm logan paul</font><font color="#E5E5E5"> this is</font><font color="#CCCCCC"> my</font>
+00:00:36,380 --> 00:00:37,320
+زوايا رائعة !
 
 27
-00:01:07,080 --> 00:01:08,729
-vlog channel<font color="#E5E5E5"> welcome to my life</font><font color="#CCCCCC"> to do</font>
+00:00:37,320 --> 00:00:39,500
+كيف الأحوال يا رفاق؟ هذا أنا (لوجان بول)
 
 28
-00:01:08,729 --> 00:01:13,170
-this every day so<font color="#CCCCCC"> subscribe join the</font>
+00:00:39,500 --> 00:00:42,040
+تأكد من إشتراكك بالقناة إذا لم تكن جزءا من (لوجانج)
 
 29
-00:01:13,170 --> 00:01:14,939
-family<font color="#E5E5E5"> we are the strongest family on</font>
+00:00:42,140 --> 00:00:44,080
+نحن نعمل بجد يا أخي!
 
 30
-00:01:14,939 --> 00:01:17,790
-<font color="#E5E5E5">youtube let's go</font><font color="#CCCCCC"> alright guys</font><font color="#E5E5E5"> i</font><font color="#CCCCCC"> know</font>
+00:00:44,080 --> 00:00:45,260
+لا أعرف ما إذا كان هذا يعمل يا (إيفان)!
 
 31
-00:01:17,790 --> 00:01:19,619
-let's<font color="#E5E5E5"> go home</font><font color="#CCCCCC"> and empty</font><font color="#E5E5E5"> my bladder</font><font color="#CCCCCC"> hey</font>
+00:00:45,260 --> 00:00:45,900
+يعجبني ذلك !
 
 32
-00:01:19,619 --> 00:01:21,540
-guys so<font color="#E5E5E5"> bad news</font><font color="#CCCCCC"> i didn't</font><font color="#E5E5E5"> make</font><font color="#CCCCCC"> it</font><font color="#E5E5E5"> home</font><font color="#CCCCCC"> i</font>
+00:00:45,900 --> 00:00:47,800
+أحس وكأن الزاوية أدنى من المعتاد !
 
 33
-00:01:21,540 --> 00:01:23,009
-had<font color="#E5E5E5"> to pull over on the</font><font color="#CCCCCC"> highway</font><font color="#E5E5E5"> right</font>
+00:00:48,120 --> 00:00:48,800
+إنها كـ ..
 
 34
-00:01:23,009 --> 00:01:24,420
-<font color="#CCCCCC">there you can</font><font color="#E5E5E5"> see cars are driving by</font>
+00:00:48,800 --> 00:00:49,620
+سأذهب لإيقاظ (براندن) !
 
 35
-00:01:24,420 --> 00:01:26,159
-the yetis over there<font color="#E5E5E5"> and I'm peeing this</font>
+00:00:49,620 --> 00:00:50,280
+يجعلك هذا تبدو أطول ...
 
 36
-00:01:26,159 --> 00:01:28,170
-might be too far but<font color="#E5E5E5"> it just</font><font color="#CCCCCC"> is</font><font color="#E5E5E5"> like if</font>
+00:00:50,280 --> 00:00:50,780
+لا
 
 37
-00:01:28,170 --> 00:01:30,150
-we're proof I don't know where I am<font color="#CCCCCC"> I</font>
+00:00:50,780 --> 00:00:52,120
+إغرب عن وجهي!
 
 38
-00:01:30,150 --> 00:01:31,799
-don't<font color="#CCCCCC"> know</font><font color="#E5E5E5"> if this is legal but I had no</font>
+00:00:52,560 --> 00:00:53,620
+إغرب عن شَعري !
 
 39
-00:01:31,799 --> 00:01:33,780
-<font color="#E5E5E5">choice so whoever owns this</font><font color="#CCCCCC"> land I'm</font>
+00:00:53,620 --> 00:00:56,760
+تحاولين أن تجفيفه ومشطه تريدين ... 30 مليون مشاهدة، لا تستطيعين فعل ذلك!
 
 40
-00:01:33,780 --> 00:01:37,140
-sorry for that<font color="#E5E5E5"> ohno-san</font><font color="#CCCCCC"> just peed on</font>
+00:00:56,760 --> 00:00:57,800
+هيا يا صديقي، لنذهب لمناداة (براندن)!
 
 41
-00:01:37,140 --> 00:01:38,640
-myself<font color="#CCCCCC"> that's what you get</font><font color="#E5E5E5"> when you try</font>
+00:00:57,800 --> 00:00:58,960
+(براندن)
 
 42
-00:01:38,640 --> 00:01:40,829
-<font color="#E5E5E5">to vlog</font><font color="#CCCCCC"> no</font><font color="#E5E5E5"> hand</font><font color="#CCCCCC"> this is an interesting</font>
+00:00:58,960 --> 00:01:00,380
+يجب أن يكون في الحمام!
 
 43
-00:01:40,829 --> 00:01:48,270
-morning<font color="#E5E5E5"> this Yeti</font>
+00:01:00,380 --> 00:01:01,140
+الباب مفتوح!
 
 44
-00:01:48,270 --> 00:01:50,610
-hi baby do you have a sink no way<font color="#CCCCCC"> I</font>
+00:01:01,140 --> 00:01:02,380
+(براندن)، هل قض**ك ظاهر؟
 
 45
-00:01:50,610 --> 00:01:51,899
-actually know the answer<font color="#CCCCCC"> I have water in</font>
+00:01:02,380 --> 00:01:02,880
+نعم
 
 46
-00:01:51,899 --> 00:01:53,820
-<font color="#CCCCCC">the back let me</font><font color="#E5E5E5"> set this up without</font>
+00:01:02,880 --> 00:01:03,720
+قضي*ه ظاهر!
 
 47
-00:01:53,820 --> 00:01:56,149
-touching<font color="#E5E5E5"> my camera</font><font color="#CCCCCC"> here</font><font color="#E5E5E5"> we go yeah</font><font color="#CCCCCC"> Oh</font>
+00:01:04,000 --> 00:01:05,540
+آسف على رؤية سجقك !
 
 48
-00:01:56,149 --> 00:01:59,369
-real<font color="#CCCCCC"> Goods real just top-notch stuff guy</font>
+00:01:05,740 --> 00:01:06,400
+حسنا !
 
 49
-00:01:59,369 --> 00:02:00,780
-for everyone who I<font color="#CCCCCC"> just told to</font>
+00:01:06,400 --> 00:01:08,260
+هل يمكنك أن تأتي من أجل تصوير الفلوغ بعد إنتهائك؟
 
 50
-00:02:00,780 --> 00:02:02,399
-subscribe I understand if you
+00:01:08,660 --> 00:01:11,220
+لقد قلتها مازحا، لكن كان سجقه خارجاً بالتأكيد!
 
 51
-00:02:02,399 --> 00:02:04,190
-<font color="#E5E5E5">unsubscribe</font><font color="#CCCCCC"> ok</font>
+00:01:11,440 --> 00:01:13,480
+لا زلنا نعمل على تعليم (كونغ) نزول الدرج!
 
 52
-00:02:04,190 --> 00:02:05,570
-<font color="#E5E5E5">to get back</font><font color="#CCCCCC"> in the vehicle</font><font color="#E5E5E5"> please don't</font>
+00:01:13,480 --> 00:01:14,700
+صديقي، فقط تجول هناك، أراك لاحقا !
 
 53
-00:02:05,570 --> 00:02:11,500
-kill me please<font color="#E5E5E5"> okay let's go home</font>
+00:01:14,700 --> 00:01:15,300
+(إيفان)!
 
 54
-00:02:11,950 --> 00:02:14,780
-morning<font color="#CCCCCC"> are ya</font><font color="#E5E5E5"> hi cutie</font><font color="#CCCCCC"> you look</font><font color="#E5E5E5"> really</font>
+00:01:15,300 --> 00:01:17,900
+هل تعرف كيف آتي إليك كل مرة وأسألك إن كان سجقك خارجاً؟
 
 55
-00:02:14,780 --> 00:02:16,760
-done<font color="#E5E5E5"> with the club but so cute hi</font><font color="#CCCCCC"> Carl</font>
+00:01:17,900 --> 00:01:18,400
+نعم
 
 56
-00:02:16,760 --> 00:02:18,080
-good morning to you too looking good
+00:01:18,400 --> 00:01:20,540
+لقد كنت لتوي في غرفة (براندن) و...
 
 57
-00:02:18,080 --> 00:02:19,610
-with<font color="#E5E5E5"> that fresh haircut</font><font color="#CCCCCC"> that's my boy</font>
+00:01:22,420 --> 00:01:24,380
+في الواقع، (براندن) ليس هنا، هذا مثالي!
 
 58
-00:02:19,610 --> 00:02:21,230
-that's<font color="#CCCCCC"> a happy family and good morning</font>
+00:01:24,380 --> 00:01:26,660
+أحتاج إليك .. أنظر لقد نزل (كونغ) من الدرج !
 
 59
-00:02:21,230 --> 00:02:24,380
-<font color="#CCCCCC">to you bro are you recording I am okay</font>
+00:01:27,360 --> 00:01:29,040
+أحتاج إليك، وأحتاج إليكِ !
 
 60
-00:02:24,380 --> 00:02:28,160
-this one<font color="#E5E5E5"> yeah this one so interesting</font>
+00:01:29,040 --> 00:01:31,700
+كما تعلمون يا رفاق، خزانة المنتجات تتوحد ببطئ !
 
 61
-00:02:28,160 --> 00:02:29,750
-morning guys<font color="#CCCCCC"> so I</font><font color="#E5E5E5"> think you should know</font>
+00:01:31,700 --> 00:01:33,700
+أنظر إلى كل هذه المنتجات يا عزيزي!
 
 62
-00:02:29,750 --> 00:02:32,210
-<font color="#E5E5E5">this about me Evan</font><font color="#CCCCCC"> I uh I peed on myself</font>
+00:01:33,700 --> 00:01:34,500
+ذلك لا يتوقف!
 
 63
-00:02:32,210 --> 00:02:35,510
-this<font color="#E5E5E5"> morning I was vlogging and I peed</font>
+00:01:34,500 --> 00:01:35,300
+(إيواك)!
 
 64
-00:02:35,510 --> 00:02:37,940
-<font color="#CCCCCC">on myself did you you blogged it I loved</font>
+00:01:35,300 --> 00:01:37,660
+ليديا هي من صممت هذا، ويعجبني أيضا كيف فعلتِ هذا!
 
 65
-00:02:37,940 --> 00:02:44,570
-it<font color="#CCCCCC"> yeah this</font><font color="#E5E5E5"> real real</font><font color="#CCCCCC"> good</font><font color="#E5E5E5"> quality</font>
+00:01:37,660 --> 00:01:39,240
+كتوقيع صغير وظريف!
 
 66
-00:02:44,570 --> 00:02:46,820
-<font color="#CCCCCC">content oh by the way ever</font><font color="#E5E5E5"> we did good</font>
+00:01:39,240 --> 00:01:41,800
+لكن يا رفاق، تعرفون أننا أصدرنا البارحة حقائب ظهر !
 
 67
-00:02:46,820 --> 00:02:48,500
-look we got some<font color="#E5E5E5"> sexy offspring right</font>
+00:01:41,800 --> 00:01:43,700
+صحيح أنه كان لدينا أفضل حقائب ظهر في الساحة سابقاً
 
 68
-00:02:48,500 --> 00:02:55,100
-here oh look at this<font color="#E5E5E5"> oh you're gonna let</font>
+00:01:43,700 --> 00:01:44,860
+لكننا قررنا إصدار المزيد!
 
 69
-00:02:55,100 --> 00:02:57,590
-go<font color="#CCCCCC"> just like</font><font color="#E5E5E5"> choo</font><font color="#CCCCCC"> Kong do you want to do</font>
+00:01:44,860 --> 00:01:45,560
+النمر الأزرق
 
 70
-00:02:57,590 --> 00:02:58,850
-want<font color="#E5E5E5"> to help are you with the tennis</font>
+00:01:45,560 --> 00:01:46,460
+الأزرق السماوي
 
 71
-00:02:58,850 --> 00:03:01,220
-ball thing okay so no<font color="#E5E5E5"> more pee on my</font>
+00:01:46,460 --> 00:01:47,920
+الرمادي المفتوح
 
 72
-00:03:01,220 --> 00:03:02,690
-hand good stuff like I said today's<font color="#E5E5E5"> an</font>
+00:01:48,480 --> 00:01:50,040
+وثم إذا كنتم فتيان، لدينا هذه الحقائب بحجم أصغر !
 
 73
-00:03:02,690 --> 00:03:03,920
-interesting morning<font color="#E5E5E5"> when I woke up this</font>
+00:01:50,040 --> 00:01:51,600
+لهذا جلبتكم يا رفاق، لأنكم صغيرو الحجم !
 
 74
-00:03:03,920 --> 00:03:05,750
-morning we<font color="#CCCCCC"> got this text from my</font>
+00:01:51,600 --> 00:01:52,480
+ها أنت ذا يا (إيفان) !
 
 75
-00:03:05,750 --> 00:03:08,420
-concierge at my<font color="#E5E5E5"> complexes they get the</font>
+00:01:52,740 --> 00:01:54,280
+هذه الحقيبة ليست نمرا!
 
 76
-00:03:08,420 --> 00:03:10,640
-<font color="#CCCCCC">shuttle ready no we're working</font><font color="#E5E5E5"> on that</font>
+00:01:54,280 --> 00:01:54,920
+وما ذلك؟
 
 77
-00:03:10,640 --> 00:03:12,560
-<font color="#CCCCCC">we're</font><font color="#E5E5E5"> trying to leave yeah because as</font>
+00:01:54,920 --> 00:01:55,500
+هذا جمل!
 
 78
-00:03:12,560 --> 00:03:14,150
-you guys<font color="#E5E5E5"> know we</font><font color="#CCCCCC"> are getting evicted</font>
+00:01:55,500 --> 00:01:56,160
+جمل؟
 
 79
-00:03:14,150 --> 00:03:15,410
-<font color="#CCCCCC">actually</font><font color="#E5E5E5"> not getting evicted we</font>
+00:01:56,160 --> 00:01:56,880
+جمل!
 
 80
-00:03:15,410 --> 00:03:17,330
-technically<font color="#E5E5E5"> got evicted like our due</font>
+00:01:57,380 --> 00:01:58,040
+أنا مصاب بعمى الألوان !
 
 81
-00:03:17,330 --> 00:03:19,670
-<font color="#E5E5E5">date has passed so I already got the</font>
+00:01:59,600 --> 00:02:00,660
+أنتم رائعون يا رفاق !
 
 82
-00:03:19,670 --> 00:03:21,590
-email<font color="#E5E5E5"> that said like you need to get the</font>
+00:02:00,660 --> 00:02:02,860
+على أي حال، loganpaul.com/shop
 
 83
-00:03:21,590 --> 00:03:23,390
-fuck out of<font color="#E5E5E5"> here and I</font><font color="#CCCCCC"> decided to</font><font color="#E5E5E5"> stay</font>
+00:02:02,860 --> 00:02:06,060
+تعرفون جميعا أننا أصدرنا لتونا سراويل، ستكون أريح سراويل ستلبسها في حياتك!
 
 84
-00:03:23,390 --> 00:03:26,300
-because I said unless you're gonna come
+00:02:06,060 --> 00:02:07,300
+بدون مزاح، حسنا، على أي حال
 
 85
-00:03:26,300 --> 00:03:29,330
-<font color="#E5E5E5">and basically remove me which I</font><font color="#CCCCCC"> don't</font>
+00:02:07,300 --> 00:02:07,980
+(براندن)!
 
 86
-00:03:29,330 --> 00:03:33,320
-<font color="#E5E5E5">think you're gonna do</font><font color="#CCCCCC"> cuz I'm</font><font color="#E5E5E5"> right here</font>
+00:02:07,980 --> 00:02:09,380
+لماذا يستمر هذا بالحدوث؟
 
 87
-00:03:33,320 --> 00:03:34,820
-<font color="#CCCCCC">till I</font><font color="#E5E5E5"> find a house which is</font><font color="#CCCCCC"> gonna be</font>
+00:02:09,380 --> 00:02:11,180
+(براندن)، أحتاج إليك للتصوير!
 
 88
-00:03:34,820 --> 00:03:36,350
-soon I think hopeful anyways back<font color="#E5E5E5"> to</font><font color="#CCCCCC"> the</font>
+00:02:11,180 --> 00:02:12,400
+كلبي محاصَر !
 
 89
-00:03:36,350 --> 00:03:39,470
-text<font color="#E5E5E5"> good morning your neighbors at 1600</font>
+00:02:12,400 --> 00:02:14,460
+لماذا يقف بنظركم يا رفاق في منتصف الدرح؟
 
 90
-00:03:39,470 --> 00:03:41,480
-vine are calling about<font color="#E5E5E5"> the barking dog</font>
+00:02:14,460 --> 00:02:15,860
+عليه إما أن يصعد أو ينزل!
 
 91
-00:03:41,480 --> 00:03:43,610
-on the balcony<font color="#E5E5E5"> according</font><font color="#CCCCCC"> to them they</font>
+00:02:15,860 --> 00:02:17,800
+عندما يصل إلى منتصف الطريق في الدرج
 
 92
-00:03:43,610 --> 00:03:45,620
-have reported<font color="#E5E5E5"> you to animal</font><font color="#CCCCCC"> control and</font>
+00:02:17,800 --> 00:02:19,540
+ما الذي يجعله يظن أنه محاصَر؟
 
 93
-00:03:45,620 --> 00:03:49,459
-<font color="#E5E5E5">have called the police okay first off</font>
+00:02:19,540 --> 00:02:21,320
+إنه في منتصف الطريق، لقد قطع النصف الأول منه !
 
 94
-00:03:49,459 --> 00:03:53,380
-I'm assuming they're talking about<font color="#CCCCCC"> Kong</font>
+00:02:21,320 --> 00:02:23,400
+(كونغ)، تحتاج إلى المساعدة، وتحتاج إلى اليسوع !
 
 95
-00:03:53,620 --> 00:03:56,750
-what's the deal<font color="#E5E5E5"> oh yeah don't ignore me</font>
+00:02:23,400 --> 00:02:24,600
+ومنتجات (مافريك) !
 
 96
-00:03:56,750 --> 00:03:58,370
-don't you ignore me when<font color="#CCCCCC"> I'm talking to</font>
+00:02:25,000 --> 00:02:25,800
+على ماذا تضحك؟
 
 97
-00:03:58,370 --> 00:04:00,080
-you<font color="#E5E5E5"> bye but yeah as you guys know when</font>
+00:02:25,800 --> 00:02:27,000
+لا أعلم ما الذي يحدث هنا !
 
 98
-00:04:00,080 --> 00:04:02,150
-we set Kong on the<font color="#E5E5E5"> balcony home he goes</font>
+00:02:27,000 --> 00:02:28,420
+وأنا أيضا يا أخي!
 
 99
-00:04:02,150 --> 00:04:05,030
-crazy<font color="#E5E5E5"> cuz like you see he can be so calm</font>
+00:02:28,420 --> 00:02:29,520
+تبدين مضحكة !
 
 100
-00:04:05,030 --> 00:04:06,800
-and cute and collected<font color="#CCCCCC"> then you put him</font>
+00:02:29,660 --> 00:02:31,660
+دعني وشأني !
 
 101
-00:04:06,800 --> 00:04:09,290
-on<font color="#E5E5E5"> the</font><font color="#CCCCCC"> balcony and he's off what are you</font>
+00:02:31,660 --> 00:02:33,660
+(إي تي فون هوم) (من فيلم ذا إكستراتيريستيال)
 
 102
-00:04:09,290 --> 00:04:10,730
-doing I'm<font color="#CCCCCC"> trying</font><font color="#E5E5E5"> to show how you bark</font>
+00:02:34,040 --> 00:02:35,300
+ألا تبدو كـ (إيواك)؟
 
 103
-00:04:10,730 --> 00:04:12,530
-<font color="#E5E5E5">stop looking at me go crazy</font>
+00:02:35,300 --> 00:02:36,120
+نعم، نوعا ما !
 
 104
-00:04:12,530 --> 00:04:13,550
-calling your<font color="#CCCCCC"> America</font>
+00:02:36,120 --> 00:02:37,120
+(إيواك)!
 
 105
-00:04:13,550 --> 00:04:15,740
-<font color="#E5E5E5">okay normally he barks yo maybe this is</font>
+00:02:37,300 --> 00:02:38,880
+لا يمكنك رؤيته لأنني سأعدل ذلك لكن ..
 
 106
-00:04:15,740 --> 00:04:17,238
-actually<font color="#CCCCCC"> good for us to go for the</font>
+00:02:39,160 --> 00:02:39,780
+(إيواك)!
 
 107
-00:04:17,238 --> 00:04:19,430
-neighbor<font color="#E5E5E5"> watching I have a good dog</font><font color="#CCCCCC"> hmm</font>
+00:02:39,780 --> 00:02:40,920
+لا، لا يمكنك رؤية ذلك، إنه ليس تعديل هنا في الواقع!
 
 108
-00:04:19,430 --> 00:04:21,829
-<font color="#CCCCCC">he doesn't</font><font color="#E5E5E5"> make a peep never barked</font>
+00:02:40,920 --> 00:02:41,420
+حسنا !
 
 109
-00:04:21,829 --> 00:04:23,000
-<font color="#E5E5E5">what's it alive he doesn't even know</font>
+00:02:41,440 --> 00:02:41,940
+(إيواك)!
 
 110
-00:04:23,000 --> 00:04:23,900
-<font color="#E5E5E5">what a</font><font color="#CCCCCC"> bargain</font>
+00:02:41,940 --> 00:02:43,340
+فجأة في وقت لاحق
 
 111
-00:04:23,900 --> 00:04:27,320
-no no he's<font color="#E5E5E5"> not he's not</font><font color="#CCCCCC"> barking he's not</font>
+00:02:43,340 --> 00:02:44,280
+(إيفان) واقع في مشكلة !
 
 112
-00:04:27,320 --> 00:04:31,340
-he's not<font color="#CCCCCC"> mark he's not barking oh come</font>
+00:02:44,280 --> 00:02:44,780
+نعم
 
 113
-00:04:31,340 --> 00:04:31,790
-on
+00:02:44,920 --> 00:02:46,340
+كدت أن أموت في الطريق السيار !
 
 114
-00:04:31,790 --> 00:04:34,370
-no no anyways hypothetically<font color="#E5E5E5"> if he were</font>
+00:02:46,520 --> 00:02:47,200
+لماذا؟
 
 115
-00:04:34,370 --> 00:04:36,320
-barking<font color="#E5E5E5"> I can only imagine what that</font>
+00:02:47,200 --> 00:02:48,780
+لقد فقدت سيارتنا القدرة على الجر بالعجلات الخلفية
 
 116
-00:04:36,320 --> 00:04:38,320
-<font color="#E5E5E5">phone call look like</font>
+00:02:48,780 --> 00:02:49,900
+لقد سمعت صوت "تسس" بالعجلة
 
 117
-00:04:38,320 --> 00:04:42,620
-hello 91911 is that you hi they give us
+00:02:49,900 --> 00:02:52,340
+لقد فرغت العجلة من الهواء ثم توقفت على جانب الطريق !
 
 118
-00:04:42,620 --> 00:04:45,910
-an<font color="#E5E5E5"> emergency</font><font color="#CCCCCC"> okay there's a dog barking</font>
+00:02:52,340 --> 00:02:53,100
+هل فرغت تماما من الهواء؟
 
 119
-00:04:45,910 --> 00:04:47,990
-<font color="#E5E5E5">what do you mean discard the situation</font>
+00:02:53,100 --> 00:02:54,580
+لقد قلت لك أنها فارغة تماما من الهواء !
 
 120
-00:04:47,990 --> 00:04:49,850
-there's a dog he's parking<font color="#E5E5E5"> with the big</font>
+00:02:55,260 --> 00:02:56,280
+إهدئ في نطقك لذلك !
 
 121
-00:04:49,850 --> 00:04:51,650
-he's barking<font color="#E5E5E5"> how what do you mean he's</font>
+00:02:56,280 --> 00:02:57,940
+إفعل هذا من أجلي، خذ نفسا عميقا ..
 
 122
-00:04:51,650 --> 00:04:54,680
-barking<font color="#E5E5E5"> what do you mean dogs bark I</font>
+00:02:57,960 --> 00:02:58,460
+أنا...
 
 123
-00:04:54,680 --> 00:04:56,150
-know dogs bark but<font color="#E5E5E5"> the dog is barking</font>
+00:02:58,460 --> 00:02:59,260
+لا لا ..
 
 124
-00:04:56,150 --> 00:04:58,430
-hard<font color="#E5E5E5"> there's a lot of picking out for me</font>
+00:02:59,260 --> 00:03:01,260
+نفس عميق، أريد رؤيتك تفعل ذلك !
 
 125
-00:04:58,430 --> 00:05:01,220
-and SS dogs<font color="#CCCCCC"> to</font><font color="#E5E5E5"> park you know he's</font>
+00:03:02,020 --> 00:03:02,760
+زفير!
 
 126
-00:05:01,220 --> 00:05:09,680
-barking hi<font color="#E5E5E5"> Animal Control thank god this</font>
+00:03:03,220 --> 00:03:04,840
+حسناً، أرسل لي موقعك الجغرافي
 
 127
-00:05:09,680 --> 00:05:15,680
-is<font color="#CCCCCC"> an emergency than the doc like first</font>
+00:03:04,840 --> 00:03:06,240
+وسآتي لإنقاذ مؤخرتك !
 
 128
-00:05:15,680 --> 00:05:17,030
-<font color="#CCCCCC">off by the way it was a guy I know it</font>
+00:03:06,240 --> 00:03:07,480
+وبقية جسمك أيضا!
 
 129
-00:05:17,030 --> 00:05:18,590
-was a guy they texted me my concierge is
+00:03:07,660 --> 00:03:10,420
+ذهب صديقي لسياقة سيارتي، تسطح إطارها الخلفي مسبقاً
 
 130
-00:05:18,590 --> 00:05:19,700
-like yo that<font color="#E5E5E5"> guy's an asshole</font>
+00:03:10,420 --> 00:03:11,600
+لقد قال لي: "هل أستطيع قيادتها على أي حال؟"
 
 131
-00:05:19,700 --> 00:05:22,460
-<font color="#CCCCCC">it</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> alright dogs bark so imma pull</font>
+00:03:11,600 --> 00:03:13,320
+قلتُ له : " لم لا؟ "
 
 132
-00:05:22,460 --> 00:05:24,260
-back<font color="#E5E5E5"> for the man who called the</font><font color="#CCCCCC"> police</font>
+00:03:13,320 --> 00:03:14,160
+والآن وقعَ في مشكلة!
 
 133
-00:05:24,260 --> 00:05:26,090
-and Animal Control on my dog this
+00:03:14,280 --> 00:03:16,020
+علينا أن نذهب لإنقاد (إيفان) يا رفاق !
 
 134
-00:05:26,090 --> 00:05:29,690
-morning<font color="#CCCCCC"> one dogs bark</font><font color="#E5E5E5"> yes the right</font>
+00:03:16,020 --> 00:03:17,980
+(إيفان)، أنا قادم !
 
 135
-00:05:29,690 --> 00:05:32,120
-<font color="#E5E5E5">until</font><font color="#CCCCCC"> steal don't</font><font color="#E5E5E5"> forget to subscribe</font>
+00:03:19,520 --> 00:03:21,420
+لا صديق لي يعلق في الطريق السريع !
 
 136
-00:05:32,120 --> 00:05:40,280
-<font color="#E5E5E5">this this never gets old</font><font color="#CCCCCC"> literally it's</font>
+00:03:21,420 --> 00:03:23,640
+وخصوصا القزم، صفارات الإنذار تُطلق!
 
 137
-00:05:40,280 --> 00:05:52,550
-like having<font color="#E5E5E5"> kids when I just got to dope</font>
+00:03:23,640 --> 00:03:24,700
+إنني أراه، أراه، أراه !
 
 138
-00:05:52,550 --> 00:06:00,410
-puppies Oh<font color="#E5E5E5"> Livia went outside she</font>
+00:03:24,800 --> 00:03:25,620
+(لوجان)!
 
 139
-00:06:00,410 --> 00:06:02,270
-grabbed this package<font color="#E5E5E5"> Lydia what is in</font>
+00:03:26,800 --> 00:03:27,840
+(لوجان)!
 
 140
-00:06:02,270 --> 00:06:03,530
-there wanted to show the<font color="#CCCCCC"> Logan wait</font>
+00:03:34,880 --> 00:03:35,600
+(لوجان)!
 
 141
-00:06:03,530 --> 00:06:05,690
-before you<font color="#E5E5E5"> do as you guys know aiming</font>
+00:03:35,600 --> 00:03:36,180
+(إيفان)!
 
 142
-00:06:05,690 --> 00:06:07,280
-for a<font color="#CCCCCC"> Sunday release for the out of my</font>
+00:03:36,240 --> 00:03:37,140
+أنت هنا!
 
 143
-00:06:07,280 --> 00:06:09,770
-hair<font color="#CCCCCC"> music video the</font><font color="#E5E5E5"> songs lit the music</font>
+00:03:37,140 --> 00:03:37,660
+أخي!
 
 144
-00:06:09,770 --> 00:06:13,360
-video is even later during the<font color="#E5E5E5"> beautiful</font>
+00:03:37,660 --> 00:03:38,760
+ماذا حدث؟
 
 145
-00:06:13,360 --> 00:06:16,360
-yeah
+00:03:38,760 --> 00:03:39,860
+لقد تفرقع الإطار!
 
 146
-00:06:17,510 --> 00:06:19,820
-<font color="#E5E5E5">don't you know litters like the</font>
+00:03:40,580 --> 00:03:41,220
+اللعنة !
 
 147
-00:06:19,820 --> 00:06:22,430
-offspring that<font color="#E5E5E5"> a puppy dog has this many</font>
+00:03:41,220 --> 00:03:42,760
+وإستمريت في قيادة السيارة !
 
 148
-00:06:22,430 --> 00:06:24,380
-<font color="#E5E5E5">four ways you can use litter I just use</font>
+00:03:42,760 --> 00:03:43,540
+لا، اللعنة !
 
 149
-00:06:24,380 --> 00:06:26,770
-<font color="#CCCCCC">it as like a litte litter</font><font color="#E5E5E5"> okay you</font>
+00:03:43,540 --> 00:03:44,560
+لقد كنت أموت!
 
 150
-00:06:26,770 --> 00:06:29,930
-<font color="#E5E5E5">forget you later</font><font color="#CCCCCC"> starring the beautiful</font>
+00:03:44,560 --> 00:03:45,580
+(إيفان)، توليت هذا !
 
 151
-00:06:29,930 --> 00:06:32,120
-<font color="#CCCCCC">bella thorne as you can imagine guys it</font>
+00:03:46,880 --> 00:03:47,460
+تباً !
 
 152
-00:06:32,120 --> 00:06:34,550
-is about getting<font color="#E5E5E5"> out</font><font color="#CCCCCC"> of my hair my boys</font>
+00:03:50,220 --> 00:03:51,020
+سيكرهونك الآن!
 
 153
-00:06:34,550 --> 00:06:38,810
-over<font color="#E5E5E5"> at maverick apparel which I guess</font>
+00:03:51,180 --> 00:03:52,280
+لا، لا أحد يكرهني!
 
 154
-00:06:38,810 --> 00:06:41,690
-is my company<font color="#E5E5E5"> we think we decided it's</font>
+00:03:52,280 --> 00:03:52,900
+من أنتِ؟
 
 155
-00:06:41,690 --> 00:06:42,650
-more than<font color="#E5E5E5"> me it's a big team of people</font>
+00:03:52,900 --> 00:03:54,500
+أحبك كثيرا!
 
 156
-00:06:42,650 --> 00:06:44,180
-<font color="#E5E5E5">we decided</font><font color="#CCCCCC"> to come out with an exclusive</font>
+00:03:54,500 --> 00:03:55,940
+لقد توقفتْ في الطريق السريع!
 
 157
-00:06:44,180 --> 00:06:45,980
-<font color="#E5E5E5">piece of merch it's not I'm showing you</font>
+00:03:55,940 --> 00:03:57,820
+هل توقفتِ في الطريق السريع لتقولي مرحبا؟
 
 158
-00:06:45,980 --> 00:06:47,030
-this it's not<font color="#CCCCCC"> gonna be</font><font color="#E5E5E5"> out yeah it's</font>
+00:03:58,020 --> 00:03:58,620
+نعم
 
 159
-00:06:47,030 --> 00:06:47,900
-gonna be out tomorrow
+00:03:58,620 --> 00:04:00,380
+هل لديك شاحنة جر المركبات؟
 
 160
-00:06:47,900 --> 00:06:51,400
-<font color="#CCCCCC">Lydia do you</font><font color="#E5E5E5"> want to uh do you want to</font>
+00:04:00,740 --> 00:04:02,080
+لا، من فضلِك !
 
 161
-00:06:56,290 --> 00:06:59,060
-back out<font color="#CCCCCC"> of</font><font color="#E5E5E5"> my hair with the maverick</font>
+00:04:02,080 --> 00:04:03,180
+أهذه لغة إنجليزية؟
 
 162
-00:06:59,060 --> 00:07:00,710
-logos<font color="#CCCCCC"> yeah those are</font><font color="#E5E5E5"> only be available</font>
+00:04:03,180 --> 00:04:05,060
+نحن بالتأكيد في مأزق هنا!
 
 163
-00:07:00,710 --> 00:07:02,990
-for 48<font color="#CCCCCC"> hours right</font><font color="#E5E5E5"> now the music video</font>
+00:04:05,060 --> 00:04:07,120
+يا إلهي، هناك الكثير من حركة المرور!
 
 164
-00:07:02,990 --> 00:07:04,610
-is in post-production<font color="#CCCCCC"> we're</font><font color="#E5E5E5"> setting it</font>
+00:04:07,120 --> 00:04:08,460
+نعم، لكننا نبدو رائعين !
 
 165
-00:07:04,610 --> 00:07:06,470
-to the VFX team the sound design team
+00:04:08,780 --> 00:04:10,540
+يمكننا أيضا القيام بتصوير أغنية  يا أخي!
 
 166
-00:07:06,470 --> 00:07:08,420
-there's so many like pieces and puzzles
+00:04:15,080 --> 00:04:17,460
+مرحباً، هل لديكِ شاحنة لجر المركبات؟ هل أنتِ عضوة في (لوجانج)؟
 
 167
-00:07:08,420 --> 00:07:09,590
-that<font color="#E5E5E5"> need to be done for</font><font color="#CCCCCC"> this</font><font color="#E5E5E5"> it's gonna</font>
+00:04:17,740 --> 00:04:18,339
+إشتركي!
 
 168
-00:07:09,590 --> 00:07:11,930
-be<font color="#E5E5E5"> freaking dope so I hope y'all all</font>
+00:04:18,339 --> 00:04:20,339
+(لوجان)، أنظر إلى حركة المرور هذه!
 
 169
-00:07:11,930 --> 00:07:14,510
-ready to go like<font color="#E5E5E5"> this for that video</font>
+00:04:20,339 --> 00:04:21,219
+هذا جنون !
 
 170
-00:07:14,510 --> 00:07:51,620
-<font color="#E5E5E5">doll you mess with</font><font color="#CCCCCC"> the boo you look guys</font>
+00:04:21,220 --> 00:04:23,540
+لقد بدأت أدرك سبب الازدحامات المرورية!
 
 171
-00:07:51,620 --> 00:07:53,630
-the moral<font color="#E5E5E5"> of the story is</font><font color="#CCCCCC"> you can</font><font color="#E5E5E5"> get</font>
+00:04:23,540 --> 00:04:25,960
+لأن هناك حمقى مثلنا يقفون في الطريق السريع
 
 172
-00:07:53,630 --> 00:07:55,130
-the<font color="#E5E5E5"> march on</font><font color="#CCCCCC"> local bold like I'm slash</font>
+00:04:25,960 --> 00:04:27,420
+ويسوقون بإطارات مسطحة
 
 173
-00:07:55,130 --> 00:07:58,720
-shop<font color="#E5E5E5"> or link in description you good</font>
+00:04:27,420 --> 00:04:30,480
+ولسبب ما، الجميع يحس وكأنهم عليهم أن يخففوا من سرعتهم !
 
 174
-00:07:59,200 --> 00:08:00,380
-<font color="#E5E5E5">okay</font>
+00:04:30,680 --> 00:04:31,640
+ما هذا بحق السماء؟
 
 175
-00:08:00,380 --> 00:08:01,880
-we're joining<font color="#E5E5E5"> the cool bus right now yo</font>
+00:04:31,640 --> 00:04:32,980
+أنظر إلى هذا الإطار !
 
 176
-00:08:01,880 --> 00:08:03,500
-<font color="#E5E5E5">its vibe you look at the ceiling we got</font>
+00:04:33,460 --> 00:04:34,040
+تبا!
 
 177
-00:08:03,500 --> 00:08:06,320
-trees we got<font color="#CCCCCC"> freakin wood</font><font color="#E5E5E5"> counters got</font>
+00:04:34,260 --> 00:04:35,460
+لن تقود هذا!
 
 178
-00:08:06,320 --> 00:08:07,850
-<font color="#CCCCCC">Kong to savage here look at the camera</font>
+00:04:35,860 --> 00:04:37,180
+لن تقود هذا!
 
 179
-00:08:07,850 --> 00:08:09,980
-so I<font color="#E5E5E5"> give use</font><font color="#CCCCCC"> thank you yep life is good</font>
+00:04:37,180 --> 00:04:39,360
+لم أر هذا، لم أتفقد ذلك بعد !
 
 180
-00:08:09,980 --> 00:08:11,450
-bro and<font color="#CCCCCC"> also I want to show you</font><font color="#E5E5E5"> guys</font>
+00:04:39,360 --> 00:04:40,740
+هذا الإطار محطَم !
 
 181
-00:08:11,450 --> 00:08:12,470
-this you've already<font color="#E5E5E5"> seen it</font><font color="#CCCCCC"> but just</font>
+00:04:40,900 --> 00:04:43,280
+هذا ليست حتى عجلة مسطحة، هذا إطار فقط!
 
 182
-00:08:12,470 --> 00:08:14,470
-<font color="#E5E5E5">don't forget look at the windows that</font>
+00:04:43,480 --> 00:04:45,040
+لقد كنت أسوق بهذا!
 
 183
-00:08:14,470 --> 00:08:18,010
-<font color="#CCCCCC">tend at the click of a button yo it it</font>
+00:04:45,240 --> 00:04:47,280
+لم أدرك أن الأمر كان بهذا السوء، وأنت أيضا لم تعرف ذلك ...
 
 184
-00:08:18,010 --> 00:08:21,670
-<font color="#E5E5E5">couldn't get any more literally yeah you</font>
+00:04:47,280 --> 00:04:49,060
+لم يكن بهذا السوء، لكن مع ذلك ...
 
 185
-00:08:21,670 --> 00:08:24,520
-you<font color="#CCCCCC"> so my joke</font><font color="#E5E5E5"> yeah anyways guys we're</font>
+00:04:49,060 --> 00:04:50,720
+ظننت أنه بإمكانك الذهاب إلى محطة وملئه بالهواء!
 
 186
-00:08:24,520 --> 00:08:26,410
-sitting here<font color="#CCCCCC"> and we saw this video of</font>
+00:04:50,720 --> 00:04:56,420
+لأنك لم تسق 22 ميلا بعجلة مسطحة، وتسوق بسرعة 50 ميلا في الساعة!
 
 187
-00:08:26,410 --> 00:08:29,440
-<font color="#CCCCCC">this lady who hates pomegranates oh ok</font>
+00:04:56,620 --> 00:04:58,480
+كان هذا 22 ميلا؟ تباً لهذا !
 
 188
-00:08:29,440 --> 00:08:30,670
-<font color="#E5E5E5">yeah you may</font><font color="#CCCCCC"> have</font><font color="#E5E5E5"> seen this</font><font color="#CCCCCC"> video it's</font>
+00:04:58,480 --> 00:04:59,600
+كيف بإمكاني مساعدتك؟
 
 189
-00:08:30,670 --> 00:08:32,260
-going<font color="#E5E5E5"> viral</font><font color="#CCCCCC"> I don't really understand</font>
+00:04:59,600 --> 00:05:01,760
+لا أعرف ما سأفعله حيال هذا، ليس لدي أي خطة !
 
 190
-00:08:32,260 --> 00:08:41,219
-what's happening here<font color="#CCCCCC"> check this out</font><font color="#E5E5E5"> oh</font>
+00:05:01,760 --> 00:05:03,620
+نحتاج إلى شاحنة جر المركبات !
 
 191
-00:08:42,510 --> 00:08:44,620
-<font color="#CCCCCC">ok is she good bro</font>
+00:05:03,620 --> 00:05:05,320
+ليس لدي أي شاحنة لجر المركبات! هل لديك شاحنة جر المركبات؟
 
 192
-00:08:44,620 --> 00:08:46,300
-what makes she's good bro<font color="#CCCCCC"> yo this is</font>
+00:05:05,320 --> 00:05:06,560
+ليس لدي شاحنة جر المركبات !
 
 193
-00:08:46,300 --> 00:08:49,150
-crazy she is<font color="#E5E5E5"> so passionate bro I envy</font>
+00:05:06,860 --> 00:05:08,060
+هل لديك (تريبل أي)؟
 
 194
-00:08:49,150 --> 00:08:53,890
-<font color="#E5E5E5">this woman</font><font color="#CCCCCC"> ok yo if you got a</font>
+00:05:08,480 --> 00:05:09,800
+البطارية؟
 
 195
-00:08:53,890 --> 00:08:57,190
-pomegranate<font color="#E5E5E5"> please don't go near her so</font>
+00:05:09,800 --> 00:05:10,440
+بطاريات؟
 
 196
-00:08:57,190 --> 00:08:58,960
-Brendan and I are<font color="#E5E5E5"> watching this video</font>
+00:05:10,440 --> 00:05:11,340
+نعم بطاريات (تريبل أي)!
 
 197
-00:08:58,960 --> 00:09:00,790
-<font color="#CCCCCC">using her face only</font><font color="#E5E5E5"> what was your</font>
+00:05:11,720 --> 00:05:12,660
+أعرف، بطاريات !
 
 198
-00:09:00,790 --> 00:09:04,270
-<font color="#E5E5E5">initial reaction exactly me too</font>
+00:05:12,660 --> 00:05:13,720
+هل تحتاج الإطارات إلى بطاريات؟
 
 199
-00:09:04,270 --> 00:09:07,060
-so I am intrigued by<font color="#CCCCCC"> this</font><font color="#E5E5E5"> lady right so</font>
+00:05:13,720 --> 00:05:14,560
+كيف سيساعد ذلك يا (براندن)؟
 
 200
-00:09:07,060 --> 00:09:09,490
-you guys know me<font color="#E5E5E5"> I already sent her an</font>
+00:05:14,560 --> 00:05:15,680
+هذا هو السبب في أنك مجرد مصور فيديو!
 
 201
-00:09:09,490 --> 00:09:11,590
-email<font color="#CCCCCC"> I found her I found out which</font>
+00:05:15,680 --> 00:05:16,280
+(تريبل أي)!
 
 202
-00:09:11,590 --> 00:09:13,330
-college she's the professor at<font color="#E5E5E5"> hopefully</font>
+00:05:17,460 --> 00:05:19,540
+(تريبل أي) هي خدمة مساعدة في الطرق !
 
 203
-00:09:13,330 --> 00:09:14,860
-she responds gonna I want to go<font color="#E5E5E5"> visit</font>
+00:05:19,540 --> 00:05:20,520
+لنسأل هؤلاء الناس !
 
 204
-00:09:14,860 --> 00:09:16,300
-<font color="#E5E5E5">her and just sit her down and</font><font color="#CCCCCC"> just be</font>
+00:05:20,520 --> 00:05:23,440
+هل لديك شاحنة جر المركبات؟
 
 205
-00:09:16,300 --> 00:09:20,410
-like yo what's up with<font color="#E5E5E5"> you and I got a</font>
+00:05:23,440 --> 00:05:24,340
+ماذا تفعل؟
 
 206
-00:09:20,410 --> 00:09:23,140
-no I<font color="#CCCCCC"> gotta</font><font color="#E5E5E5"> find out also</font><font color="#CCCCCC"> it became news</font>
+00:05:24,340 --> 00:05:26,040
+هل لديك شاحنة جر المركبات؟
 
 207
-00:09:23,140 --> 00:09:25,210
-<font color="#E5E5E5">to me today then</font><font color="#CCCCCC"> a school</font><font color="#E5E5E5"> bus</font>
+00:05:26,040 --> 00:05:28,160
+هل لدى ... لا يستطيعون سماعي !
 
 208
-00:09:25,210 --> 00:09:27,130
-became<font color="#E5E5E5"> a dumping ground ok what are you</font>
+00:05:28,160 --> 00:05:29,720
+هل لدى أحدكم شاحنة جر المركبات؟
 
 209
-00:09:27,130 --> 00:09:28,630
-talking about you cool<font color="#E5E5E5"> bus is clean yeah</font>
+00:05:29,720 --> 00:05:30,640
+هل لديك شاحنة جر المركبات؟
 
 210
-00:09:28,630 --> 00:09:30,370
-it is clean<font color="#E5E5E5"> but</font><font color="#CCCCCC"> look outside I love gang</font>
+00:05:30,740 --> 00:05:31,700
+هل تملك شاحنة جر المركبات؟
 
 211
-00:09:30,370 --> 00:09:32,410
-just viewers beware<font color="#E5E5E5"> graphic content</font>
+00:05:31,700 --> 00:05:32,800
+هل أنت مشترك بالقناة؟
 
 212
-00:09:32,410 --> 00:09:34,030
-incoming<font color="#CCCCCC"> if</font><font color="#E5E5E5"> you look to my left you'll</font>
+00:05:32,800 --> 00:05:35,040
+على حصلت على منتجاتي؟ هل تملك منتجاتي؟
 
 213
-00:09:34,030 --> 00:09:35,860
-see a poop<font color="#CCCCCC"> Brendan oh don't zoom</font><font color="#E5E5E5"> in on</font>
+00:05:35,040 --> 00:05:35,940
+هل أحد ...
 
 214
-00:09:35,860 --> 00:09:36,910
-<font color="#E5E5E5">it too far ready</font>
+00:05:36,240 --> 00:05:38,820
+مرحبا يا سيدي، هل تحتاج إلى مساعدة؟
 
 215
-00:09:36,910 --> 00:09:39,100
-yeah<font color="#CCCCCC"> bumpy so we</font><font color="#E5E5E5"> noticed that three days</font>
+00:05:38,820 --> 00:05:40,140
+ما الذي تفعله بحق السماء يا رجل؟
 
 216
-00:09:39,100 --> 00:09:40,810
-<font color="#E5E5E5">ago definitely human poop came back</font>
+00:05:40,140 --> 00:05:41,200
+هل يمكنني مساعدتك بأي شيئ؟
 
 217
-00:09:40,810 --> 00:09:44,710
-today<font color="#CCCCCC"> found</font><font color="#E5E5E5"> that right there brother Bob</font>
+00:05:41,200 --> 00:05:43,060
+نحتاج إلى إشارة بنداء إستغاثة!
 
 218
-00:09:44,710 --> 00:09:46,660
-<font color="#E5E5E5">and as if it couldn't get worse bro look</font>
+00:05:47,840 --> 00:05:48,460
+أتمنى أن ينجح هذا!
 
 219
-00:09:46,660 --> 00:09:52,930
-behind me next to the tire I got
+00:05:48,460 --> 00:05:49,140
+ما الخطب !
 
 220
-00:09:52,930 --> 00:09:55,600
-homeless<font color="#E5E5E5"> mom coming and pooping next to</font>
+00:05:49,140 --> 00:05:50,440
+سيتم القبض علينا!
 
 221
-00:09:55,600 --> 00:09:57,040
-my<font color="#E5E5E5"> bus how do you know they're homeless</font>
+00:05:51,060 --> 00:05:51,800
+لماذا؟
 
 222
-00:09:57,040 --> 00:09:57,790
-<font color="#CCCCCC">yeah</font>
+00:05:51,800 --> 00:05:53,800
+بسبب عجلات مسطحة؟
 
 223
-00:09:57,790 --> 00:09:59,050
-how do you know it's just not some guy
+00:05:53,800 --> 00:05:55,800
+لأننا نتسبب في إزدحام مروري!
 
 224
-00:09:59,050 --> 00:10:01,060
-oh you you're still<font color="#E5E5E5"> with</font><font color="#CCCCCC"> that job a wife</font>
+00:05:55,800 --> 00:05:57,640
+شاحنة جر مركبات!!
 
 225
-00:10:01,060 --> 00:10:03,190
-a family<font color="#E5E5E5"> maybe just likes pooping next</font>
+00:05:58,360 --> 00:05:59,800
+شاحنة جر مركبات!!
 
 226
-00:10:03,190 --> 00:10:04,810
-to cool<font color="#E5E5E5"> buses</font><font color="#CCCCCC"> it's a cool bus a no</font>
+00:06:00,540 --> 00:06:02,820
+شاحنة جر مركبات!!
 
 227
-00:10:04,810 --> 00:10:07,089
-blaming<font color="#CCCCCC"> I am at this</font><font color="#E5E5E5"> point fearful for</font>
+00:06:02,820 --> 00:06:03,740
+أو من الأفضل ...
 
 228
-00:10:07,089 --> 00:10:08,020
-<font color="#E5E5E5">my own safety</font>
+00:06:03,740 --> 00:06:04,660
+لا شاحنة !
 
 229
-00:10:08,020 --> 00:10:09,460
-<font color="#CCCCCC">right and we gotta</font><font color="#E5E5E5"> go buy knives I'm</font>
+00:06:11,200 --> 00:06:12,740
+سيكون ذلك أفضل إذا ساعدتني !
 
 230
-00:10:09,460 --> 00:10:12,790
-just some no seriously though cuz if I
+00:06:12,740 --> 00:06:14,620
+إرفع برجليك وليس بظهرك!
 
 231
-00:10:12,790 --> 00:10:14,830
-need a stab a bitch<font color="#CCCCCC"> I will no one poops</font>
+00:06:14,800 --> 00:06:15,500
+واحد
 
 232
-00:10:14,830 --> 00:10:17,560
-<font color="#E5E5E5">outside my bus except I'll okay this is</font>
+00:06:15,560 --> 00:06:16,060
+إثنان
 
 233
-00:10:17,560 --> 00:10:19,870
-strictly for safety measures<font color="#CCCCCC"> only</font><font color="#E5E5E5"> I</font>
+00:06:16,060 --> 00:06:16,560
+ثلاثة
 
 234
-00:10:19,870 --> 00:10:21,160
-gotta say that we<font color="#E5E5E5"> came to the right</font><font color="#CCCCCC"> spot</font>
+00:06:19,100 --> 00:06:20,420
+أنت ترفع بظهرك!
 
 235
-00:10:21,160 --> 00:10:21,850
-bro
+00:06:20,420 --> 00:06:22,120
+لا يرفع بأي شيئ غير ظهره!
 
 236
-00:10:21,850 --> 00:10:24,100
-<font color="#E5E5E5">well screw a knife dude they got</font><font color="#CCCCCC"> giant</font>
+00:06:22,120 --> 00:06:24,820
+ليس لدي أي ظهر، فقط مجرد فطيرة محلاة !
 
 237
-00:10:24,100 --> 00:10:25,600
-drill bits<font color="#CCCCCC"> this</font><font color="#E5E5E5"> has got to</font><font color="#CCCCCC"> be more</font>
+00:06:27,420 --> 00:06:28,560
+(لوجانج) مدى الحياة!
 
 238
-00:10:25,600 --> 00:10:27,990
-effective if you<font color="#E5E5E5"> just have a giant grill</font>
+00:06:28,560 --> 00:06:29,480
+هل لديك شاحنة جر المركبات؟
 
 239
-00:10:27,990 --> 00:10:30,900
-and my grill I mean drill English<font color="#E5E5E5"> Oh</font>
+00:06:29,740 --> 00:06:31,440
+(لوجانج) تقوم بالواجب !
 
 240
-00:10:30,900 --> 00:10:32,850
-<font color="#CCCCCC">what is</font><font color="#E5E5E5"> that it's a sander we could</font>
+00:06:31,440 --> 00:06:32,180
+هل أنت من فعل هذا؟
 
 241
-00:10:32,850 --> 00:10:34,890
-polish<font color="#E5E5E5"> the pooper clean him up a little</font>
+00:06:32,180 --> 00:06:33,200
+نعم، لقد فعلها القزم !
 
 242
-00:10:34,890 --> 00:10:37,260
-<font color="#E5E5E5">bit clean up his butthole</font><font color="#CCCCCC"> art by the</font>
+00:06:33,200 --> 00:06:33,700
+ماذا؟
 
 243
-00:10:37,260 --> 00:10:39,150
-light of<font color="#CCCCCC"> the moon we found the knife</font>
+00:06:33,700 --> 00:06:34,320
+لا شيئ!
 
 244
-00:10:39,150 --> 00:10:40,710
-section now let's be honest we already
+00:06:34,320 --> 00:06:35,080
+ها نحن ذا، تحركات جيدة !
 
 245
-00:10:40,710 --> 00:10:42,300
-got the<font color="#E5E5E5"> thing that we'll use against the</font>
+00:06:35,080 --> 00:06:35,580
+أتحتاج إلى مساعدة؟
 
 246
-00:10:42,300 --> 00:10:43,830
-pooper but this is<font color="#E5E5E5"> just for fun</font><font color="#CCCCCC"> there's</font>
+00:06:35,580 --> 00:06:36,240
+نعم
 
 247
-00:10:43,830 --> 00:10:45,390
-so many options<font color="#CCCCCC"> you</font><font color="#E5E5E5"> could do like</font><font color="#CCCCCC"> the</font>
+00:06:36,240 --> 00:06:36,740
+ماذا تحتاج؟
 
 248
-00:10:45,390 --> 00:10:48,780
-<font color="#CCCCCC">classic like box cutter I</font><font color="#E5E5E5"> could do the</font>
+00:06:36,740 --> 00:06:37,660
+هل لديك شاحنة جر المركبات؟
 
 249
-00:10:48,780 --> 00:10:54,110
-fillet light<font color="#E5E5E5"> English fillet knife</font>
+00:06:38,400 --> 00:06:39,560
+هذا هو صديقي !
 
 250
-00:10:58,820 --> 00:11:01,320
-anybody trying<font color="#E5E5E5"> to Putin in my boss</font>
+00:06:41,160 --> 00:06:42,020
+شكراً لك !
 
 251
-00:11:01,320 --> 00:11:03,690
-<font color="#CCCCCC">you'll go get machete followed by a</font>
+00:06:44,720 --> 00:06:45,220
+ماذا كان هذا؟
 
 252
-00:11:03,690 --> 00:11:05,880
-drill<font color="#E5E5E5"> but you two are yo if you're in</font>
+00:06:45,240 --> 00:06:46,480
+لا أعرف، لقد ..
 
 253
-00:11:05,880 --> 00:11:07,080
-the<font color="#CCCCCC"> low gang right</font><font color="#E5E5E5"> now and you look down</font>
+00:06:46,480 --> 00:06:47,140
+كان ذلك رائعا !
 
 254
-00:11:07,080 --> 00:11:09,120
-<font color="#CCCCCC">you say damn that's my poop</font><font color="#E5E5E5"> that poop</font>
+00:06:47,140 --> 00:06:47,720
+إنه رائع!
 
 255
-00:11:09,120 --> 00:11:10,560
-<font color="#CCCCCC">looked familiar</font><font color="#E5E5E5"> that poop looked</font>
+00:06:47,720 --> 00:06:49,260
+أعتقد أنه كان يحاول أن يقبل حلمتك!
 
 256
-00:11:10,560 --> 00:11:11,010
-familiar
+00:06:50,080 --> 00:06:50,580
+ماذا؟
 
 257
-00:11:11,010 --> 00:11:13,590
-I got one thing to<font color="#E5E5E5"> say</font><font color="#CCCCCC"> no yeah all</font>
+00:06:50,580 --> 00:06:51,260
+شرطي!
 
 258
-00:11:13,590 --> 00:11:16,320
-stabbing jokes aside<font color="#E5E5E5"> I'm not gonna do</font>
+00:06:51,260 --> 00:06:52,280
+وكيف هذاهو خطأنا؟
 
 259
-00:11:16,320 --> 00:11:18,690
-that<font color="#CCCCCC"> I might</font><font color="#E5E5E5"> do it if they poop</font><font color="#CCCCCC"> nearby</font>
+00:06:55,360 --> 00:06:57,720
+لم يعجبه أين ركنت سيارتي!
 
 260
-00:11:18,690 --> 00:11:22,590
-<font color="#E5E5E5">buzzing okay guys a lot</font><font color="#CCCCCC"> of</font><font color="#E5E5E5"> dog problems</font>
+00:06:59,160 --> 00:07:00,200
+هذا ما قاله لتوه؟
 
 261
-00:11:22,590 --> 00:11:25,380
-today<font color="#CCCCCC"> I got an email from</font><font color="#E5E5E5"> the HOA they</font>
+00:07:00,200 --> 00:07:02,600
+لقد قال لي: " يا أخي، أعتقد أنك شخص رائع..."
 
 262
-00:11:25,380 --> 00:11:26,670
-are the people<font color="#CCCCCC"> who</font><font color="#E5E5E5"> like make the rules</font>
+00:07:03,360 --> 00:07:07,640
+" أعرف من تكون، وأطفالي يعرفونك، لقد إشتريت منتجاتك ليلة أمس، لكن لا يمكنك ركن السيارة هنا! "
 
 263
-00:11:26,670 --> 00:11:28,500
-<font color="#E5E5E5">here and you guys saw they sent me this</font>
+00:07:07,640 --> 00:07:08,740
+يا له من رجل لطيف !
 
 264
-00:11:28,500 --> 00:11:30,060
-<font color="#E5E5E5">email before they said you can't have</font>
+00:07:08,740 --> 00:07:10,700
+(إيفان)، لهذا لديك إطارات مسطحة !
 
 265
-00:11:30,060 --> 00:11:31,710
-two dogs<font color="#E5E5E5"> in the apartment we're a little</font>
+00:07:11,000 --> 00:07:13,540
+لا يمكنك وضع (كابوتشينو) فوق العجلة يا أخي!
 
 266
-00:11:31,710 --> 00:11:35,280
-<font color="#E5E5E5">more</font><font color="#CCCCCC"> slightly</font><font color="#E5E5E5"> more than we were before</font>
+00:07:13,540 --> 00:07:14,880
+ما الذي تفعله!
 
 267
-00:11:35,280 --> 00:11:37,650
-<font color="#E5E5E5">as you know I'm</font><font color="#CCCCCC"> not the</font><font color="#E5E5E5"> only one here</font>
+00:07:14,880 --> 00:07:16,360
+بالتأكيد أنه لم يكن هنا عندما كنت أسوق !
 
 268
-00:11:37,650 --> 00:11:41,490
-with<font color="#CCCCCC"> the door</font><font color="#E5E5E5"> and yes dogs bark Evan I</font>
+00:07:16,360 --> 00:07:18,000
+حسنا، لم يتم القبض علينا، لا زلنا على قيد الحياة !
 
 269
-00:11:41,490 --> 00:11:43,290
-<font color="#E5E5E5">don't want to interrupt your game but if</font>
+00:07:18,000 --> 00:07:20,300
+سوف أحرك الـ(ييتي)، ثم أتمنى أن يتم جر سيارتنا !
 
 270
-00:11:43,290 --> 00:11:45,270
-something very important to tell you<font color="#E5E5E5"> get</font>
+00:07:21,080 --> 00:07:23,580
+أخي، لا يمكنك وضع (كابوتشينو) فوق الإطار !
 
 271
-00:11:45,270 --> 00:11:50,070
-<font color="#E5E5E5">nice and cozy elect they're so friendly</font>
+00:07:23,980 --> 00:07:24,980
+ولهذا نفدنا!
 
 272
-00:11:50,070 --> 00:11:53,850
-together I know<font color="#E5E5E5"> roads crazy he loves you</font>
+00:07:24,980 --> 00:07:27,700
+أقسم لكَ أنه إذا أخبرت الشرطي أن هذا ما حدث، سأكون غاضبا جدا!
 
 273
-00:11:53,850 --> 00:11:55,470
-<font color="#CCCCCC">yeah that's what we're getting</font>
+00:07:27,760 --> 00:07:29,340
+أولا، شكرا على مشاهدتكم لفلوغاتي!
 
 274
-00:11:55,470 --> 00:11:57,750
-distracted<font color="#E5E5E5"> by the cuteness</font>
+00:07:29,760 --> 00:07:33,880
+ثانيا، أريد أن أقول حقيقة أنني جئت لكي أنقذك من ...
 
 275
-00:11:57,750 --> 00:12:00,089
-dear Logan<font color="#E5E5E5"> are</font><font color="#CCCCCC"> you listening</font><font color="#E5E5E5"> yeah are</font>
+00:07:33,880 --> 00:07:34,880
+إنتظر، إنتظر!
 
 276
-00:12:00,089 --> 00:12:01,589
-<font color="#E5E5E5">you listening you're not listening to me</font>
+00:07:34,880 --> 00:07:36,160
+أنا من يتم إنقاذه !
 
 277
-00:12:01,589 --> 00:12:03,269
-<font color="#E5E5E5">I am this only to put the controller</font>
+00:07:36,160 --> 00:07:38,100
+أنا من يقوم بالإنقاذ يا أخي!
 
 278
-00:12:03,269 --> 00:12:08,250
-<font color="#CCCCCC">that way oh</font><font color="#E5E5E5"> damn it nice to me is that</font>
+00:07:38,100 --> 00:07:39,140
+لقد أنقذت (إيفان)!
 
 279
-00:12:08,250 --> 00:12:09,990
-the HOA has alleged that<font color="#CCCCCC"> you</font><font color="#E5E5E5"> have</font>
+00:07:39,140 --> 00:07:41,200
+أنظر إلى هذا العمل الرائع الذي أقوم به
 
 280
-00:12:09,990 --> 00:12:18,120
-<font color="#CCCCCC">violated</font><font color="#E5E5E5"> okay you're Logan</font><font color="#CCCCCC"> please be</font>
+00:07:41,200 --> 00:07:42,780
+هذه السيارة ما زالت بإطار مسطح يا أخي !
 
 281
-00:12:18,120 --> 00:12:19,529
-advised that the HOA has alleged<font color="#E5E5E5"> that</font>
+00:07:42,780 --> 00:07:45,480
+بالتأكيد يا (جايك)، لأنه يضع (كابوتشينو) فوقه يا أخي!
 
 282
-00:12:19,529 --> 00:12:21,120
-<font color="#E5E5E5">you have violated CC NRS article do</font>
+00:07:45,480 --> 00:07:47,140
+كم من الناس لديك؟
 
 283
-00:12:21,120 --> 00:12:23,610
-section<font color="#CCCCCC"> 2.8 and rules section</font><font color="#E5E5E5"> 1.3.1 for</font>
+00:07:48,900 --> 00:07:50,580
+من هذه الفتاة؟ إنها مثيرة !
 
 284
-00:12:23,610 --> 00:12:24,899
-allowing more<font color="#E5E5E5"> than</font><font color="#CCCCCC"> one dog to reside</font>
+00:07:51,600 --> 00:07:53,120
+إنها صديقة (جاستن) الحميمية !
 
 285
-00:12:24,899 --> 00:12:28,740
-within the unit consequently<font color="#E5E5E5"> a hearing</font>
+00:07:55,300 --> 00:07:57,180
+هل تريد أن تعرف ما هو الأمر الفضيع؟
 
 286
-00:12:28,740 --> 00:12:33,990
-has been set as indicated below date
+00:07:57,180 --> 00:07:59,120
+أنت تتحدث عن كيف نحن لسنا قريبون من بعضنا البعض!
 
 287
-00:12:33,990 --> 00:12:37,410
-Friday October 30 it's Friday the<font color="#E5E5E5"> 13th</font>
+00:07:59,120 --> 00:08:00,440
+ليلة أمس
 
 288
-00:12:37,410 --> 00:12:40,620
-<font color="#E5E5E5">Evelyn hearing is today</font><font color="#CCCCCC"> so grow like</font>
+00:08:00,440 --> 00:08:03,260
+المشكل هو أنني لست قريب من (جايك) بما يكفي لكي أعرف هذا!
 
 289
-00:12:40,620 --> 00:12:42,629
-<font color="#E5E5E5">it's hot look looked</font><font color="#CCCCCC"> at 6:00 p.m.</font><font color="#E5E5E5"> bro</font>
+00:08:03,260 --> 00:08:06,340
+لست قريب من (جايك)!
 
 290
-00:12:42,629 --> 00:12:45,540
-<font color="#CCCCCC">what time</font><font color="#E5E5E5"> is it 551 bro hearings</font>
+00:08:06,340 --> 00:08:07,280
+ماذا تقصد؟
 
 291
-00:12:45,540 --> 00:13:03,149
-happening in<font color="#CCCCCC"> nine</font><font color="#E5E5E5"> minute you Evan I got</font>
+00:08:07,580 --> 00:08:09,280
+حاولت منع ذلك، لكنه كان ...
 
 292
-00:13:03,149 --> 00:13:04,740
-you<font color="#E5E5E5"> yo</font><font color="#CCCCCC"> ninety percent we're gonna give</font>
+00:08:09,280 --> 00:08:10,780
+يا رفاق، (لوجانج)، لقد خرجت ليلة أمس
 
 293
-00:13:04,740 --> 00:13:06,000
-<font color="#E5E5E5">Ari away</font><font color="#CCCCCC"> hi baby</font>
+00:08:11,120 --> 00:08:14,780
+وسألني المصور الملاحق سؤالا وكنت أعرف الجواب
 
 294
-00:13:06,000 --> 00:13:08,819
-Oh<font color="#E5E5E5"> sucks</font><font color="#CCCCCC"> man yeah we're all disappointed</font>
+00:08:14,780 --> 00:08:16,780
+لكنني أردت أن أتجنب ذلك السؤال!
 
 295
-00:13:08,819 --> 00:13:10,350
-the other<font color="#E5E5E5"> cons disappointed it's gonna</font>
+00:08:16,780 --> 00:08:19,780
+لهذا قلت له " نعم، أنا و (جايك) لسنا قريبون من بعضنا البعض!"
 
 296
-00:13:10,350 --> 00:13:11,879
-be okay buddy<font color="#CCCCCC"> say</font><font color="#E5E5E5"> goodbye to your</font>
+00:08:21,460 --> 00:08:23,120
+أنا آسف يا أخي !
 
 297
-00:13:11,879 --> 00:13:15,240
-potential sister okay let's go see who
+00:08:23,120 --> 00:08:25,760
+أنا قريب منك، أنت أخي وأنا أحبك !
 
 298
-00:13:15,240 --> 00:13:17,189
-wants<font color="#E5E5E5"> you puppy it's kind of sad but</font>
+00:08:25,760 --> 00:08:27,120
+هل علينا تقبيل بعضنا البعض؟
 
 299
-00:13:17,189 --> 00:13:19,019
-it's either me or the dog and obviously
+00:08:27,920 --> 00:08:28,440
+لا
 
 300
-00:13:19,019 --> 00:13:19,980
-<font color="#E5E5E5">I'm</font><font color="#CCCCCC"> gonna choose me</font>
+00:08:28,440 --> 00:08:30,740
+القاعدة رقم واحد، لا نتحدث أبدا للمصور الملاحق!
 
 301
-00:13:19,980 --> 00:13:26,120
-you guys want a dog<font color="#E5E5E5"> I don't want the dog</font>
+00:08:30,740 --> 00:08:33,480
+هذا هو المشكل يا أخي، (جايك) تعرف أنني أصور فيديوهات منذ كان عمري عشر سنوات
 
 302
-00:13:26,120 --> 00:13:30,920
-please just take<font color="#E5E5E5"> the dog okay</font><font color="#CCCCCC"> dog you</font>
+00:08:33,480 --> 00:08:37,220
+أحب أن أظهر في الكاميرات، لهذا عندما تحدث معي أعجبني ذلك!
 
 303
-00:13:30,920 --> 00:13:34,540
-guys want this dog do you<font color="#E5E5E5"> want this dog</font>
+00:08:37,220 --> 00:08:38,480
+لكنني كنت سكراناًَ!
 
 304
-00:13:34,540 --> 00:13:38,899
-<font color="#CCCCCC">you don't want this dog somebody take</font>
+00:08:38,480 --> 00:08:39,700
+جديا يا (جايك)!
 
 305
-00:13:38,899 --> 00:13:43,009
-this dog<font color="#CCCCCC"> do you</font><font color="#E5E5E5"> want this dog ma'am</font><font color="#CCCCCC"> okay</font>
+00:08:40,299 --> 00:08:41,879
+الجزء الأكثر جنونا في هذا هو ...
 
 306
-00:13:43,009 --> 00:13:46,300
-take my dog<font color="#CCCCCC"> all right</font><font color="#E5E5E5"> you like this dog</font>
+00:08:42,120 --> 00:08:44,120
+كيف حصل (جاستن) على فتاة مثيرة؟
 
 307
-00:13:46,300 --> 00:13:48,050
-<font color="#E5E5E5">do you feel like you have a connection</font>
+00:08:44,120 --> 00:08:45,180
+نعم، أنا محتار !
 
 308
-00:13:48,050 --> 00:13:52,129
-<font color="#CCCCCC">with them</font><font color="#E5E5E5"> nope no connection you want a</font>
+00:08:45,180 --> 00:08:45,680
+إنها مثيرة!
 
 309
-00:13:52,129 --> 00:13:57,529
-dog what's just scary about<font color="#E5E5E5"> this dog you</font>
+00:08:45,680 --> 00:08:46,940
+وهو لديه (فيراري)!
 
 310
-00:13:57,529 --> 00:14:06,769
-know what the dog yeah we're gonna keep
+00:08:46,940 --> 00:08:48,440
+هل يجرون محادثات؟
 
 311
-00:14:06,769 --> 00:14:10,370
-<font color="#E5E5E5">trying looking everything you want this</font>
+00:08:48,440 --> 00:08:51,120
+نعم، ويمارسون الـ*** على أعتقد!
 
 312
-00:14:10,370 --> 00:14:13,610
-dog<font color="#E5E5E5"> is what she likes she likes her food</font>
+00:08:51,120 --> 00:08:53,020
+بالرغم من كل ما حدث اليوم ...
 
 313
-00:14:13,610 --> 00:14:14,360
-<font color="#E5E5E5">wet</font>
+00:08:53,020 --> 00:08:55,280
+هذا جنون، أنا لا أصدق أن ذلك الفتى
 
 314
-00:14:14,360 --> 00:14:19,339
-she loves<font color="#CCCCCC"> dwarves you can have</font><font color="#E5E5E5"> that dog</font>
+00:08:55,280 --> 00:08:56,820
+يواعد تلك الفتاة!
 
 315
-00:14:19,339 --> 00:14:23,019
-<font color="#CCCCCC">it's</font><font color="#E5E5E5"> either me or the dog</font>
+00:08:56,820 --> 00:08:58,500
+هذا جنون يا أخي، هنيئا له !
 
 316
-00:14:27,810 --> 00:14:30,090
-<font color="#CCCCCC">teller it's a joke yeah she's made some</font>
+00:08:58,500 --> 00:08:59,860
+أخي، أهم شيئ هو الشخصية !
 
 317
-00:14:30,090 --> 00:14:31,920
-<font color="#E5E5E5">district yeah she got kind of far away I</font>
+00:08:59,860 --> 00:09:00,720
+هل بسبب الـ (فيراري)؟
 
 318
-00:14:31,920 --> 00:14:37,950
-<font color="#E5E5E5">feel it was</font><font color="#CCCCCC"> a joke</font><font color="#E5E5E5"> for my blog</font>
+00:09:01,200 --> 00:09:02,060
+ماذا؟
 
 319
-00:14:37,950 --> 00:14:39,480
-<font color="#CCCCCC">all right guys</font><font color="#E5E5E5"> clearly it's a joke okay</font>
+00:09:02,060 --> 00:09:02,800
+لا يهم، لا يهم !
 
 320
-00:14:39,480 --> 00:14:40,860
-you know me<font color="#CCCCCC"> I hope</font><font color="#E5E5E5"> you weren't watching</font>
+00:09:02,800 --> 00:09:04,400
+حسنا، إسمع، أنا قريب منك يا أخي !
 
 321
-00:14:40,860 --> 00:14:42,300
-<font color="#E5E5E5">that you were like Logan you can't give</font>
+00:09:04,780 --> 00:09:05,960
+نحن قريبون جدا!
 
 322
-00:14:42,300 --> 00:14:44,130
-away<font color="#CCCCCC"> the dark I know</font><font color="#E5E5E5"> I may not be a</font>
+00:09:05,960 --> 00:09:06,900
+جسمانيا!
 
 323
-00:14:44,130 --> 00:14:46,770
-scientist<font color="#E5E5E5"> but I do know morals we're not</font>
+00:09:07,460 --> 00:09:08,520
+هل لديك شاحنة جر المركبات؟
 
 324
-00:14:46,770 --> 00:14:48,270
-gonna give away<font color="#CCCCCC"> Arya however we're gonna</font>
+00:09:09,260 --> 00:09:10,280
+هذا أفضل من شاحنة جر المركبات!
 
 325
-00:14:48,270 --> 00:14:50,160
-tell Evan<font color="#E5E5E5"> we did give her away</font><font color="#CCCCCC"> and then</font>
+00:09:10,280 --> 00:09:10,880
+(ليديا)!
 
 326
-00:14:50,160 --> 00:14:51,750
-there's a<font color="#CCCCCC"> little twist to the story that</font>
+00:09:10,880 --> 00:09:11,580
+(إيواك)!
 
 327
-00:14:51,750 --> 00:14:53,070
-y'all don't know<font color="#CCCCCC"> about</font><font color="#E5E5E5"> yet</font><font color="#CCCCCC"> pay attention</font>
+00:09:11,580 --> 00:09:12,420
+(ليديا)!
 
 328
-00:14:53,070 --> 00:14:56,010
-folks hey can you hold this dog here can
+00:09:12,420 --> 00:09:13,480
+أنت مطرودة!
 
 329
-00:14:56,010 --> 00:14:58,290
-you do you mind can<font color="#E5E5E5"> you Thank You Evan</font>
+00:09:13,840 --> 00:09:15,080
+لا لست مطرودة !
 
 330
-00:14:58,290 --> 00:15:04,730
-<font color="#E5E5E5">problem solved G yes your dog is gone</font><font color="#CCCCCC"> I</font>
+00:09:15,200 --> 00:09:16,000
+لا لقد طردتُها!
 
 331
-00:15:04,730 --> 00:15:07,140
-gave your dog away on the streets<font color="#E5E5E5"> of</font>
+00:09:16,000 --> 00:09:18,420
+أهذا هو الإطار نفسه الذي تسطح سابقا؟
 
 332
-00:15:07,140 --> 00:15:09,510
-Hollywood<font color="#CCCCCC"> and I wish I was joking</font><font color="#E5E5E5"> come</font>
+00:09:19,680 --> 00:09:20,420
+هل لديك شاحنة جر المركبات؟
 
 333
-00:15:09,510 --> 00:15:13,050
-here<font color="#E5E5E5"> look at my eyes okay yeah I'm not</font>
+00:09:20,420 --> 00:09:22,420
+لا، لم تكن لدي أي فكرة بما يجري !
 
 334
-00:15:13,050 --> 00:15:16,650
-joking<font color="#CCCCCC"> I gave your dog to some girl and</font>
+00:09:22,420 --> 00:09:25,060
+هل تقول لي أن كل هؤلاء الأطفال من (تيم تن)
 
 335
-00:15:16,650 --> 00:15:19,950
-she walked off<font color="#CCCCCC"> I watched it happen</font><font color="#E5E5E5"> bro</font>
+00:09:25,480 --> 00:09:26,740
+لا أحد منهم لديه شاحنة جر المركبات؟
 
 336
-00:15:19,950 --> 00:15:21,900
-<font color="#CCCCCC">literally could show you the</font><font color="#E5E5E5"> photos</font>
+00:09:26,740 --> 00:09:28,740
+شكراً على لا شيئ !
 
 337
-00:15:21,900 --> 00:15:24,240
-<font color="#E5E5E5">you're young millions of like viewers</font>
+00:09:29,280 --> 00:09:31,100
+أنا أمزح فقط، أنا أحب (جايك) وقريب منه!
 
 338
-00:15:24,240 --> 00:15:26,720
-you wouldn't do<font color="#CCCCCC"> that why</font><font color="#E5E5E5"> not</font>
+00:09:31,100 --> 00:09:33,460
+لا أعرف لم قلت ذلك، لقد أصابني جنوناً ليلة أمس
 
 339
-00:15:26,720 --> 00:15:29,760
-it's me or the dog go you gotta choose
+00:09:33,460 --> 00:09:35,460
+لكنني ندمت على قول ذلك فوراً !
 
 340
-00:15:29,760 --> 00:15:42,000
-<font color="#E5E5E5">bro I'm joking</font>
+00:09:35,800 --> 00:09:38,620
+ما يعجبني القيام به في حياتي هو تعلم دروس من الأشياء الذي تحدث
 
 341
-00:15:42,000 --> 00:15:47,370
-come here Jesus you're fine<font color="#CCCCCC"> she's fine</font>
+00:09:38,920 --> 00:09:42,600
+والآن على وجه التحديد، تعلمتُ أنني لن أتحدث مع المصورون الملاحقون!
 
 342
-00:15:47,370 --> 00:15:49,620
-<font color="#CCCCCC">no I'm not</font><font color="#E5E5E5"> gonna lie though some girl</font>
+00:09:42,600 --> 00:09:45,220
+أحب ذلك، إنهم كائنون بشريون ويسألونني أسئلة
 
 343
-00:15:49,620 --> 00:15:51,720
-<font color="#CCCCCC">did walk off lease you actually gave her</font>
+00:09:45,220 --> 00:09:46,780
+لا أريد أن أتجاهلهم، هذا وقح!
 
 344
-00:15:51,720 --> 00:15:53,220
-away<font color="#E5E5E5"> I was like yo</font><font color="#CCCCCC"> you want this dog</font>
+00:09:47,220 --> 00:09:50,120
+لكن من الواضح أن تفوهي بالأشياء هو أسوء بكثير!
 
 345
-00:15:53,220 --> 00:15:55,590
-<font color="#E5E5E5">she's like yeah did she started</font><font color="#CCCCCC"> walking</font>
+00:09:50,120 --> 00:09:52,300
+على أي حال، أين هي شاحنة جر المركبات اللعينة؟
 
 346
-00:15:55,590 --> 00:15:59,430
-away she made it a solid<font color="#E5E5E5"> 50 feet down</font>
+00:09:53,780 --> 00:09:54,520
+مرحبا!
 
 347
-00:15:59,430 --> 00:16:02,040
-she you<font color="#E5E5E5"> wanna do that anything for the</font>
+00:09:55,020 --> 00:09:56,280
+ظننت أنك كنت ستقتلني !
 
 348
-00:16:02,040 --> 00:16:03,270
-comedy bro you gotta stick<font color="#CCCCCC"> with</font><font color="#E5E5E5"> the</font>
+00:09:56,280 --> 00:09:57,160
+هل أنت عضو (لوجانج)؟
 
 349
-00:16:03,270 --> 00:16:06,540
-<font color="#E5E5E5">jokes stick to your guns the good news</font>
+00:09:57,160 --> 00:09:57,700
+نعم
 
 350
-00:16:06,540 --> 00:16:08,310
-is that<font color="#CCCCCC"> we're all here</font><font color="#E5E5E5"> together</font><font color="#CCCCCC"> now and</font>
+00:09:57,700 --> 00:09:59,360
+صديقي!
 
 351
-00:16:08,310 --> 00:16:10,260
-<font color="#E5E5E5">also here's the surprise announcement</font><font color="#CCCCCC"> I</font>
+00:10:00,880 --> 00:10:02,100
+الحمد لله
 
 352
-00:16:10,260 --> 00:16:13,950
-am speaking directly to<font color="#E5E5E5"> the HOA whoever</font>
+00:10:02,340 --> 00:10:03,760
+أنت، هذه غلطتك !
 
 353
-00:16:13,950 --> 00:16:16,230
-makes the rules around here<font color="#E5E5E5"> I was</font>
+00:10:03,760 --> 00:10:05,080
+كيف هذا خطأي؟
 
 354
-00:16:16,230 --> 00:16:18,450
-talking to<font color="#CCCCCC"> one of</font><font color="#E5E5E5"> your people</font><font color="#CCCCCC"> who</font>
+00:10:05,080 --> 00:10:07,280
+أخي، هل أحتاج إلى الحديث عن الكابتشينو مرة أخرى؟
 
 355
-00:16:18,450 --> 00:16:20,670
-actually<font color="#E5E5E5"> likes me</font><font color="#CCCCCC"> and boy did</font><font color="#E5E5E5"> they give</font>
+00:10:07,280 --> 00:10:08,900
+هذا ليس ما حدث!
 
 356
-00:16:20,670 --> 00:16:22,350
-me<font color="#CCCCCC"> some information I</font><font color="#E5E5E5"> don't think you</font>
+00:10:08,900 --> 00:10:11,940
+ناهيك عن أنني أسقطت نظارتي لتوي وخطوت فوقهم وكسرتهم !
 
 357
-00:16:22,350 --> 00:16:24,510
-guys wanted<font color="#CCCCCC"> me to know</font><font color="#E5E5E5"> I'm like hey we</font>
+00:10:11,940 --> 00:10:13,220
+إنهم رائعون، إنهم ماركة (راي بان)
 
 358
-00:16:24,510 --> 00:16:25,740
-have this problem<font color="#E5E5E5"> we have two dogs and</font>
+00:10:13,220 --> 00:10:14,280
+هل ستنقذ يومنا؟
 
 359
-00:16:25,740 --> 00:16:26,640
-they're saying<font color="#E5E5E5"> we can only have one</font>
+00:10:14,280 --> 00:10:15,460
+بالطبع يا رجل !
 
 360
-00:16:26,640 --> 00:16:28,440
-<font color="#CCCCCC">she's like</font><font color="#E5E5E5"> oh just register one of them</font>
+00:10:15,900 --> 00:10:17,380
+هذا هو فتاي !
 
 361
-00:16:28,440 --> 00:16:29,910
-as a service<font color="#CCCCCC"> dog if one of them is a</font>
+00:10:17,620 --> 00:10:19,040
+أنتم أغبياء!
 
 362
-00:16:29,910 --> 00:16:31,440
-service dog<font color="#CCCCCC"> you can have two dogs in</font>
+00:10:19,860 --> 00:10:22,100
+نعرف ذلك، أعرف أنني غبي !
 
 363
-00:16:31,440 --> 00:16:34,010
-your<font color="#E5E5E5"> apartment</font>
+00:10:22,100 --> 00:10:23,000
+ماذا حدث لنظارتك؟
 
 364
-00:16:35,420 --> 00:16:36,560
-<font color="#E5E5E5">you guys know what I'm</font><font color="#CCCCCC"> about to say</font>
+00:10:23,000 --> 00:10:23,700
+ماذا؟ لا شيئ!
 
 365
-00:16:36,560 --> 00:16:39,230
-right<font color="#E5E5E5"> in my maverick underwear here</font>
+00:10:23,700 --> 00:10:25,140
+أحس أن الآن هو توقيت جيد لقول...
 
 366
-00:16:39,230 --> 00:16:42,290
-Logan<font color="#CCCCCC"> Paul calm</font><font color="#E5E5E5"> slash shop</font><font color="#CCCCCC"> I'm stored a</font>
+00:10:25,140 --> 00:10:27,220
+(براندن)، نحن ذاهبون إلى (دبي) غدا !
 
 367
-00:16:42,290 --> 00:16:46,130
-document and<font color="#CCCCCC"> that document</font><font color="#E5E5E5"> is</font><font color="#CCCCCC"> Kong</font><font color="#E5E5E5"> de</font>
+00:10:27,220 --> 00:10:27,740
+غذا!
 
 368
-00:16:46,130 --> 00:16:50,140
-savage<font color="#CCCCCC"> service dog registration form</font>
+00:10:27,740 --> 00:10:28,700
+غذا يا رفاق!
 
 369
-00:16:50,140 --> 00:16:51,470
-<font color="#E5E5E5">pong</font>
+00:10:28,700 --> 00:10:30,100
+(دبي)، نحن قادمون إليكِ !
 
 370
-00:16:51,470 --> 00:16:54,080
-it should say duh<font color="#CCCCCC"> sad</font><font color="#E5E5E5"> be</font><font color="#CCCCCC"> us service dog</font>
+00:10:30,100 --> 00:10:31,980
+لا تنسوا، إذا كنت تعيش في (دبي)، أريد أن ألتقي بكم
 
 371
-00:16:54,080 --> 00:16:56,240
-registration no<font color="#CCCCCC"> LK seven nine six two</font>
+00:10:31,980 --> 00:10:34,160
+في الحادي عشر من نوفمبر على الساعة الخامسة مساءا في (دبي مول)
 
 372
-00:16:56,240 --> 00:16:58,730
-nine five that's<font color="#E5E5E5"> a fact</font><font color="#CCCCCC"> cuz I don't know</font>
+00:10:34,180 --> 00:10:37,000
+نحن سنستضيف ... إستمع إلى ما سأقوله !
 
 373
-00:16:58,730 --> 00:17:01,100
-what you determined and<font color="#CCCCCC"> you're</font><font color="#E5E5E5"> hearing</font>
+00:10:37,200 --> 00:10:39,560
+أكبر " التقاء و تحية " على الإطلاق !
 
 374
-00:17:01,100 --> 00:17:01,430
-<font color="#CCCCCC">today</font>
+00:10:39,560 --> 00:10:40,680
+على الإطلاق!
 
 375
-00:17:01,430 --> 00:17:05,390
-good news<font color="#CCCCCC"> flesh dogs bark so I'm gonna</font>
+00:10:40,820 --> 00:10:42,020
+هل أزعجك في مساحة عملك؟
 
 376
-00:17:05,390 --> 00:17:07,970
-keep my<font color="#CCCCCC"> dogs in</font><font color="#E5E5E5"> my apartment Logan Paul</font>
+00:10:42,020 --> 00:10:42,520
+لا بأس!
 
 377
-00:17:07,970 --> 00:17:16,760
-<font color="#E5E5E5">one H away zero part of the low game</font>
+00:10:42,520 --> 00:10:43,440
+آسف يا أخي، سأذهب إلى هناك!
 
 378
-00:17:16,760 --> 00:17:18,050
-make sure<font color="#CCCCCC"> to subscribe</font><font color="#E5E5E5"> cuz we're late</font>
+00:10:43,440 --> 00:10:45,300
+إذن، إذا كنت في (الامارات العربية المتحدة)
 
 379
-00:17:18,050 --> 00:17:25,730
-and we have two dogs<font color="#E5E5E5"> hit the subscribe</font>
+00:10:45,300 --> 00:10:47,440
+وتريد قول مرحبا للـمافريك، تعال لرؤيتي وقل مرحبا!
 
 380
-00:17:25,730 --> 00:17:26,990
-button<font color="#E5E5E5"> for me</font><font color="#CCCCCC"> joined the strongest</font>
+00:10:47,440 --> 00:10:48,820
+نحن على وشك أن نجن!
 
 381
-00:17:26,990 --> 00:17:29,060
-family on YouTube and top your maverick
+00:10:51,740 --> 00:10:52,760
+اللعنة !
 
 382
-00:17:29,060 --> 00:17:31,040
-merch<font color="#E5E5E5"> or low game arts logon Paul calm</font>
+00:10:53,720 --> 00:10:54,640
+عمل جيد يا (إيفان) !
 
 383
-00:17:31,040 --> 00:17:32,450
-<font color="#CCCCCC">slash</font><font color="#E5E5E5"> shop join the movement baby</font>
+00:10:54,640 --> 00:10:55,720
+هذا هو ولدي !
 
 384
-00:17:32,450 --> 00:17:34,460
-<font color="#E5E5E5">maverick squad ending the universe every</font>
+00:10:55,760 --> 00:10:57,820
+(أحمد)، شكرا يا أخي، جدياً !
 
 385
-00:17:34,460 --> 00:17:36,080
-<font color="#E5E5E5">single day</font><font color="#CCCCCC"> low gang I love y'all and I</font>
+00:10:57,820 --> 00:10:58,320
+لا مشكلة!
 
 386
-00:17:36,080 --> 00:17:37,220
-will see you tomorrow<font color="#CCCCCC"> hopefully I'm not</font>
+00:10:58,320 --> 00:11:01,560
+هذا مثال تقليدي لتضامن (لوجانج) لإنقاذي !
 
 387
-00:17:37,220 --> 00:17:39,580
-<font color="#E5E5E5">sick</font>
+00:11:02,360 --> 00:11:04,780
+هذه هي التي يجب أن يحصل عليها، صديقي هو مافريك!
 
 388
-00:17:41,410 --> 00:17:54,579
-[Music]
+00:11:04,780 --> 00:11:05,420
+شكرا يا أخي !
 
 389
-00:17:56,230 --> 00:17:59,750
-but it's a good clip for the end of<font color="#E5E5E5"> the</font>
+00:11:05,420 --> 00:11:07,640
+حسنا، لنذهب إلى (ويست كوست كاستمز)
 
 390
-00:17:59,750 --> 00:00:00,000
-block
+00:11:09,780 --> 00:11:11,340
+لقد وصلنا إلى (ويست كوست كاستمز)
+
+391
+00:11:11,340 --> 00:11:14,600
+نسيت أن هؤلاء الشباب يعملون على باصي الرائع، انه هنا في مكان ما !
+
+392
+00:11:16,460 --> 00:11:17,540
+نعم يا عزيزي!
+
+393
+00:11:17,620 --> 00:11:20,040
+إشتقت إليه يا أخي، سنستعيده عندما نعود من (دبي)!
+
+394
+00:11:20,040 --> 00:11:21,820
+لكن السبب الحقيقي لقدومنا إلى هنا !
+
+395
+00:11:22,860 --> 00:11:25,000
+تصلح سيارات وشاحنات ...
+
+396
+00:11:25,000 --> 00:11:26,620
+لكن هل تصلح كراسي؟
+
+397
+00:11:26,620 --> 00:11:30,500
+وهذا ليس مجرد كرسي يا أخي، هذا كرسي مصنوع بطريقة مخصصة!
+
+398
+00:11:30,500 --> 00:11:32,320
+ما الذي سيجب عليه فعله لهذا الكرسي؟
+
+399
+00:11:32,320 --> 00:11:33,440
+هل يمكنك أن ..
+
+400
+00:11:33,880 --> 00:11:35,980
+تضعه فوق قاعدة ذوعجلات
+
+401
+00:11:36,360 --> 00:11:38,320
+ثم تضع عمود توجيه هنا
+
+402
+00:11:38,760 --> 00:11:41,440
+لكي أتمكن من التجول به في أنحاء المنزل !
+
+403
+00:11:41,440 --> 00:11:44,260
+لكن عجلات كبيرة يا أخي، إذا أردت أن أتجول في الحديقة ...
+
+404
+00:11:45,100 --> 00:11:46,160
+ويعمل ذلك !
+
+405
+00:11:46,500 --> 00:11:47,900
+بالطبع يمكننا فعل ذلك !
+
+406
+00:11:47,900 --> 00:11:49,040
+هذا ما أحب سماعه يا أخي !
+
+407
+00:11:49,040 --> 00:11:51,320
+لكن بصراحة، أعتقد أن هذا على وجه الخصوص
+
+408
+00:11:51,320 --> 00:11:53,220
+هو عمل من إختصاص (داينمايت ديلان) !
+
+409
+00:11:54,440 --> 00:11:55,500
+(داينمايت ديلان)؟
+
+410
+00:11:55,500 --> 00:11:56,380
+(ديلان) !
+
+411
+00:11:56,800 --> 00:11:57,300
+نعم؟
+
+412
+00:11:57,300 --> 00:11:59,040
+أريدك أن تحطم كرسيي يا أخي!
+
+413
+00:11:59,220 --> 00:12:00,520
+هل هو قدر على ...
+
+414
+00:12:00,520 --> 00:12:02,980
+نعم، ذلك هو موطن قوته!
+
+415
+00:12:02,980 --> 00:12:04,600
+لكنه صغير السن !
+
+416
+00:12:04,600 --> 00:12:05,460
+أتفهم ذلك..
+
+417
+00:12:05,460 --> 00:12:06,680
+لقد كبُر في هذا المتجر!
+
+418
+00:12:06,680 --> 00:12:08,680
+إنه يعرف ما يفعله، أقصد ...
+
+419
+00:12:09,160 --> 00:12:10,000
+سأقوم بهذا !
+
+420
+00:12:10,000 --> 00:12:12,260
+شيئ مثل كرسي (ستيفن هاوكين) مع شيئ من (ماد ماكس)!
+
+421
+00:12:12,260 --> 00:12:13,580
+يا إلهي، هذا بالضبط ...
+
+422
+00:12:13,580 --> 00:12:14,920
+صحيح، إنه مثالي يا أخي !
+
+423
+00:12:14,920 --> 00:12:15,840
+لقد قلت لك ذلك !
+
+424
+00:12:15,840 --> 00:12:17,060
+عليك أن ترزق بأولاد أكثر !
+
+425
+00:12:17,060 --> 00:12:18,480
+حسنا يا رفاق، لقد عدنا إلى المنزل
+
+426
+00:12:18,480 --> 00:12:21,220
+حقيقة ممتعة: هذه أول مرة أدخل حوض الاستحمام الساخن هذا !
+
+427
+00:12:21,220 --> 00:12:24,100
+(براندن) على قول هذا، لدينا حوض إستحمام ساخن جدا يا أخي!
+
+428
+00:12:24,880 --> 00:12:25,960
+هذا ساخن جدا !
+
+429
+00:12:25,960 --> 00:12:29,380
+أنا أبرد نفسي قليلا وأستعد ذهنيا لرحلة (دبي)
+
+430
+00:12:29,380 --> 00:12:31,240
+آسف، هل قلت لتوك أنك تبرد نفسك؟
+
+431
+00:12:31,240 --> 00:12:32,260
+في حوض الإستحمام؟
+
+432
+00:12:32,260 --> 00:12:33,500
+أه، (براندن)!
+
+433
+00:12:33,500 --> 00:12:34,500
+هذا ليس مضحك !
+
+434
+00:12:34,500 --> 00:12:36,180
+أفكر في أننا ..
+
+435
+00:12:36,180 --> 00:12:39,120
+فور انتهاء هذا الفلوغ، علينا أن نصور فلوغ يوم غد !
+
+436
+00:12:39,120 --> 00:12:39,900
+في الليل!
+
+437
+00:12:39,900 --> 00:12:44,900
+لأن مدة الطيران هي 16 ساعة، لهذا لن يكون لدي وقت لكي أصور فلوغ هناك ثم أقوم بتحميله !
+
+438
+00:12:44,900 --> 00:12:48,020
+لا تنسوا يا رفاق، لقد أصدرنا 6 حقائب ظهر (مافريك) جديدة
+
+439
+00:12:48,020 --> 00:12:50,380
+وتعاقدت مع عارضة محترفة لكي تعرضهم لنا
+
+440
+00:12:50,380 --> 00:12:51,580
+إنها هناك، شاهدوا هذا !
+
+441
+00:12:53,840 --> 00:12:56,620
+هل يمكنكِ أن تقومي بدوران لكي نظهر كم نحن رائعون؟
+
+442
+00:12:59,200 --> 00:13:00,120
+هذا مثير!
+
+443
+00:13:00,120 --> 00:13:02,040
+تعرفون أين ستحصلون عليها، loganpaul.com/shop
+
+444
+00:13:02,040 --> 00:13:02,880
+أو الرابط في وصف الفيديو !
+
+445
+00:13:02,880 --> 00:13:03,620
+أفضل منتجات في الساحة!
+
+446
+00:13:03,620 --> 00:13:05,700
+لقد أصدرنا سراويل، لدينا أقمصة، معاطف بقلنسوة، المعطف بالقلنسوة المفضل
+
+447
+00:13:05,700 --> 00:13:06,480
+يباعون بشكل رائع !
+
+448
+00:13:06,600 --> 00:13:09,540
+وأخيرا وليس آخرا، هل تتذكرون يا رفاق حينما قمت بحلقة من (لوجان بول فيرسس)
+
+449
+00:13:09,580 --> 00:13:12,820
+حينما قمت بسفر بالتماس الجولات المجانية من (فانكوفر، كندا) حتى (تيوانا، المكسيك)
+
+450
+00:13:12,820 --> 00:13:19,500
+لقد تم إسقاط الفتى في منطقة كندية وأُعطيت له 30 ساعة للسفر نحو (تيوانا، المكسيك) بأي وسيلة نقل يحتاجها
+
+451
+00:13:19,500 --> 00:13:23,140
+أنا أتحدث عن عبور حدود دولتين، وعلى القيام بذلك بدون  إستعمال أي شيئ !
+
+452
+00:13:23,140 --> 00:13:25,080
+من يحاول أن يأخذ (تشا) إلى الجنوب !
+
+453
+00:13:25,080 --> 00:13:27,780
+أنا أصور برنامجا يسمى (لوجان بول فيرسس)، إنه برنامجي ، أنا دائما ...
+
+454
+00:13:27,780 --> 00:13:29,780
+مهلا، هل أنت (لوغان بول)؟
+
+455
+00:13:31,900 --> 00:13:34,420
+(لوغان بول) يواجه (سفر بالتماس الجولات المجانية)
+
+456
+00:13:34,420 --> 00:13:37,440
+2400 ميلا، لاشيئ، لا محفظة، لا طعام، لا شيء!
+
+457
+00:13:37,440 --> 00:13:39,440
+لقد تم نشر الحلقة الآن على صفحتي في (فايسبوك) على /loganpaul
+
+458
+00:13:39,440 --> 00:13:41,440
+أو سأضع رابطا لذلك في ...
+
+459
+00:13:41,720 --> 00:13:42,380
+وصف الفيديو
+
+460
+00:13:42,380 --> 00:13:43,860
+تفقدوا ذلك، أعجبو به وشاركوه !
+
+461
+00:13:43,860 --> 00:13:45,600
+(لوجانج)، أحبكم جميعا وأراكم غذا
+
+462
+00:13:45,600 --> 00:13:47,600
+الذي بالنسبة إلى سيكون بعد 30 دقيقة !
+
+463
+00:13:47,600 --> 00:13:49,940
+على أي حال، إعتنوا بأنفسكم يا عائلتي، سلام !
+
+464
+00:14:21,900 --> 00:00:00,000
+شكرا يا شباب !
 
