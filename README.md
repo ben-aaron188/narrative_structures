@@ -1,6 +1,8 @@
 # Identifying the narrative styles of YouTube’s vloggers
 
-Data and code for our paper XXX. The downloaded  YouTube transcripts can be found in the `data/output_dir` directory. We provide the transcripts come in two different ways:
+Data and code for our paper "B. Kleinberg, I. Van der Vegt, and M. Mozes, “Identifying the narrative styles of YouTube’s vloggers,” to appear in the proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), Brussels, 2018". 
+
+The downloaded  YouTube transcripts can be found in the `data/output_dir` directory. We provide the transcripts come in two different ways:
 
 * *raw* (`data/output_dir/raw`): contains the raw and XML-encoded transcripts for each video as .txt file including temporal information about the start and end date at which a sequence is visible to the viewer when plaing a video.
 * *parsed* (`data/output_dir/parsed`): contains the parsed transcripts for each video, i.e. a continuous text  consisting of the concatenation of all sequences for a video. 
