@@ -1,6 +1,6 @@
 # Identifying the narrative styles of YouTube’s vloggers
 
-Data and code for our paper "B. Kleinberg, I. Van der Vegt, and M. Mozes, *Identifying the narrative styles of YouTube’s vloggers*, to appear in the proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), Brussels, 2018". 
+Data and code for the paper "B. Kleinberg, M. Mozes and I. van der Vegt, 2018. [Identifying the narrative styles of YouTube’s vloggers](https://arxiv.org/abs/1808.09722). To appear in Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), Brussels, Belgium, 2018". 
 
 The downloaded  YouTube transcripts can be found in the `data/output_dir` directory. We provide the transcripts come in two different ways:
 
